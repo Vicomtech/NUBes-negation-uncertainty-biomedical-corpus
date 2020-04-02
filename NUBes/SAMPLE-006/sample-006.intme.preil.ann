@@ -1,0 +1,132 @@
+T1	NegLexMarker 0 5	Niega
+T2	DISO 6 20	dolor torácico
+T3	NegLexMarker 23 28	niega
+T4	DISO 29 35	disnea
+T5	NegSynMarker 38 40	no
+T6	DISO 41 56	dolor abdominal
+T7	Phrase 41 81	dolor abdominal , ni otra sintomatologia
+T8	CoordItem 59 61	ni
+T9	DISO 62 81	otra sintomatologia
+T10	NegMorMarker 165 177	inespecifica
+T11	NegSynMarker 406 408	No
+T12	Phrase 409 444	han termometrado fiebre hasta ahora
+T13	PROC 413 432	termometrado fiebre
+T14	NegSynMarker 817 819	No
+T15	Phrase 820 885	refiere aumento de tos , broncorrea ni fiebre , ni dolor torácico
+T16	DISO 828 842	aumento de tos
+T17	DISO 845 855	broncorrea
+T18	CoordItem 856 858	ni
+T19	DISO 859 865	fiebre
+T20	CoordItem 868 870	ni
+T21	DISO 871 885	dolor torácico
+T22	NegSynMarker 888 890	No
+T23	DISO 891 940	clínica miccional ni digestiva ni a otros niveles
+T24	CoordItem 909 911	ni
+T25	CoordItem 922 924	ni
+T26	NegMorMarker 1583 1595	desorientada
+T27	NegSynMarker 1763 1766	sin
+T28	DISO 1767 1774	mejoria
+T29	NegSynMarker 2132 2134	No
+T30	Phrase 2135 2166	han apreciado cambios recientes
+T31	DISO 2149 2166	cambios recientes
+T32	NegSynMarker 2239 2242	sin
+T33	Phrase 2243 2280	haber tomado ninguna medicación nueva
+T34	OTHER 2249 2280	tomado ninguna medicación nueva
+T35	PolItem 2256 2263	ninguna
+T36	UncertLexMarker 2283 2293	parace que
+T37	Phrase 2294 2325	coinciden con la toma de salmón
+T38	NegSynMarker 2677 2679	No
+T39	OTHER 2680 2716	recuerda episodios similares previos
+T40	UncertLexMarker 2871 2880	sin clara
+T41	DISO 2881 2890	focalidad
+T42	NegSynMarker 3158 3160	No
+T43	Phrase 3161 3175	reifere disnea
+T44	DISO 3169 3175	disnea
+T45	NegSynMarker 3178 3180	no
+T46	DISO 3181 3195	dolor torácico
+T47	NegSynMarker 3198 3200	no
+T48	DISO 3201 3206	mareo
+T49	NegMorMarker 3253 3267	desorientación
+T50	NegSynMarker 3287 3289	No
+T51	DISO 3290 3297	nauseas
+T52	Phrase 3290 3327	nauseas ni vómitos ni dolor abdominal
+T53	CoordItem 3298 3300	ni
+T54	DISO 3301 3308	vómitos
+T55	CoordItem 3309 3311	ni
+T56	DISO 3312 3327	dolor abdominal
+T57	NegSynMarker 4026 4028	no
+T58	DISO 4029 4032	TCE
+T59	NegLexMarker 4077 4089	se desestima
+T60	PROC 4090 4097	cirugía
+T61	Phrase 4090 4129	cirugía RT y tratamiento quimioterápico
+T62	PROC 4098 4100	RT
+T63	CoordItem 4101 4102	y
+T64	PROC 4103 4129	tratamiento quimioterápico
+T65	NegMorMarker 4132 4144	Desorientada
+T66	NegSynMarker 4147 4149	No
+T67	DISO 4150 4167	clinica digestiva
+T68	NegSynMarker 4195 4197	No
+T69	OTHER 4198 4221	se modificó tratamiento
+T70	NegMorMarker 4273 4285	inconsciente
+T71	NegSynMarker 4372 4375	sin
+T72	DISO 4376 4385	hallazgos
+T73	NegSynMarker 4532 4534	No
+T74	DISO 4535 4566	aumento de tos ni expectoración
+T75	CoordItem 4550 4552	ni
+T76	NegSynMarker 5244 5246	no
+T77	Phrase 5247 5263	tiene alicientes
+T78	NegSynMarker 5313 5316	sin
+T79	Phrase 5317 5327	luz ni t.v
+T80	CoordItem 5321 5323	ni
+T81	UncertLexMarker 6310 6319	sin claro
+T82	DISO 6320 6338	síndrome miccional
+T83	NegLexMarker 6429 6442	descartandose
+T84	PROC 6443 6462	actitudes agresivas
+T85	NegSynMarker 6741 6744	sin
+T86	DISO 6745 6753	prodromo
+T87	NegSynMarker 6799 6801	No
+T88	DISO 6802 6812	odinofagia
+T89	NegSynMarker 6815 6817	no
+T90	DISO 6818 6828	odontalgia
+T91	NegSynMarker 6831 6833	no
+T92	DISO 6834 6841	otalgia
+T93	Phrase 6834 6878	otalgia ni clínica de infección respiratoria
+T94	CoordItem 6842 6844	ni
+T95	DISO 6856 6878	infección respiratoria
+T96	UncertLexMarker 7172 7180	No saben
+T97	Phrase 7181 7231	si previamente ha recibido vacunación antitetánica
+T98	SUBS 7208 7231	vacunación antitetánica
+T99	UncertLexMarker 7784 7798	compatible con
+T100	DISO 7799 7823	tumoración de alto grado
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T7
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T22 Arg2:T23
+R7	Scope Arg1:T27 Arg2:T28
+R8	Scope Arg1:T29 Arg2:T30
+R9	Scope Arg1:T32 Arg2:T33
+R10	Scope Arg1:T36 Arg2:T37
+R11	Scope Arg1:T38 Arg2:T39
+R12	Scope Arg1:T40 Arg2:T41
+R13	Scope Arg1:T42 Arg2:T43
+R14	Scope Arg1:T45 Arg2:T46
+R15	Scope Arg1:T47 Arg2:T48
+R16	Scope Arg1:T50 Arg2:T52
+R17	Scope Arg1:T57 Arg2:T58
+R18	Scope Arg1:T59 Arg2:T61
+R19	Scope Arg1:T66 Arg2:T67
+R20	Scope Arg1:T68 Arg2:T69
+R21	Scope Arg1:T71 Arg2:T72
+R22	Scope Arg1:T73 Arg2:T74
+R23	Scope Arg1:T76 Arg2:T77
+R24	Scope Arg1:T78 Arg2:T79
+R25	Scope Arg1:T81 Arg2:T82
+R26	Scope Arg1:T83 Arg2:T84
+R27	Scope Arg1:T85 Arg2:T86
+R28	Scope Arg1:T89 Arg2:T90
+R29	Scope Arg1:T87 Arg2:T88
+R30	Scope Arg1:T91 Arg2:T93
+R31	Scope Arg1:T96 Arg2:T97
+R32	Scope Arg1:T99 Arg2:T100

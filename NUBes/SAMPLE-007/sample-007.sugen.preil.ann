@@ -1,0 +1,101 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 39	refiere episodios de abscesificación
+T3	DISO 24 39	abscesificación
+T4	NegSynMarker 133 135	no
+T5	Phrase 136 146	hacer nada
+T6	PolItem 142 146	nada
+T7	UncertLexMarker 394 403	sin saber
+T8	OTHER 404 417	precisar bien
+T9	NegSynMarker 471 473	no
+T10	Phrase 474 491	quiere la cirugía
+T11	PROC 481 491	la cirugía
+T12	NegSynMarker 759 761	No
+T13	DISO 762 779	clíncia miccional
+T14	NegSynMarker 907 909	no
+T15	Phrase 910 915	negro
+T16	NegSynMarker 1017 1019	No
+T17	DISO 1020 1026	fiebre
+T18	NegSynMarker 1029 1031	no
+T19	DISO 1032 1058	alt del ritmo deposicional
+T20	NegSynMarker 1061 1063	no
+T21	Phrase 1064 1081	coluria ni acolia
+T22	DISO 1064 1071	coluria
+T23	CoordItem 1072 1074	ni
+T24	DISO 1075 1081	acolia
+T25	NegSynMarker 1084 1086	no
+T26	DISO 1087 1108	alteracines urinarias
+T27	UncertLexMarker 1232 1240	probable
+T28	DISO 1241 1264	origen irritativo local
+T29	NegSynMarker 1267 1269	No
+T30	SUBS 1270 1279	mucosidad
+T31	NegSynMarker 1282 1284	No
+T32	Phrase 1285 1318	clínica de infeccion respriatoria
+T33	DISO 1296 1318	infeccion respriatoria
+T34	NegSynMarker 1481 1484	sin
+T35	DISO 1485 1501	dolor espontaneo
+T36	NegSynMarker 1847 1850	sin
+T37	DISO 1851 1858	defensa
+T38	Phrase 2098 2138	episodio de dolor abdominal generalizado
+T39	DISO 2110 2138	dolor abdominal generalizado
+T40	NegLexMarker 2194 2198	cede
+T41	Phrase 2199 2222	a las 2-3 h postingesta
+T42	NegSynMarker 2254 2256	No
+T43	Phrase 2257 2275	nauseas ni vómitos
+T44	DISO 2257 2264	nauseas
+T45	CoordItem 2265 2267	ni
+T46	DISO 2268 2275	vómitos
+T47	NegSynMarker 2811 2813	no
+T48	DISO 2814 2829	tolerancia oral
+T49	NegMorMarker 2876 2883	afebril
+T50	NegSynMarker 2967 2969	no
+T51	OTHER 2970 2981	de continuo
+T52	NegSynMarker 2996 2999	sin
+T53	DISO 3000 3005	dolor
+T54	NegSynMarker 3008 3010	No
+T55	DISO 3011 3017	acolia
+T56	Phrase 3011 3028	acolia ni coluria
+T57	CoordItem 3018 3020	ni
+T58	DISO 3021 3028	coluria
+T59	NegSynMarker 3390 3392	No
+T60	DISO 3393 3405	rectorragias
+T61	NegSynMarker 3408 3410	no
+T62	DISO 3411 3444	alteración del ritmo deposicional
+T63	NegSynMarker 3447 3449	no
+T64	DISO 3450 3465	dolor abdominal
+T65	NegSynMarker 3536 3539	sin
+T66	SUBS 3540 3546	leucos
+T67	NegSynMarker 3549 3552	sin
+T68	OTHER 3553 3562	desv izda
+T69	NegSynMarker 3806 3808	No
+T70	Phrase 3809 3826	vomitos ni fiebre
+T71	DISO 3809 3816	vomitos
+T72	CoordItem 3817 3819	ni
+T73	DISO 3820 3826	fiebre
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T25 Arg2:T26
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	DiscScope Arg1:T40 Arg2:T41
+R17	DiscScope Arg1:T40 Arg2:T38
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T54 Arg2:T56
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T69 Arg2:T70

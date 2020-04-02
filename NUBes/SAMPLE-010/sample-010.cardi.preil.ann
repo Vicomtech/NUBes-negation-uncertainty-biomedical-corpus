@@ -1,0 +1,275 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 30	refiere fiebre termometrada
+T3	DISO 11 30	fiebre termometrada
+T4	NegSynMarker 94 96	no
+T5	DISO 97 111	dolor torácico
+T6	NegSynMarker 114 116	no
+T7	DISO 117 123	fiebre
+T8	NegSynMarker 145 147	no
+T9	DISO 148 153	mareo
+T10	NegSynMarker 156 158	no
+T11	DISO 159 172	palpitaciones
+T12	NegSynMarker 175 177	no
+T13	DISO 178 185	vómitos
+T14	NegSynMarker 436 438	no
+T15	DISO 439 453	dolor torácico
+T16	NegSynMarker 501 503	no
+T17	DISO 504 510	fiebre
+T18	NegSynMarker 547 550	sin
+T19	DISO 551 556	mareo
+T20	NegSynMarker 559 561	no
+T21	DISO 562 575	palpitaciones
+T22	NegSynMarker 578 580	no
+T23	DISO 581 588	vómitos
+T24	NegSynMarker 617 619	no
+T25	DISO 620 638	sindrome miccional
+T26	NegSynMarker 746 748	No
+T27	DISO 749 779	clínica digestiva ni miccional
+T28	CoordItem 767 769	ni
+T29	NegSynMarker 819 821	No
+T30	Phrase 822 904	han notado atragantamiento , disnea ni parece haberse quejado de dolor previamente
+T31	DISO 833 848	atragantamiento
+T32	DISO 851 857	disnea
+T33	CoordItem 858 860	ni
+T34	DISO 887 892	dolor
+T35	NegSynMarker 1522 1524	no
+T36	Phrase 1525 1552	se objetiva patologia aguda
+T37	DISO 1537 1552	patologia aguda
+T38	UncertLexMarker 1654 1662	probable
+T39	DISO 1663 1666	DPN
+T40	Phrase 1663 1695	DPN de unos 10 días de evolución
+T41	NegSynMarker 1834 1837	sin
+T42	Phrase 1838 1878	sintomatologia vegetativa ni irradiación
+T43	DISO 1838 1863	sintomatologia vegetativa
+T44	CoordItem 1864 1866	ni
+T45	DISO 1867 1878	irradiación
+T46	NegSynMarker 1960 1962	No
+T47	DISO 1963 1969	fiebre
+T48	Phrase 1963 2047	fiebre ni dolor torácico ni palpitaciones ni disnea paroxística nocturna ni ortopnea
+T49	CoordItem 1970 1972	ni
+T50	DISO 1973 1987	dolor torácico
+T51	CoordItem 1988 1990	ni
+T52	DISO 1991 2004	palpitaciones
+T53	CoordItem 2005 2007	ni
+T54	DISO 2008 2035	disnea paroxística nocturna
+T55	CoordItem 2036 2038	ni
+T56	DISO 2039 2047	ortopnea
+T57	NegSynMarker 2050 2052	No
+T58	Phrase 2053 2107	clínica miccional ni edemas en extremidades inferiores
+T59	DISO 2053 2070	clínica miccional
+T60	CoordItem 2071 2073	ni
+T61	DISO 2074 2107	edemas en extremidades inferiores
+T62	NegSynMarker 2192 2195	sin
+T63	DISO 2196 2206	respuestas
+T64	NegSynMarker 2355 2357	No
+T65	SUBS 2358 2374	medicacion nueva
+T66	SUBS 2402 2418	seguril 1/2 comp
+T67	NegLexMarker 2424 2432	suspende
+T68	Phrase 2433 2448	por hipotensión
+T69	DISO 3572 3613	dolor tipo anginoso con mínimos esfuerzos
+T70	NegLexMarker 3618 3622	cede
+T71	Phrase 3623 3632	en reposo
+T72	Phrase 3871 3892	ha tenido mucho dolor
+T73	DISO 3881 3892	mucho dolor
+T74	NegLexMarker 3897 3906	ha cedido
+T75	Phrase 3907 3940	espontaneamente en unos 2 minutos
+T76	NegSynMarker 4030 4032	No
+T77	Phrase 4033 4089	dolor torácico , palpitaciones , disnea , Dpn , ortopnea
+T78	DISO 4033 4047	dolor torácico
+T79	DISO 4050 4063	palpitaciones
+T80	DISO 4066 4072	disnea
+T81	DISO 4075 4078	Dpn
+T82	DISO 4081 4089	ortopnea
+T83	NegSynMarker 4345 4347	No
+T84	DISO 4348 4365	clínica digestiva
+T85	Phrase 4348 4411	clínica digestiva , naúseas , vómitos ni cambios en la diuresis
+T86	DISO 4368 4375	naúseas
+T87	DISO 4378 4385	vómitos
+T88	CoordItem 4386 4388	ni
+T89	DISO 4389 4411	cambios en la diuresis
+T90	NegSynMarker 4414 4416	No
+T91	DISO 4417 4423	fiebre
+T92	NegSynMarker 4426 4428	no
+T93	DISO 4429 4443	dolor torácico
+T94	NegMorMarker 4457 4469	asintomatico
+T95	NegSynMarker 4604 4607	sin
+T96	OTHER 4608 4623	ingesta etilica
+T97	NegSynMarker 4867 4869	no
+T98	DISO 4870 4876	fiebre
+T99	NegSynMarker 4944 4946	no
+T100	DISO 4947 4952	ceder
+T101	NegSynMarker 5241 5244	sin
+T102	Phrase 5245 5266	hacer ningun esfuerzo
+T103	PolItem 5251 5257	ningun
+T104	DISO 5258 5266	esfuerzo
+T105	Phrase 5277 5374	episodio de dolor retroesternal tipo opresivo o peso con sudoracion y taquicardia sin irradiacion
+T106	NegSynMarker 5359 5362	sin
+T107	DISO 5363 5374	irradiacion
+T108	NegLexMarker 5384 5389	cedió
+T109	Phrase 5390 5412	con vernies sublingual
+T110	Phrase 5423 5456	en Agosto episodio algo semejante
+T111	DISO 5433 5456	episodio algo semejante
+T112	UncertLexMarker 5457 5458	?
+T113	NegSynMarker 5548 5550	No
+T114	DISO 5551 5556	mareo
+T115	NegSynMarker 5559 5561	no
+T116	Phrase 5562 5588	disnea , ni dolor torácico
+T117	DISO 5562 5568	disnea
+T118	CoordItem 5571 5573	ni
+T119	DISO 5574 5588	dolor torácico
+T120	NegSynMarker 5591 5593	no
+T121	DISO 5594 5607	plapitaciones
+T122	NegSynMarker 5796 5799	sin
+T123	DISO 5800 5830	cortejo vegatativo acompañante
+T124	NegSynMarker 6094 6097	sin
+T125	PolItem 6098 6104	ningún
+T126	DISO 6098 6113	ningún problema
+T127	DISO 6182 6245	disnea acompañado de dolor precordial con irradiación a espalda
+T128	NegLexMarker 6252 6256	cede
+T129	Phrase 6257 6298	tras incorporarse y levantarse de la cama
+T130	NegSynMarker 6754 6757	sin
+T131	DISO 6758 6769	incidencias
+T132	NegSynMarker 6791 6793	no
+T133	OTHER 6794 6801	fumador
+T134	NegSynMarker 6804 6807	sin
+T135	DISO 6808 6841	factores de riesgo cardiovascular
+T136	NegLexMarker 7055 7063	falta de
+T137	Phrase 7064 7068	aire
+T138	UncertLexMarker 7098 7107	sin clara
+T139	DISO 7108 7119	irradiación
+T140	NegMorMarker 7214 7226	asintomática
+T141	NegSynMarker 7259 7262	sin
+T142	Phrase 7263 7294	llegar a perder el conocimiento
+T143	DISO 7272 7294	perder el conocimiento
+T144	NegSynMarker 7634 7636	No
+T145	DISO 7637 7644	cefalea
+T146	Phrase 7637 7696	cefalea , cambios en la agudeza visual , naúseas ni vómitos
+T147	DISO 7647 7675	cambios en la agudeza visual
+T148	DISO 7678 7685	naúseas
+T149	CoordItem 7686 7688	ni
+T150	DISO 7689 7696	vómitos
+T151	UncertLexMarker 7868 7874	Dudoso
+T152	OTHER 7875 7912	cumplimiento del tratamiento habitual
+T153	NegSynMarker 8178 8180	No
+T154	DISO 8181 8217	ha vuelto a recuperar la consciencia
+T155	NegSynMarker 8220 8222	No
+T156	OTHER 8223 8255	acude a revisiones por su médico
+T157	DISO 8334 8354	el dolor epigástrico
+T158	NegSynMarker 8385 8387	no
+T159	DISO 8388 8402	se ha resuelto
+T160	NegSynMarker 8424 8426	No
+T161	DISO 8427 8440	palpitaciones
+T162	NegSynMarker 8443 8445	no
+T163	DISO 8446 8470	dolor torácico en reposo
+T164	NegSynMarker 8473 8475	no
+T165	DISO 8476 8506	cortejo vegetativo acompañante
+T166	UncertLexMarker 8572 8583	No aparente
+T167	Phrase 8584 8641	clinica de infeccion respiratoria , ni infeccion urinaria
+T168	DISO 8595 8617	infeccion respiratoria
+T169	CoordItem 8620 8622	ni
+T170	DISO 8623 8641	infeccion urinaria
+T171	UncertLexMarker 8971 8980	desconoce
+T172	Phrase 8981 8989	el color
+T173	NegSynMarker 9384 9386	No
+T174	Phrase 9387 9422	refiere cefalea , ni dolor torácico
+T175	DISO 9395 9402	cefalea
+T176	CoordItem 9405 9407	ni
+T177	DISO 9408 9422	dolor torácico
+T178	NegSynMarker 9558 9560	no
+T179	DISO 9561 9569	conocida
+T180	NegSynMarker 9765 9767	no
+T181	DISO 9768 9776	conocida
+T182	NegSynMarker 10232 10235	sin
+T183	Phrase 10236 10242	dormir
+T184	NegSynMarker 10262 10264	No
+T185	Phrase 10265 10309	palpitaciones , sensación de mareo ni disnea
+T186	DISO 10265 10278	palpitaciones
+T187	DISO 10281 10299	sensación de mareo
+T188	CoordItem 10300 10302	ni
+T189	DISO 10303 10309	disnea
+T190	NegSynMarker 10329 10331	no
+T191	DISO 10332 10340	sangrado
+T192	NegSynMarker 10343 10345	no
+T193	DISO 10346 10361	heces melenicas
+T194	DISO 10501 10550	dolor centrotorácico opresivo con sudoración fría
+T195	NegLexMarker 10591 10600	ha cedido
+T196	UncertLexMarker 10678 10690	Se desconoce
+T197	Phrase 10691 10728	el tiempo que estuvo sin conocimiento
+T198	NegSynMarker 10712 10715	sin
+T199	OTHER 10716 10728	conocimiento
+T200	NegSynMarker 11030 11032	no
+T201	DISO 11033 11053	vegetatismo asociado
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T22 Arg2:T23
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T16 Arg2:T17
+R12	Scope Arg1:T18 Arg2:T19
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T38 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T46 Arg2:T48
+R19	Scope Arg1:T57 Arg2:T58
+R20	Scope Arg1:T62 Arg2:T63
+R21	Scope Arg1:T64 Arg2:T65
+R22	DiscScope Arg1:T67 Arg2:T68
+R23	DiscScope Arg1:T67 Arg2:T66
+R24	DiscScope Arg1:T70 Arg2:T71
+R25	DiscScope Arg1:T70 Arg2:T69
+R26	DiscScope Arg1:T74 Arg2:T72
+R27	DiscScope Arg1:T74 Arg2:T75
+R28	Scope Arg1:T76 Arg2:T77
+R29	Scope Arg1:T83 Arg2:T85
+R30	Scope Arg1:T90 Arg2:T91
+R31	Scope Arg1:T92 Arg2:T93
+R32	Scope Arg1:T95 Arg2:T96
+R33	Scope Arg1:T97 Arg2:T98
+R34	Scope Arg1:T99 Arg2:T100
+R35	Scope Arg1:T106 Arg2:T107
+R36	Scope Arg1:T101 Arg2:T102
+R37	DiscScope Arg1:T108 Arg2:T109
+R38	DiscScope Arg1:T108 Arg2:T105
+R39	Scope Arg1:T112 Arg2:T110
+R40	Scope Arg1:T113 Arg2:T114
+R41	Scope Arg1:T120 Arg2:T121
+R42	Scope Arg1:T115 Arg2:T116
+R43	Scope Arg1:T122 Arg2:T123
+R44	Scope Arg1:T124 Arg2:T126
+R45	DiscScope Arg1:T128 Arg2:T127
+R46	DiscScope Arg1:T128 Arg2:T129
+R47	Scope Arg1:T130 Arg2:T131
+R48	Scope Arg1:T136 Arg2:T137
+R49	Scope Arg1:T132 Arg2:T133
+R50	Scope Arg1:T138 Arg2:T139
+R51	Scope Arg1:T134 Arg2:T135
+R52	Scope Arg1:T141 Arg2:T142
+R53	Scope Arg1:T144 Arg2:T146
+R54	Scope Arg1:T151 Arg2:T152
+R55	Scope Arg1:T153 Arg2:T154
+R56	Scope Arg1:T155 Arg2:T156
+R57	DiscScope Arg1:T158 Arg2:T157
+R58	DiscScope Arg1:T158 Arg2:T159
+R59	Scope Arg1:T162 Arg2:T163
+R60	Scope Arg1:T160 Arg2:T161
+R61	Scope Arg1:T164 Arg2:T165
+R62	Scope Arg1:T166 Arg2:T167
+R63	Scope Arg1:T171 Arg2:T172
+R64	Scope Arg1:T173 Arg2:T174
+R65	Scope Arg1:T178 Arg2:T179
+R66	Scope Arg1:T180 Arg2:T181
+R67	Scope Arg1:T182 Arg2:T183
+R68	Scope Arg1:T184 Arg2:T185
+R69	Scope Arg1:T192 Arg2:T193
+R70	Scope Arg1:T190 Arg2:T191
+R71	Scope Arg1:T195 Arg2:T194
+R72	Scope Arg1:T196 Arg2:T197
+R73	Scope Arg1:T198 Arg2:T199
+R74	Scope Arg1:T200 Arg2:T201

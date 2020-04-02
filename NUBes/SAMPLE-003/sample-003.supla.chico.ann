@@ -1,0 +1,6 @@
+T1	NegSynMarker 219 221	no
+T2	DISO 222 237	mejoran con tto
+T3	PROC 1079 1089	amputación
+T4	NegLexMarker 1105 1114	desestimó
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3

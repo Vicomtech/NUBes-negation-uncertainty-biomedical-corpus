@@ -1,0 +1,56 @@
+T1	NegLexMarker 202 213	retirada de
+T2	OTHER 214 227	malla vesical
+T3	NegSynMarker 230 232	No
+T4	OTHER 233 241	medicado
+T5	UncertLexMarker 910 918	No claro
+T6	DISO 919 923	STUI
+T7	NegSynMarker 932 935	sin
+T8	DISO 936 945	problemas
+T9	NegSynMarker 1282 1284	no
+T10	DISO 1285 1289	cede
+T11	NegMorMarker 1388 1400	asintomático
+T12	PROC 2287 2298	una biopsia
+T13	NegLexMarker 2299 2307	negativa
+T14	NegSynMarker 2568 2571	sin
+T15	OTHER 2572 2580	informes
+T16	NegSynMarker 2583 2585	No
+T17	Phrase 2586 2604	se puede historiar
+T18	OTHER 2595 2604	historiar
+T19	NegSynMarker 2681 2683	no
+T20	DISO 2684 2694	complicada
+T21	PROC 2773 2783	Urocultivo
+T22	NegLexMarker 2784 2792	negativo
+T23	Phrase 2793 2803	al ingreso
+T24	UncertLexMarker 2806 2816	Se plantea
+T25	PROC 2817 2819	IQ
+T26	NegSynMarker 2943 2946	sin
+T27	DISO 2947 2953	fiebre
+T28	UncertLexMarker 2990 2995	podía
+T29	DISO 2996 3014	deberse a arenilla
+T30	NegLexMarker 3067 3072	cedió
+T31	DISO 3073 3083	la clínica
+T32	NegSynMarker 3335 3338	sin
+T33	DISO 3339 3349	dificultad
+T34	UncertLexMarker 3352 3363	Sospecha de
+T35	Phrase 3364 3381	Mts en D8 en 2003
+T36	DISO 3364 3373	Mts en D8
+T37	PROC 4236 4249	nueva biopsia
+T38	NegLexMarker 4257 4265	negativa
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T13 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T19 Arg2:T20
+R10	DiscScope Arg1:T22 Arg2:T21
+R11	DiscScope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T32 Arg2:T33
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T38 Arg2:T37

@@ -1,0 +1,125 @@
+T1	NegSynMarker 251 253	No
+T2	DISO 254 276	disnea en días previos
+T3	NegSynMarker 279 281	no
+T4	DISO 282 290	oliguria
+T5	NegSynMarker 293 295	no
+T6	DISO 296 318	edemas en extremidades
+T7	NegSynMarker 781 783	No
+T8	DISO 784 798	dolor torácico
+T9	NegSynMarker 1357 1359	No
+T10	DISO 1360 1379	dolor a nigún nivel
+T11	PolItem 1368 1373	nigún
+T12	NegSynMarker 1382 1384	no
+T13	DISO 1385 1416	otra sintomatologia acompañante
+T14	NegLexMarker 1515 1524	desestimó
+T15	Phrase 1525 1558	IQ de hernia inguinal previamente
+T16	DISO 1525 1546	IQ de hernia inguinal
+T17	NegMorMarker 1797 1809	asintomático
+T18	UncertLexMarker 1926 1935	sin clara
+T19	DISO 1936 1963	sensación de visión borrosa
+T20	NegSynMarker 1966 1968	no
+T21	DISO 1969 1983	dolor torácico
+T22	NegSynMarker 1986 1988	no
+T23	DISO 1989 2020	otra sintomatologia acompañante
+T24	NegSynMarker 2422 2424	No
+T25	Phrase 2425 2458	clínica de infección respiratoria
+T26	DISO 2436 2458	infección respiratoria
+T27	NegSynMarker 2461 2463	No
+T28	DISO 2464 2520	alteración del dolor con el movimiento ni la respiración
+T29	CoordItem 2503 2505	ni
+T30	NegSynMarker 2563 2565	no
+T31	Phrase 2566 2597	disnea ni dolor con el esfuerzo
+T32	DISO 2566 2572	disnea
+T33	CoordItem 2573 2575	ni
+T34	DISO 2576 2581	dolor
+T35	Phrase 2667 2692	Tras 2 puf de solinitrina
+T36	NegLexMarker 2693 2703	desaparece
+T37	DISO 2704 2722	el dolor en hombro
+T38	NegSynMarker 3213 3215	No
+T39	Phrase 3216 3238	refiere dolor torácico
+T40	DISO 3224 3238	dolor torácico
+T41	NegSynMarker 3241 3243	no
+T42	DISO 3244 3257	palpitaciones
+T43	NegSynMarker 3824 3827	sin
+T44	Phrase 3828 3893	dolor toracico , ni palpitaciones ni otra sintomatología asociada
+T45	DISO 3828 3842	dolor toracico
+T46	CoordItem 3845 3847	ni
+T47	DISO 3848 3861	palpitaciones
+T48	CoordItem 3862 3864	ni
+T49	DISO 3865 3893	otra sintomatología asociada
+T50	NegSynMarker 4581 4583	No
+T51	Phrase 4584 4620	refiere epsidodios similares previos
+T52	DISO 4592 4620	epsidodios similares previos
+T53	NegSynMarker 4773 4776	sin
+T54	DISO 4777 4783	disnea
+T55	UncertLexMarker 4876 4885	desconoce
+T56	Phrase 4886 4909	como ha pasado la noche
+T57	NegSynMarker 4912 4914	No
+T58	Phrase 4915 4991	dolor torácico , cortejo vegetativo , palpitaciones ni otra clínica asociada
+T59	DISO 4915 4929	dolor torácico
+T60	DISO 4932 4950	cortejo vegetativo
+T61	DISO 4953 4966	palpitaciones
+T62	CoordItem 4967 4969	ni
+T63	DISO 4970 4991	otra clínica asociada
+T64	NegSynMarker 5037 5039	no
+T65	DISO 5040 5048	ortopnea
+T66	Phrase 5040 5055	ortopnea ni DPN
+T67	CoordItem 5049 5051	ni
+T68	DISO 5052 5055	DPN
+T69	NegSynMarker 5058 5060	no
+T70	DISO 5061 5067	edemas
+T71	NegSynMarker 5070 5072	no
+T72	DISO 5073 5087	dolor torácico
+T73	NegSynMarker 5090 5092	no
+T74	Phrase 5093 5113	tos ni expectoración
+T75	DISO 5093 5096	tos
+T76	CoordItem 5097 5099	ni
+T77	DISO 5100 5113	expectoración
+T78	NegSynMarker 5116 5118	no
+T79	DISO 5119 5125	fiebre
+T80	NegSynMarker 5128 5130	no
+T81	DISO 5131 5146	dolor abdominal
+T82	NegSynMarker 5149 5151	no
+T83	DISO 5152 5157	mareo
+T84	Phrase 5152 5168	mareo ni cortejo
+T85	CoordItem 5158 5160	ni
+T86	DISO 5161 5168	cortejo
+T87	NegSynMarker 5171 5173	no
+T88	DISO 5174 5181	vómitos
+T89	NegSynMarker 5201 5204	sin
+T90	DISO 5205 5217	alteraciones
+T91	NegSynMarker 5220 5222	no
+T92	DISO 5223 5241	sindrome miccional
+T93	NegMorMarker 5412 5424	Asintomática
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T9 Arg2:T10
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T30 Arg2:T31
+R14	DiscScope Arg1:T36 Arg2:T37
+R15	DiscScope Arg1:T36 Arg2:T35
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T50 Arg2:T51
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T78 Arg2:T79
+R24	Scope Arg1:T64 Arg2:T66
+R25	Scope Arg1:T73 Arg2:T74
+R26	Scope Arg1:T82 Arg2:T84
+R27	Scope Arg1:T69 Arg2:T70
+R28	Scope Arg1:T89 Arg2:T90
+R29	Scope Arg1:T80 Arg2:T81
+R30	Scope Arg1:T91 Arg2:T92
+R31	Scope Arg1:T87 Arg2:T88
+R32	Scope Arg1:T71 Arg2:T72

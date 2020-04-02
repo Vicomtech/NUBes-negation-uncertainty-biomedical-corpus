@@ -1,0 +1,7 @@
+T1	NegLexMarker 131 140	Suspender
+T2	SUBS 141 152	Clometiazol
+T3	NegLexMarker 643 652	suspender
+T4	NegLexMarker 2412 2425	Abstencion de
+T5	OTHER 2426 2441	ingesta enólica
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

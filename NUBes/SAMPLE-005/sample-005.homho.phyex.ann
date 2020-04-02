@@ -1,0 +1,71 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 41	hay por el momento signos de agitación
+T3	DISO 32 41	agitación
+T4	NegSynMarker 209 211	no
+T5	DISO 212 214	IY
+T6	NegSynMarker 307 309	no
+T7	DISO 310 338	responde al estimulo hablado
+T8	NegSynMarker 376 378	no
+T9	Phrase 379 426	se puede antiagregar con la hematemesis sufrida
+T10	PROC 388 426	antiagregar con la hematemesis sufrida
+T11	NegSynMarker 446 448	no
+T12	Phrase 449 468	se pide neuroimagen
+T13	PROC 457 468	neuroimagen
+T14	NegSynMarker 478 481	sin
+T15	DISO 482 488	edemas
+T16	NegSynMarker 1324 1327	sin
+T17	Phrase 1328 1382	llegar a identificar el punto exacto de la perforación
+T18	OTHER 1337 1382	identificar el punto exacto de la perforación
+T19	NegSynMarker 2265 2267	No
+T20	DISO 2268 2276	Invasiva
+T21	UncertLexMarker 2505 2519	compatible con
+T22	DISO 2520 2554	extenso infarto silviano izquierdo
+T23	UncertLexMarker 2621 2626	puede
+T24	Phrase 2627 2702	estar en relación a las secuelas de su ictus previo empeorada por la anemia
+T25	DISO 2636 2702	relación a las secuelas de su ictus previo empeorada por la anemia
+T26	UncertLexMarker 2705 2719	menos probable
+T27	Phrase 2720 2756	por nueva lesión en dicho territorio
+T28	DISO 2724 2756	nueva lesión en dicho territorio
+T29	UncertLexMarker 2842 2851	no parece
+T30	DISO 2852 2860	doloroso
+T31	NegMorMarker 2888 2900	asintomático
+T32	NegMorMarker 2937 2944	afebril
+T33	NegLexMarker 4093 4104	retirada de
+T34	SUBS 4105 4119	antibioterapia
+T35	NegSynMarker 5261 5263	no
+T36	Phrase 5264 5316	ha presentado nuevos episodios de sangrado digestivo
+T37	DISO 5298 5316	sangrado digestivo
+T38	UncertLexMarker 5384 5391	posible
+T39	Phrase 5392 5402	nuevo ACVA
+T40	DISO 5398 5402	ACVA
+T41	NegSynMarker 5404 5406	no
+T42	Phrase 5407 5486	se le han realizado exploraciones ni tratamientos agresivos a petición familiar
+T43	PROC 5427 5440	exploraciones
+T44	CoordItem 5441 5443	ni
+T45	PROC 5444 5466	tratamientos agresivos
+T46	UncertLexMarker 5801 5820	sin poder descartar
+T47	Phrase 5821 5843	nuevo episodio de ACVA
+T48	DISO 5839 5843	ACVA
+T49	OTHER 6463 6471	drenajes
+T50	NegLexMarker 6488 6497	retirados
+T51	NegLexMarker 7312 7319	retirar
+T52	OTHER 7320 7343	la nutrición parenteral
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T50 Arg2:T49
+R19	Scope Arg1:T51 Arg2:T52

@@ -1,0 +1,44 @@
+T1	NegLexMarker 931 943	Se desestima
+T2	PROC 944 976	pruebas y tratamientos invasivos
+T3	NegSynMarker 1187 1190	sin
+T4	Phrase 1191 1251	evidencia durante el ingreso de patologia orgánica abdominal
+T5	DISO 1223 1251	patologia orgánica abdominal
+T6	UncertLexMarker 1565 1578	probablemente
+T7	OTHER 1579 1596	extrahospitalaria
+T8	UncertLexMarker 1654 1669	compatibles con
+T9	DISO 1670 1690	metástasis hepáticas
+T10	UncertLexMarker 2230 2238	probable
+T11	DISO 2239 2258	neumonia aspirativa
+T12	NegSynMarker 2295 2298	sin
+T13	Phrase 2299 2378	posibilidad de completar la técnica por presentar papila cicatricial y residual
+T14	PROC 2314 2378	completar la técnica por presentar papila cicatricial y residual
+T15	UncertLexMarker 2659 2667	probable
+T16	DISO 2668 2709	miocardiopatía hipertensiva ( ecocardio )
+T17	UncertLexMarker 3336 3347	sospecha de
+T18	DISO 3348 3373	carcinomatosis peritoneal
+T19	NegSynMarker 5529 5532	sin
+T20	Phrase 5533 5541	ascensor
+T21	NegSynMarker 6381 6384	sin
+T22	Phrase 6385 6393	ascensor
+T23	UncertLexMarker 7394 7402	sospecha
+T24	DISO 7403 7422	artritis infecciosa
+T25	PROC 7434 7451	punción articular
+T26	NegLexMarker 7464 7472	negativa
+T27	UncertLexMarker 7475 7483	Probable
+T28	DISO 7484 7519	insuficiencia cardiaca concomitante
+T29	UncertLexMarker 7577 7585	probable
+T30	DISO 7586 7599	relación a AR
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T26 Arg2:T25
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30

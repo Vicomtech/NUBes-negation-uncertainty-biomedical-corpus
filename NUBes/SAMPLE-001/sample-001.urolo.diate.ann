@@ -1,0 +1,18 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 57	se aprecian imágenes patológicas , ni zonas sangrantes
+T3	DISO 15 35	imágenes patológicas
+T4	CoordItem 38 40	ni
+T5	DISO 41 57	zonas sangrantes
+T6	UncertLexMarker 150 171	imposible diferenciar
+T7	Phrase 172 202	en este contexto una neoplasia
+T8	DISO 193 202	neoplasia
+T9	NegSynMarker 519 521	No
+T10	Phrase 522 550	se aprecian zonas sangrantes
+T11	DISO 534 550	zonas sangrantes
+T12	NegSynMarker 1172 1175	sin
+T13	Phrase 1176 1221	evidencia de neoformación en esta exploración
+T14	DISO 1189 1201	neoformación
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T12 Arg2:T13

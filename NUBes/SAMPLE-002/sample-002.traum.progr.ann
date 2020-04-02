@@ -1,0 +1,72 @@
+T1	NegSynMarker 280 283	sin
+T2	DISO 284 295	incidencias
+T3	Phrase 946 977	Cultivo de orina y hemocultivos
+T4	PROC 946 962	Cultivo de orina
+T5	CoordItem 963 964	y
+T6	PROC 965 977	hemocultivos
+T7	NegLexMarker 978 987	negativos
+T8	NegSynMarker 990 992	no
+T9	Phrase 993 1037	signos de supuracion en la herida quirurgica
+T10	DISO 1003 1037	supuracion en la herida quirurgica
+T11	UncertLexMarker 1542 1549	valorar
+T12	OTHER 1550 1578	oxigeno a domicilio continuo
+T13	NegSynMarker 1883 1886	sin
+T14	Phrase 1887 1921	precisar soporte con hemoderivados
+T15	OTHER 1896 1921	soporte con hemoderivados
+T16	UncertLexMarker 2848 2862	compatible con
+T17	DISO 2863 2891	hepatocarcinoma fibrolamelar
+T18	NegSynMarker 3892 3895	sin
+T19	DISO 3896 3910	complicaciones
+T20	NegSynMarker 4185 4187	no
+T21	Phrase 4188 4229	pone de manifiesto alteración estructural
+T22	DISO 4207 4229	alteración estructural
+T23	NegSynMarker 4245 4248	sin
+T24	Phrase 4249 4311	evidencia FA ni otras alteraciones de significación patológica
+T25	DISO 4249 4261	evidencia FA
+T26	CoordItem 4262 4264	ni
+T27	DISO 4265 4311	otras alteraciones de significación patológica
+T28	NegSynMarker 4420 4423	sin
+T29	DISO 4424 4435	repercusión
+T30	UncertLexMarker 4450 4458	probable
+T31	DISO 4459 4490	disautonomia de larga evolución
+T32	NegSynMarker 4504 4506	no
+T33	Phrase 4507 4532	se inicia tto corticoideo
+T34	PROC 4517 4532	tto corticoideo
+T35	UncertLexMarker 4743 4751	posibles
+T36	Phrase 4752 4776	riesgos y complicaciones
+T37	DISO 4752 4759	riesgos
+T38	CoordItem 4760 4761	y
+T39	DISO 4762 4776	complicaciones
+T40	NegLexMarker 5346 5358	retirada del
+T41	Phrase 5359 5378	tratamiento con ADO
+T42	SUBS 5375 5378	ADO
+T43	NegSynMarker 5867 5870	sin
+T44	DISO 5871 5893	franco limite necrosis
+T45	PROC 5896 5908	Hemocultivos
+T46	NegLexMarker 5909 5918	negativos
+T47	NegSynMarker 5921 5923	No
+T48	DISO 5924 5965	signos inflamatorios en herida quirúrgica
+T49	UncertLexMarker 6592 6600	no claro
+T50	DISO 6601 6605	foco
+T51	NegMorMarker 6722 6729	afebril
+T52	NegSynMarker 6877 6880	sin
+T53	DISO 6881 6896	dolor abdominal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T8 Arg2:T9
+R3	Scope Arg1:T7 Arg2:T3
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T43 Arg2:T44
+R16	Scope Arg1:T46 Arg2:T45
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T52 Arg2:T53

@@ -1,0 +1,190 @@
+T1	NegSynMarker 152 154	no
+T2	DISO 155 167	taquicardico
+T3	NegSynMarker 265 267	No
+T4	Phrase 268 327	hay líquido libre , colecciones ni signos de neumoperitoneo
+T5	SUBS 272 285	líquido libre
+T6	DISO 288 299	colecciones
+T7	CoordItem 300 302	ni
+T8	DISO 313 327	neumoperitoneo
+T9	UncertLexMarker 411 424	sugestivos de
+T10	DISO 425 444	pielonefritis aguda
+T11	NegSynMarker 527 530	sin
+T12	Phrase 531 552	administración de CIV
+T13	SUBS 549 552	CIV
+T14	NegSynMarker 1077 1080	SIN
+T15	Phrase 1082 1122	IGNOS DE PROLIFERACION UROTELIAL ATIPICA
+T16	DISO 1091 1122	PROLIFERACION UROTELIAL ATIPICA
+T17	NegSynMarker 1459 1461	no
+T18	Phrase 1462 1485	aprecio patología aguda
+T19	DISO 1470 1485	patología aguda
+T20	UncertLexMarker 1488 1493	puede
+T21	Phrase 1494 1530	tratarse de una apendicitis truncada
+T22	DISO 1506 1530	una apendicitis truncada
+T23	NegSynMarker 1559 1561	no
+T24	Phrase 1562 1615	hay plastrón ni signos inflamtorios periapendiculares
+T25	DISO 1566 1574	plastrón
+T26	CoordItem 1575 1577	ni
+T27	DISO 1578 1615	signos inflamtorios periapendiculares
+T28	NegSynMarker 1618 1620	No
+T29	Phrase 1621 1703	se identifican adenopatías mesentéricas ni retroperitoneales de aspecto patológico
+T30	DISO 1636 1703	adenopatías mesentéricas ni retroperitoneales de aspecto patológico
+T31	CoordItem 1661 1663	ni
+T32	NegSynMarker 1759 1761	no
+T33	OTHER 1762 1804	dilata significativamente la vía excretora
+T34	NegSynMarker 1888 1890	no
+T35	DISO 1891 1893	YY
+T36	NegSynMarker 1896 1898	No
+T37	Phrase 1899 1918	tos ni expectoracio
+T38	DISO 1899 1905	tos ni
+T39	CoordItem 1903 1905	ni
+T40	DISO 1906 1918	expectoracio
+T41	NegSynMarker 2081 2083	no
+T42	DISO 2084 2113	dolor a la palpación en ingle
+T43	NegSynMarker 2116 2118	no
+T44	Phrase 2119 2135	datos de hernias
+T45	DISO 2128 2135	hernias
+T46	UncertLexMarker 2267 2280	sin aparentes
+T47	DISO 2281 2285	LOES
+T48	UncertLexMarker 2344 2357	sugestivos de
+T49	DISO 2358 2382	neoplasia de recto-sigma
+T50	NegSynMarker 2481 2484	sin
+T51	DISO 2485 2497	alteraciones
+T52	UncertLexMarker 2540 2546	dudosa
+T53	DISO 2547 2565	neoplasia en meato
+T54	NegSynMarker 2780 2783	sin
+T55	OTHER 2784 2850	imágenes aisladas que sugieran litiasis , ni tampoco hidronefrosis
+T56	CoordItem 2826 2828	ni
+T57	NegSynMarker 2885 2888	sin
+T58	Phrase 2889 2940	datos de IC ni reagudizacion EPOC en estos momentos
+T59	DISO 2898 2900	IC
+T60	CoordItem 2901 2903	ni
+T61	DISO 2904 2922	reagudizacion EPOC
+T62	NegSynMarker 3172 3175	Sin
+T63	DISO 3176 3189	reagudizacion
+T64	NegSynMarker 3340 3343	sin
+T65	DISO 3344 3351	defensa
+T66	Phrase 3344 3374	defensa ni reacción peritoenal
+T67	CoordItem 3352 3354	ni
+T68	DISO 3355 3374	reacción peritoenal
+T69	NegSynMarker 3472 3474	No
+T70	DISO 3475 3503	dolor lumbar ni en otra zona
+T71	CoordItem 3488 3490	ni
+T72	DISO 3638 3668	dolor 2ario a rotura folicular
+T73	UncertLexMarker 3669 3671	??
+T74	NegMorMarker 3713 3725	Asintomatica
+T75	NegSynMarker 3774 3777	sin
+T76	Phrase 3778 3809	leucocitosis ni desviación izda
+T77	DISO 3778 3790	leucocitosis
+T78	CoordItem 3791 3793	ni
+T79	DISO 3794 3809	desviación izda
+T80	NegSynMarker 4104 4106	no
+T81	Phrase 4107 4131	dolor toracico ni disnea
+T82	DISO 4107 4121	dolor toracico
+T83	CoordItem 4122 4124	ni
+T84	DISO 4125 4131	disnea
+T85	NegSynMarker 4142 4145	sin
+T86	DISO 4146 4162	hallazgos en FID
+T87	NegSynMarker 4417 4419	No
+T88	DISO 4420 4431	traumatismo
+T89	Phrase 4420 4452	traumatismo ni sobrecarga previa
+T90	CoordItem 4432 4434	ni
+T91	DISO 4435 4452	sobrecarga previa
+T92	NegLexMarker 4480 4486	impide
+T93	DISO 4487 4502	la deambulación
+T94	UncertLexMarker 5105 5112	sugiere
+T95	DISO 5113 5120	coágulo
+T96	Phrase 5113 5145	coágulo como primera posibilidad
+T97	UncertLexMarker 5233 5238	Sería
+T98	OTHER 5239 5326	susceptible de tratamiento neoadyuvante con radioquimioterapia y posterior intervención
+T99	UncertLexMarker 5365 5367	No
+T100	Phrase 5368 5382	se identifican
+T101	UncertLexMarker 5383 5392	aparentes
+T102	DISO 5393 5398	masas
+T103	NegLexMarker 5463 5471	falta de
+T104	Phrase 5472 5493	administración de CIV
+T105	SUBS 5490 5493	CIV
+T106	NegSynMarker 5496 5498	No
+T107	DISO 5499 5518	otra sintomatología
+T108	NegSynMarker 5657 5659	No
+T109	DISO 5660 5691	dolor a la movilizacion uterina
+T110	NegSynMarker 5854 5856	no
+T111	Phrase 5857 5901	se observan imagenes sugestivas de patologia
+T112	DISO 5892 5901	patologia
+T113	NegSynMarker 6505 6507	no
+T114	DISO 6508 6525	le impide caminar
+T115	NegSynMarker 6532 6534	no
+T116	DISO 6535 6568	cambia con la ingesta alimenticia
+T117	NegSynMarker 6578 6581	sin
+T118	DISO 6582 6588	fiebre
+T119	NegSynMarker 6591 6594	sin
+T120	DISO 6595 6607	rectorragias
+T121	Phrase 6595 6619	rectorragias ni diarreas
+T122	CoordItem 6608 6610	ni
+T123	DISO 6611 6619	diarreas
+T124	Phrase 6647 6676	Probable tendinitis iliopsoas
+T125	PolItem 6647 6655	Probable
+T126	DISO 6656 6676	tendinitis iliopsoas
+T127	UncertSynMarker 6677 6679	vs
+T128	DISO 6680 6719	tendinitis recto anterior cuadricipital
+T129	NegSynMarker 6775 6778	SIN
+T130	DISO 6779 6811	LESION HISTOLOGICA SIGNIFICATIVA
+T131	NegSynMarker 7101 7104	sin
+T132	DISO 7105 7125	hallazgos reseñables
+T133	NegLexMarker 7330 7341	descartaron
+T134	DISO 7342 7353	apendicitis
+T135	NegSynMarker 7461 7464	sin
+T136	DISO 7465 7477	alteraciones
+T137	NegSynMarker 7581 7584	sin
+T138	Phrase 7585 7627	dilatación de la vía excretora ni litiasis
+T139	DISO 7585 7615	dilatación de la vía excretora
+T140	CoordItem 7616 7618	ni
+T141	DISO 7619 7627	litiasis
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T23 Arg2:T24
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T32 Arg2:T33
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T41 Arg2:T42
+R14	Scope Arg1:T43 Arg2:T44
+R15	Scope Arg1:T46 Arg2:T47
+R16	Scope Arg1:T48 Arg2:T49
+R17	Scope Arg1:T50 Arg2:T51
+R18	Scope Arg1:T52 Arg2:T53
+R19	Scope Arg1:T54 Arg2:T55
+R20	Scope Arg1:T57 Arg2:T58
+R21	Scope Arg1:T62 Arg2:T63
+R22	Scope Arg1:T64 Arg2:T66
+R23	Scope Arg1:T69 Arg2:T70
+R24	Scope Arg1:T73 Arg2:T72
+R25	Scope Arg1:T75 Arg2:T76
+R26	Scope Arg1:T80 Arg2:T81
+R27	Scope Arg1:T85 Arg2:T86
+R28	Scope Arg1:T87 Arg2:T89
+R29	Scope Arg1:T92 Arg2:T93
+R30	Scope Arg1:T94 Arg2:T96
+R31	Scope Arg1:T97 Arg2:T98
+R32	Scope Arg1:T103 Arg2:T104
+R33	DiscScope Arg1:T101 Arg2:T100
+R34	DiscMarker Arg1:T99 Arg2:T101
+R35	DiscScope Arg1:T101 Arg2:T102
+R36	Scope Arg1:T106 Arg2:T107
+R37	Scope Arg1:T110 Arg2:T111
+R38	Scope Arg1:T108 Arg2:T109
+R39	Scope Arg1:T119 Arg2:T121
+R40	Scope Arg1:T113 Arg2:T114
+R41	Scope Arg1:T115 Arg2:T116
+R42	Scope Arg1:T117 Arg2:T118
+R43	DiscScope Arg1:T127 Arg2:T124
+R44	DiscScope Arg1:T127 Arg2:T128
+R45	Scope Arg1:T129 Arg2:T130
+R46	Scope Arg1:T131 Arg2:T132
+R47	Scope Arg1:T133 Arg2:T134
+R48	Scope Arg1:T135 Arg2:T136
+R49	Scope Arg1:T137 Arg2:T138

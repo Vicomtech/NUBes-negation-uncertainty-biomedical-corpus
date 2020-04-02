@@ -1,0 +1,53 @@
+T1	NegSynMarker 192 194	no
+T2	OTHER 195 258	han cedido a tratamiento administrado por médico de emergencias
+T3	NegLexMarker 779 789	desestimar
+T4	PROC 790 806	continuar con QT
+T5	Phrase 790 837	continuar con QT por evolución de neo de pulmón
+T6	NegLexMarker 1873 1880	retirar
+T7	OTHER 1881 1903	infusor quimioterápico
+T8	UncertLexMarker 2446 2459	valoración de
+T9	Phrase 2460 2478	posible trasfusión
+T10	PolItem 2460 2467	posible
+T11	PROC 2468 2478	trasfusión
+T12	NegLexMarker 2606 2617	retirada de
+T13	OTHER 2618 2640	infusor quimioterápico
+T14	NegLexMarker 2706 2714	retirada
+T15	OTHER 2728 2735	infusor
+T16	UncertLexMarker 3561 3571	valoración
+T17	Phrase 3572 3704	tras episodios de disnea por Insuficiencia cardíaca y anemia crónica sintomática por si fuera necesaria transfusión de hemoderivados
+T18	PROC 3676 3704	transfusión de hemoderivados
+T19	NegLexMarker 5406 5418	se desestimó
+T20	Phrase 5419 5469	desde el dx cualquier otro tratamiento ( qt o rt )
+T21	PolItem 5431 5440	cualquier
+T22	PROC 5441 5469	otro tratamiento ( qt o rt )
+T23	UncertLexMarker 7455 7466	sospecha de
+T24	DISO 7467 7481	diverticulitis
+T25	NegSynMarker 7529 7531	no
+T26	DISO 7532 7542	complicada
+T27	NegSynMarker 7559 7561	no
+T28	DISO 7562 7569	vòmitos
+T29	NegSynMarker 7572 7574	no
+T30	DISO 7575 7606	alteraciòn del ritmo intestinal
+T31	NegSynMarker 7609 7611	no
+T32	DISO 7612 7618	fiebre
+T33	UncertLexMarker 8818 8825	valorar
+T34	Phrase 8826 8878	tratamiento con Ceftriaxona 2g/ev por mala evolución
+T35	SUBS 8842 8859	Ceftriaxona 2g/ev
+T36	NegLexMarker 9487 9498	retirada de
+T37	OTHER 9499 9523	infusor de quimioterapia
+T38	Phrase 9499 9552	infusor de quimioterapia según protocolo hospitalario
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T36 Arg2:T38

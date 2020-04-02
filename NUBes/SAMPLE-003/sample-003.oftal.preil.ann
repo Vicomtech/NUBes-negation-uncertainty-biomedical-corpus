@@ -1,0 +1,11 @@
+T1	NegSynMarker 202 204	no
+T2	Phrase 205 221	ve desde pequeño
+T3	OTHER 205 207	ve
+T4	NegSynMarker 260 262	no
+T5	OTHER 263 279	llego a operarse
+T6	NegMorMarker 311 324	inestabilidad
+T7	UncertLexMarker 372 380	no saben
+T8	OTHER 381 390	concretar
+R1	Scope Arg1:T4 Arg2:T5
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T7 Arg2:T8

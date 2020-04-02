@@ -1,0 +1,9 @@
+T1	UncertLexMarker 110 123	sugestivos de
+T2	Phrase 124 275	espondilolisis bilateral L5-S1 con espondilolistesis grado I y pseudoprotrusión discal asociada que podría contactar levemente con la raíz L5 izquierda
+T3	DISO 124 184	espondilolisis bilateral L5-S1 con espondilolistesis grado I
+T4	CoordItem 185 186	y
+T5	DISO 187 210	pseudoprotrusión discal
+T6	UncertLexMarker 224 230	podría
+T7	DISO 231 275	contactar levemente con la raíz L5 izquierda
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7

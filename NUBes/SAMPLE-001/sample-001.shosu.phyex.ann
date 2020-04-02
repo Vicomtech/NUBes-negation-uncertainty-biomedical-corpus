@@ -1,0 +1,67 @@
+T1	NegSynMarker 91 93	No
+T2	DISO 94 100	edemas
+T3	NegSynMarker 213 215	No
+T4	Phrase 216 255	refiere trastorno sensitivo superficial
+T5	DISO 224 255	trastorno sensitivo superficial
+T6	NegMorMarker 676 683	Afebril
+T7	NegSynMarker 847 849	no
+T8	DISO 850 858	megalias
+T9	NegSynMarker 861 863	no
+T10	DISO 864 880	puntos dolorosos
+T11	NegSynMarker 883 885	no
+T12	Phrase 886 917	signos de irritación peritoneal
+T13	DISO 896 917	irritación peritoneal
+T14	NegSynMarker 1256 1258	no
+T15	DISO 1259 1268	reducible
+T16	NegLexMarker 1362 1378	incapacidad para
+T17	DISO 1379 1401	la extensión bilateral
+T18	NegSynMarker 1404 1406	No
+T19	Phrase 1407 1440	ha telera corsé de inmovilización
+T20	OTHER 1417 1440	corsé de inmovilización
+T21	NegSynMarker 1443 1445	No
+T22	Phrase 1446 1479	se objetiva focalidad neurológica
+T23	DISO 1458 1479	focalidad neurológica
+T24	NegLexMarker 1575 1593	Imposibilidad para
+T25	Phrase 1594 1621	una bipedestación sin ayuda
+T26	DISO 1598 1611	bipedestación
+T27	NegSynMarker 1612 1615	sin
+T28	OTHER 1616 1621	ayuda
+T29	NegSynMarker 1723 1726	sin
+T30	DISO 1727 1733	soplos
+T31	NegSynMarker 1860 1862	No
+T32	DISO 1863 1889	flexión dorsal de tobillos
+T33	NegSynMarker 1900 1903	Sin
+T34	DISO 1904 1929	problemas para la ingesta
+T35	NegSynMarker 1946 1948	no
+T36	DISO 1949 1961	taquicárdico
+T37	NegSynMarker 1964 1966	No
+T38	DISO 1967 2011	dolor a la movilización de cadera y rodillas
+T39	NegMorMarker 2115 2124	arritmico
+T40	NegLexMarker 2171 2187	incapacidad para
+T41	DISO 2188 2203	la deambulación
+T42	NegSynMarker 2206 2208	No
+T43	DISO 2209 2232	trastornos en deglución
+T44	NegSynMarker 2235 2237	no
+T45	DISO 2238 2246	disatria
+T46	NegSynMarker 2263 2265	No
+T47	DISO 2266 2287	ingurgitación yugular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T46 Arg2:T47

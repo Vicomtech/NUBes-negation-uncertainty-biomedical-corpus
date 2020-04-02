@@ -1,0 +1,53 @@
+T1	UncertLexMarker 9 19	planteando
+T2	Phrase 20 69	el diagnóstico de osteítis , miositis y celulitis
+T3	DISO 38 46	osteítis
+T4	DISO 49 57	miositis
+T5	DISO 60 69	celulitis
+T6	UncertLexMarker 97 105	probable
+T7	DISO 106 142	carácter , infeccioso - inflamatorio
+T8	UncertLexMarker 145 156	Se plantean
+T9	PROC 157 212	estudios histológicos y microbiológicos complementarios
+T10	UncertLexMarker 241 256	No se descartan
+T11	Phrase 257 391	otras opciones como la de necrosis a vascular evolucionada , siendo muy poco probable por la morfología y localización de las lesiones
+T12	DISO 283 315	necrosis a vascular evolucionada
+T13	PolItem 325 342	muy poco probable
+T14	UncertLexMarker 470 483	poco probable
+T15	UncertLexMarker 495 509	no se descarta
+T16	PolItem 510 518	del todo
+T17	Phrase 510 543	del todo una etiología neoplásica
+T18	DISO 519 543	una etiología neoplásica
+T19	UncertLexMarker 917 928	Sospecha de
+T20	DISO 929 948	derrame pericárdico
+T21	NegSynMarker 951 953	No
+T22	DISO 954 973	derrame pericardico
+T23	UncertLexMarker 1228 1234	Podría
+T24	Phrase 1235 1286	tratarse de una necrosis avascular muy evolucionada
+T25	DISO 1251 1286	necrosis avascular muy evolucionada
+T26	NegSynMarker 1304 1306	no
+T27	DISO 1307 1426	justificaría el engrosamiento edematoso de partes blandas y las importantes captaciones de contraste que se identifican
+T28	NegSynMarker 1597 1599	No
+T29	Phrase 1600 1645	se observan signos histologicos de malignidad
+T30	DISO 1612 1645	signos histologicos de malignidad
+T31	NegSynMarker 1804 1807	sin
+T32	DISO 1808 1819	variaciones
+T33	NegSynMarker 2117 2120	sin
+T34	Phrase 2121 2207	que en ningún momento apreciemos imagen de neoformación con respeto a la cortical ósea
+T35	PolItem 2128 2134	ningún
+T36	DISO 2164 2207	neoformación con respeto a la cortical ósea
+T37	UncertLexMarker 2680 2687	valorar
+T38	Phrase 2688 2781	proceso inflamatorio - infeccioso , ( celulitis , miositis y osteítis ) , como primera opción
+T39	DISO 2688 2721	proceso inflamatorio - infeccioso
+R1	Scope Arg1:T6 Arg2:T7
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T14 Arg2:T18
+R6	Scope Arg1:T15 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T37 Arg2:T38

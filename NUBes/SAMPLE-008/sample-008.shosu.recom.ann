@@ -1,0 +1,14 @@
+T1	NegLexMarker 1888 1902	Abstinencia de
+T2	OTHER 1903 1908	fumar
+T3	UncertLexMarker 3395 3402	Valorar
+T4	Phrase 3403 3496	si precisa pruebas función respiratoria basales e introducción de tratamiento con inhaladores
+T5	PROC 3414 3450	pruebas función respiratoria basales
+T6	CoordItem 3451 3452	e
+T7	PROC 3469 3496	tratamiento con inhaladores
+T8	SUBS 3929 3946	Pletal ( cambio )
+T9	NegLexMarker 3947 3955	suspende
+T10	Phrase 3956 3972	este tratamiento
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	DiscScope Arg1:T9 Arg2:T10
+R4	DiscScope Arg1:T9 Arg2:T8

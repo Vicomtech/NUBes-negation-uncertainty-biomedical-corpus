@@ -1,0 +1,76 @@
+T1	NegSynMarker 223 225	no
+T2	DISO 226 244	sangrado posterior
+T3	NegSynMarker 256 258	no
+T4	PROC 259 294	realizar taponamiento contralateral
+T5	NegSynMarker 363 365	no
+T6	Phrase 366 380	escucho soplos
+T7	DISO 374 380	soplos
+T8	NegSynMarker 454 456	no
+T9	DISO 457 465	abombado
+T10	NegLexMarker 587 591	cede
+T11	DISO 592 600	sangrado
+T12	NegSynMarker 796 799	sin
+T13	Phrase 800 828	salida de material purulento
+T14	SUBS 810 828	material purulento
+T15	NegSynMarker 980 982	no
+T16	DISO 983 989	soplos
+T17	DISO 1208 1225	mareo con aplidez
+T18	NegLexMarker 1230 1234	cede
+T19	Phrase 1235 1250	con el decúbito
+T20	NegSynMarker 1492 1494	No
+T21	DISO 1495 1517	dismetrias cerebelosas
+T22	NegSynMarker 1661 1664	sin
+T23	DISO 1665 1692	otras afectaciones de pares
+T24	UncertLexMarker 1831 1837	dudosa
+T25	DISO 1838 1865	hipoestesia mandibular izda
+T26	NegSynMarker 1961 1963	no
+T27	DISO 1964 1972	rinorrea
+T28	NegSynMarker 2035 2037	no
+T29	Phrase 2038 2066	se visualiza punto sangrante
+T30	DISO 2051 2066	punto sangrante
+T31	NegSynMarker 2081 2083	no
+T32	DISO 2084 2102	sangrado posterior
+T33	NegSynMarker 2334 2336	no
+T34	OTHER 2337 2345	agotable
+T35	NegSynMarker 2373 2375	no
+T36	DISO 2376 2386	dismetrias
+T37	NegSynMarker 2388 2390	no
+T38	DISO 2391 2417	déficit sensitivo ni motor
+T39	CoordItem 2409 2411	ni
+T40	NegSynMarker 2549 2551	no
+T41	DISO 2552 2556	cede
+T42	NegSynMarker 2660 2662	No
+T43	DISO 2663 2678	rigidez de nuca
+T44	NegSynMarker 2691 2693	no
+T45	Phrase 2694 2729	evidencia de tapones en ambos oidos
+T46	DISO 2707 2729	tapones en ambos oidos
+T47	NegSynMarker 2840 2842	no
+T48	DISO 2843 2849	soplos
+T49	NegSynMarker 2969 2971	no
+T50	Phrase 2972 2993	roncus ni sibilancias
+T51	DISO 2972 2978	roncus
+T52	CoordItem 2979 2981	ni
+T53	DISO 2982 2993	sibilancias
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	DiscScope Arg1:T18 Arg2:T17
+R9	DiscScope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T33 Arg2:T34
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T40 Arg2:T41
+R20	Scope Arg1:T42 Arg2:T43
+R21	Scope Arg1:T44 Arg2:T45
+R22	Scope Arg1:T47 Arg2:T48
+R23	Scope Arg1:T49 Arg2:T50

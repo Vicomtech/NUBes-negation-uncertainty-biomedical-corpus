@@ -1,0 +1,13 @@
+T1	UncertLexMarker 333 356	Orientación diagnóstica
+T2	DISO 359 374	Tapones cerumen
+T3	UncertLexMarker 469 483	compatible con
+T4	DISO 484 493	celulitis
+T5	NegSynMarker 556 559	Sin
+T6	Phrase 560 586	evidencia de signos de TVP
+T7	DISO 583 586	TVP
+T8	UncertLexMarker 878 889	Orientación
+T9	DISO 904 933	Celulitis de pierna izquierda
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9

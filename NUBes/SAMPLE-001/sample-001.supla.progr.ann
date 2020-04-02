@@ -1,0 +1,46 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 22	hubo exposicón ósea
+T3	DISO 8 22	exposicón ósea
+T4	UncertLexMarker 159 173	no se descarta
+T5	Phrase 174 209	la posibilidad de un injerto futuro
+T6	PROC 192 202	un injerto
+T7	NegSynMarker 558 560	No
+T8	Phrase 561 629	se aprecian lesiones que vayan a requerir procedimientos quirúrgicos
+T9	DISO 573 629	lesiones que vayan a requerir procedimientos quirúrgicos
+T10	NegSynMarker 936 938	no
+T11	Phrase 939 963	presenta sangrado activo
+T12	DISO 948 963	sangrado activo
+T13	NegSynMarker 1232 1234	No
+T14	Phrase 1235 1277	se aprecia motivo para mantener el ingreso
+T15	OTHER 1246 1277	motivo para mantener el ingreso
+T16	NegLexMarker 1672 1683	pérdida del
+T17	OTHER 1684 1699	injerto cutáneo
+T18	PROC 2036 2044	cultivos
+T19	NegLexMarker 2053 2062	negativos
+T20	Phrase 2063 2072	para SARM
+T21	DISO 2068 2072	SARM
+T22	UncertLexMarker 2549 2556	creemos
+T23	Phrase 2557 2630	conveniente suspender la anticoagulacion y tratar solo con antiagregacion
+T24	NegLexMarker 2569 2578	suspender
+T25	SUBS 2579 2597	la anticoagulacion
+T26	OTHER 2600 2630	tratar solo con antiagregacion
+T27	NegSynMarker 2919 2921	no
+T28	Phrase 2922 2964	se aprecia lesión que requiera tratamiento
+T29	DISO 2933 2964	lesión que requiera tratamiento
+T30	NegSynMarker 3079 3082	sin
+T31	DISO 3083 3094	incidencias
+T32	NegSynMarker 3123 3126	sin
+T33	DISO 3127 3138	incidencias
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T16 Arg2:T17
+R7	DiscScope Arg1:T19 Arg2:T18
+R8	DiscScope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33

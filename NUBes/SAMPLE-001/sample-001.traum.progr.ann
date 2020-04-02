@@ -1,0 +1,116 @@
+T1	NegSynMarker 768 771	sin
+T2	DISO 772 809	otros antecedentes médicos reseñables
+T3	NegLexMarker 1285 1303	imposibilidad para
+T4	OTHER 1304 1311	caminar
+T5	NegSynMarker 2019 2021	No
+T6	DISO 2022 2053	dolor a la movilización caderas
+T7	NegSynMarker 2266 2269	sin
+T8	DISO 2270 2275	dolor
+T9	NegSynMarker 2321 2324	sin
+T10	Phrase 2325 2330	apoyo
+T11	NegSynMarker 2482 2484	No
+T12	DISO 2485 2491	fiebre
+T13	NegSynMarker 2525 2527	no
+T14	Phrase 2528 2566	otros sintomas de afectación sistemica
+T15	DISO 2546 2566	afectación sistemica
+T16	NegSynMarker 2755 2758	sin
+T17	Phrase 2759 2819	signos indirectos de endocarditis , ni presencia de verrugas
+T18	DISO 2780 2792	endocarditis
+T19	CoordItem 2795 2797	ni
+T20	DISO 2811 2819	verrugas
+T21	NegSynMarker 2992 2994	No
+T22	DISO 2995 3051	dolor a la presión sínfisis púbica ni a nivel isquiático
+T23	CoordItem 3030 3032	ni
+T24	NegMorMarker 3115 3122	afebril
+T25	NegSynMarker 3360 3362	No
+T26	DISO 3363 3396	dolor a la compresión axial tórax
+T27	UncertLexMarker 3531 3538	valorar
+T28	Phrase 3539 3625	la posibilidad de añadir Enalapril a dosis mas bajas como pudiera ser de 10 mg diarios
+T29	SUBS 3564 3591	Enalapril a dosis mas bajas
+T30	PROC 3831 3833	FR
+T31	NegLexMarker 3834 3842	negativo
+T32	NegMorMarker 4426 4438	asintomática
+T33	NegSynMarker 4441 4443	No
+T34	Phrase 4444 4482	se observan signos de lisis o listesis
+T35	DISO 4466 4471	lisis
+T36	CoordItem 4472 4473	o
+T37	DISO 4474 4482	listesis
+T38	NegMorMarker 4540 4552	asintomático
+T39	NegSynMarker 4569 4572	sin
+T40	DISO 4573 4578	dolor
+T41	UncertLexMarker 4602 4608	parece
+T42	Phrase 4609 4669	en relación a insuficiencia cardiaca e hipertensión arterial
+T43	DISO 4623 4669	insuficiencia cardiaca e hipertensión arterial
+T44	NegSynMarker 5656 5658	no
+T45	Phrase 5659 5681	presentan alteraciones
+T46	DISO 5669 5681	alteraciones
+T47	NegSynMarker 6112 6115	sin
+T48	DISO 6116 6135	aspecto eritematoso
+T49	NegSynMarker 6223 6225	no
+T50	Phrase 6226 6255	muestra indicios de patologia
+T51	DISO 6246 6255	patologia
+T52	UncertLexMarker 6445 6454	sin clara
+T53	Phrase 6455 6503	condensación o signos de congestion " pulmonar "
+T54	DISO 6455 6467	condensación
+T55	CoordItem 6468 6469	o
+T56	DISO 6480 6503	congestion " pulmonar "
+T57	NegLexMarker 6769 6781	retirada del
+T58	SUBS 6782 6791	Enalapril
+T59	NegSynMarker 7388 7390	No
+T60	DISO 7391 7419	problema para la sedestación
+T61	NegSynMarker 7779 7781	no
+T62	DISO 7782 7790	dolorosa
+T63	NegLexMarker 8263 8271	descarta
+T64	DISO 8272 8294	trombos intracardíacos
+T65	NegSynMarker 8343 8346	sin
+T66	DISO 8347 8356	respuesta
+T67	NegSynMarker 8596 8598	No
+T68	Phrase 8599 8645	nos planteamos anticoagulacion oral permanente
+T69	OTHER 8614 8645	anticoagulacion oral permanente
+T70	NegSynMarker 9168 9171	sin
+T71	Phrase 9172 9201	evidencia de hernias discales
+T72	DISO 9185 9201	hernias discales
+T73	Phrase 9580 9640	Los hemocultivos , cultivo de orina ( dos tomas ) , rx tórax
+T74	PROC 9584 9596	hemocultivos
+T75	PROC 9599 9615	cultivo de orina
+T76	PROC 9632 9640	rx tórax
+T77	NegLexMarker 9645 9654	negativos
+T78	DISO 10151 10159	fractura
+T79	UncertLexMarker 10160 10168	probable
+T80	NegMorMarker 10550 10557	afebril
+T81	NegSynMarker 10560 10562	No
+T82	Phrase 10563 10595	se aprecian signos de mielopatía
+T83	DISO 10585 10595	mielopatía
+T84	NegSynMarker 10649 10651	no
+T85	Phrase 10652 10675	signos de lesión axonal
+T86	DISO 10662 10675	lesión axonal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T31 Arg2:T30
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T52 Arg2:T53
+R20	Scope Arg1:T57 Arg2:T58
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T61 Arg2:T62
+R23	Scope Arg1:T65 Arg2:T66
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T67 Arg2:T68
+R26	Scope Arg1:T70 Arg2:T71
+R27	Scope Arg1:T77 Arg2:T73
+R28	Scope Arg1:T79 Arg2:T78
+R29	Scope Arg1:T81 Arg2:T82
+R30	Scope Arg1:T84 Arg2:T85

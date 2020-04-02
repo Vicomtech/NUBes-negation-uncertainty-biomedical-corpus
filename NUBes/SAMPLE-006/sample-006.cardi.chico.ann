@@ -1,0 +1,58 @@
+T1	NegSynMarker 131 133	No
+T2	Phrase 134 193	refiere mas comorbilidades ni ingesta de otras medicaciones
+T3	DISO 142 160	mas comorbilidades
+T4	CoordItem 161 163	ni
+T5	OTHER 164 193	ingesta de otras medicaciones
+T6	NegLexMarker 641 652	se suspende
+T7	SUBS 653 660	sintrom
+T8	Phrase 664 682	tto con amiodarona
+T9	SUBS 672 682	amiodarona
+T10	NegLexMarker 687 703	se ha suspendido
+T11	Phrase 704 730	por alteraciones tiroideas
+T12	UncertLexMarker 1125 1135	desconocia
+T13	DISO 1136 1149	su existencia
+T14	NegSynMarker 1563 1565	no
+T15	Phrase 1566 1588	refiere dolor torácico
+T16	DISO 1574 1588	dolor torácico
+T17	NegSynMarker 2040 2042	no
+T18	OTHER 2043 2058	ingesta etilica
+T19	NegSynMarker 2059 2061	No
+T20	Phrase 2062 2079	lleva tto cronico
+T21	PROC 2068 2079	tto cronico
+T22	NegSynMarker 2621 2624	sin
+T23	Phrase 2625 2671	irradiaciòn ni cortejo en relaciòn al esfuerzo
+T24	DISO 2625 2636	irradiaciòn
+T25	CoordItem 2637 2639	ni
+T26	DISO 2640 2671	cortejo en relaciòn al esfuerzo
+T27	NegSynMarker 2767 2769	no
+T28	Phrase 2770 2793	tos ni clinica catarral
+T29	DISO 2770 2773	tos
+T30	CoordItem 2774 2776	ni
+T31	DISO 2777 2793	clinica catarral
+T32	NegSynMarker 2796 2798	no
+T33	DISO 2799 2805	fiebre
+T34	NegSynMarker 2808 2810	no
+T35	DISO 2811 2818	vòmitos
+T36	NegMorMarker 2961 2973	Asintomático
+T37	NegMorMarker 3043 3055	inespecifico
+T38	NegLexMarker 3087 3097	incapacita
+T39	Phrase 3098 3105	caminar
+T40	NegSynMarker 3141 3144	sin
+T41	DISO 3145 3151	disnea
+T42	Phrase 3145 3169	disnea ni dolor toracico
+T43	CoordItem 3152 3154	ni
+T44	DISO 3155 3169	dolor toracico
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T10 Arg2:T8
+R3	Scope Arg1:T6 Arg2:T7
+R4	DiscScope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T27 Arg2:T28
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T40 Arg2:T42
+R14	Scope Arg1:T38 Arg2:T39

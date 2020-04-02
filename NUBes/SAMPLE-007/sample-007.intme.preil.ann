@@ -1,0 +1,233 @@
+T1	NegSynMarker 0 2	No
+T2	OTHER 3 23	recuerda lo sucedido
+T3	NegSynMarker 92 94	no
+T4	Phrase 95 107	es valorable
+T5	DISO 98 107	valorable
+T6	UncertLexMarker 266 274	No saben
+T7	Phrase 275 299	si pérdida de conciencia
+T8	DISO 278 299	pérdida de conciencia
+T9	NegSynMarker 305 307	no
+T10	OTHER 308 319	reaccionaba
+T11	NegLexMarker 591 600	Se retiró
+T12	SUBS 601 611	dabigatran
+T13	NegSynMarker 719 721	No
+T14	DISO 722 745	pérdida de conocimiento
+T15	NegSynMarker 777 779	no
+T16	Phrase 780 796	refiere síntomas
+T17	DISO 788 796	síntomas
+T18	UncertLexMarker 799 806	No sabe
+T19	OTHER 807 841	precisar si ha estado inconsciente
+T20	NegSynMarker 931 933	No
+T21	DISO 934 960	aumenta con la inspiración
+T22	UncertLexMarker 1015 1022	No sabe
+T23	Phrase 1023 1063	si ha presentado pérdida de conocimiento
+T24	DISO 1040 1063	pérdida de conocimiento
+T25	UncertLexMarker 1107 1114	No sabe
+T26	Phrase 1115 1136	describir lo sucedido
+T27	NegSynMarker 1206 1208	no
+T28	DISO 1209 1217	presenta
+T29	UncertLexMarker 1542 1549	no sabe
+T30	OTHER 1550 1558	precisar
+T31	NegSynMarker 1632 1634	No
+T32	DISO 1635 1663	otra clínica en la anamnesis
+T33	NegSynMarker 1764 1766	No
+T34	OTHER 1767 1776	picaduras
+T35	NegSynMarker 2133 2136	sin
+T36	DISO 2137 2158	pérdida de conciencia
+T37	NegLexMarker 2261 2266	Niega
+T38	OTHER 2267 2311	toma de medicamentos fuera de los habituales
+T39	UncertLexMarker 2380 2387	parecía
+T40	DISO 2388 2396	aturdido
+T41	NegSynMarker 2602 2604	No
+T42	DISO 2605 2611	fiebre
+T43	NegSynMarker 2738 2741	sin
+T44	DISO 2742 2749	cambios
+T45	NegSynMarker 2752 2754	no
+T46	DISO 2755 2763	oliguria
+T47	NegSynMarker 2781 2783	No
+T48	Phrase 2784 2844	refiere pérdida de fuerza ni de sensibilidad en extremidades
+T49	DISO 2792 2844	pérdida de fuerza ni de sensibilidad en extremidades
+T50	CoordItem 2810 2812	ni
+T51	NegSynMarker 2847 2849	No
+T52	DISO 2850 2892	se relaciona con el esfuerzo ni la ingesta
+T53	CoordItem 2879 2881	ni
+T54	NegMorMarker 3053 3065	inespecifico
+T55	NegSynMarker 3066 3069	sin
+T56	DISO 3070 3074	giro
+T57	NegSynMarker 3106 3108	no
+T58	DISO 3109 3118	irradiado
+T59	NegSynMarker 3155 3157	No
+T60	DISO 3158 3189	otra sintomatología acompañante
+T61	NegSynMarker 3281 3283	No
+T62	Phrase 3284 3298	refiere disnea
+T63	DISO 3292 3298	disnea
+T64	NegSynMarker 3301 3303	no
+T65	DISO 3304 3318	dolor torácico
+T66	Phrase 3304 3356	dolor torácico , palpitaciones ni cortejo vegetativo
+T67	DISO 3321 3334	palpitaciones
+T68	CoordItem 3335 3337	ni
+T69	DISO 3338 3356	cortejo vegetativo
+T70	Phrase 3359 3412	Tenia pautado trileptal 300 hace tiempo por psicologo
+T71	SUBS 3373 3386	trileptal 300
+T72	NegLexMarker 3413 3414	?
+T73	NegLexMarker 3424 3433	suspendió
+T74	NegSynMarker 3994 3996	No
+T75	Phrase 3997 4026	clínica de infección urinaria
+T76	DISO 4008 4026	infección urinaria
+T77	NegSynMarker 4318 4320	No
+T78	DISO 4321 4328	cefalea
+T79	NegSynMarker 4331 4333	no
+T80	Phrase 4334 4362	vómitos ni estupor posterior
+T81	DISO 4334 4341	vómitos
+T82	CoordItem 4342 4344	ni
+T83	DISO 4345 4352	estupor
+T84	NegSynMarker 4365 4368	Sin
+T85	DISO 4369 4399	cortejo vegetativo acompañante
+T86	NegSynMarker 4402 4405	sin
+T87	DISO 4406 4497	irradiación a ambos hemitórax , ni región dorsal , ni cervical ni a extremidades superiores
+T88	CoordItem 4438 4440	ni
+T89	CoordItem 4457 4459	ni
+T90	CoordItem 4469 4471	ni
+T91	NegSynMarker 4620 4622	No
+T92	OTHER 4623 4650	otros cambios de medicación
+T93	UncertLexMarker 4653 4663	Al parecer
+T94	Phrase 4664 4700	ha ingerido alcohol en el dia de hoy
+T95	NegSynMarker 4703 4705	no
+T96	Phrase 4706 4728	es consumidor habitual
+T97	NegSynMarker 4961 4963	No
+T98	Phrase 4964 5000	ha apreciado picaduras de garrapatas
+T99	OTHER 4977 5000	picaduras de garrapatas
+T100	NegSynMarker 5388 5390	No
+T101	DISO 5391 5397	disnea
+T102	NegSynMarker 5400 5402	no
+T103	DISO 5403 5411	ortopnea
+T104	NegSynMarker 5414 5416	no
+T105	DISO 5417 5420	DPN
+T106	NegSynMarker 5545 5547	No
+T107	OTHER 5548 5567	ingesta alimentaria
+T108	Phrase 5548 5588	ingesta alimentaria en las horas previas
+T109	NegLexMarker 5656 5661	niega
+T110	OTHER 5662 5675	otros toxicos
+T111	UncertLexMarker 5678 5688	Al parecer
+T112	Phrase 5689 5733	ha sufrido algún otro episodio simiar previo
+T113	DISO 5700 5733	algún otro episodio simiar previo
+T114	UncertLexMarker 5967 5974	posible
+T115	DISO 5975 5998	pérdida de conocimiento
+T116	NegSynMarker 6300 6303	sin
+T117	DISO 6304 6327	pérdida de conocimiento
+T118	NegSynMarker 6683 6685	No
+T119	DISO 6686 6692	edemas
+T120	NegSynMarker 6695 6697	no
+T121	Phrase 6698 6725	tos ni clinica respiratoria
+T122	DISO 6698 6701	tos
+T123	CoordItem 6702 6704	ni
+T124	DISO 6705 6725	clinica respiratoria
+T125	SUBS 6804 6813	Omeprazol
+T126	NegSynMarker 6816 6818	no
+T127	OTHER 6819 6823	toma
+T128	NegSynMarker 6896 6898	No
+T129	DISO 6899 6912	palpitaciones
+T130	NegSynMarker 6915 6917	no
+T131	DISO 6918 6936	cortejo vegetativo
+T132	NegSynMarker 7061 7064	sin
+T133	DISO 7065 7072	cambios
+T134	NegSynMarker 7396 7399	sin
+T135	DISO 7400 7407	mejoría
+T136	NegSynMarker 7438 7440	No
+T137	DISO 7441 7454	expectoración
+T138	NegSynMarker 7495 7498	sin
+T139	Phrase 7499 7524	signos de sangrado activo
+T140	DISO 7509 7524	sangrado activo
+T141	NegSynMarker 7653 7655	No
+T142	DISO 7656 7676	sensación distérmica
+T143	UncertLexMarker 8218 8230	posiblemente
+T144	DISO 8231 8271	por problemas neurológicos degenerativos
+T145	NegMorMarker 8661 8673	asintomático
+T146	UncertLexMarker 8752 8759	No sabe
+T147	OTHER 8760 8784	especificar localización
+T148	NegSynMarker 8787 8789	No
+T149	DISO 8790 8797	vómitos
+T150	NegSynMarker 8947 8950	sin
+T151	Phrase 8951 8966	realizar vómito
+T152	DISO 8960 8966	vómito
+T153	NegSynMarker 8995 8997	No
+T154	Phrase 8998 9048	infección respiratoria ni clinica ORL ni digestiva
+T155	DISO 8998 9020	infección respiratoria
+T156	CoordItem 9021 9023	ni
+T157	DISO 9024 9048	clinica ORL ni digestiva
+T158	CoordItem 9036 9038	ni
+T159	NegSynMarker 9114 9116	No
+T160	DISO 9117 9124	cefalea
+T161	Phrase 9117 9147	cefalea ni vómitos posteriores
+T162	CoordItem 9125 9127	ni
+T163	DISO 9128 9135	vómitos
+T164	NegSynMarker 9150 9152	No
+T165	DISO 9153 9159	fiebre
+T166	NegSynMarker 9162 9164	no
+T167	DISO 9165 9184	otra sintomatología
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T37 Arg2:T38
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T41 Arg2:T42
+R20	Scope Arg1:T43 Arg2:T44
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T47 Arg2:T48
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T57 Arg2:T58
+R26	Scope Arg1:T59 Arg2:T60
+R27	Scope Arg1:T64 Arg2:T66
+R28	Scope Arg1:T61 Arg2:T62
+R29	Scope Arg1:T73 Arg2:T71
+R30	Scope Arg1:T72 Arg2:T70
+R31	Scope Arg1:T74 Arg2:T75
+R32	Scope Arg1:T79 Arg2:T80
+R33	Scope Arg1:T77 Arg2:T78
+R34	Scope Arg1:T84 Arg2:T85
+R35	Scope Arg1:T86 Arg2:T87
+R36	Scope Arg1:T91 Arg2:T92
+R37	Scope Arg1:T95 Arg2:T96
+R38	Scope Arg1:T93 Arg2:T94
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T100 Arg2:T101
+R41	Scope Arg1:T104 Arg2:T105
+R42	Scope Arg1:T102 Arg2:T103
+R43	Scope Arg1:T106 Arg2:T108
+R44	Scope Arg1:T109 Arg2:T110
+R45	Scope Arg1:T111 Arg2:T112
+R46	Scope Arg1:T114 Arg2:T115
+R47	Scope Arg1:T116 Arg2:T117
+R48	Scope Arg1:T120 Arg2:T121
+R49	Scope Arg1:T118 Arg2:T119
+R50	DiscScope Arg1:T126 Arg2:T127
+R51	DiscScope Arg1:T126 Arg2:T125
+R52	Scope Arg1:T128 Arg2:T129
+R53	Scope Arg1:T130 Arg2:T131
+R54	Scope Arg1:T132 Arg2:T133
+R55	Scope Arg1:T134 Arg2:T135
+R56	Scope Arg1:T136 Arg2:T137
+R57	Scope Arg1:T138 Arg2:T139
+R58	Scope Arg1:T141 Arg2:T142
+R59	Scope Arg1:T143 Arg2:T144
+R60	Scope Arg1:T146 Arg2:T147
+R61	Scope Arg1:T148 Arg2:T149
+R62	Scope Arg1:T150 Arg2:T151
+R63	Scope Arg1:T153 Arg2:T154
+R64	Scope Arg1:T159 Arg2:T161
+R65	Scope Arg1:T164 Arg2:T165
+R66	Scope Arg1:T166 Arg2:T167

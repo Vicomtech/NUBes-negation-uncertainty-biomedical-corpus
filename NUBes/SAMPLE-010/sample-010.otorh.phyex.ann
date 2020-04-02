@@ -1,0 +1,45 @@
+T1	NegSynMarker 502 505	sin
+T2	DISO 506 547	alteraciones estructurales ni funcionales
+T3	Phrase 506 578	alteraciones estructurales ni funcionales en vía aero-digestiva superior
+T4	CoordItem 533 535	ni
+T5	NegSynMarker 890 892	no
+T6	DISO 893 904	obstructiva
+T7	NegSynMarker 988 990	no
+T8	DISO 991 1016	adherida a plano profundo
+T9	NegSynMarker 1359 1361	No
+T10	Phrase 1362 1383	se palpan adenopatías
+T11	DISO 1372 1383	adenopatías
+T12	NegSynMarker 1699 1701	no
+T13	DISO 1702 1710	oclusiva
+T14	NegSynMarker 1955 1957	No
+T15	Phrase 1958 1991	se objetiva salida de secreciones
+T16	SUBS 1980 1991	secreciones
+T17	DISO 2144 2155	inflamaciòn
+T18	UncertLexMarker 2185 2193	probable
+T19	DISO 2194 2202	de uvula
+T20	NegSynMarker 2667 2669	No
+T21	DISO 2670 2703	signos inflamatorios circundantes
+T22	NegSynMarker 2889 2891	no
+T23	Phrase 2892 2913	se palpan adenopatias
+T24	DISO 2902 2913	adenopatias
+T25	NegSynMarker 3020 3022	No
+T26	Phrase 3023 3042	se aprecian polipos
+T27	DISO 3035 3042	polipos
+T28	NegMorMarker 3092 3102	incompleto
+T29	NegSynMarker 3268 3270	no
+T30	DISO 3271 3279	megalias
+T31	NegSynMarker 3287 3289	no
+T32	DISO 3290 3296	edemas
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	DiscScope Arg1:T18 Arg2:T17
+R8	DiscScope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T29 Arg2:T30

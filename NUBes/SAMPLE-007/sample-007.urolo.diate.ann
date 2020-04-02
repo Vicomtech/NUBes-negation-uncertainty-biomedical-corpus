@@ -1,0 +1,106 @@
+T1	UncertLexMarker 181 189	Probable
+T2	DISO 190 239	litiasis de 7 mm en polo inferior renal izquierdo
+T3	NegSynMarker 292 294	no
+T4	DISO 295 306	obstructiva
+T5	NegSynMarker 631 634	sin
+T6	SUBS 635 641	cte iv
+T7	NegSynMarker 732 734	no
+T8	Phrase 735 762	existe obstrucción completa
+T9	DISO 742 762	obstrucción completa
+T10	NegSynMarker 1332 1335	sin
+T11	Phrase 1336 1430	objetivarse colecciones organizadas peri-pararrenales de tamaño significativo en la actualidad
+T12	DISO 1348 1413	colecciones organizadas peri-pararrenales de tamaño significativo
+T13	UncertLexMarker 1676 1684	probable
+T14	DISO 1685 1706	nefrolitiasis derecha
+T15	UncertLexMarker 1719 1734	compatibles con
+T16	DISO 1735 1793	pielonefritis izquierda con dilatación de la via excretora
+T17	UncertLexMarker 1977 1990	probablemente
+T18	DISO 1991 2013	por contenido hemático
+T19	NegSynMarker 2377 2379	no
+T20	DISO 2380 2392	obstructivas
+T21	NegSynMarker 2866 2869	sin
+T22	OTHER 2870 2897	objetivar nivel obstructivo
+T23	NegSynMarker 3004 3007	Sin
+T24	DISO 3008 3038	otros hallazgos significativos
+T25	UncertLexMarker 3666 3674	probable
+T26	DISO 3675 3683	miositis
+T27	NegSynMarker 3686 3689	sin
+T28	DISO 3690 3714	hallazgos de agresividad
+T29	UncertLexMarker 3720 3728	probable
+T30	DISO 3729 3764	relación con alteración biomecánica
+T31	NegSynMarker 3987 3990	sin
+T32	DISO 3991 4021	afectar a la raíz L5 izquierda
+T33	NegSynMarker 4060 4063	sin
+T34	DISO 4064 4093	lesiones ocupantes de espacio
+T35	NegSynMarker 4107 4110	sin
+T36	Phrase 4111 4132	signos de inflamación
+T37	DISO 4121 4132	inflamación
+T38	UncertLexMarker 4166 4174	Probable
+T39	DISO 4175 4206	litiasis ureteral derecha L2-L3
+T40	NegSynMarker 4278 4280	no
+T41	OTHER 4281 4289	aclarada
+T42	UncertLexMarker 4296 4304	probable
+T43	DISO 4305 4330	estenosis en uréter medio
+T44	NegSynMarker 4451 4454	sin
+T45	DISO 4455 4474	efectos compresivos
+T46	NegSynMarker 4477 4480	Sin
+T47	DISO 4481 4524	hallazgos ecográficos de orquitis izquierda
+T48	NegSynMarker 4665 4667	no
+T49	DISO 4668 4679	obstructiva
+T50	NegSynMarker 4797 4800	sin
+T51	DISO 4801 4832	dilatación del sistema excretor
+T52	UncertLexMarker 4982 4994	Posiblemente
+T53	Phrase 4995 5130	la paciente presente degeneración de las pequeñas articulaciones posteriores a nivel lumbar así como discopatías de origen degenerativo
+T54	DISO 5016 5086	degeneración de las pequeñas articulaciones posteriores a nivel lumbar
+T55	CoordItem 5087 5095	así como
+T56	DISO 5096 5130	discopatías de origen degenerativo
+T57	NegSynMarker 5212 5214	no
+T58	DISO 5215 5227	obstructivas
+T59	NegSynMarker 5298 5300	no
+T60	DISO 5301 5313	obstructivas
+T61	NegSynMarker 5380 5382	No
+T62	Phrase 5383 5407	signos de diverticulitis
+T63	DISO 5393 5407	diverticulitis
+T64	NegSynMarker 5410 5412	no
+T65	Phrase 5413 5458	líquido libre ni colecciones intraabdominales
+T66	DISO 5413 5426	líquido libre
+T67	CoordItem 5427 5429	ni
+T68	DISO 5430 5458	colecciones intraabdominales
+T69	NegSynMarker 5475 5477	no
+T70	DISO 5478 5487	dilatadas
+T71	NegSynMarker 5499 5501	no
+T72	DISO 5502 5510	dilatada
+T73	NegSynMarker 5527 5530	sin
+T74	DISO 5531 5543	alteraciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T25 Arg2:T26
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T38 Arg2:T39
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T40 Arg2:T41
+R21	Scope Arg1:T44 Arg2:T45
+R22	Scope Arg1:T46 Arg2:T47
+R23	Scope Arg1:T48 Arg2:T49
+R24	Scope Arg1:T50 Arg2:T51
+R25	Scope Arg1:T52 Arg2:T53
+R26	Scope Arg1:T59 Arg2:T60
+R27	Scope Arg1:T57 Arg2:T58
+R28	Scope Arg1:T64 Arg2:T65
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T61 Arg2:T62
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T73 Arg2:T74

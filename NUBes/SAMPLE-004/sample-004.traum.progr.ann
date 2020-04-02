@@ -1,0 +1,78 @@
+T1	UncertLexMarker 232 243	impresionan
+T2	Phrase 244 260	de neuromediados
+T3	DISO 247 260	neuromediados
+T4	UncertLexMarker 280 289	sin claro
+T5	DISO 290 294	foco
+T6	PROC 299 311	hemocultivos
+T7	NegLexMarker 312 321	negativos
+T8	PROC 324 334	urocultivo
+T9	NegLexMarker 335 343	negativo
+T10	PROC 346 382	cultivo a nivel de herida quirúrgica
+T11	NegLexMarker 383 391	negativo
+T12	DISO 857 865	relación
+T13	UncertLexMarker 866 874	probable
+T14	DISO 875 907	a los sueros y las transfusiones
+T15	UncertLexMarker 1617 1620	sin
+T16	DISO 1621 1637	foco hemorrágico
+T17	UncertLexMarker 1638 1646	aparente
+T18	DISO 1647 1692	de origen digestivo , urinario o respiratorio
+T19	UncertLexMarker 1698 1705	posible
+T20	DISO 1706 1755	relación con el sangrado secundario a la fractura
+T21	NegSynMarker 1861 1864	sin
+T22	DISO 1865 1876	incidencias
+T23	NegSynMarker 1959 1961	No
+T24	Phrase 1962 1982	realizar más pruebas
+T25	PROC 1971 1982	más pruebas
+T26	NegLexMarker 2694 2704	Se retiran
+T27	OTHER 2705 2712	agrafes
+T28	NegSynMarker 2957 2959	no
+T29	DISO 2960 2968	remontan
+T30	NegSynMarker 3105 3107	no
+T31	DISO 3108 3129	problemas quirurgicos
+T32	NegSynMarker 4305 4308	sin
+T33	Phrase 4309 4370	objetivarse alteraciones agudas en la RNM de columna cervical
+T34	DISO 4321 4370	alteraciones agudas en la RNM de columna cervical
+T35	NegSynMarker 4516 4519	sin
+T36	Phrase 4520 4549	llegar a desaparecer del todo
+T37	OTHER 4529 4549	desaparecer del todo
+T38	NegSynMarker 4828 4831	sin
+T39	DISO 4832 4860	datos de calidad neurológica
+T40	NegMorMarker 5184 5198	desorientación
+T41	NegLexMarker 5241 5251	descartado
+T42	DISO 5252 5297	foco respiratorio , urinario o de otro origen
+T43	NegSynMarker 5547 5550	sin
+T44	DISO 5551 5559	sangrado
+T45	NegLexMarker 5654 5670	desaparición del
+T46	DISO 5671 5685	sagrado activo
+T47	NegSynMarker 5796 5798	no
+T48	Phrase 5799 5830	signos de inestabilidad pélvica
+T49	DISO 5809 5830	inestabilidad pélvica
+T50	UncertLexMarker 6092 6110	se interpreto como
+T51	DISO 6111 6124	oligoartritis
+T52	DISO 6127 6133	gotosa
+T53	UncertLexMarker 6134 6135	?
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T11 Arg2:T10
+R4	Scope Arg1:T7 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T8
+R6	DiscScope Arg1:T13 Arg2:T12
+R7	DiscScope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T19 Arg2:T20
+R10	DiscScope Arg1:T17 Arg2:T18
+R11	DiscScope Arg1:T17 Arg2:T16
+R12	DiscMarker Arg1:T15 Arg2:T17
+R13	Scope Arg1:T23 Arg2:T24
+R14	Scope Arg1:T26 Arg2:T27
+R15	Scope Arg1:T28 Arg2:T29
+R16	Scope Arg1:T30 Arg2:T31
+R17	Scope Arg1:T32 Arg2:T33
+R18	Scope Arg1:T35 Arg2:T36
+R19	Scope Arg1:T38 Arg2:T39
+R20	Scope Arg1:T41 Arg2:T42
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T43 Arg2:T44
+R23	Scope Arg1:T47 Arg2:T48
+R24	Scope Arg1:T50 Arg2:T51
+R25	Scope Arg1:T53 Arg2:T52

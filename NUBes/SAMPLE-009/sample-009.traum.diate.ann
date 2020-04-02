@@ -1,0 +1,114 @@
+T1	NegSynMarker 354 357	sin
+T2	DISO 358 376	líneas de fractura
+T3	NegSynMarker 683 686	sin
+T4	DISO 687 711	compresiones radiculares
+T5	NegLexMarker 714 723	Se retiró
+T6	Phrase 724 750	el tratamiento con sintrom
+T7	SUBS 743 750	sintrom
+T8	NegSynMarker 848 851	sin
+T9	DISO 852 871	efectos compresivos
+T10	NegSynMarker 937 940	Sin
+T11	DISO 941 950	hallazgos
+T12	UncertLexMarker 1073 1084	Orientación
+T13	Phrase 1099 1176	Imagen ligeramente esclerosa en vértebra L4 compatible con hemangioma atípico
+T14	PolItem 1143 1157	compatible con
+T15	DISO 1158 1176	hemangioma atípico
+T16	UncertLexMarker 1236 1244	probable
+T17	DISO 1245 1268	naturaleza degenerativa
+T18	NegSynMarker 1314 1316	No
+T19	Phrase 1317 1345	identificamos espondilolisis
+T20	DISO 1331 1345	espondilolisis
+T21	NegMorMarker 1835 1847	deshidratado
+T22	NegSynMarker 1955 1958	sin
+T23	DISO 1959 1983	compresiones radiculares
+T24	UncertLexMarker 2047 2056	Probables
+T25	DISO 2057 2086	pequeñas roturas trabeculares
+T26	Phrase 2057 2208	pequeñas roturas trabeculares en otros huesos del carpo , como en el lado escafoidea del semilunar , en hueso grande , ganchoso , piramidal y pisiforme
+T27	UncertLexMarker 2431 2445	compatible con
+T28	DISO 2446 2488	rotura parcial de evolución aguda-subaguda
+T29	UncertLexMarker 2609 2617	Probable
+T30	Phrase 2618 2739	material discal secuestrado de unos 9 mm medial a la raíz de S1 descendente izquierda , en contacto proximal con el disco
+T31	DISO 2618 2645	material discal secuestrado
+T32	NegSynMarker 2768 2771	sin
+T33	DISO 2772 2784	alteraciones
+T34	NegSynMarker 3054 3056	no
+T35	Phrase 3057 3107	se identifican hallazgos de significado patológico
+T36	DISO 3072 3107	hallazgos de significado patológico
+T37	UncertLexMarker 3199 3210	Orientación
+T38	DISO 3225 3313	Rotura parcial de 8 mm de evolución aguda-subaguda en inserción distal del supraespinoso
+T39	NegSynMarker 3581 3583	No
+T40	Phrase 3584 3617	se observa fractura de escafoides
+T41	DISO 3595 3617	fractura de escafoides
+T42	UncertLexMarker 4112 4127	compatibles con
+T43	DISO 4128 4162	líneas de fractura aguda-subagudas
+T44	NegSynMarker 4180 4182	no
+T45	Phrase 4183 4240	se visualiza hipointensidad en T2 para pensar en necrosis
+T46	DISO 4196 4210	hipointensidad
+T47	UncertLexMarker 4493 4504	Orientación
+T48	Phrase 4519 4671	Discopatía crónica L5/S1 , con herniación centro-paramedial izquierda que rectifica el saco dural y entra en contacto con la raíz S1 emergente izquierda
+T49	DISO 4519 4543	Discopatía crónica L5/S1
+T50	DISO 4550 4588	herniación centro-paramedial izquierda
+T51	NegSynMarker 4730 4733	sin
+T52	Phrase 4734 4777	evidencia de roturas o luxaciones del mismo
+T53	DISO 4747 4754	roturas
+T54	CoordItem 4755 4756	o
+T55	DISO 4757 4767	luxaciones
+T56	NegSynMarker 4804 4807	sin
+T57	DISO 4808 4835	desplazamiento del trapecio
+T58	NegSynMarker 5542 5545	sin
+T59	DISO 5546 5564	líneas de fractura
+T60	UncertLexMarker 5567 5573	podría
+T61	Phrase 5574 5609	haber pequeñas roturas trabeculares
+T62	DISO 5580 5609	pequeñas roturas trabeculares
+T63	NegSynMarker 5681 5683	no
+T64	DISO 5684 5691	típicas
+T65	UncertLexMarker 6264 6273	no parece
+T66	Phrase 6274 6304	una raíz conjunta ni es quiste
+T67	DISO 6274 6291	una raíz conjunta
+T68	CoordItem 6292 6294	ni
+T69	DISO 6298 6304	quiste
+T70	UncertLexMarker 6307 6313	podría
+T71	Phrase 6314 6353	tratarse de material discal secuestrado
+T72	DISO 6326 6353	material discal secuestrado
+T73	UncertLexMarker 6686 6701	compatibles con
+T74	DISO 6702 6745	líneas de fractura evolución aguda-subaguda
+T75	NegSynMarker 6748 6751	sin
+T76	DISO 6752 6771	fragmento necrosado
+T77	NegSynMarker 6774 6776	No
+T78	Phrase 6777 6808	se identifican hernias discales
+T79	DISO 6792 6808	hernias discales
+T80	NegSynMarker 7250 7253	sin
+T81	DISO 7254 7272	líneas de fractura
+T82	UncertLexMarker 7414 7422	probable
+T83	DISO 7423 7442	deterioro cognitivo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T26
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T70 Arg2:T71
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T75 Arg2:T76
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T77 Arg2:T78
+R30	Scope Arg1:T80 Arg2:T81
+R31	Scope Arg1:T82 Arg2:T83

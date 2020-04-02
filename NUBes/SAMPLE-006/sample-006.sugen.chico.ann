@@ -1,0 +1,101 @@
+T1	UncertLexMarker 115 125	al parecer
+T2	DISO 126 158	por carcinoma ductal infiltrante
+T3	NegSynMarker 286 289	sin
+T4	DISO 290 306	patología previa
+T5	NegSynMarker 360 362	No
+T6	Phrase 363 407	dolor anal ni irradiación del dolor a pierna
+T7	DISO 363 373	dolor anal
+T8	CoordItem 374 376	ni
+T9	DISO 377 407	irradiación del dolor a pierna
+T10	NegSynMarker 512 515	sin
+T11	Phrase 516 547	llegar a perder el conocimiento
+T12	DISO 525 547	perder el conocimiento
+T13	UncertLexMarker 550 559	No parece
+T14	Phrase 560 599	tener clinica miccional ni respiratoria
+T15	DISO 566 599	clinica miccional ni respiratoria
+T16	CoordItem 584 586	ni
+T17	NegSynMarker 859 861	No
+T18	DISO 862 889	sangrado profuso de heridas
+T19	NegSynMarker 892 894	No
+T20	Phrase 895 935	reifere haber tomado aines , corticoides
+T21	OTHER 909 935	tomado aines , corticoides
+T22	NegSynMarker 1001 1003	No
+T23	DISO 1004 1024	sensacion distérmica
+T24	UncertLexMarker 1307 1317	al parecer
+T25	DISO 1318 1336	reaparece el dolor
+T26	NegSynMarker 1345 1347	no
+T27	Phrase 1348 1393	consiguen realizar ECG por averia del aparato
+T28	PROC 1367 1370	ECG
+T29	NegSynMarker 1463 1465	No
+T30	Phrase 1466 1516	dolor abdominal ni otra sintomatología acompañante
+T31	DISO 1466 1481	dolor abdominal
+T32	CoordItem 1482 1484	ni
+T33	DISO 1485 1516	otra sintomatología acompañante
+T34	NegSynMarker 1664 1667	sin
+T35	DISO 1668 1675	mejoría
+T36	NegSynMarker 1986 1988	No
+T37	Phrase 1989 2020	refiere disnea , dolor torácico
+T38	DISO 1997 2003	disnea
+T39	DISO 2006 2020	dolor torácico
+T40	NegSynMarker 2023 2025	no
+T41	Phrase 2026 2058	palpitaciones ni dolor abdominal
+T42	DISO 2026 2039	palpitaciones
+T43	CoordItem 2040 2042	ni
+T44	DISO 2043 2058	dolor abdominal
+T45	NegSynMarker 2205 2207	No
+T46	DISO 2208 2241	clínica respiratoria ni miccional
+T47	CoordItem 2229 2231	ni
+T48	NegSynMarker 2490 2492	No
+T49	DISO 2493 2501	ortopnea
+T50	NegSynMarker 2504 2506	no
+T51	DISO 2507 2529	edemas en extremidades
+T52	NegSynMarker 2546 2548	No
+T53	Phrase 2549 2613	cortejo vegetativo asociado , ni disnea ni dolor toracico tipico
+T54	DISO 2549 2576	cortejo vegetativo asociado
+T55	CoordItem 2579 2581	ni
+T56	DISO 2582 2588	disnea
+T57	CoordItem 2589 2591	ni
+T58	DISO 2592 2613	dolor toracico tipico
+T59	NegSynMarker 3037 3039	No
+T60	DISO 3040 3043	TCE
+T61	Phrase 3040 3076	TCE ni contusion a ningun otro nivel
+T62	CoordItem 3044 3046	ni
+T63	DISO 3047 3056	contusion
+T64	PolItem 3059 3065	ningun
+T65	DISO 3091 3098	proceso
+T66	NegSynMarker 3114 3116	no
+T67	DISO 3117 3138	digestivo ni urinaria
+T68	CoordItem 3127 3129	ni
+T69	NegSynMarker 3247 3250	sin
+T70	DISO 3251 3258	vómitos
+T71	UncertLexMarker 3261 3271	Al parecer
+T72	Phrase 3272 3384	presenta dolor abdominal de 3 días de evolución , contínuo y acompañado de naúseas y varios episodios de vómitos
+T73	DISO 3281 3319	dolor abdominal de 3 días de evolución
+T74	DISO 3347 3354	naúseas
+T75	DISO 3377 3384	vómitos
+T76	PROC 3463 3479	Labstix de orina
+T77	NegLexMarker 3482 3490	negativo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T45 Arg2:T46
+R16	Scope Arg1:T48 Arg2:T49
+R17	Scope Arg1:T50 Arg2:T51
+R18	Scope Arg1:T52 Arg2:T53
+R19	Scope Arg1:T59 Arg2:T61
+R20	DiscScope Arg1:T66 Arg2:T65
+R21	DiscScope Arg1:T66 Arg2:T67
+R22	Scope Arg1:T69 Arg2:T70
+R23	Scope Arg1:T71 Arg2:T72
+R24	Scope Arg1:T77 Arg2:T76

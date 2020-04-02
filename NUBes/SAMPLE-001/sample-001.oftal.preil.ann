@@ -1,0 +1,10 @@
+T1	NegSynMarker 250 253	sin
+T2	Phrase 254 267	notar mejoría
+T3	DISO 260 267	mejoría
+T4	NegSynMarker 332 335	sin
+T5	PROC 336 339	tto
+T6	NegSynMarker 375 378	sin
+T7	Phrase 379 386	interes
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7

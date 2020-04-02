@@ -1,0 +1,44 @@
+T1	NegSynMarker 35 37	No
+T2	DISO 38 49	amigdalitis
+T3	NegSynMarker 52 54	no
+T4	DISO 55 61	otitis
+T5	NegSynMarker 88 90	no
+T6	OTHER 91 121	ha recuperado su tono habitual
+T7	NegSynMarker 380 382	No
+T8	OTHER 383 387	fuma
+T9	NegSynMarker 422 424	No
+T10	Phrase 425 455	refiere sospecha de hipoacusia
+T11	DISO 445 455	hipoacusia
+T12	NegSynMarker 458 460	No
+T13	Phrase 461 481	disfonía ni disfagia
+T14	DISO 461 469	disfonía
+T15	CoordItem 470 472	ni
+T16	DISO 473 481	disfagia
+T17	NegMorMarker 484 497	Ex - fumadora
+T18	NegSynMarker 534 536	no
+T19	SUBS 537 552	mucosidad nasal
+T20	NegSynMarker 580 582	No
+T21	Phrase 583 602	historia de pirosis
+T22	DISO 595 602	pirosis
+T23	NegSynMarker 1045 1047	No
+T24	DISO 1048 1054	otitis
+T25	Phrase 1048 1083	otitis ni amigdalitis de repeticion
+T26	CoordItem 1055 1057	ni
+T27	DISO 1058 1083	amigdalitis de repeticion
+T28	DISO 1141 1150	ronquidos
+T29	NegLexMarker 1157 1165	cedieron
+T30	Phrase 1166 1187	con el uso de nasonex
+T31	NegSynMarker 1238 1240	No
+T32	DISO 1241 1257	apneas nocturnas
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T25
+R10	DiscScope Arg1:T29 Arg2:T28
+R11	DiscScope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T32

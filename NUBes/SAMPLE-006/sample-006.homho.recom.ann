@@ -1,0 +1,22 @@
+T1	NegSynMarker 4998 5000	No
+T2	Phrase 5001 5015	tomará sintrom
+T3	SUBS 5008 5015	sintrom
+T4	NegSynMarker 5124 5127	sin
+T5	OTHER 5128 5134	forzar
+T6	NegSynMarker 5468 5470	no
+T7	Phrase 5471 5499	contenga pepitas ni pellejos
+T8	CoordItem 5488 5490	ni
+T9	NegSynMarker 7197 7200	sin
+T10	SUBS 7201 7213	deposiciones
+T11	NegSynMarker 7591 7593	No
+T12	Phrase 7594 7633	tomará alimentos con semillas o pepitas
+T13	SUBS 8217 8232	Esta medicación
+T14	NegLexMarker 8243 8252	suspender
+T15	Phrase 8253 8284	5 días antes de la intervención
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T14 Arg2:T13
+R7	DiscScope Arg1:T14 Arg2:T15

@@ -1,0 +1,9 @@
+T1	NegLexMarker 160 166	evitar
+T2	Phrase 169 213	Temperaturas extremas de alimentos y bebidas
+T3	NegSynMarker 271 274	sin
+T4	Phrase 275 279	piel
+T5	NegSynMarker 1173 1176	sin
+T6	SUBS 1177 1184	cafeína
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

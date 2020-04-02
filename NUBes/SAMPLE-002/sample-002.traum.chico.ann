@@ -1,0 +1,79 @@
+T1	NegLexMarker 195 200	Niega
+T2	DISO 201 208	mejoría
+T3	NegSynMarker 417 419	No
+T4	DISO 420 441	perdida de conciencia
+T5	NegSynMarker 526 528	No
+T6	DISO 529 547	dolor a otro nivel
+T7	NegLexMarker 1124 1129	niega
+T8	DISO 1130 1159	clinica de infeccion de orina
+T9	Phrase 1130 1215	clinica de infeccion de orina , ni clinica de infeccion respiratoria los dias previos
+T10	CoordItem 1162 1164	ni
+T11	DISO 1165 1198	clinica de infeccion respiratoria
+T12	NegSynMarker 1218 1220	No
+T13	DISO 1221 1236	dolor abomdinal
+T14	NegLexMarker 1332 1348	Imposibilidad de
+T15	DISO 1349 1381	movilidad con inflamaciona local
+T16	NegSynMarker 1423 1425	No
+T17	DISO 1426 1448	cervicodorso lumbalgia
+T18	NegSynMarker 1644 1646	no
+T19	DISO 1647 1682	irradiado a extremidades inferiores
+T20	NegSynMarker 1685 1687	no
+T21	DISO 1688 1720	perdida de fuerza ni sensiblidad
+T22	CoordItem 1706 1708	ni
+T23	NegSynMarker 1723 1725	No
+T24	DISO 1726 1773	alteracion sensitiva en extremidades inferiores
+T25	NegSynMarker 1892 1895	sin
+T26	Phrase 1896 1933	traumatismo ni esfuerzo físico previo
+T27	DISO 1896 1907	traumatismo
+T28	CoordItem 1908 1910	ni
+T29	OTHER 1911 1933	esfuerzo físico previo
+T30	NegSynMarker 2068 2070	No
+T31	Phrase 2071 2113	fiebre ni clínica de sd miccional asociada
+T32	DISO 2071 2077	fiebre
+T33	CoordItem 2078 2080	ni
+T34	DISO 2081 2113	clínica de sd miccional asociada
+T35	NegSynMarker 2184 2186	No
+T36	Phrase 2187 2219	ha tomado alimentos desde las 4h
+T37	NegSynMarker 2657 2659	No
+T38	DISO 2660 2691	dolor respiratorio ni abdominal
+T39	CoordItem 2679 2681	ni
+T40	NegSynMarker 2712 2714	no
+T41	Phrase 2715 2729	ha sufrido dos
+T42	NegSynMarker 2731 2733	no
+T43	DISO 2734 2757	perdida de conocimeinto
+T44	NegSynMarker 2760 2762	no
+T45	DISO 2763 2768	mareo
+T46	NegSynMarker 3103 3105	no
+T47	DISO 3106 3122	mejora con aines
+T48	NegSynMarker 3146 3148	No
+T49	DISO 3149 3172	perdida de conocimiento
+T50	NegSynMarker 3451 3453	No
+T51	Phrase 3454 3474	cefalea ni focalidad
+T52	DISO 3454 3461	cefalea
+T53	CoordItem 3462 3464	ni
+T54	DISO 3465 3474	focalidad
+T55	NegSynMarker 3489 3491	no
+T56	Phrase 3492 3519	ha tomado medicacion alguna
+T57	SUBS 3502 3512	medicacion
+T58	PolItem 3513 3519	alguna
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T9
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T42 Arg2:T43
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T55 Arg2:T56

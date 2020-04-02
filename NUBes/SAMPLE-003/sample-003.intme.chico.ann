@@ -1,0 +1,108 @@
+T1	NegSynMarker 271 273	no
+T2	DISO 274 281	filiado
+T3	NegSynMarker 496 498	no
+T4	Phrase 499 515	le ha dicho nada
+T5	NegSynMarker 694 697	sin
+T6	Phrase 698 727	llegar a perder la conciencia
+T7	DISO 707 727	perder la conciencia
+T8	NegSynMarker 759 761	no
+T9	DISO 762 786	dèficit motor focalizado
+T10	NegSynMarker 814 816	no
+T11	DISO 817 838	movimientos anormales
+T12	NegSynMarker 841 843	no
+T13	DISO 844 873	emisiòn de espuma por la boca
+T14	NegSynMarker 876 878	no
+T15	DISO 879 893	dolor toràcico
+T16	NegSynMarker 896 898	no
+T17	DISO 899 905	fiebre
+T18	NegSynMarker 908 910	no
+T19	DISO 911 931	clinica respiratoria
+T20	NegSynMarker 934 936	no
+T21	DISO 937 944	vòmitos
+T22	NegSynMarker 947 949	no
+T23	DISO 950 957	cefalea
+T24	SUBS 1065 1079	Tranquilizante
+T25	UncertLexMarker 1080 1081	?
+T26	NegSynMarker 1100 1102	no
+T27	OTHER 1103 1135	podemos acceder al Global Clinic
+T28	NegSynMarker 1244 1246	No
+T29	DISO 1247 1253	vomita
+T30	UncertLexMarker 1317 1326	desconoce
+T31	DISO 1327 1353	insuficiencia renal previa
+T32	NegSynMarker 1627 1629	no
+T33	Phrase 1630 1658	sugestiva de hepatocarcinoma
+T34	DISO 1643 1658	hepatocarcinoma
+T35	UncertLexMarker 1669 1671	No
+T36	DISO 1672 1686	otra focalidad
+T37	UncertLexMarker 1687 1695	aparente
+T38	NegSynMarker 1698 1700	No
+T39	DISO 1701 1723	contusion a otro nivel
+T40	NegSynMarker 1907 1909	No
+T41	DISO 1910 1924	dolor torácico
+T42	NegSynMarker 2116 2118	no
+T43	Phrase 2119 2146	poder caminar hasta el baño
+T44	NegLexMarker 2368 2373	niega
+T45	DISO 2374 2394	dolor a ningun nivel
+T46	PolItem 2382 2388	ningun
+T47	NegSynMarker 2496 2498	No
+T48	DISO 2499 2549	clínica febril , catarral , digestiva ni miccional
+T49	CoordItem 2537 2539	ni
+T50	UncertLexMarker 2676 2688	sin aparente
+T51	DISO 2689 2712	perdida de conocimiento
+T52	NegLexMarker 2843 2848	niega
+T53	DISO 2849 2863	dolor toracico
+T54	NegSynMarker 3145 3147	no
+T55	DISO 3148 3156	conocida
+T56	NegLexMarker 3416 3434	imposibilidad para
+T57	Phrase 3435 3442	caminar
+T58	UncertLexMarker 3807 3820	aparentemente
+T59	DISO 3821 3836	tónico-clónicas
+T60	NegSynMarker 4080 4083	sin
+T61	Phrase 4084 4087	sal
+T62	NegSynMarker 4182 4185	sin
+T63	DISO 4186 4193	vòmitos
+T64	NegSynMarker 4196 4198	no
+T65	DISO 4199 4205	fiebre
+T66	NegSynMarker 4208 4210	no
+T67	DISO 4211 4225	dolor toràcico
+T68	NegSynMarker 4228 4230	no
+T69	DISO 4231 4237	disnea
+T70	NegSynMarker 4240 4242	no
+T71	DISO 4243 4263	clinica respiratoria
+T72	NegSynMarker 4266 4268	no
+T73	DISO 4269 4287	sindrome miccional
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T16 Arg2:T17
+R3	Scope Arg1:T20 Arg2:T21
+R4	Scope Arg1:T22 Arg2:T23
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T3 Arg2:T4
+R9	Scope Arg1:T5 Arg2:T6
+R10	Scope Arg1:T8 Arg2:T9
+R11	Scope Arg1:T10 Arg2:T11
+R12	Scope Arg1:T25 Arg2:T24
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T32 Arg2:T33
+R17	DiscMarker Arg1:T35 Arg2:T37
+R18	Scope Arg1:T37 Arg2:T36
+R19	Scope Arg1:T38 Arg2:T39
+R20	Scope Arg1:T40 Arg2:T41
+R21	Scope Arg1:T42 Arg2:T43
+R22	Scope Arg1:T44 Arg2:T45
+R23	Scope Arg1:T47 Arg2:T48
+R24	Scope Arg1:T50 Arg2:T51
+R25	Scope Arg1:T52 Arg2:T53
+R26	Scope Arg1:T54 Arg2:T55
+R27	Scope Arg1:T56 Arg2:T57
+R28	Scope Arg1:T58 Arg2:T59
+R29	Scope Arg1:T68 Arg2:T69
+R30	Scope Arg1:T60 Arg2:T61
+R31	Scope Arg1:T66 Arg2:T67
+R32	Scope Arg1:T72 Arg2:T73
+R33	Scope Arg1:T70 Arg2:T71
+R34	Scope Arg1:T62 Arg2:T63
+R35	Scope Arg1:T64 Arg2:T65

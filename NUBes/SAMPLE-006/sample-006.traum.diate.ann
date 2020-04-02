@@ -1,0 +1,69 @@
+T1	NegSynMarker 65 67	no
+T2	Phrase 68 93	tiene repercusión clinica
+T3	DISO 74 93	repercusión clinica
+T4	UncertLexMarker 99 111	muy probable
+T5	Phrase 112 161	que guarden relación con bacteriuria asintomatica
+T6	DISO 124 161	relación con bacteriuria asintomatica
+T7	NegSynMarker 173 175	no
+T8	Phrase 176 209	se inicia tratamiento antibiotico
+T9	SUBS 198 209	antibiotico
+T10	NegSynMarker 401 404	sin
+T11	DISO 405 426	afectación subcondral
+T12	NegSynMarker 761 764	sin
+T13	BODY 765 817	fragmentos óseos desplazados en ninguna localización
+T14	PolItem 797 804	ninguna
+T15	NegSynMarker 885 888	sin
+T16	Phrase 889 945	evidencia de afectación del muro o elementos posteriores
+T17	DISO 902 945	afectación del muro o elementos posteriores
+T18	NegSynMarker 948 951	sin
+T19	Phrase 952 984	evidencia de masa partes blandas
+T20	DISO 965 984	masa partes blandas
+T21	UncertLexMarker 997 1005	probable
+T22	Phrase 1006 1126	con fractura aplastamiento vertebral de L2 de evolución aguda o subaguda de características osteoporóticas o traumáticas
+T23	DISO 1010 1126	fractura aplastamiento vertebral de L2 de evolución aguda o subaguda de características osteoporóticas o traumáticas
+T24	UncertLexMarker 1202 1213	Orientación
+T25	DISO 1228 1264	Fractura aplastamiento crónica en L1
+T26	UncertLexMarker 1267 1278	Orientación
+T27	Phrase 1293 1368	Fisuraciones paramediales en la tróclea femoral , por condropatía grado III
+T28	DISO 1293 1340	Fisuraciones paramediales en la tróclea femoral
+T29	NegSynMarker 1780 1783	sin
+T30	Phrase 1780 1794	sin edema óseo
+T31	DISO 1784 1794	edema óseo
+T32	UncertSynMarker 1795 1796	o
+T33	Phrase 1797 1832	con mínimo edema en una mínima zona
+T34	DISO 1801 1832	mínimo edema en una mínima zona
+T35	NegSynMarker 2267 2270	sin
+T36	Phrase 2271 2300	signos de ruptura de la misma
+T37	DISO 2281 2300	ruptura de la misma
+T38	NegSynMarker 2501 2504	sin
+T39	Phrase 2505 2534	evidencia de hernias discales
+T40	DISO 2518 2534	hernias discales
+T41	UncertLexMarker 2569 2582	probablemente
+T42	Phrase 2583 2611	osteoporóticas o traumáticas
+T43	DISO 2583 2597	osteoporóticas
+T44	CoordItem 2598 2599	o
+T45	DISO 2600 2611	traumáticas
+T46	NegSynMarker 2689 2691	no
+T47	Phrase 2692 2714	presentan alteraciones
+T48	DISO 2702 2714	alteraciones
+T49	NegSynMarker 2830 2833	sin
+T50	Phrase 2834 2863	signos de ruptura de la misma
+T51	DISO 2844 2863	ruptura de la misma
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	DiscScope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T29 Arg2:T31
+R13	DiscScope Arg1:T32 Arg2:T30
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T49 Arg2:T50

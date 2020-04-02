@@ -1,0 +1,98 @@
+T1	NegSynMarker 81 84	Sin
+T2	Phrase 85 98	signos de TVP
+T3	DISO 95 98	TVP
+T4	UncertLexMarker 168 176	probable
+T5	DISO 177 211	TVP vena tibial posterior proximal
+T6	NegSynMarker 248 250	no
+T7	DISO 251 261	complicada
+T8	NegSynMarker 354 357	sin
+T9	PROC 358 366	cte oral
+T10	NegSynMarker 663 666	sin
+T11	DISO 667 679	flujo venoso
+T12	NegSynMarker 682 685	sin
+T13	DISO 686 736	respuesta a las maniobras de compresión y Valsalva
+T14	UncertLexMarker 739 754	compatibles con
+T15	DISO 755 771	trombosis venosa
+T16	UncertLexMarker 1169 1181	sugestivo de
+T17	Phrase 1182 1237	hernia estrangulada y/o tumoración abdominal complicada
+T18	DISO 1182 1201	hernia estrangulada
+T19	CoordItem 1202 1205	y/o
+T20	DISO 1206 1237	tumoración abdominal complicada
+T21	NegSynMarker 1316 1319	sin
+T22	OTHER 1320 1339	resolución completa
+T23	NegSynMarker 1536 1538	No
+T24	Phrase 1539 1588	se evidencian signos de TVP en vena femoral común
+T25	DISO 1563 1588	TVP en vena femoral común
+T26	UncertLexMarker 1864 1879	compatibles con
+T27	Phrase 1880 1922	foco de diverticulitis aguda no complicada
+T28	DISO 1888 1922	diverticulitis aguda no complicada
+T29	NegSynMarker 1909 1911	no
+T30	DISO 1912 1922	complicada
+T31	NegSynMarker 1949 1952	Sin
+T32	DISO 1953 1983	otros hallazgos significativos
+T33	UncertLexMarker 2059 2071	sugestiva de
+T34	DISO 2072 2099	afectación vascular crónica
+T35	NegLexMarker 2309 2320	SE SUSPENDE
+T36	SUBS 2321 2330	ALDOCUMAR
+T37	UncertLexMarker 2390 2392	no
+T38	Phrase 2393 2401	presenta
+T39	UncertLexMarker 2402 2408	claros
+T40	Phrase 2409 2426	signos de absceso
+T41	DISO 2419 2426	absceso
+T42	NegSynMarker 2472 2474	no
+T43	Phrase 2475 2489	está hidrópica
+T44	DISO 2480 2489	hidrópica
+T45	UncertLexMarker 2966 2972	parece
+T46	DISO 2973 3005	un hematoma de evolución crónica
+T47	UncertLexMarker 3008 3018	improbable
+T48	NegSynMarker 3040 3042	no
+T49	Phrase 3043 3090	objetivó continuidad con la vena safena interna
+T50	DISO 3052 3090	continuidad con la vena safena interna
+T51	UncertLexMarker 3101 3107	parece
+T52	PolItem 3108 3121	poco probable
+T53	Phrase 3108 3158	poco probable que se trate de una variz trombosada
+T54	DISO 3138 3158	una variz trombosada
+T55	NegSynMarker 3585 3588	Sin
+T56	DISO 3589 3616	alteraciones significativas
+T57	NegSynMarker 3684 3687	sin
+T58	SUBS 3688 3702	contraste oral
+T59	DISO 3748 3764	Colección biliar
+T60	UncertLexMarker 3765 3767	??
+T61	UncertLexMarker 4100 4108	Probable
+T62	DISO 4109 4146	TVP en vena tibial posterior proximal
+T63	UncertLexMarker 4291 4299	Probable
+T64	DISO 4300 4310	hemangioma
+T65	NegSynMarker 4822 4825	sin
+T66	SUBS 4826 4828	O2
+T67	NegSynMarker 5222 5224	No
+T68	Phrase 5225 5299	se aprecia empeoramiento radiológico con respecto al estudio del 06/1/2011
+T69	DISO 5236 5261	empeoramiento radiológico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T35 Arg2:T36
+R16	DiscScope Arg1:T39 Arg2:T40
+R17	DiscScope Arg1:T39 Arg2:T38
+R18	Scope Arg1:T42 Arg2:T43
+R19	DiscMarker Arg1:T37 Arg2:T39
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T51 Arg2:T53
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T60 Arg2:T59
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T63 Arg2:T64
+R28	Scope Arg1:T65 Arg2:T66
+R29	Scope Arg1:T67 Arg2:T68

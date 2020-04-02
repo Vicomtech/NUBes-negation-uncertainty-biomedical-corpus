@@ -1,0 +1,121 @@
+T1	UncertLexMarker 141 143	No
+T2	DISO 144 152	derrames
+T3	UncertLexMarker 153 162	evidentes
+T4	OTHER 377 384	informe
+T5	NegSynMarker 389 391	no
+T6	Phrase 392 397	tiene
+T7	NegSynMarker 526 528	No
+T8	Phrase 529 558	ha tomado AINEs para el dolor
+T9	SUBS 539 558	AINEs para el dolor
+T10	NegSynMarker 721 723	No
+T11	Phrase 724 760	en tratamiento con profilaxis de TVP
+T12	PROC 727 760	tratamiento con profilaxis de TVP
+T13	NegSynMarker 763 765	No
+T14	DISO 766 779	palpitaciones
+T15	NegSynMarker 782 784	no
+T16	DISO 785 793	oliguria
+T17	NegSynMarker 796 798	no
+T18	DISO 799 821	edemas en extremidades
+T19	NegSynMarker 824 826	No
+T20	Phrase 827 848	puede jugar al futbol
+T21	NegSynMarker 851 853	No
+T22	DISO 854 862	bloqueos
+T23	NegSynMarker 1079 1081	No
+T24	DISO 1082 1089	derrame
+T25	DISO 1657 1670	Inestabilidad
+T26	NegSynMarker 1690 1692	no
+T27	DISO 1693 1703	en cuestas
+T28	NegSynMarker 1915 1917	No
+T29	DISO 1918 1933	dolor abdominal
+T30	Phrase 1918 1976	dolor abdominal ni dificultad respiratoria ni a la micción
+T31	CoordItem 1934 1936	ni
+T32	DISO 1937 1976	dificultad respiratoria ni a la micción
+T33	CoordItem 1961 1963	ni
+T34	NegSynMarker 1983 1986	sin
+T35	PolItem 1987 1993	apenas
+T36	Phrase 1987 2007	apenas expectoracion
+T37	DISO 1994 2007	expectoracion
+T38	NegSynMarker 2010 2012	no
+T39	DISO 2013 2027	dolor torácico
+T40	NegSynMarker 2030 2032	no
+T41	DISO 2033 2052	fiebre termometrada
+T42	NegMorMarker 2279 2292	Inestabilidad
+T43	NegSynMarker 2413 2415	No
+T44	OTHER 2416 2447	recuerda antecedente traumático
+T45	NegSynMarker 2450 2452	No
+T46	Phrase 2453 2485	refiere dolor inguinal ni de EID
+T47	DISO 2461 2485	dolor inguinal ni de EID
+T48	CoordItem 2476 2478	ni
+T49	NegSynMarker 2510 2512	No
+T50	DISO 2513 2521	derrames
+T51	NegSynMarker 2604 2606	No
+T52	DISO 2607 2637	clínica digestiva ni miccional
+T53	CoordItem 2625 2627	ni
+T54	UncertLexMarker 2695 2702	posible
+T55	DISO 2703 2706	LCA
+T56	NegSynMarker 3193 3196	sin
+T57	DISO 3197 3204	mejoría
+T58	NegSynMarker 3336 3338	No
+T59	Phrase 3339 3366	TCE ni amnesia del episodio
+T60	DISO 3339 3342	TCE
+T61	CoordItem 3343 3345	ni
+T62	DISO 3346 3366	amnesia del episodio
+T63	NegSynMarker 3584 3586	No
+T64	DISO 3587 3598	parestesias
+T65	NegSynMarker 4069 4071	No
+T66	DISO 4072 4085	inestabilidad
+T67	NegSynMarker 4198 4200	No
+T68	Phrase 4201 4259	refiere pérdida ponderal en los últimos meses ni hiporexia
+T69	DISO 4209 4225	pérdida ponderal
+T70	CoordItem 4247 4249	ni
+T71	DISO 4250 4259	hiporexia
+T72	UncertLexMarker 4380 4386	parece
+T73	Phrase 4387 4424	que ha podido ser un problema puntual
+T74	NegSynMarker 4541 4544	sin
+T75	DISO 4545 4552	mejoría
+T76	NegSynMarker 4737 4739	no
+T77	DISO 4740 4751	continuadas
+T78	NegSynMarker 4854 4856	no
+T79	Phrase 4857 4885	refiere coluria ni hematuria
+T80	DISO 4865 4872	coluria
+T81	CoordItem 4873 4875	ni
+T82	DISO 4876 4885	hematuria
+T83	NegSynMarker 4899 4901	no
+T84	DISO 4902 4911	dolorosos
+T85	NegSynMarker 4929 4931	no
+T86	Phrase 4932 4959	ha podido caminar por dolor
+T87	DISO 4942 4959	caminar por dolor
+R1	DiscMarker Arg1:T1 Arg2:T3
+R2	Scope Arg1:T3 Arg2:T2
+R3	DiscScope Arg1:T5 Arg2:T6
+R4	DiscScope Arg1:T5 Arg2:T4
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T13 Arg2:T14
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T23 Arg2:T24
+R13	DiscScope Arg1:T26 Arg2:T27
+R14	DiscScope Arg1:T26 Arg2:T25
+R15	Scope Arg1:T28 Arg2:T30
+R16	Scope Arg1:T34 Arg2:T36
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T51 Arg2:T52
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T56 Arg2:T57
+R25	Scope Arg1:T58 Arg2:T59
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T72 Arg2:T73
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T83 Arg2:T84
+R34	Scope Arg1:T85 Arg2:T86

@@ -1,0 +1,34 @@
+T1	NegSynMarker 37 39	no
+T2	DISO 40 45	tapon
+T3	NegSynMarker 56 58	no
+T4	DISO 59 67	valorado
+T5	NegSynMarker 76 78	no
+T6	DISO 79 85	edemas
+T7	NegSynMarker 244 246	No
+T8	DISO 247 249	IY
+T9	NegSynMarker 250 252	No
+T10	DISO 253 269	signos meningeos
+T11	NegSynMarker 313 315	no
+T12	DISO 316 339	doloroso a la palpacion
+T13	NegSynMarker 340 343	sin
+T14	DISO 344 375	signos de irritacion peritoneal
+T15	NegSynMarker 405 407	No
+T16	DISO 408 418	dismetrias
+T17	NegSynMarker 571 573	No
+T18	DISO 574 612	claudicacion al barre ni al mingazinni
+T19	CoordItem 596 598	ni
+T20	NegSynMarker 622 624	no
+T21	DISO 625 634	explorada
+T22	NegSynMarker 650 653	sin
+T23	DISO 654 660	soplos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23

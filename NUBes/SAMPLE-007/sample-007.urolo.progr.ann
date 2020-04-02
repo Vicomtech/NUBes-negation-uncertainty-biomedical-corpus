@@ -1,0 +1,48 @@
+T1	NegSynMarker 351 353	no
+T2	Phrase 354 381	volviendo a presentar dolor
+T3	DISO 376 381	dolor
+T4	NegLexMarker 1550 1558	cediendo
+T5	DISO 1559 1571	la hematuria
+T6	NegMorMarker 1730 1742	asintomático
+T7	NegLexMarker 1762 1770	Retirada
+T8	OTHER 1771 1787	la sonda vesical
+T9	Phrase 1771 1825	la sonda vesical tras la realizacion de la Cistografia
+T10	NegSynMarker 1834 1837	sin
+T11	DISO 1838 1848	dificultad
+T12	NegLexMarker 2117 2125	cediendo
+T13	DISO 2126 2144	el cuadro doloroso
+T14	NegLexMarker 2147 2155	Retirada
+T15	OTHER 2156 2164	la sonda
+T16	NegSynMarker 2173 2176	sin
+T17	DISO 2177 2186	problemas
+T18	NegSynMarker 2391 2393	No
+T19	Phrase 2394 2427	ha vuelto a presentar pico febril
+T20	DISO 2416 2427	pico febril
+T21	NegLexMarker 2687 2695	cediendo
+T22	DISO 2696 2717	la infeccion urinaria
+T23	NegMorMarker 3002 3014	asintomática
+T24	NegLexMarker 3058 3066	cediendo
+T25	DISO 3067 3079	la hematuria
+T26	NegSynMarker 3111 3114	sin
+T27	DISO 3115 3126	incidencias
+T28	NegLexMarker 3171 3180	retirarle
+T29	OTHER 3181 3189	la sonda
+T30	OTHER 3697 3713	La sonda vesical
+T31	NegLexMarker 3714 3728	se ha retirado
+T32	NegSynMarker 4550 4552	No
+T33	Phrase 4553 4583	ha vuelto a presentar coagulos
+T34	DISO 4575 4583	coagulos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T31 Arg2:T30
+R14	Scope Arg1:T32 Arg2:T33

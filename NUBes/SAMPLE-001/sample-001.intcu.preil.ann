@@ -1,0 +1,97 @@
+T1	NegSynMarker 324 326	No
+T2	DISO 327 362	respuesta del MP definitivo al imán
+T3	UncertLexMarker 601 608	posible
+T4	DISO 609 617	distress
+T5	UncertLexMarker 680 690	parece que
+T6	Phrase 691 728	hace 48 horas comenzó con hematemesis
+T7	DISO 717 728	hematemesis
+T8	NegSynMarker 736 738	no
+T9	Phrase 739 759	consultaron por ello
+T10	NegMorMarker 1374 1381	afebril
+T11	NegSynMarker 1384 1386	no
+T12	Phrase 1387 1413	sacamos cultivos por ahora
+T13	PROC 1387 1403	sacamos cultivos
+T14	DISO 1582 1600	Pancreatitis aguda
+T15	UncertSynMarker 1601 1603	vs
+T16	Phrase 1604 1621	tumor a ese nivel
+T17	DISO 1604 1609	tumor
+T18	UncertLexMarker 1750 1762	posiblemente
+T19	OTHER 1763 1783	por broncoaspiracion
+T20	NegLexMarker 2249 2265	imposibilidad de
+T21	PROC 2266 2287	canalizar via central
+T22	UncertLexMarker 2377 2385	probable
+T23	DISO 2386 2393	síncope
+T24	NegSynMarker 2823 2825	no
+T25	OTHER 2826 2854	han acudido a las revisiones
+T26	NegSynMarker 3233 3235	No
+T27	PROC 3236 3243	cirugia
+T28	NegLexMarker 3536 3546	descartada
+T29	DISO 3547 3550	neo
+T30	NegSynMarker 3864 3866	no
+T31	Phrase 3867 3894	se encuentra zona necrotica
+T32	DISO 3880 3894	zona necrotica
+T33	NegSynMarker 4642 4645	sin
+T34	DISO 4646 4698	deterioro neurológico de sus funciones intelectuales
+T35	UncertLexMarker 4981 4994	probablemente
+T36	DISO 4995 4999	SDRA
+T37	NegSynMarker 5036 5038	no
+T38	DISO 5039 5049	depresible
+T39	NegLexMarker 5188 5206	imposibilidad para
+T40	DISO 5207 5216	la marcha
+T41	NegSynMarker 5236 5239	sin
+T42	Phrase 5240 5271	fiebre ni pérdida de conciencia
+T43	DISO 5240 5246	fiebre
+T44	CoordItem 5247 5249	ni
+T45	DISO 5250 5271	pérdida de conciencia
+T46	NegSynMarker 5528 5531	sin
+T47	DISO 5532 5546	salida de nada
+T48	PolItem 5542 5546	nada
+T49	NegSynMarker 5620 5623	sin
+T50	DISO 5624 5637	mucha mejoria
+T51	UncertLexMarker 5679 5690	sospecha de
+T52	DISO 5691 5708	isquemia de ciego
+T53	NegMorMarker 5741 5753	asintomático
+T54	NegSynMarker 5851 5853	no
+T55	Phrase 5854 5867	signos de TEP
+T56	DISO 5864 5867	TEP
+T57	UncertLexMarker 6600 6608	probable
+T58	DISO 6609 6614	TRALI
+T59	NegSynMarker 7139 7141	no
+T60	Phrase 7142 7176	muestra a priori imagen patológica
+T61	DISO 7159 7176	imagen patológica
+T62	NegSynMarker 7936 7939	sin
+T63	Phrase 7940 7976	sangrado activo en el momento actual
+T64	DISO 7940 7955	sangrado activo
+T65	NegSynMarker 8241 8243	No
+T66	DISO 8244 8252	ortopnea
+T67	NegSynMarker 8660 8662	no
+T68	DISO 8663 8674	pasa entero
+T69	NegMorMarker 8901 8914	inestabilidad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T15 Arg2:T14
+R7	DiscScope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T37 Arg2:T38
+R18	Scope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T39 Arg2:T40
+R20	Scope Arg1:T46 Arg2:T47
+R21	Scope Arg1:T51 Arg2:T52
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T59 Arg2:T60
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68

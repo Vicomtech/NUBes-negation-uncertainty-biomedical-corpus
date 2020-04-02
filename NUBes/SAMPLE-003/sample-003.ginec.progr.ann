@@ -1,0 +1,6 @@
+T1	DISO 0 33	Episodio de fibrilacion auricular
+T2	Phrase 0 52	Episodio de fibrilacion auricular durante el ingreso
+T3	NegLexMarker 59 67	revierte
+T4	Phrase 68 81	con Trangorex
+R1	DiscScope Arg1:T3 Arg2:T4
+R2	DiscScope Arg1:T3 Arg2:T2

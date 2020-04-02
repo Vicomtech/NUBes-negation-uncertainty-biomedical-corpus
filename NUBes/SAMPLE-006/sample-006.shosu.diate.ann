@@ -1,0 +1,94 @@
+T1	UncertLexMarker 326 338	sugestivo de
+T2	DISO 339 358	rotura del manguito
+T3	NegSynMarker 847 849	No
+T4	Phrase 850 882	pausas mayores de 1 ´ 5 segundos
+T5	NegLexMarker 957 973	imposibilidad de
+T6	Phrase 974 1037	medición de diámetro craneocaudal por su extensión endotorácica
+T7	PROC 974 1007	medición de diámetro craneocaudal
+T8	UncertLexMarker 1161 1169	No clara
+T9	Phrase 1170 1202	evidencia condensacion neumonica
+T10	DISO 1180 1202	condensacion neumonica
+T11	NegSynMarker 1253 1255	no
+T12	Phrase 1256 1272	antes de 4 meses
+T13	NegSynMarker 1275 1277	No
+T14	DISO 1278 1326	otras alteraciones del ritmo ni de la conducción
+T15	CoordItem 1307 1309	ni
+T16	NegMorMarker 1417 1430	inespecificos
+T17	NegSynMarker 1469 1471	no
+T18	Phrase 1472 1509	refiere sensación de giro del entorno
+T19	DISO 1480 1509	sensación de giro del entorno
+T20	UncertLexMarker 1561 1568	posible
+T21	DISO 1569 1589	origen medicamentoso
+T22	Phrase 1569 1646	origen medicamentoso en relacion a toma de amiodarona para tto de su arritmia
+T23	NegMorMarker 1720 1732	inespecifico
+T24	NegSynMarker 1775 1778	sin
+T25	DISO 1779 1803	hallazgos significativos
+T26	NegSynMarker 1857 1860	sin
+T27	SUBS 1861 1864	CIV
+T28	NegSynMarker 2030 2032	no
+T29	DISO 2033 2043	desplazada
+T30	NegLexMarker 2598 2614	han desaparecido
+T31	DISO 2615 2690	los sangrados agudos-subagudos , extraaxiales , supratentoriales izquierdos
+T32	NegSynMarker 2870 2873	sin
+T33	DISO 2874 2886	alteraciones
+T34	NegSynMarker 2956 2958	No
+T35	DISO 2959 2966	derrame
+T36	NegLexMarker 3058 3074	Han desaparecido
+T37	Phrase 3075 3149	los signos de hemorragia subaracnoidea aguda en cisura de Silvio izquierda
+T38	DISO 3089 3149	hemorragia subaracnoidea aguda en cisura de Silvio izquierda
+T39	NegLexMarker 3232 3248	desaparición del
+T40	DISO 3249 3280	sangrado agudo-subagudo interno
+T41	NegSynMarker 3368 3371	sin
+T42	Phrase 3372 3377	ayuda
+T43	NegSynMarker 3520 3522	No
+T44	DISO 3523 3531	nistagmo
+T45	PROC 3532 3539	Romberg
+T46	NegLexMarker 3540 3548	negativo
+T47	UncertLexMarker 3626 3633	posible
+T48	DISO 3634 3668	relacion a efecto 2º de amiodarona
+T49	UncertLexMarker 3682 3688	parece
+T50	Phrase 3689 3748	haberse vuelto a aumentar por error desde hace unas semanas
+T51	DISO 3706 3748	aumentar por error desde hace unas semanas
+T52	NegSynMarker 3874 3876	No
+T53	Phrase 3877 3903	precisa infiltración ahora
+T54	PROC 3885 3897	infiltración
+T55	NegSynMarker 4133 4135	no
+T56	Phrase 4136 4166	ha sido revisada desde el 1994
+T57	OTHER 4144 4166	revisada desde el 1994
+T58	NegSynMarker 4334 4337	Sin
+T59	Phrase 4338 4381	evidencia de otros hallazgos significativos
+T60	DISO 4351 4381	otros hallazgos significativos
+T61	NegSynMarker 4447 4449	no
+T62	Phrase 4450 4482	presenta signos de parkinsonismo
+T63	DISO 4469 4482	parkinsonismo
+T64	NegSynMarker 4580 4582	No
+T65	PROC 4583 4600	se explora marcha
+T66	NegSynMarker 5161 5163	no
+T67	OTHER 5164 5176	colaboración
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T22
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T46 Arg2:T45
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T66 Arg2:T67

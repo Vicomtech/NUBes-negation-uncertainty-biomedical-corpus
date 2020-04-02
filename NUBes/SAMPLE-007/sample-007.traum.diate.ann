@@ -1,0 +1,125 @@
+T1	UncertLexMarker 14 29	compatibles con
+T2	DISO 30 87	neuropatía focal de N. Mediano izquierdo a nivel carpiano
+T3	NegSynMarker 287 290	sin
+T4	DISO 291 323	afectación del vástago articular
+T5	UncertLexMarker 375 388	probablemente
+T6	DISO 389 426	tsukamurella sensible al cotrimoxazol
+T7	NegSynMarker 591 594	Sin
+T8	DISO 595 664	líneas de fractura aguda a nivel de la apófisis transversa L5 derecha
+T9	NegSynMarker 793 795	no
+T10	DISO 796 817	ingurgitación yugular
+T11	NegSynMarker 850 853	sin
+T12	DISO 854 860	soplos
+T13	NegSynMarker 1460 1462	no
+T14	OTHER 1463 1499	contacta con estructuras radiculares
+T15	NegSynMarker 1555 1558	sin
+T16	DISO 1559 1573	desplazamiento
+T17	UncertLexMarker 1986 1999	probablemente
+T18	DISO 2000 2037	tsukamurella sensible al cotrimoxazol
+T19	UncertLexMarker 2238 2246	probable
+T20	OTHER 2247 2273	compromiso de L4 izquierda
+T21	NegSynMarker 3056 3058	No
+T22	Phrase 3059 3099	evidencia de patología intracaneal aguda
+T23	DISO 3072 3099	patología intracaneal aguda
+T24	NegSynMarker 3464 3466	no
+T25	OTHER 3467 3498	compromete en el foramen neural
+T26	UncertLexMarker 3526 3539	sugestivos de
+T27	Phrase 3540 3600	afectación radicular cervical parcial y de evolución crónica
+T28	DISO 3540 3577	afectación radicular cervical parcial
+T29	CoordItem 3578 3579	y
+T30	DISO 3580 3600	de evolución crónica
+T31	NegSynMarker 3979 3982	sin
+T32	Phrase 3983 4017	fiebre ni tiritonas ni escalofríos
+T33	DISO 3983 3989	fiebre
+T34	CoordItem 3990 3992	ni
+T35	DISO 3993 4002	tiritonas
+T36	CoordItem 4003 4005	ni
+T37	DISO 4006 4017	escalofríos
+T38	NegSynMarker 4157 4159	no
+T39	Phrase 4160 4195	evidencia de edema transependimario
+T40	DISO 4173 4195	edema transependimario
+T41	UncertLexMarker 4196 4203	sugiere
+T42	Phrase 4204 4270	ventriculomegalia por atrofia subcortical , antes que hidrocefalia
+T43	DISO 4204 4245	ventriculomegalia por atrofia subcortical
+T44	UncertLexMarker 4646 4657	Orientación
+T45	DISO 4672 4767	Rotura de cuello femoral y cotilo derechos con desplazamiento intrapélvico del techo acetabular
+T46	UncertLexMarker 4937 4948	Orientación
+T47	DISO 4963 4997	STC dch : grado 5 , ( muy severo )
+T48	UncertLexMarker 5140 5153	probablemente
+T49	Phrase 5154 5189	en relación con atrofia subcortical
+T50	DISO 5157 5189	relación con atrofia subcortical
+T51	UncertLexMarker 5192 5203	Orientación
+T52	DISO 5218 5241	Atrofia cortical difusa
+T53	NegSynMarker 5244 5247	Sin
+T54	Phrase 5248 5289	evidencia de patología intracraneal aguda
+T55	DISO 5261 5289	patología intracraneal aguda
+T56	NegSynMarker 5337 5339	no
+T57	Phrase 5340 5379	presentan signos de mielopatía cervical
+T58	DISO 5360 5379	mielopatía cervical
+T59	NegSynMarker 5527 5529	no
+T60	Phrase 5530 5582	apareciendo compromiso radicular en esta exploración
+T61	DISO 5542 5562	compromiso radicular
+T62	NegSynMarker 5673 5676	sin
+T63	Phrase 5677 5717	producir cambios por mielopatía cervical
+T64	DISO 5686 5717	cambios por mielopatía cervical
+T65	NegSynMarker 6212 6215	sin
+T66	DISO 6216 6222	fiebre
+T67	NegSynMarker 6316 6319	sin
+T68	OTHER 6320 6340	desviación izquierda
+T69	NegSynMarker 6480 6482	no
+T70	Phrase 6483 6518	registran potenciales reproducibles
+T71	DISO 6493 6518	potenciales reproducibles
+T72	NegSynMarker 6551 6553	No
+T73	OTHER 6554 6562	objetivo
+T74	NegSynMarker 6970 6972	no
+T75	Phrase 6973 7080	está asociado a estructuras anatómicas , tipo tendinoso , ligamentario o óseo en esta localización descrita
+T76	DISO 6978 7050	asociado a estructuras anatómicas , tipo tendinoso , ligamentario o óseo
+T77	UncertLexMarker 7120 7131	Orientación
+T78	DISO 7146 7275	Nódulo de aspecto fibrótico de 16 mm subcutáneo adyacente a la superficie cortical radial de la falange proximal del segundo dedo
+T79	UncertLexMarker 7288 7303	compatibles con
+T80	DISO 7304 7340	marcada neuropatía focal de ambos Ns
+T81	NegSynMarker 7685 7687	no
+T82	Phrase 7688 7721	se obtienen respuestas sensitivas
+T83	DISO 7700 7721	respuestas sensitivas
+T84	DISO 7808 7826	antigua discopatía
+T85	UncertLexMarker 7827 7828	?
+T86	NegSynMarker 7861 7864	sin
+T87	Phrase 7865 7886	administración de CIV
+T88	SUBS 7883 7886	CIV
+T89	UncertLexMarker 7889 7900	Orientación
+T90	DISO 7915 7938	Espondiloartrosis L4-L5
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T9 Arg2:T10
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T56 Arg2:T57
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T62 Arg2:T63
+R25	Scope Arg1:T65 Arg2:T66
+R26	Scope Arg1:T67 Arg2:T68
+R27	Scope Arg1:T69 Arg2:T70
+R28	Scope Arg1:T72 Arg2:T73
+R29	Scope Arg1:T74 Arg2:T75
+R30	Scope Arg1:T77 Arg2:T78
+R31	Scope Arg1:T79 Arg2:T80
+R32	Scope Arg1:T81 Arg2:T82
+R33	Scope Arg1:T85 Arg2:T84
+R34	Scope Arg1:T86 Arg2:T87
+R35	Scope Arg1:T89 Arg2:T90

@@ -1,0 +1,55 @@
+T1	UncertLexMarker 501 508	orienta
+T2	Phrase 509 537	el cuadro hacia cólico renal
+T3	DISO 525 537	cólico renal
+T4	NegSynMarker 950 952	no
+T5	DISO 953 961	dolorosa
+T6	NegSynMarker 980 983	sin
+T7	DISO 984 1017	nódulos sospechosos de malignidad
+T8	NegSynMarker 1525 1528	sin
+T9	DISO 1529 1538	hematuria
+T10	NegSynMarker 2553 2556	sin
+T11	OTHER 2557 2574	control posterior
+T12	UncertLexMarker 2599 2609	Se plantea
+T13	PROC 2610 2639	nueva intervención quirúrgica
+T14	NegSynMarker 2829 2832	sin
+T15	DISO 2833 2854	resultados relevantes
+T16	UncertLexMarker 2855 2871	se orienta hacia
+T17	Phrase 2872 2910	posible causa ginecológica o digestiva
+T18	PolItem 2872 2879	posible
+T19	DISO 2880 2910	causa ginecológica o digestiva
+T20	NegSynMarker 3287 3290	sin
+T21	DISO 3291 3305	otros síntomas
+T22	NegSynMarker 3594 3597	sin
+T23	DISO 3598 3607	hallazgos
+T24	NegLexMarker 3814 3820	retira
+T25	OTHER 3821 3829	la sonda
+T26	UncertLexMarker 4036 4049	sugestivos de
+T27	DISO 4050 4077	recidiva neoplásica pélvica
+T28	NegSynMarker 4568 4570	No
+T29	Phrase 4571 4602	acudió a revisión a la consulta
+T30	UncertLexMarker 4844 4855	dudosamente
+T31	DISO 4856 4864	blástica
+T32	NegSynMarker 4949 4952	sin
+T33	DISO 4953 4974	pèrdida de conciencia
+T34	UncertLexMarker 5185 5196	sospecha de
+T35	DISO 5197 5222	recidiva neoplásica local
+T36	NegLexMarker 5413 5424	se descarta
+T37	Phrase 5425 5455	que se trate de una metástasis
+T38	DISO 5445 5455	metástasis
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T36 Arg2:T37

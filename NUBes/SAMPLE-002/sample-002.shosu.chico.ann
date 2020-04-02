@@ -1,0 +1,6 @@
+T1	UncertLexMarker 826 834	probable
+T2	DISO 835 866	artritis séptica hombro derecho
+T3	DISO 1278 1285	sincope
+T4	UncertLexMarker 1286 1287	?
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3

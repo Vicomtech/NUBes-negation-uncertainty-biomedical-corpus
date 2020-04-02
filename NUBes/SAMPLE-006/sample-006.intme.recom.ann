@@ -1,0 +1,19 @@
+T1	UncertLexMarker 345 352	valorar
+T2	Phrase 353 390	si precisa valoración por Alergologia
+T3	OTHER 364 390	valoración por Alergologia
+T4	UncertLexMarker 402 412	muy dudosa
+T5	Phrase 413 436	de alergia a penicilina
+T6	DISO 416 436	alergia a penicilina
+T7	NegSynMarker 876 878	no
+T8	OTHER 879 910	toma martes , jueves ni sábados
+T9	CoordItem 900 902	ni
+T10	NegSynMarker 928 930	NO
+T11	OTHER 931 949	INGESTA ALCOHOLICA
+T12	NegSynMarker 1089 1092	sin
+T13	Phrase 1093 1136	dulces ni azucares a partir de este momento
+T14	CoordItem 1100 1102	ni
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13

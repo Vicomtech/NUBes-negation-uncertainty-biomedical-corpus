@@ -1,0 +1,11 @@
+T1	NegSynMarker 131 133	No
+T2	Phrase 134 174	se aprecian lesiones en manguito rotador
+T3	DISO 146 174	lesiones en manguito rotador
+T4	NegSynMarker 653 655	no
+T5	OTHER 656 668	reabsorbible
+T6	NegSynMarker 1125 1127	No
+T7	Phrase 1128 1160	se aprecian laxitudes capsulares
+T8	DISO 1140 1160	laxitudes capsulares
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7

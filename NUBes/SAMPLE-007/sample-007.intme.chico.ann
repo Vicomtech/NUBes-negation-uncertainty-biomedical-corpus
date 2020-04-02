@@ -1,0 +1,45 @@
+T1	NegMorMarker 422 436	Desorientación
+T2	NegSynMarker 576 578	no
+T3	DISO 579 586	disuria
+T4	NegSynMarker 589 591	no
+T5	DISO 592 603	polaquiuria
+T6	NegSynMarker 606 608	no
+T7	Phrase 609 644	dolor lumbar ni fiebre termometrada
+T8	DISO 609 621	dolor lumbar
+T9	CoordItem 622 624	ni
+T10	DISO 625 644	fiebre termometrada
+T11	UncertLexMarker 853 860	posible
+T12	DISO 861 881	enfermedad uricemica
+T13	NegSynMarker 984 987	sin
+T14	DISO 988 1007	fiebre termometrada
+T15	NegSynMarker 1244 1246	No
+T16	Phrase 1247 1274	refiere clinica acompañante
+T17	DISO 1255 1274	clinica acompañante
+T18	UncertLexMarker 1455 1466	sospecha de
+T19	DISO 1467 1471	SAHS
+T20	NegSynMarker 1476 1478	No
+T21	Phrase 1479 1499	refiere traumatismos
+T22	DISO 1487 1499	traumatismos
+T23	NegSynMarker 1784 1786	No
+T24	Phrase 1787 1834	refiere haber tomado antibióticos recientemente
+T25	OTHER 1801 1820	tomado antibióticos
+T26	NegSynMarker 2036 2038	no
+T27	Phrase 2039 2067	refiere sensación distermica
+T28	DISO 2047 2067	sensación distermica
+T29	NegMorMarker 2353 2367	desorientación
+T30	UncertLexMarker 3013 3021	probable
+T31	OTHER 3022 3040	situación terminal
+T32	UncertLexMarker 3385 3393	Probable
+T33	DISO 3394 3425	arteriopatia periférica añadida
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T32 Arg2:T33

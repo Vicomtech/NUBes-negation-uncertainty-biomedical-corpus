@@ -1,0 +1,3 @@
+T1	NegSynMarker 169 172	sin
+T2	DISO 173 179	fiebre
+R1	Scope Arg1:T1 Arg2:T2

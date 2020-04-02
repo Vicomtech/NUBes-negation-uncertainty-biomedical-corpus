@@ -1,0 +1,41 @@
+T1	NegSynMarker 0 2	No
+T2	OTHER 3 29	expuesta a ruidos intensos
+T3	NegSynMarker 75 77	No
+T4	DISO 78 108	infecciones faringoamigdalares
+T5	NegSynMarker 111 113	No
+T6	DISO 114 129	mucosidad nasal
+T7	NegSynMarker 132 134	No
+T8	DISO 135 153	alergias descritas
+T9	NegSynMarker 175 177	no
+T10	DISO 178 188	estacional
+T11	NegSynMarker 191 193	No
+T12	Phrase 194 210	refiere rinorrea
+T13	DISO 202 210	rinorrea
+T14	NegSynMarker 213 215	No
+T15	Phrase 216 234	refiere hipoacusia
+T16	DISO 224 234	hipoacusia
+T17	NegSynMarker 306 308	No
+T18	DISO 309 319	estornudos
+T19	NegSynMarker 434 436	No
+T20	DISO 437 469	infecciones óticas de repetición
+T21	NegSynMarker 483 485	No
+T22	DISO 486 499	prurito nasal
+T23	NegSynMarker 502 504	No
+T24	DISO 505 530	antecedentede traumatismo
+T25	NegSynMarker 561 564	sin
+T26	DISO 565 572	vértigo
+T27	NegSynMarker 652 654	No
+T28	DISO 655 663	fumadora
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28

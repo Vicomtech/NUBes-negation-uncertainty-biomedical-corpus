@@ -1,0 +1,363 @@
+T1	NegSynMarker 140 142	no
+T2	DISO 143 152	diarreica
+T3	NegSynMarker 155 158	sin
+T4	DISO 159 165	fiebre
+T5	Phrase 159 194	fiebre ni dolor abdominal asociados
+T6	CoordItem 166 168	ni
+T7	DISO 169 184	dolor abdominal
+T8	NegSynMarker 410 413	sin
+T9	Phrase 414 445	llegar a silencio auscultatorio
+T10	OTHER 423 445	silencio auscultatorio
+T11	NegSynMarker 462 464	no
+T12	DISO 465 470	vacía
+T13	UncertLexMarker 609 620	sospecha de
+T14	DISO 621 643	suboclusión intestinal
+T15	NegSynMarker 994 997	sin
+T16	Phrase 998 1044	signos clínicos de reacción alérgica sistémica
+T17	DISO 1017 1044	reacción alérgica sistémica
+T18	NegSynMarker 1092 1094	no
+T19	DISO 1095 1105	angioedema
+T20	NegSynMarker 1133 1136	sin
+T21	DISO 1137 1158	hallazgos patológicos
+T22	NegSynMarker 1212 1214	no
+T23	DISO 1215 1226	crepitación
+T24	NegSynMarker 1229 1231	no
+T25	DISO 1232 1241	hematomas
+T26	NegMorMarker 1339 1351	asintomático
+T27	NegMorMarker 1354 1361	afebril
+T28	NegSynMarker 1584 1586	no
+T29	DISO 1587 1595	nauseosa
+T30	NegSynMarker 1598 1600	no
+T31	DISO 1601 1607	fiebre
+T32	Phrase 1601 1626	fiebre ni dolor abdominal
+T33	CoordItem 1608 1610	ni
+T34	DISO 1611 1626	dolor abdominal
+T35	NegMorMarker 2216 2223	afebril
+T36	NegSynMarker 2226 2228	No
+T37	Phrase 2229 2275	se aprecias datos inflamatorios ni infecciosos
+T38	DISO 2241 2275	datos inflamatorios ni infecciosos
+T39	CoordItem 2261 2263	ni
+T40	NegSynMarker 2486 2488	no
+T41	DISO 2489 2493	cede
+T42	NegLexMarker 2698 2710	Se retiraron
+T43	OTHER 2711 2735	los puntos de contención
+T44	NegLexMarker 2877 2886	se retiró
+T45	OTHER 2887 2897	el sondaje
+T46	NegLexMarker 3076 3085	se retiró
+T47	SUBS 3086 3109	la anticoagulación oral
+T48	NegSynMarker 3449 3452	sin
+T49	OTHER 3453 3458	bolsa
+T50	NegSynMarker 3475 3478	sin
+T51	SUBS 3479 3486	exudado
+T52	NegSynMarker 3598 3600	No
+T53	OTHER 3601 3622	cambios en medicación
+T54	Phrase 3601 3661	cambios en medicación ni ha tomado más tramadol del habitual
+T55	CoordItem 3623 3625	ni
+T56	OTHER 3636 3661	más tramadol del habitual
+T57	NegSynMarker 3766 3769	sin
+T58	Phrase 3770 3793	evidenciar lesión aguda
+T59	DISO 3781 3793	lesión aguda
+T60	NegSynMarker 4029 4031	no
+T61	DISO 4032 4052	calificadas de dolor
+T62	NegSynMarker 4141 4143	no
+T63	Phrase 4144 4186	ventoseo ni deposición desde hace 48 horas
+T64	DISO 4144 4152	ventoseo
+T65	CoordItem 4153 4155	ni
+T66	DISO 4156 4166	deposición
+T67	NegLexMarker 4377 4383	Retiro
+T68	OTHER 4384 4394	infusor QT
+T69	NegSynMarker 4427 4430	sin
+T70	DISO 4431 4446	otra incidencia
+T71	NegLexMarker 4882 4897	se han retirado
+T72	OTHER 4898 4909	los ágrafes
+T73	Phrase 4898 4924	los ágrafes en dos tiempos
+T74	NegSynMarker 5446 5453	Tampoco
+T75	Phrase 5454 5481	tenían referencia del mismo
+T76	OTHER 5461 5481	referencia del mismo
+T77	NegSynMarker 5522 5524	no
+T78	Phrase 5525 5567	precisa cuidados hospitalarios a domicilio
+T79	OTHER 5533 5567	cuidados hospitalarios a domicilio
+T80	NegSynMarker 5786 5789	sin
+T81	DISO 5790 5801	incidencias
+T82	NegSynMarker 6630 6632	no
+T83	DISO 6633 6639	toleró
+T84	NegMorMarker 6742 6749	afebril
+T85	UncertLexMarker 6891 6903	desconocemos
+T86	OTHER 6904 6911	previos
+T87	NegSynMarker 7018 7020	no
+T88	Phrase 7021 7040	precisa tratamiento
+T89	PROC 7029 7040	tratamiento
+T90	NegLexMarker 7171 7179	falta de
+T91	DISO 7180 7208	tolerancia oral de analgesia
+T92	NegSynMarker 7641 7644	sin
+T93	DISO 7645 7663	traumatismo previo
+T94	NegSynMarker 7789 7792	sin
+T95	DISO 7793 7800	mejoría
+T96	NegLexMarker 7839 7848	suspender
+T97	PROC 7849 7877	todo tratamiento antibiotico
+T98	NegLexMarker 7880 7889	se retira
+T99	PROC 7890 7898	via PICC
+T100	NegSynMarker 8011 8013	no
+T101	Phrase 8014 8045	signos de irritación peritoneal
+T102	DISO 8024 8045	irritación peritoneal
+T103	PROC 8075 8079	PPRB
+T104	NegLexMarker 8082 8083	-
+T105	NegSynMarker 8189 8192	sin
+T106	DISO 8193 8201	erupción
+T107	NegMorMarker 8245 8252	afebril
+T108	PROC 8285 8291	Murphy
+T109	Phrase 8285 8302	Murphy y Blumberg
+T110	PROC 8294 8302	Blumberg
+T111	NegLexMarker 8303 8312	negativos
+T112	NegSynMarker 8447 8450	sin
+T113	DISO 8451 8473	cambios significativos
+T114	NegSynMarker 8507 8509	No
+T115	Phrase 8510 8538	ha comido nada en mal estado
+T116	PolItem 8520 8524	nada
+T117	NegSynMarker 8622 8625	sin
+T118	DISO 8626 8649	pérdida de conocimiento
+T119	NegSynMarker 8672 8675	sin
+T120	DISO 8676 8697	focalidad neurológica
+T121	NegSynMarker 8984 8986	No
+T122	Phrase 8987 9001	presenta dolor
+T123	DISO 8996 9001	dolor
+T124	PROC 9028 9050	dos cultivos en PERINÉ
+T125	Phrase 9072 9082	el primero
+T126	NegLexMarker 9083 9091	negativo
+T127	NegSynMarker 9165 9168	sin
+T128	DISO 9169 9181	alteraciones
+T129	UncertLexMarker 9760 9774	compatible con
+T130	DISO 9775 9786	seguimiento
+T131	UncertLexMarker 9889 9901	sugestivo de
+T132	DISO 9902 9905	GEA
+T133	NegMorMarker 10159 10171	asintomática
+T134	NegMorMarker 10174 10181	afebril
+T135	UncertLexMarker 10467 10478	sospecha de
+T136	DISO 10479 10494	una fisura anal
+T137	PROC 10508 10543	analitica de sangre oculta en heces
+T138	NegLexMarker 10556 10564	negativa
+T139	NegMorMarker 10964 10976	asintomático
+T140	NegSynMarker 10979 10981	no
+T141	Phrase 10982 11010	ha presentado ninguna crisis
+T142	PolItem 10996 11003	ninguna
+T143	DISO 11004 11010	crisis
+T144	NegMorMarker 11311 11318	afebril
+T145	NegMorMarker 11439 11446	afebril
+T146	NegMorMarker 11449 11461	asintomático
+T147	NegSynMarker 11638 11640	no
+T148	Phrase 11641 11658	ha deseado hablar
+T149	DISO 11825 11831	abceso
+T150	NegLexMarker 11834 11845	se descartó
+T151	UncertLexMarker 11948 11959	sospecha de
+T152	DISO 11960 11979	nueva contaminación
+T153	NegLexMarker 12082 12087	Niega
+T154	DISO 12088 12093	dolor
+T155	NegSynMarker 12127 12129	no
+T156	Phrase 12130 12165	se encuentra nerviosa ni preocupada
+T157	OTHER 12143 12151	nerviosa
+T158	CoordItem 12152 12154	ni
+T159	OTHER 12155 12165	preocupada
+T160	PROC 12180 12192	hemocultivos
+T161	NegLexMarker 12201 12210	negativos
+T162	NegLexMarker 12320 12335	desaparición de
+T163	DISO 12336 12349	la induración
+T164	NegSynMarker 12848 12851	sin
+T165	Phrase 12852 12883	que presente más picos febriles
+T166	DISO 12865 12883	más picos febriles
+T167	NegSynMarker 12933 12936	sin
+T168	DISO 12937 12946	infección
+T169	NegSynMarker 12970 12972	no
+T170	Phrase 12973 12982	poner atb
+T171	SUBS 12979 12982	atb
+T172	NegLexMarker 13265 13275	Se retiran
+T173	OTHER 13276 13286	las grapas
+T174	UncertLexMarker 13383 13386	sin
+T175	DISO 13387 13391	foco
+T176	UncertLexMarker 13392 13400	aparente
+T177	PROC 13440 13452	hemocultivos
+T178	NegLexMarker 13461 13470	negativos
+T179	NegSynMarker 13634 13636	No
+T180	Phrase 13637 13749	se observan aparición de otras áreas sospechosas a nivel de resto de parénquima cerebral supra ni infratentorial
+T181	DISO 13662 13749	otras áreas sospechosas a nivel de resto de parénquima cerebral supra ni infratentorial
+T182	CoordItem 13732 13734	ni
+T183	NegSynMarker 13812 13815	sin
+T184	DISO 13816 13839	pérdida de conocimiento
+T185	NegSynMarker 13914 13916	no
+T186	Phrase 13917 14002	duden en ponerse en contacto con nosotros a través de su Oncólogo o Médico de Familia
+T187	NegSynMarker 14005 14007	No
+T188	Phrase 14008 14046	teníamos aviso ni constancia del mismo
+T189	OTHER 14017 14046	aviso ni constancia del mismo
+T190	CoordItem 14023 14025	ni
+T191	NegSynMarker 14479 14481	no
+T192	Phrase 14482 14496	presenta fugas
+T193	OTHER 14491 14496	fugas
+T194	NegSynMarker 14605 14607	no
+T195	Phrase 14608 14628	presenta calor local
+T196	DISO 14617 14628	calor local
+T197	NegMorMarker 15603 15610	afebril
+T198	PROC 15831 15864	dos cultivos en HERIDA QUIRÚRGICA
+T199	NegLexMarker 15878 15887	NEGATIVOS
+T200	Phrase 15888 15904	para la bacteria
+T201	NegLexMarker 16516 16527	se suspende
+T202	Phrase 16528 16574	definitivamente el tratamiento con Ceftriaxona
+T203	SUBS 16563 16574	Ceftriaxona
+T204	UncertLexMarker 17010 17023	impresiona de
+T205	DISO 17024 17034	benignidad
+T206	UncertLexMarker 17037 17051	compatible con
+T207	DISO 17052 17058	Lipoma
+T208	NegSynMarker 17119 17121	no
+T209	Phrase 17122 17157	precisa tratamiento en este momento
+T210	PROC 17130 17157	tratamiento en este momento
+T211	DISO 17184 17201	El proceso febril
+T212	NegLexMarker 17202 17206	cede
+T213	Phrase 17207 17240	en una semana de forma espontánea
+T214	NegSynMarker 17243 17245	No
+T215	DISO 17246 17295	afectación conjuntiva ocular ni palpebral al alta
+T216	CoordItem 17275 17277	ni
+T217	NegSynMarker 17327 17330	sin
+T218	DISO 17331 17341	dificultad
+T219	NegSynMarker 17446 17448	no
+T220	Phrase 17449 17480	continuar el tto con cipro oral
+T221	SUBS 17470 17480	cipro oral
+T222	NegLexMarker 17483 17490	deja de
+T223	OTHER 17491 17498	tomarlo
+T224	NegLexMarker 17764 17773	Se retira
+T225	Phrase 17774 17793	tejadillo y drenaje
+T226	PROC 17774 17783	tejadillo
+T227	PROC 17786 17793	drenaje
+T228	NegSynMarker 18494 18497	sin
+T229	DISO 18498 18525	alteraciones significativas
+T230	NegSynMarker 18559 18561	no
+T231	Phrase 18562 18591	se apreció colección o abceso
+T232	DISO 18573 18582	colección
+T233	CoordItem 18583 18584	o
+T234	DISO 18585 18591	abceso
+T235	NegSynMarker 18694 18697	sin
+T236	SUBS 18698 18705	exudado
+T237	NegSynMarker 19052 19055	sin
+T238	DISO 19056 19067	incidencias
+T239	NegMorMarker 19070 19077	afebril
+T240	NegSynMarker 19152 19154	no
+T241	Phrase 19155 19194	se realizará la administración de fe/ev
+T242	OTHER 19171 19194	administración de fe/ev
+T243	NegLexMarker 19453 19462	Se retira
+T244	OTHER 19463 19468	sonda
+T245	NegLexMarker 19561 19570	suspender
+T246	Phrase 19571 19615	tratamiento con Ceftriaxona y Ciprofloxacino
+T247	SUBS 19587 19598	Ceftriaxona
+T248	CoordItem 19599 19600	y
+T249	SUBS 19601 19615	Ciprofloxacino
+T250	PROC 19850 19917	tratamiento con sistema de aspiración tipo vaccum en glúteo derecho
+T251	NegLexMarker 20050 20059	se retira
+T252	NegLexMarker 20442 20459	En ningún momento
+T253	Phrase 20460 20481	ha presentado trismus
+T254	DISO 20474 20481	trismus
+T255	NegMorMarker 20523 20535	asintomático
+T256	NegMorMarker 20538 20545	afebril
+T257	UncertLexMarker 20658 20666	aparente
+T258	DISO 20667 20680	empeoramiento
+T259	NegMorMarker 20762 20774	asintomático
+T260	NegSynMarker 21466 21468	no
+T261	DISO 21469 21472	tvp
+T262	UncertLexMarker 21543 21548	creen
+T263	Phrase 21549 21565	que ha fallecido
+T264	OTHER 21553 21565	ha fallecido
+R1	Scope Arg1:T3 Arg2:T5
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T11 Arg2:T12
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T24 Arg2:T25
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T32
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T42 Arg2:T43
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T50 Arg2:T51
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T52 Arg2:T54
+R21	Scope Arg1:T57 Arg2:T58
+R22	Scope Arg1:T62 Arg2:T63
+R23	Scope Arg1:T60 Arg2:T61
+R24	Scope Arg1:T69 Arg2:T70
+R25	Scope Arg1:T67 Arg2:T68
+R26	Scope Arg1:T71 Arg2:T73
+R27	Scope Arg1:T74 Arg2:T75
+R28	Scope Arg1:T77 Arg2:T78
+R29	Scope Arg1:T80 Arg2:T81
+R30	Scope Arg1:T82 Arg2:T83
+R31	Scope Arg1:T85 Arg2:T86
+R32	Scope Arg1:T87 Arg2:T88
+R33	Scope Arg1:T90 Arg2:T91
+R34	Scope Arg1:T92 Arg2:T93
+R35	Scope Arg1:T98 Arg2:T99
+R36	Scope Arg1:T96 Arg2:T97
+R37	Scope Arg1:T94 Arg2:T95
+R38	Scope Arg1:T104 Arg2:T103
+R39	Scope Arg1:T105 Arg2:T106
+R40	Scope Arg1:T100 Arg2:T101
+R41	Scope Arg1:T111 Arg2:T109
+R42	Scope Arg1:T112 Arg2:T113
+R43	Scope Arg1:T114 Arg2:T115
+R44	Scope Arg1:T119 Arg2:T120
+R45	Scope Arg1:T117 Arg2:T118
+R46	Scope Arg1:T121 Arg2:T122
+R47	DiscScope Arg1:T126 Arg2:T124
+R48	DiscScope Arg1:T126 Arg2:T125
+R49	Scope Arg1:T127 Arg2:T128
+R50	Scope Arg1:T129 Arg2:T130
+R51	Scope Arg1:T131 Arg2:T132
+R52	Scope Arg1:T135 Arg2:T136
+R53	Scope Arg1:T138 Arg2:T137
+R54	Scope Arg1:T140 Arg2:T141
+R55	Scope Arg1:T147 Arg2:T148
+R56	Scope Arg1:T150 Arg2:T149
+R57	Scope Arg1:T151 Arg2:T152
+R58	Scope Arg1:T155 Arg2:T156
+R59	Scope Arg1:T153 Arg2:T154
+R60	Scope Arg1:T161 Arg2:T160
+R61	Scope Arg1:T162 Arg2:T163
+R62	Scope Arg1:T167 Arg2:T168
+R63	Scope Arg1:T169 Arg2:T170
+R64	Scope Arg1:T164 Arg2:T165
+R65	Scope Arg1:T172 Arg2:T173
+R66	DiscMarker Arg1:T174 Arg2:T176
+R67	Scope Arg1:T176 Arg2:T175
+R68	Scope Arg1:T178 Arg2:T177
+R69	Scope Arg1:T179 Arg2:T180
+R70	Scope Arg1:T183 Arg2:T184
+R71	Scope Arg1:T185 Arg2:T186
+R72	Scope Arg1:T187 Arg2:T188
+R73	Scope Arg1:T191 Arg2:T192
+R74	Scope Arg1:T194 Arg2:T195
+R75	DiscScope Arg1:T199 Arg2:T198
+R76	DiscScope Arg1:T199 Arg2:T200
+R77	Scope Arg1:T201 Arg2:T202
+R78	Scope Arg1:T208 Arg2:T209
+R79	Scope Arg1:T206 Arg2:T207
+R80	Scope Arg1:T204 Arg2:T205
+R81	DiscScope Arg1:T212 Arg2:T211
+R82	DiscScope Arg1:T212 Arg2:T213
+R83	Scope Arg1:T217 Arg2:T218
+R84	Scope Arg1:T214 Arg2:T215
+R85	Scope Arg1:T222 Arg2:T223
+R86	Scope Arg1:T219 Arg2:T220
+R87	Scope Arg1:T224 Arg2:T225
+R88	Scope Arg1:T228 Arg2:T229
+R89	Scope Arg1:T230 Arg2:T231
+R90	Scope Arg1:T235 Arg2:T236
+R91	Scope Arg1:T237 Arg2:T238
+R92	Scope Arg1:T240 Arg2:T241
+R93	Scope Arg1:T243 Arg2:T244
+R94	Scope Arg1:T245 Arg2:T246
+R95	Scope Arg1:T251 Arg2:T250
+R96	Scope Arg1:T252 Arg2:T253
+R97	Scope Arg1:T257 Arg2:T258
+R98	Scope Arg1:T260 Arg2:T261
+R99	Scope Arg1:T262 Arg2:T263

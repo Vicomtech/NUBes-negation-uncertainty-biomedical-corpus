@@ -1,0 +1,73 @@
+T1	NegSynMarker 73 75	No
+T2	Phrase 76 173	ha tomado ningun de las medicaciones , ni ATB , ni Corticoide , ni analgesia ni antiinflamatorios
+T3	PolItem 86 92	ningun
+T4	CoordItem 115 117	ni
+T5	SUBS 118 121	ATB
+T6	CoordItem 124 126	ni
+T7	SUBS 127 137	Corticoide
+T8	CoordItem 140 142	ni
+T9	SUBS 143 152	analgesia
+T10	CoordItem 153 155	ni
+T11	SUBS 156 173	antiinflamatorios
+T12	NegSynMarker 232 234	No
+T13	Phrase 235 328	refiere clinica de infeccion ruinaria , ni dolor abdominal ni otra sintomatologia acompañante
+T14	DISO 254 272	infeccion ruinaria
+T15	CoordItem 275 277	ni
+T16	DISO 278 293	dolor abdominal
+T17	CoordItem 294 296	ni
+T18	DISO 297 328	otra sintomatologia acompañante
+T19	DISO 336 352	epistaxis subita
+T20	NegLexMarker 357 362	cedió
+T21	Phrase 363 380	tras taponamiento
+T22	NegSynMarker 399 401	no
+T23	DISO 402 417	punto sangrante
+T24	NegSynMarker 440 443	sin
+T25	DISO 444 456	taponamiento
+T26	NegSynMarker 578 581	sin
+T27	DISO 582 609	antecedentes MQx de interés
+T28	UncertLexMarker 679 686	valorar
+T29	PROC 687 701	amigdalectomía
+T30	NegSynMarker 783 786	sin
+T31	DISO 787 806	fiebre termometrada
+T32	UncertLexMarker 935 938	sin
+T33	DISO 939 943	foco
+T34	UncertLexMarker 944 949	claro
+T35	NegSynMarker 1349 1352	sin
+T36	PROC 1353 1364	tratamiento
+T37	NegSynMarker 1880 1882	No
+T38	Phrase 1883 1943	ha tomado antitermico ni analgesico desde ayer por la mañana
+T39	SUBS 1893 1904	antitermico
+T40	CoordItem 1905 1907	ni
+T41	SUBS 1908 1918	analgesico
+T42	NegSynMarker 2364 2367	sin
+T43	DISO 2368 2374	fiebre
+T44	NegSynMarker 2839 2842	sin
+T45	DISO 2843 2851	disfonia
+T46	Phrase 2843 2861	disfonia ni disnea
+T47	CoordItem 2852 2854	ni
+T48	DISO 2855 2861	disnea
+T49	NegSynMarker 2862 2864	No
+T50	DISO 2865 2871	fiebre
+T51	Phrase 2877 2896	tto con amoxicilina
+T52	SUBS 2885 2896	amoxicilina
+T53	NegLexMarker 2970 2980	suspendido
+T54	NegLexMarker 3243 3255	desaparecido
+T55	DISO 3256 3292	el edema de paladar y de aritenoides
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T12 Arg2:T13
+R3	Scope Arg1:T24 Arg2:T25
+R4	Scope Arg1:T22 Arg2:T23
+R5	DiscScope Arg1:T20 Arg2:T21
+R6	DiscScope Arg1:T20 Arg2:T19
+R7	Scope Arg1:T30 Arg2:T31
+R8	Scope Arg1:T26 Arg2:T27
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T34 Arg2:T33
+R11	DiscMarker Arg1:T32 Arg2:T34
+R12	Scope Arg1:T35 Arg2:T36
+R13	Scope Arg1:T37 Arg2:T38
+R14	Scope Arg1:T42 Arg2:T43
+R15	Scope Arg1:T49 Arg2:T50
+R16	Scope Arg1:T44 Arg2:T46
+R17	Scope Arg1:T54 Arg2:T55
+R18	Scope Arg1:T53 Arg2:T51

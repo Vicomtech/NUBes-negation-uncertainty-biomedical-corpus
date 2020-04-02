@@ -1,0 +1,113 @@
+T1	NegSynMarker 60 63	sin
+T2	DISO 64 89	caracteristicas mecánicas
+T3	NegSynMarker 187 190	sin
+T4	DISO 191 196	dolor
+T5	NegSynMarker 383 385	No
+T6	DISO 386 416	clínica digestiva ni miccional
+T7	CoordItem 404 406	ni
+T8	NegSynMarker 493 495	No
+T9	Phrase 496 551	se acompañaba el dolor ni de disnea ni mareo ni cortejo
+T10	CoordItem 519 521	ni
+T11	DISO 525 531	disnea
+T12	CoordItem 532 534	ni
+T13	DISO 535 540	mareo
+T14	CoordItem 541 543	ni
+T15	DISO 544 551	cortejo
+T16	NegSynMarker 587 589	no
+T17	Phrase 590 602	sabe precisa
+T18	UncertLexMarker 883 886	sin
+T19	OTHER 887 902	esfuerzo previo
+T20	UncertLexMarker 903 911	aparante
+T21	NegSynMarker 1237 1239	No
+T22	DISO 1240 1254	clinica previa
+T23	NegSynMarker 1257 1259	no
+T24	DISO 1260 1267	melenas
+T25	NegSynMarker 1442 1444	no
+T26	DISO 1445 1520	se repdoruce a la palpacion , ni con al respiracion , ni con los movmientos
+T27	CoordItem 1475 1477	ni
+T28	CoordItem 1499 1501	ni
+T29	NegSynMarker 1656 1658	no
+T30	DISO 1659 1673	podía respirar
+T31	NegSynMarker 1736 1739	sin
+T32	DISO 1740 1752	irradicación
+T33	NegSynMarker 1755 1758	sin
+T34	DISO 1759 1777	cortejo vegetativo
+T35	NegSynMarker 1780 1782	No
+T36	DISO 1783 1805	antecedentes similares
+T37	UncertLexMarker 1903 1911	probable
+T38	DISO 1912 1941	relacion a estenosis de canal
+T39	NegSynMarker 1944 1946	NO
+T40	DISO 1947 1966	traumatismo directo
+T41	NegSynMarker 2139 2142	sin
+T42	Phrase 2143 2168	dolor toracico ni nauseas
+T43	DISO 2143 2157	dolor toracico
+T44	CoordItem 2158 2160	ni
+T45	DISO 2161 2168	nauseas
+T46	NegSynMarker 2334 2336	No
+T47	DISO 2337 2351	clínica febril
+T48	NegSynMarker 2451 2454	sin
+T49	Phrase 2455 2464	consultar
+T50	NegSynMarker 2605 2607	No
+T51	Phrase 2608 2631	palpitaciones ni disnea
+T52	DISO 2608 2621	palpitaciones
+T53	CoordItem 2622 2624	ni
+T54	DISO 2625 2631	disnea
+T55	NegSynMarker 2634 2636	No
+T56	DISO 2637 2651	clínica febril
+T57	Phrase 2637 2711	clínica febril , dolor torácico , palpitaciones , disnea , Dpn ni ortopnea
+T58	DISO 2654 2668	dolor torácico
+T59	DISO 2671 2684	palpitaciones
+T60	DISO 2687 2693	disnea
+T61	DISO 2696 2699	Dpn
+T62	CoordItem 2700 2702	ni
+T63	DISO 2703 2711	ortopnea
+T64	NegSynMarker 2714 2716	No
+T65	DISO 2717 2744	movimientos en extremidades
+T66	Phrase 2717 2757	movimientos en extremidades , ni sincope
+T67	CoordItem 2747 2749	ni
+T68	DISO 2750 2757	sincope
+T69	NegSynMarker 2760 2762	No
+T70	DISO 2763 2779	disnea de reposo
+T71	Phrase 2763 2818	disnea de reposo , ni palpitaciones , ni dolor toracico
+T72	CoordItem 2782 2784	ni
+T73	DISO 2785 2798	palpitaciones
+T74	CoordItem 2801 2803	ni
+T75	DISO 2804 2818	dolor toracico
+T76	NegSynMarker 3044 3051	tampoco
+T77	Phrase 3052 3098	de reproduce de cortejo vegetativo acompañante
+T78	DISO 3068 3098	cortejo vegetativo acompañante
+T79	NegMorMarker 3508 3520	asintomático
+T80	NegMorMarker 3539 3551	asintomático
+T81	NegSynMarker 3805 3808	sin
+T82	DISO 3809 3848	giro de objetos tras cambios posturales
+T83	NegLexMarker 3960 3970	pérdida de
+T84	Phrase 3971 3978	apetito
+T85	NegSynMarker 4018 4020	no
+T86	Phrase 4021 4042	levantarse de la cama
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T16 Arg2:T17
+R6	DiscMarker Arg1:T18 Arg2:T20
+R7	Scope Arg1:T20 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T55 Arg2:T57
+R22	Scope Arg1:T64 Arg2:T66
+R23	Scope Arg1:T69 Arg2:T71
+R24	Scope Arg1:T76 Arg2:T77
+R25	Scope Arg1:T85 Arg2:T86
+R26	Scope Arg1:T81 Arg2:T82
+R27	Scope Arg1:T83 Arg2:T84

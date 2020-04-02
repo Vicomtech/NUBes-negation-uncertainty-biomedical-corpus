@@ -1,0 +1,10 @@
+T1	NegSynMarker 440 442	no
+T2	Phrase 443 460	ha utilizado gafa
+T3	OTHER 456 460	gafa
+T4	NegSynMarker 482 484	no
+T5	OTHER 485 496	lleva gafas
+T6	Phrase 590 635	le controlan en centro de revisión del carnet
+T7	UncertLexMarker 636 637	?
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T6

@@ -1,0 +1,111 @@
+T1	UncertLexMarker 274 281	Posible
+T2	DISO 282 302	PNP en relacion a DM
+T3	NegSynMarker 353 355	no
+T4	DISO 356 366	se aprecia
+T5	UncertLexMarker 497 504	posible
+T6	DISO 505 526	origen cardioembólico
+T7	UncertLexMarker 662 668	parece
+T8	OTHER 669 702	haber evolucionado favorablemente
+T9	NegSynMarker 705 708	Sin
+T10	Phrase 709 756	evidencia de signos de patología vascular aguda
+T11	DISO 732 756	patología vascular aguda
+T12	NegSynMarker 759 762	Sin
+T13	Phrase 763 818	signos directos ni indirectos de TVP en venas femorales
+T14	CoordItem 779 781	ni
+T15	DISO 796 818	TVP en venas femorales
+T16	NegSynMarker 831 833	no
+T17	DISO 834 844	se aprecia
+T18	DISO 847 854	Afasias
+T19	NegSynMarker 857 859	no
+T20	NegSynMarker 967 970	sin
+T21	Phrase 971 992	administración de CIV
+T22	SUBS 989 992	CIV
+T23	NegSynMarker 1006 1008	no
+T24	DISO 1009 1019	se aprecia
+T25	DISO 1022 1030	Agnosias
+T26	NegSynMarker 1033 1035	no
+T27	NegSynMarker 1038 1040	No
+T28	OTHER 1041 1077	se ha explorado la vertiente escrita
+T29	UncertLexMarker 1160 1162	No
+T30	Phrase 1163 1175	se objetivan
+T31	UncertLexMarker 1176 1186	claramente
+T32	DISO 1187 1203	puntos dolorosos
+T33	UncertLexMarker 1259 1265	dudoso
+T34	DISO 1266 1289	antecedente traumatismo
+T35	NegSynMarker 1409 1411	no
+T36	Phrase 1412 1476	se aprecian elementos de paresia , apraxia , ataxia ni esteppage
+T37	DISO 1437 1444	paresia
+T38	DISO 1447 1454	apraxia
+T39	DISO 1457 1463	ataxia
+T40	CoordItem 1464 1466	ni
+T41	DISO 1467 1476	esteppage
+T42	UncertLexMarker 1571 1578	posible
+T43	DISO 1579 1596	hemianopsia izqda
+T44	NegSynMarker 1701 1703	no
+T45	Phrase 1704 1733	se objetiva lesión ósea aguda
+T46	DISO 1716 1733	lesión ósea aguda
+T47	UncertLexMarker 1766 1772	podria
+T48	OTHER 1773 1807	ensayar tto. con Somazina 1 g/12 h
+T49	UncertLexMarker 2022 2036	compatible con
+T50	DISO 2037 2076	infarto de evolución subaguda - crónica
+T51	NegSynMarker 2117 2120	Sin
+T52	Phrase 2121 2163	evidencia de lesiones ocupantes de espacio
+T53	DISO 2134 2163	lesiones ocupantes de espacio
+T54	UncertLexMarker 2346 2357	orientarían
+T55	Phrase 2360 2447	dado el contexto de la paciente hacia un deterioro cognitivo de posible origen vascular
+T56	PolItem 2424 2431	posible
+T57	DISO 2432 2447	origen vascular
+T58	DISO 2646 2656	repetición
+T59	NegLexMarker 2657 2661	nula
+T60	NegSynMarker 2664 2667	sin
+T61	DISO 2668 2718	adecuarse a un patrón afásico semiológico concreto
+T62	UncertLexMarker 2745 2757	sugestiva de
+T63	DISO 2758 2822	infarto frontotemporal izquierdo de evolución subaguda - crónica
+T64	UncertLexMarker 3171 3177	parece
+T65	Phrase 3178 3208	apreciarse deterioro cognitivo
+T66	DISO 3189 3208	deterioro cognitivo
+T67	NegSynMarker 3491 3494	Sin
+T68	Phrase 3495 3503	recuerdo
+T69	UncertLexMarker 3587 3596	No parece
+T70	DISO 3597 3606	ideatoria
+T71	Phrase 3597 3620	ideatoria ni ideomotora
+T72	CoordItem 3607 3609	ni
+T73	DISO 3610 3620	ideomotora
+T74	NegSynMarker 3805 3808	sin
+T75	DISO 3809 3859	respuesta a las maniobras de compresión y Valsalva
+T76	NegSynMarker 3862 3865	sin
+T77	OTHER 3866 3878	flujo venoso
+T78	UncertLexMarker 3891 3906	compatibles con
+T79	DISO 3907 3910	TVP
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T18
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T26 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	DiscScope Arg1:T31 Arg2:T32
+R14	DiscScope Arg1:T31 Arg2:T30
+R15	DiscMarker Arg1:T29 Arg2:T31
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T51 Arg2:T52
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T59 Arg2:T58
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T64 Arg2:T65
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T69 Arg2:T71
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T78 Arg2:T79

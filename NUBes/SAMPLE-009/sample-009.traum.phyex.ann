@@ -1,0 +1,63 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 5	IY
+T3	NegSynMarker 19 22	sin
+T4	DISO 23 29	soplos
+T5	NegSynMarker 41 43	no
+T6	DISO 44 64	ruidos sobreañadidos
+T7	DISO 67 96	Marcha de puntillas y talones
+T8	UncertLexMarker 97 104	posible
+T9	NegSynMarker 107 109	no
+T10	DISO 110 118	dolorosa
+T11	NegSynMarker 121 124	Sin
+T12	DISO 125 177	lesiones de naturaleza tumoral primaria o secundaria
+T13	NegSynMarker 196 198	No
+T14	DISO 199 232	dolor en espinosas a la palpación
+T15	NegSynMarker 234 236	no
+T16	DISO 237 281	dolor en musculatura paravertebral bilateral
+T17	NegSynMarker 594 596	No
+T18	DISO 597 680	dolor a la palpación de espinosas cervicales ni musculatura paravertebral bilateral
+T19	CoordItem 642 644	ni
+T20	NegSynMarker 955 957	No
+T21	Phrase 958 1021	palpo contracturas musculares en trapecios en el momento actual
+T22	DISO 964 1000	contracturas musculares en trapecios
+T23	DISO 1234 1243	Movilidad
+T24	Phrase 1251 1261	del hombro
+T25	Phrase 1277 1283	activa
+T26	NegLexMarker 1284 1293	imposible
+T27	NegSynMarker 1317 1319	no
+T28	DISO 1320 1343	doloroso a la palpacion
+T29	NegSynMarker 1421 1424	sin
+T30	DISO 1425 1435	deformidad
+T31	NegSynMarker 1504 1507	sin
+T32	Phrase 1508 1538	signos de trabajo respiratorio
+T33	DISO 1518 1538	trabajo respiratorio
+T34	NegSynMarker 1621 1623	No
+T35	DISO 1624 1632	dolorosa
+T36	NegSynMarker 1723 1726	sin
+T37	OTHER 1727 1746	efectos compresivos
+T38	NegSynMarker 2086 2088	No
+T39	DISO 2089 2159	dolor a nivel de nervio ciático en glúteos ni en sacroiliaca bilateral
+T40	CoordItem 2132 2134	ni
+T41	DISO 2209 2235	Marcha de puntas y talones
+T42	UncertLexMarker 2236 2243	posible
+T43	NegMorMarker 2251 2260	arritmico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T13 Arg2:T14
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T20 Arg2:T21
+R11	DiscScope Arg1:T26 Arg2:T23
+R12	DiscScope Arg1:T26 Arg2:T25
+R13	DiscScope Arg1:T26 Arg2:T24
+R14	Scope Arg1:T27 Arg2:T28
+R15	Scope Arg1:T29 Arg2:T30
+R16	Scope Arg1:T31 Arg2:T32
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T36 Arg2:T37
+R19	Scope Arg1:T38 Arg2:T39
+R20	Scope Arg1:T42 Arg2:T41

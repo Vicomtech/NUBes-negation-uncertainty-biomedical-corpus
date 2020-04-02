@@ -1,0 +1,3 @@
+T1	NegLexMarker 318 329	ausencia de
+T2	DISO 330 352	atrapamiento de la PLB
+R1	Scope Arg1:T1 Arg2:T2

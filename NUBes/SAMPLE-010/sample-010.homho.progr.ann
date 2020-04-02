@@ -1,0 +1,295 @@
+T1	NegSynMarker 517 520	sin
+T2	Phrase 521 563	presentar nueva sintomatología neurológica
+T3	DISO 531 563	nueva sintomatología neurológica
+T4	NegSynMarker 738 740	no
+T5	DISO 741 746	drena
+T6	DISO 820 834	edemas en EEII
+T7	NegLexMarker 839 850	desaparecen
+T8	Phrase 851 876	con furosemida endovenosa
+T9	UncertLexMarker 911 925	posibilidad de
+T10	Phrase 926 976	ingreso o de continuar el tratamiento en domicilio
+T11	OTHER 926 933	ingreso
+T12	CoordItem 934 935	o
+T13	OTHER 939 976	continuar el tratamiento en domicilio
+T14	NegSynMarker 1125 1128	sin
+T15	Phrase 1129 1150	coágulos ni hematuria
+T16	DISO 1129 1137	coágulos
+T17	CoordItem 1138 1140	ni
+T18	DISO 1141 1150	hematuria
+T19	NegLexMarker 1153 1162	Se retira
+T20	SUBS 1163 1174	enoxaparina
+T21	NegSynMarker 1893 1896	sin
+T22	DISO 1897 1908	incidencias
+T23	NegMorMarker 2374 2381	afebril
+T24	NegMorMarker 2961 2968	afebril
+T25	DISO 4045 4053	candidas
+T26	UncertLexMarker 4054 4055	?
+T27	NegMorMarker 4218 4225	afebril
+T28	NegMorMarker 4870 4877	afebril
+T29	NegSynMarker 5437 5440	sin
+T30	DISO 5441 5446	edema
+T31	UncertLexMarker 5449 5452	sin
+T32	Phrase 5453 5462	objetivar
+T33	UncertLexMarker 5463 5469	claras
+T34	Phrase 5470 5515	lesiones interdigitales ni puertas de entrada
+T35	DISO 5470 5493	lesiones interdigitales
+T36	CoordItem 5494 5496	ni
+T37	DISO 5497 5515	puertas de entrada
+T38	NegLexMarker 5664 5674	se retiran
+T39	Phrase 5675 5704	dos puntos en la gastrostomia
+T40	OTHER 5675 5685	dos puntos
+T41	NegSynMarker 5829 5832	sin
+T42	DISO 5833 5838	dolor
+T43	NegMorMarker 5851 5858	afebril
+T44	NegMorMarker 6162 6169	afebril
+T45	NegMorMarker 6172 6184	asintomático
+T46	NegMorMarker 6721 6728	afebril
+T47	NegMorMarker 6731 6743	asintomático
+T48	NegMorMarker 7252 7259	afebril
+T49	PROC 7399 7414	cultivo exudado
+T50	NegLexMarker 7415 7423	negativo
+T51	NegLexMarker 7484 7491	retiran
+T52	OTHER 7492 7514	catéteres de urostomía
+T53	NegSynMarker 7525 7528	sin
+T54	DISO 7529 7540	incidencias
+T55	NegSynMarker 7962 7964	No
+T56	Phrase 7965 8034	se han presentado incidencias durante su estancia en nuestro servicio
+T57	DISO 7983 7994	incidencias
+T58	DISO 8070 8101	pinzamiento bilateral ( antiguo
+T59	UncertLexMarker 8102 8104	¿?
+T60	NegSynMarker 8107 8109	no
+T61	Phrase 8110 8139	tenemos previos para comparar
+T62	DISO 8144 8150	imagen
+T63	UncertLexMarker 8151 8157	dudosa
+T64	DISO 8158 8164	en LII
+T65	NegLexMarker 8167 8176	Se retira
+T66	SUBS 8177 8191	la enoxaparina
+T67	NegMorMarker 8262 8269	afebril
+T68	NegMorMarker 8272 8284	asintomático
+T69	NegMorMarker 8602 8609	afebril
+T70	NegMorMarker 9267 9279	asintomático
+T71	NegMorMarker 9282 9289	afebril
+T72	NegLexMarker 9392 9404	retirada del
+T73	SUBS 9405 9416	antibiótico
+T74	NegSynMarker 9561 9563	no
+T75	Phrase 9564 9604	ha sido posible conseguir via periferica
+T76	OTHER 9590 9604	via periferica
+T77	NegSynMarker 9636 9639	sin
+T78	DISO 9640 9668	mejoría clínica de su disnea
+T79	NegSynMarker 9863 9865	No
+T80	Phrase 9866 9894	presenta riesgo de autólisis
+T81	DISO 9875 9894	riesgo de autólisis
+T82	NegSynMarker 10348 10350	no
+T83	DISO 10351 10361	productiva
+T84	NegSynMarker 10431 10434	sin
+T85	DISO 10435 10466	clínica de insufiencia cardiada
+T86	NegMorMarker 10469 10476	afebril
+T87	UncertLexMarker 10993 10999	ver si
+T88	OTHER 11000 11047	es suspectible de Transplante de pulmón-corazón
+T89	Phrase 11173 11205	episodio de diarreas y febrícula
+T90	DISO 11185 11193	diarreas
+T91	CoordItem 11194 11195	y
+T92	DISO 11196 11205	febrícula
+T93	NegSynMarker 11228 11230	no
+T94	DISO 11231 11249	vuelven a aparecer
+T95	NegMorMarker 11286 11298	asintomático
+T96	NegMorMarker 11301 11308	afebril
+T97	NegSynMarker 11395 11398	sin
+T98	Phrase 11399 11413	precisar apoyo
+T99	OTHER 11408 11413	apoyo
+T100	NegLexMarker 12426 12441	desaparición de
+T101	DISO 12442 12483	signos inflamatorios e infecciosos en EID
+T102	NegSynMarker 12488 12490	no
+T103	DISO 12491 12540	se aprecia ya cordón en muslo derecho ni en ingle
+T104	CoordItem 12529 12531	ni
+T105	NegMorMarker 12543 12550	afebril
+T106	UncertLexMarker 12608 12621	probablemente
+T107	DISO 12622 12653	polineuropatia del mismo origen
+T108	NegMorMarker 13020 13027	Afebril
+T109	NegLexMarker 13606 13614	retirada
+T110	Phrase 13615 13688	progresiva de los puntos de sujeción hasta completar la retirada completa
+T111	OTHER 13629 13651	los puntos de sujeción
+T112	NegSynMarker 13735 13738	sin
+T113	DISO 13739 13766	alteraciones significativas
+T114	NegSynMarker 13943 13946	sin
+T115	DISO 13947 13969	incidencias reseñables
+T116	NegSynMarker 13992 13995	sin
+T117	DISO 13996 14002	fiebre
+T118	NegMorMarker 14251 14258	afebril
+T119	NegMorMarker 14277 14289	asintomático
+T120	NegSynMarker 14487 14489	no
+T121	Phrase 14490 14534	puede controlar la situación en su domicilio
+T122	NegMorMarker 14830 14837	afebril
+T123	NegMorMarker 15171 15178	afebril
+T124	NegSynMarker 15254 15257	sin
+T125	DISO 15258 15292	otra clínica organotópica asociada
+T126	UncertLexMarker 15870 15876	dudosa
+T127	DISO 15877 15890	significación
+T128	NegLexMarker 16219 16228	retirando
+T129	Phrase 16229 16256	progresivamente los ágrafes
+T130	OTHER 16245 16256	los ágrafes
+T131	NegLexMarker 16681 16692	ausencia de
+T132	DISO 16693 16713	signos inflamatorios
+T133	NegSynMarker 16746 16749	sin
+T134	DISO 16750 16762	limitaciones
+T135	NegLexMarker 16913 16925	desaparición
+T136	Phrase 16926 16959	completa de sintomatologia en ESI
+T137	DISO 16938 16959	sintomatologia en ESI
+T138	NegMorMarker 17038 17045	afebril
+T139	NegMorMarker 17246 17258	asintomático
+T140	NegMorMarker 17261 17268	afebril
+T141	NegSynMarker 17593 17596	sin
+T142	DISO 17597 17618	responder a estímulos
+T143	UncertLexMarker 18246 18261	compatibles con
+T144	OTHER 18262 18269	fecales
+T145	NegSynMarker 18488 18490	no
+T146	PROC 18491 18510	le pusieron infusor
+T147	NegSynMarker 18652 18655	sin
+T148	DISO 18656 18678	criterios de infección
+T149	NegMorMarker 18772 18779	afebril
+T150	NegLexMarker 19005 19014	se retira
+T151	Phrase 19015 19053	el tejadillo ( a fecha del 7/08/2008 )
+T152	OTHER 19015 19027	el tejadillo
+T153	NegSynMarker 19270 19272	no
+T154	DISO 19273 19300	altera el descanso nocturno
+T155	NegSynMarker 19346 19349	sin
+T156	DISO 19350 19356	fiebre
+T157	Phrase 19350 19382	fiebre ni otra clínica asociadas
+T158	CoordItem 19357 19359	ni
+T159	DISO 19360 19382	otra clínica asociadas
+T160	NegSynMarker 19434 19437	sin
+T161	SUBS 19438 19445	exudado
+T162	NegMorMarker 19471 19483	asintomático
+T163	NegMorMarker 19550 19557	afebril
+T164	NegMorMarker 19560 19572	asintomático
+T165	NegMorMarker 19772 19779	afebril
+T166	NegMorMarker 19782 19794	asintomático
+T167	NegSynMarker 20117 20120	sin
+T168	DISO 20121 20127	fiebre
+T169	NegLexMarker 20380 20392	Se retiraron
+T170	Phrase 20393 20422	los puntos de sutura el 19/06
+T171	NegSynMarker 20999 21002	sin
+T172	DISO 21003 21015	alteraciones
+T173	NegLexMarker 21186 21195	se retira
+T174	OTHER 21196 21217	via periférica de ESD
+T175	NegSynMarker 21220 21222	no
+T176	Phrase 21223 21241	signos de flebitis
+T177	DISO 21233 21241	flebitis
+T178	UncertLexMarker 21339 21346	parecen
+T179	DISO 21347 21355	coreícos
+T180	NegSynMarker 21459 21461	no
+T181	OTHER 21462 21477	ha crecido nada
+T182	PolItem 21473 21477	nada
+T183	UncertLexMarker 22021 22028	posible
+T184	DISO 22029 22048	origen encelopático
+T185	NegSynMarker 22145 22147	No
+T186	OTHER 22148 22176	tenemos acceso a su historia
+T187	NegSynMarker 22596 22599	sin
+T188	DISO 22600 22611	incidencias
+T189	NegSynMarker 23091 23093	no
+T190	Phrase 23094 23109	es determinante
+T191	OTHER 23097 23109	determinante
+T192	UncertLexMarker 23348 23360	orienta como
+T193	OTHER 23361 23392	paciente paliativo irreversible
+T194	NegSynMarker 23395 23398	sin
+T195	Phrase 23399 23432	ofrecer alternativas terapéuticas
+T196	OTHER 23407 23432	alternativas terapéuticas
+T197	NegMorMarker 23457 23464	afebril
+T198	NegMorMarker 23601 23613	asintomática
+T199	NegSynMarker 23894 23896	no
+T200	Phrase 23897 23935	se aprecian signos de trombosis venosa
+T201	DISO 23919 23935	trombosis venosa
+T202	NegMorMarker 24022 24029	afebril
+T203	NegLexMarker 24037 24046	finalizar
+T204	Phrase 24047 24095	antibioterapia endovenosa alta por nuestra parte
+T205	SUBS 24047 24077	antibioterapia endovenosa alta
+T206	NegSynMarker 24343 24346	sin
+T207	DISO 24347 24358	incidencias
+T208	NegMorMarker 24375 24382	afebril
+T209	NegSynMarker 24534 24537	sin
+T210	DISO 24538 24565	hallazgos en la exploración
+T211	NegMorMarker 25179 25186	afebril
+T212	NegSynMarker 25278 25281	sin
+T213	DISO 25282 25288	disnea
+T214	NegMorMarker 25925 25937	asintomática
+T215	NegMorMarker 25940 25947	afebril
+T216	NegSynMarker 26006 26008	no
+T217	Phrase 26009 26069	tiene consulta de Cirugia General hasta el día 27 de octubre
+T218	NegLexMarker 26149 26163	hemos retirado
+T219	OTHER 26164 26171	drenaje
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T7 Arg2:T8
+R4	DiscScope Arg1:T7 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T26 Arg2:T25
+R10	DiscMarker Arg1:T31 Arg2:T33
+R11	Scope Arg1:T29 Arg2:T30
+R12	DiscScope Arg1:T33 Arg2:T34
+R13	DiscScope Arg1:T33 Arg2:T32
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T51 Arg2:T52
+R17	Scope Arg1:T50 Arg2:T49
+R18	Scope Arg1:T53 Arg2:T54
+R19	Scope Arg1:T55 Arg2:T56
+R20	Scope Arg1:T59 Arg2:T58
+R21	DiscScope Arg1:T63 Arg2:T64
+R22	Scope Arg1:T60 Arg2:T61
+R23	DiscScope Arg1:T63 Arg2:T62
+R24	Scope Arg1:T65 Arg2:T66
+R25	Scope Arg1:T72 Arg2:T73
+R26	Scope Arg1:T74 Arg2:T75
+R27	Scope Arg1:T77 Arg2:T78
+R28	Scope Arg1:T79 Arg2:T80
+R29	Scope Arg1:T84 Arg2:T85
+R30	Scope Arg1:T82 Arg2:T83
+R31	Scope Arg1:T87 Arg2:T88
+R32	DiscScope Arg1:T93 Arg2:T94
+R33	DiscScope Arg1:T93 Arg2:T89
+R34	Scope Arg1:T97 Arg2:T98
+R35	Scope Arg1:T100 Arg2:T101
+R36	Scope Arg1:T102 Arg2:T103
+R37	Scope Arg1:T106 Arg2:T107
+R38	Scope Arg1:T109 Arg2:T110
+R39	Scope Arg1:T112 Arg2:T113
+R40	Scope Arg1:T116 Arg2:T117
+R41	Scope Arg1:T114 Arg2:T115
+R42	Scope Arg1:T120 Arg2:T121
+R43	Scope Arg1:T124 Arg2:T125
+R44	Scope Arg1:T126 Arg2:T127
+R45	Scope Arg1:T128 Arg2:T129
+R46	Scope Arg1:T131 Arg2:T132
+R47	Scope Arg1:T133 Arg2:T134
+R48	Scope Arg1:T135 Arg2:T136
+R49	Scope Arg1:T141 Arg2:T142
+R50	Scope Arg1:T143 Arg2:T144
+R51	Scope Arg1:T145 Arg2:T146
+R52	Scope Arg1:T147 Arg2:T148
+R53	Scope Arg1:T150 Arg2:T151
+R54	Scope Arg1:T155 Arg2:T157
+R55	Scope Arg1:T153 Arg2:T154
+R56	Scope Arg1:T160 Arg2:T161
+R57	Scope Arg1:T167 Arg2:T168
+R58	Scope Arg1:T169 Arg2:T170
+R59	Scope Arg1:T171 Arg2:T172
+R60	Scope Arg1:T173 Arg2:T174
+R61	Scope Arg1:T175 Arg2:T176
+R62	Scope Arg1:T178 Arg2:T179
+R63	Scope Arg1:T180 Arg2:T181
+R64	Scope Arg1:T183 Arg2:T184
+R65	Scope Arg1:T185 Arg2:T186
+R66	Scope Arg1:T187 Arg2:T188
+R67	Scope Arg1:T189 Arg2:T190
+R68	Scope Arg1:T194 Arg2:T195
+R69	Scope Arg1:T192 Arg2:T193
+R70	Scope Arg1:T199 Arg2:T200
+R71	Scope Arg1:T203 Arg2:T204
+R72	Scope Arg1:T206 Arg2:T207
+R73	Scope Arg1:T209 Arg2:T210
+R74	Scope Arg1:T212 Arg2:T213
+R75	Scope Arg1:T216 Arg2:T217
+R76	Scope Arg1:T218 Arg2:T219

@@ -1,0 +1,17 @@
+T1	UncertLexMarker 340 355	compatibles con
+T2	DISO 356 372	ca basocelulares
+T3	UncertLexMarker 644 653	sugestiva
+T4	Phrase 654 689	clinicamente de granuloma piogenico
+T5	DISO 670 689	granuloma piogenico
+T6	UncertLexMarker 777 791	compatible con
+T7	DISO 792 807	queratoacantoma
+T8	UncertLexMarker 1182 1196	compatible con
+T9	DISO 1197 1212	queratoacantoma
+T10	UncertLexMarker 1626 1640	compatible con
+T11	Phrase 1641 1671	ca. basocelular en dorso nasal
+T12	DISO 1641 1656	ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11

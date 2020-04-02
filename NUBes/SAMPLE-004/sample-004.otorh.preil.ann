@@ -1,0 +1,17 @@
+T1	UncertLexMarker 618 632	compatible con
+T2	DISO 633 652	tumor mixto benigno
+T3	Phrase 633 677	tumor mixto benigno como primera posibilidad
+T4	UncertLexMarker 732 743	sospecha de
+T5	DISO 744 772	tumoración parotidea derecha
+T6	UncertLexMarker 854 861	valorar
+T7	PROC 862 884	tratamiento quirúrgico
+T8	NegSynMarker 911 913	No
+T9	DISO 914 925	amigdalitis
+T10	NegSynMarker 1003 1005	No
+T11	OTHER 1006 1011	ronca
+T12	NegMorMarker 1096 1108	Asintomático
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11

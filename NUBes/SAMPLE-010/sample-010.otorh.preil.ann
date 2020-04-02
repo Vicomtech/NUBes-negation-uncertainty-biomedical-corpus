@@ -1,0 +1,33 @@
+T1	NegSynMarker 522 524	no
+T2	DISO 525 538	odinodisfagia
+T3	NegSynMarker 541 543	no
+T4	DISO 544 550	disnea
+T5	DISO 714 739	el resto de los episodios
+T6	NegLexMarker 740 748	cedieron
+T7	Phrase 749 763	con ibuprofeno
+T8	NegSynMarker 973 975	no
+T9	DISO 976 992	mejora con AINES
+T10	UncertLexMarker 1033 1044	sospecha de
+T11	DISO 1045 1070	un absceso periamigdalino
+T12	NegSynMarker 1510 1512	no
+T13	Phrase 1513 1537	presenta mejoria clinica
+T14	DISO 1522 1537	mejoria clinica
+T15	NegSynMarker 1799 1802	sin
+T16	DISO 1803 1818	A.p. de interés
+T17	UncertLexMarker 1983 1990	POSIBLE
+T18	DISO 1991 1995	saos
+T19	NegSynMarker 2041 2043	No
+T20	DISO 2044 2053	ronquidos
+T21	NegSynMarker 2056 2058	no
+T22	DISO 2059 2065	apneas
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	DiscScope Arg1:T6 Arg2:T7
+R4	DiscScope Arg1:T6 Arg2:T5
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T12 Arg2:T13
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T19 Arg2:T20

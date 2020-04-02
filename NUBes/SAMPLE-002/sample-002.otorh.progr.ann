@@ -1,0 +1,11 @@
+T1	DISO 64 111	un enfisema subcutáneo laterocervical bilateral
+T2	NegLexMarker 116 125	ha cedido
+T3	Phrase 126 145	de forma espontanea
+T4	NegSynMarker 228 231	Sin
+T5	Phrase 232 259	signos de flemon ni absceso
+T6	DISO 242 248	flemon
+T7	CoordItem 249 251	ni
+T8	DISO 252 259	absceso
+R1	DiscScope Arg1:T2 Arg2:T3
+R2	DiscScope Arg1:T2 Arg2:T1
+R3	Scope Arg1:T4 Arg2:T5

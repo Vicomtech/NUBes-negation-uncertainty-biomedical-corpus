@@ -1,0 +1,28 @@
+T1	NegSynMarker 42 45	sin
+T2	DISO 46 67	hallazgos patológicos
+T3	NegSynMarker 92 95	sin
+T4	DISO 96 108	alteraciones
+T5	NegSynMarker 197 200	sin
+T6	DISO 201 213	alteraciones
+T7	PROC 314 322	Nitritos
+T8	NegLexMarker 323 332	negativos
+T9	PROC 353 363	Urocultivo
+T10	NegLexMarker 364 372	Negativo
+T11	NegSynMarker 375 377	No
+T12	DISO 378 402	liquido libre peritoneal
+T13	NegSynMarker 624 627	sin
+T14	Phrase 628 683	evidencia de dilatación de vía excretora ni de litiasis
+T15	DISO 641 668	dilatación de vía excretora
+T16	CoordItem 669 671	ni
+T17	DISO 675 683	litiasis
+T18	NegSynMarker 743 745	No
+T19	Phrase 746 775	evidencia de lesiones focales
+T20	DISO 759 775	lesiones focales
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T10 Arg2:T9
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T18 Arg2:T19

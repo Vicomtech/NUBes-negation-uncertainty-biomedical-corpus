@@ -1,0 +1,167 @@
+T1	NegMorMarker 52 64	asintomática
+T2	NegMorMarker 139 151	asintomatico
+T3	NegLexMarker 191 197	remite
+T4	Phrase 198 230	el cuadro de dolor y los vómitos
+T5	DISO 211 216	dolor
+T6	DISO 219 230	los vómitos
+T7	NegLexMarker 836 845	ha cedido
+T8	DISO 846 854	el dolor
+T9	Phrase 846 875	el dolor y el cuadro hemético
+T10	CoordItem 855 856	y
+T11	DISO 857 875	el cuadro hemético
+T12	NegSynMarker 921 928	tampoco
+T13	Phrase 929 978	manifiesta alterciones metabolicas de ningun tipo
+T14	DISO 940 978	alterciones metabolicas de ningun tipo
+T15	PolItem 967 973	ningun
+T16	UncertLexMarker 1100 1113	probablemente
+T17	DISO 1114 1129	por el hematoma
+T18	NegSynMarker 1232 1234	No
+T19	Phrase 1235 1280	ha tenido repercusión ni clínica ni analítica
+T20	DISO 1245 1280	repercusión ni clínica ni analítica
+T21	CoordItem 1257 1259	ni
+T22	CoordItem 1268 1270	ni
+T23	NegLexMarker 1520 1528	descarta
+T24	DISO 1529 1582	como origen del sangrado las vias bajas respiratorias
+T25	NegLexMarker 1989 1996	excluye
+T26	DISO 1997 2057	la causa de vias aereas altas como foco de perdida sanguinea
+T27	NegSynMarker 2072 2075	sin
+T28	Phrase 2076 2098	signos de complicación
+T29	DISO 2086 2098	complicación
+T30	NegSynMarker 3131 3134	sin
+T31	DISO 3135 3140	dolor
+T32	NegSynMarker 3495 3498	sin
+T33	Phrase 3499 3566	apreciarse patología osteoarticular aguda definida en la actualidad
+T34	DISO 3510 3566	patología osteoarticular aguda definida en la actualidad
+T35	UncertLexMarker 4261 4269	probable
+T36	DISO 4270 4285	colectomía dcha
+T37	UncertLexMarker 4289 4296	no sabe
+T38	NegMorMarker 4691 4703	asintomático
+T39	NegSynMarker 4813 4815	no
+T40	DISO 4816 4826	complicada
+T41	NegLexMarker 5072 5083	suspendemos
+T42	SUBS 5084 5105	antidiabéticos orales
+T43	NegSynMarker 5633 5635	no
+T44	Phrase 5636 5692	se aprecia patología que justifique el dolor actualmente
+T45	DISO 5647 5692	patología que justifique el dolor actualmente
+T46	UncertLexMarker 5762 5773	sospecha de
+T47	DISO 5774 5793	oclusion intestinal
+T48	UncertLexMarker 5808 5821	sin aparentes
+T49	DISO 5822 5834	alteraciones
+T50	NegMorMarker 6468 6480	asintomático
+T51	NegMorMarker 7447 7459	asintomatico
+T52	UncertLexMarker 7609 7620	sospecha de
+T53	DISO 7621 7645	" sindrome de sumidero "
+T54	UncertLexMarker 7785 7799	compatible con
+T55	DISO 7800 7827	progresión de su enfermedad
+T56	NegLexMarker 7849 7858	ha cedido
+T57	DISO 7859 7877	el dolor abdominal
+T58	DISO 8461 8496	epigastralgia con tiritona y fiebre
+T59	NegLexMarker 8501 8506	ceden
+T60	Phrase 8507 8521	espontanemente
+T61	NegSynMarker 8684 8686	no
+T62	Phrase 8687 8730	pone de manifiesto alteraciones importantes
+T63	DISO 8706 8730	alteraciones importantes
+T64	UncertLexMarker 8806 8814	probable
+T65	DISO 8815 8832	Colangiocarcinoma
+T66	UncertLexMarker 9431 9439	Probable
+T67	DISO 9440 9468	origen en traumatismo lumbar
+T68	NegSynMarker 9525 9528	sin
+T69	DISO 9529 9543	complicaciones
+T70	NegSynMarker 9895 9898	sin
+T71	Phrase 9899 9941	encontrar causa relacionada con la cirugia
+T72	DISO 9909 9941	causa relacionada con la cirugia
+T73	NegSynMarker 10022 10025	sin
+T74	Phrase 10026 10053	signos clínicos de sangrado
+T75	DISO 10045 10053	sangrado
+T76	NegMorMarker 10240 10252	asintomático
+T77	NegSynMarker 10349 10351	no
+T78	Phrase 10352 10435	se aprecian alterciones morfologicocas , gastricas ni alterciones dignas de mencion
+T79	DISO 10364 10402	alterciones morfologicocas , gastricas
+T80	CoordItem 10403 10405	ni
+T81	DISO 10406 10435	alterciones dignas de mencion
+T82	UncertLexMarker 10469 10477	probable
+T83	DISO 10478 10508	fuga de anastomosis colorectal
+T84	NegSynMarker 10622 10624	no
+T85	Phrase 10625 10692	encontrando patologia que justifique la anemia cronica del paciente
+T86	DISO 10637 10692	patologia que justifique la anemia cronica del paciente
+T87	UncertLexMarker 10895 10906	sospecha de
+T88	Phrase 10907 10986	cuadro compatible con proceso isquemico con afectacion segmentaria de I delgado
+T89	PolItem 10914 10928	compatible con
+T90	DISO 10929 10986	proceso isquemico con afectacion segmentaria de I delgado
+T91	NegSynMarker 11273 11276	sin
+T92	DISO 11277 11283	disnea
+T93	NegSynMarker 11554 11557	sin
+T94	OTHER 11558 11612	resultados sobre la identificación del punto sangrante
+T95	NegMorMarker 11631 11638	afebril
+T96	UncertLexMarker 12023 12034	Sospecha de
+T97	DISO 12035 12077	nueva fuga con erosión de vasos y sangrado
+T98	UncertLexMarker 12091 12104	aparentemente
+T99	OTHER 12105 12123	de forma favorable
+T100	NegSynMarker 12211 12214	sin
+T101	DISO 12215 12227	alteraciones
+T102	NegSynMarker 12531 12533	no
+T103	Phrase 12534 12551	precisa resección
+T104	PROC 12542 12551	resección
+T105	NegSynMarker 12573 12575	no
+T106	Phrase 12576 12623	se ha llegado a diagnóstico de origen del dolor
+T107	OTHER 12592 12623	diagnóstico de origen del dolor
+T108	NegSynMarker 12720 12723	sin
+T109	DISO 12724 12738	complicaciones
+T110	NegSynMarker 12780 12783	sin
+T111	DISO 12784 12798	complicaciones
+T112	NegMorMarker 12931 12938	afebril
+T113	DISO 13113 13136	Posterior cuadro febril
+T114	NegLexMarker 13141 13145	cede
+T115	Phrase 13146 13176	con la retirado de vía central
+T116	NegLexMarker 13153 13164	retirado de
+T117	OTHER 13165 13176	vía central
+T118	NegLexMarker 13367 13380	descartándose
+T119	Phrase 13381 13468	la presencia de lesiones intracraneales así como del estuche óseo en relacion al trauma
+T120	DISO 13397 13420	lesiones intracraneales
+T121	CoordItem 13421 13429	así como
+T122	DISO 13430 13446	del estuche óseo
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T7 Arg2:T9
+R3	Scope Arg1:T12 Arg2:T13
+R4	Scope Arg1:T16 Arg2:T17
+R5	Scope Arg1:T18 Arg2:T19
+R6	Scope Arg1:T23 Arg2:T24
+R7	Scope Arg1:T25 Arg2:T26
+R8	Scope Arg1:T27 Arg2:T28
+R9	Scope Arg1:T30 Arg2:T31
+R10	Scope Arg1:T32 Arg2:T33
+R11	Scope Arg1:T37 Arg2:T36
+R12	Scope Arg1:T35 Arg2:T36
+R13	Scope Arg1:T39 Arg2:T40
+R14	Scope Arg1:T41 Arg2:T42
+R15	Scope Arg1:T43 Arg2:T44
+R16	Scope Arg1:T46 Arg2:T47
+R17	Scope Arg1:T48 Arg2:T49
+R18	Scope Arg1:T52 Arg2:T53
+R19	Scope Arg1:T54 Arg2:T55
+R20	Scope Arg1:T56 Arg2:T57
+R21	DiscScope Arg1:T59 Arg2:T58
+R22	DiscScope Arg1:T59 Arg2:T60
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T64 Arg2:T65
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T70 Arg2:T71
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T77 Arg2:T78
+R30	Scope Arg1:T82 Arg2:T83
+R31	Scope Arg1:T84 Arg2:T85
+R32	Scope Arg1:T91 Arg2:T92
+R33	Scope Arg1:T87 Arg2:T88
+R34	Scope Arg1:T93 Arg2:T94
+R35	Scope Arg1:T96 Arg2:T97
+R36	Scope Arg1:T98 Arg2:T99
+R37	Scope Arg1:T100 Arg2:T101
+R38	Scope Arg1:T102 Arg2:T103
+R39	Scope Arg1:T105 Arg2:T106
+R40	Scope Arg1:T108 Arg2:T109
+R41	Scope Arg1:T110 Arg2:T111
+R42	Scope Arg1:T116 Arg2:T117
+R43	DiscScope Arg1:T114 Arg2:T113
+R44	DiscScope Arg1:T114 Arg2:T115
+R45	Scope Arg1:T118 Arg2:T119

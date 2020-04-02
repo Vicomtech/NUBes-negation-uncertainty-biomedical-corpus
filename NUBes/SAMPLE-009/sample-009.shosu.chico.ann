@@ -1,0 +1,28 @@
+T1	UncertLexMarker 828 836	probable
+T2	DISO 837 860	relación a osteoporosis
+T3	NegSynMarker 883 885	NO
+T4	Phrase 886 904	indicación cirugía
+T5	PROC 897 904	cirugía
+T6	UncertLexMarker 2091 2099	probable
+T7	DISO 2100 2132	enfermedad intersticial pulmonar
+T8	UncertLexMarker 2135 2146	sospecha de
+T9	DISO 2147 2164	fibrosis pulmonar
+T10	UncertLexMarker 3091 3099	probable
+T11	DISO 3100 3127	relacion a caida accidental
+T12	UncertLexMarker 4372 4380	probable
+T13	DISO 4381 4403	origen aterotrombótico
+T14	UncertLexMarker 4582 4590	probable
+T15	DISO 4591 4612	neoplasia metastásica
+T16	NegLexMarker 4617 4633	imposibilidad de
+T17	OTHER 4634 4654	atención a domicilio
+T18	NegLexMarker 5422 5430	falta de
+T19	DISO 5431 5447	control postural
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T18 Arg2:T19

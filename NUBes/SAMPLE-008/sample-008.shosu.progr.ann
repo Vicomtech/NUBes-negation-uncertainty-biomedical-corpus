@@ -1,0 +1,187 @@
+T1	NegSynMarker 451 454	sin
+T2	DISO 455 463	sintomas
+T3	NegSynMarker 476 478	no
+T4	PROC 479 485	tratar
+T5	NegLexMarker 568 584	Se ha suspendido
+T6	Phrase 585 616	el tratamiento con buprenorfina
+T7	SUBS 604 616	buprenorfina
+T8	NegSynMarker 619 621	No
+T9	Phrase 622 682	recupera capacidad funcional con barthel menor de 50 al alta
+T10	DISO 631 650	capacidad funcional
+T11	NegLexMarker 866 875	suspender
+T12	SUBS 876 883	sintrom
+T13	UncertLexMarker 967 981	compatible con
+T14	DISO 982 1002	tendinitis de hombro
+T15	NegLexMarker 1744 1753	suspender
+T16	Phrase 1754 1783	el tratamiento anticoagulante
+T17	SUBS 1769 1783	anticoagulante
+T18	SUBS 2616 2637	heparina profiláctica
+T19	NegLexMarker 2658 2668	suspendida
+T20	Phrase 2669 2691	en el momento del alta
+T21	UncertLexMarker 2846 2854	probable
+T22	DISO 2855 2885	encefalopatia vascular crónica
+T23	UncertLexMarker 2954 2970	sospecha alta de
+T24	DISO 2971 3001	enfermedad neoplasica avanzada
+T25	UncertLexMarker 3032 3039	posible
+T26	DISO 3040 3076	lesion osteolitica femoral izquierda
+T27	NegLexMarker 4260 4276	imposibilidad de
+T28	OTHER 4277 4302	mantener la bipedestacion
+T29	NegLexMarker 4573 4582	suspender
+T30	SUBS 4583 4601	la anticoagulación
+T31	NegSynMarker 5428 5431	sin
+T32	DISO 5432 5438	disnea
+T33	NegSynMarker 5999 6002	sin
+T34	SUBS 6003 6014	tratamiento
+T35	NegSynMarker 6036 6039	sin
+T36	SUBS 6040 6068	tratamiento antihipertension
+T37	NegSynMarker 6113 6116	sin
+T38	PolItem 6117 6124	ninguna
+T39	Phrase 6117 6173	ninguna dificultad con ayuda de 2 muletas ( y con alza )
+T40	DISO 6125 6135	dificultad
+T41	NegSynMarker 6198 6201	sin
+T42	DISO 6202 6211	problemas
+T43	NegSynMarker 6226 6228	no
+T44	Phrase 6229 6269	refiere dolor ni en reposo ni al caminar
+T45	DISO 6237 6269	dolor ni en reposo ni al caminar
+T46	CoordItem 6243 6245	ni
+T47	CoordItem 6256 6258	ni
+T48	NegSynMarker 6600 6603	sin
+T49	DISO 6604 6614	dificultad
+T50	UncertLexMarker 6769 6782	probablemente
+T51	DISO 6783 6793	preventivo
+T52	NegSynMarker 6827 6829	no
+T53	Phrase 6830 6858	evidencia de crisis comicial
+T54	DISO 6843 6858	crisis comicial
+T55	NegSynMarker 7116 7119	sin
+T56	DISO 7120 7130	dificultad
+T57	Phrase 7120 7154	dificultad con 2 bastones ingleses
+T58	NegSynMarker 7179 7182	sin
+T59	Phrase 7183 7196	referir dolor
+T60	DISO 7191 7196	dolor
+T61	UncertLexMarker 7461 7469	probable
+T62	DISO 7470 7492	insuficiencia cardiaca
+T63	NegSynMarker 8147 8150	sin
+T64	DISO 8151 8156	dolor
+T65	NegSynMarker 8440 8442	no
+T66	OTHER 8443 8451	invasivo
+T67	NegSynMarker 8460 8462	no
+T68	Phrase 8463 8481	objetiva patología
+T69	DISO 8472 8481	patología
+T70	NegMorMarker 8509 8521	asintomática
+T71	NegLexMarker 8661 8670	suspender
+T72	SUBS 8671 8683	acenocumarol
+T73	UncertLexMarker 8764 8773	sin clara
+T74	Phrase 8774 8821	evidencia de patologia orgánica en este momento
+T75	DISO 8787 8805	patologia orgánica
+T76	NegSynMarker 8962 8964	no
+T77	OTHER 8965 8988	apta para protetización
+T78	NegSynMarker 9247 9249	No
+T79	DISO 9250 9260	complicada
+T80	UncertLexMarker 9408 9416	probable
+T81	DISO 9417 9436	deterioro cognitivo
+T82	Phrase 9417 9454	deterioro cognitivo por lo menos leve
+T83	NegSynMarker 9957 9960	sin
+T84	Phrase 9961 9993	signos de insuficiencia cardiaca
+T85	DISO 9971 9993	insuficiencia cardiaca
+T86	NegSynMarker 10205 10207	no
+T87	DISO 10208 10218	complicada
+T88	NegLexMarker 10884 10895	suspendemos
+T89	SUBS 10896 10913	antihipertensivos
+T90	NegSynMarker 11400 11402	no
+T91	DISO 11403 11412	funcional
+T92	NegSynMarker 11652 11655	sin
+T93	Phrase 11656 11661	ayuda
+T94	NegSynMarker 11805 11808	sin
+T95	DISO 11809 11819	dificultad
+T96	UncertLexMarker 11991 11999	probable
+T97	DISO 12000 12034	relación a la toma de antibióticos
+T98	UncertLexMarker 12196 12204	probable
+T99	DISO 12205 12244	transtorno de personalidad concomitante
+T100	NegSynMarker 12455 12458	sin
+T101	Phrase 12459 12502	dificultad con ayuda de 2 bastones ingleses
+T102	DISO 12459 12469	dificultad
+T103	NegSynMarker 12749 12751	no
+T104	Phrase 12752 12765	refiere dolor
+T105	DISO 12760 12765	dolor
+T106	NegSynMarker 12799 12802	sin
+T107	DISO 12803 12813	dificultad
+T108	NegSynMarker 13167 13169	No
+T109	Phrase 13170 13245	presenta signos clinicos de complicación en relación a su fractura cervical
+T110	DISO 13198 13245	complicación en relación a su fractura cervical
+T111	NegSynMarker 13265 13268	sin
+T112	DISO 13269 13275	disnea
+T113	NegSynMarker 13467 13470	sin
+T114	PolItem 13471 13477	ningun
+T115	Phrase 13471 13491	ningun tipo de ayuda
+T116	NegSynMarker 13502 13505	sin
+T117	DISO 13506 13530	dificultad con taca-taca
+T118	NegMorMarker 13682 13691	incurable
+T119	NegSynMarker 13760 13762	no
+T120	Phrase 13763 13813	se le han realizado pruebas diagnósticas invasivas
+T121	PROC 13783 13813	pruebas diagnósticas invasivas
+T122	UncertLexMarker 13819 13826	creemos
+T123	Phrase 13827 13875	que no va a cambiar el pronóstico de la paciente
+T124	NegSynMarker 13831 13833	no
+T125	OTHER 13834 13875	va a cambiar el pronóstico de la paciente
+T126	NegSynMarker 14090 14092	no
+T127	Phrase 14093 14133	refiere dolor ala movilización de cadera
+T128	DISO 14101 14133	dolor ala movilización de cadera
+T129	PROC 14446 14464	todos los estudios
+T130	NegLexMarker 14465 14474	negativos
+T131	NegSynMarker 14612 14615	sin
+T132	DISO 14616 14626	dificultad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	DiscScope Arg1:T19 Arg2:T18
+R9	DiscScope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T33 Arg2:T34
+R18	Scope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T37 Arg2:T39
+R20	Scope Arg1:T43 Arg2:T44
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T50 Arg2:T51
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T55 Arg2:T57
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T63 Arg2:T64
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T65 Arg2:T66
+R30	Scope Arg1:T71 Arg2:T72
+R31	Scope Arg1:T73 Arg2:T74
+R32	Scope Arg1:T76 Arg2:T77
+R33	Scope Arg1:T78 Arg2:T79
+R34	Scope Arg1:T80 Arg2:T82
+R35	Scope Arg1:T83 Arg2:T84
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T88 Arg2:T89
+R38	Scope Arg1:T90 Arg2:T91
+R39	Scope Arg1:T92 Arg2:T93
+R40	Scope Arg1:T94 Arg2:T95
+R41	Scope Arg1:T96 Arg2:T97
+R42	Scope Arg1:T98 Arg2:T99
+R43	Scope Arg1:T100 Arg2:T101
+R44	Scope Arg1:T103 Arg2:T104
+R45	Scope Arg1:T106 Arg2:T107
+R46	Scope Arg1:T108 Arg2:T109
+R47	Scope Arg1:T111 Arg2:T112
+R48	Scope Arg1:T116 Arg2:T117
+R49	Scope Arg1:T113 Arg2:T115
+R50	Scope Arg1:T124 Arg2:T125
+R51	Scope Arg1:T119 Arg2:T120
+R52	Scope Arg1:T122 Arg2:T123
+R53	Scope Arg1:T126 Arg2:T127
+R54	Scope Arg1:T130 Arg2:T129
+R55	Scope Arg1:T131 Arg2:T132

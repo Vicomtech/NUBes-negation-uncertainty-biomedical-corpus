@@ -1,0 +1,92 @@
+T1	NegSynMarker 125 127	No
+T2	Phrase 128 153	se aprecian signos de PNP
+T3	DISO 150 153	PNP
+T4	NegSynMarker 156 158	No
+T5	Phrase 159 181	hay estenosis de canal
+T6	DISO 163 181	estenosis de canal
+T7	NegSynMarker 218 221	sin
+T8	DISO 222 235	deficit motor
+T9	NegSynMarker 236 238	no
+T10	DISO 239 248	sensitivo
+T11	NegSynMarker 278 281	sin
+T12	DISO 282 294	alteraciones
+T13	UncertLexMarker 459 465	parece
+T14	Phrase 466 500	mantenerse estable en su evolucion
+T15	DISO 477 500	estable en su evolucion
+T16	NegSynMarker 715 717	no
+T17	Phrase 718 749	estando presente durante el dia
+T18	OTHER 726 749	presente durante el dia
+T19	NegSynMarker 1054 1056	no
+T20	Phrase 1057 1105	se observa actividad muscular espontánea anómala
+T21	DISO 1068 1105	actividad muscular espontánea anómala
+T22	NegLexMarker 2069 2114	En ninguno de los niveles lumbares estudiados
+T23	Phrase 2115 2206	se identifica recidiva de hernia discal ni presencia de hernia o protrusión discal moderada
+T24	DISO 2129 2154	recidiva de hernia discal
+T25	CoordItem 2155 2157	ni
+T26	DISO 2171 2206	hernia o protrusión discal moderada
+T27	NegSynMarker 2262 2264	No
+T28	DISO 2265 2294	lesion estructural de la raiz
+T29	NegSynMarker 2579 2581	No
+T30	Phrase 2582 2722	toma farmacos salvo un antiHTA , ni presenta anemia , uremia ni otras situaciones que pudieran contribuir/ser causantes per se de la clinica
+T31	SUBS 2587 2595	farmacos
+T32	CoordItem 2615 2617	ni
+T33	DISO 2627 2633	anemia
+T34	DISO 2636 2642	uremia
+T35	CoordItem 2643 2645	ni
+T36	DISO 2646 2722	otras situaciones que pudieran contribuir/ser causantes per se de la clinica
+T37	NegSynMarker 2814 2817	sin
+T38	DISO 2818 2845	alteraciones significativas
+T39	NegSynMarker 2865 2867	no
+T40	Phrase 2868 2923	se aprecian signos de afectación radicular axonal aguda
+T41	DISO 2890 2923	afectación radicular axonal aguda
+T42	UncertLexMarker 2981 2992	Orientación
+T43	DISO 3007 3032	Discopatía lumbar crónica
+T44	NegSynMarker 3035 3037	No
+T45	Phrase 3038 3085	se observan otras hernias protrusiones discales
+T46	DISO 3050 3085	otras hernias protrusiones discales
+T47	NegSynMarker 3173 3175	no
+T48	Phrase 3176 3232	se aprecia anemia ni uremia ni alteracuiones metabolicas
+T49	DISO 3187 3193	anemia
+T50	CoordItem 3194 3196	ni
+T51	DISO 3197 3203	uremia
+T52	CoordItem 3204 3206	ni
+T53	DISO 3207 3232	alteracuiones metabolicas
+T54	UncertLexMarker 3262 3270	probable
+T55	DISO 3271 3284	relacion a IQ
+T56	NegSynMarker 3394 3397	sin
+T57	DISO 3398 3422	compresiones radiculares
+T58	UncertLexMarker 3532 3548	muy sugestivo de
+T59	DISO 3549 3572	Sdme. piernas inquietas
+T60	UncertLexMarker 3664 3670	parece
+T61	DISO 3671 3677	normal
+T62	NegSynMarker 3681 3683	no
+T63	PROC 3684 3755	se explora bien REM rotuliano y sensibilidad EIIzqda por la IQ reciente
+T64	NegSynMarker 3985 3987	No
+T65	Phrase 3988 4122	refiere clinica sugestiva de movimientos periodicos de las piernas durante el sueño ni de piernas dolorosas ni movimentos de los dedos
+T66	DISO 4017 4071	movimientos periodicos de las piernas durante el sueño
+T67	CoordItem 4072 4074	ni
+T68	DISO 4078 4095	piernas dolorosas
+T69	CoordItem 4096 4098	ni
+T70	DISO 4099 4122	movimentos de los dedos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T37 Arg2:T38
+R13	Scope Arg1:T39 Arg2:T40
+R14	Scope Arg1:T42 Arg2:T43
+R15	Scope Arg1:T44 Arg2:T45
+R16	Scope Arg1:T54 Arg2:T55
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T56 Arg2:T57
+R19	Scope Arg1:T58 Arg2:T59
+R20	Scope Arg1:T60 Arg2:T61
+R21	Scope Arg1:T62 Arg2:T63
+R22	Scope Arg1:T64 Arg2:T65

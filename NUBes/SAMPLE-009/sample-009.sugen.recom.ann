@@ -1,0 +1,6 @@
+T1	NegSynMarker 752 755	sin
+T2	Phrase 756 774	azucares refinados
+T3	NegSynMarker 2191 2193	no
+T4	OTHER 2194 2218	ha precisado tratamiento
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

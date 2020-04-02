@@ -1,0 +1,57 @@
+T1	DISO 193 200	mejoría
+T2	UncertLexMarker 201 209	aparente
+T3	UncertLexMarker 537 543	parece
+T4	DISO 544 553	tensional
+T5	NegSynMarker 554 556	No
+T6	DISO 557 575	otra patologia ORL
+T7	NegSynMarker 664 666	No
+T8	DISO 667 680	odinodisfagia
+T9	NegSynMarker 683 685	no
+T10	DISO 686 692	disnea
+T11	NegSynMarker 695 697	no
+T12	DISO 698 706	disfonia
+T13	NegSynMarker 762 764	no
+T14	Phrase 765 780	referia vertigo
+T15	DISO 773 780	vertigo
+T16	NegLexMarker 852 861	Ha cedido
+T17	DISO 862 872	el acufeno
+T18	UncertLexMarker 1375 1389	compatible con
+T19	DISO 1390 1415	sinusitis maxilar derecho
+T20	NegSynMarker 1528 1530	No
+T21	DISO 1531 1540	mucosidad
+T22	NegSynMarker 1543 1545	no
+T23	DISO 1546 1554	alergias
+T24	NegSynMarker 1754 1756	No
+T25	DISO 1757 1768	amigdalitis
+T26	NegSynMarker 1770 1772	no
+T27	DISO 1773 1779	otitis
+T28	PROC 1844 1861	test estreptococo
+T29	NegLexMarker 1862 1870	negativo
+T30	NegLexMarker 1903 1921	imposibilidad para
+T31	OTHER 1922 1928	tragar
+T32	NegSynMarker 2209 2212	sin
+T33	DISO 2213 2220	trismus
+T34	NegMorMarker 2368 2379	Ex-fumadora
+T35	NegSynMarker 2640 2642	No
+T36	DISO 2643 2650	vertigo
+T37	NegSynMarker 2699 2702	sin
+T38	Phrase 2703 2727	llega a anosmia completa
+T39	DISO 2711 2727	anosmia completa
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T20 Arg2:T21
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T24 Arg2:T25
+R14	Scope Arg1:T29 Arg2:T28
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T32 Arg2:T33
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T37 Arg2:T38

@@ -1,0 +1,9 @@
+T1	NegSynMarker 241 244	sin
+T2	Phrase 245 250	exito
+T3	NegSynMarker 298 301	sin
+T4	OTHER 302 309	familia
+T5	NegSynMarker 503 505	no
+T6	DISO 506 528	perdida de conocmiento
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

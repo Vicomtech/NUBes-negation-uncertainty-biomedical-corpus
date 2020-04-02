@@ -1,0 +1,12 @@
+T1	NegLexMarker 626 637	Se suspende
+T2	Phrase 638 712	la Pimozida y los analgésicos opiáceos ( Sevredol 10 mg , Tramadol y MST )
+T3	SUBS 638 649	la Pimozida
+T4	SUBS 652 676	los analgésicos opiáceos
+T5	SUBS 679 687	Sevredol
+T6	SUBS 696 704	Tramadol
+T7	CoordItem 705 706	y
+T8	SUBS 707 710	MST
+T9	NegLexMarker 936 949	abstención de
+T10	OTHER 950 986	práctica de deporte moderada-intensa
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T9 Arg2:T10

@@ -1,0 +1,79 @@
+T1	UncertLexMarker 176 184	Probable
+T2	DISO 185 210	MENIERE de oido izquierdo
+T3	NegSynMarker 375 378	sin
+T4	DISO 379 394	mejoría clinica
+T5	NegSynMarker 397 399	no
+T6	Phrase 400 440	refiere episodios previos de amigdalitis
+T7	DISO 408 440	episodios previos de amigdalitis
+T8	NegSynMarker 514 516	no
+T9	DISO 517 526	adheridas
+T10	PROC 529 576	Punción-aspiración en zona de mayor fluctuación
+T11	NegLexMarker 579 587	negativa
+T12	NegLexMarker 666 675	Se retira
+T13	DISO 676 691	el taponamiento
+T14	NegSynMarker 734 736	no
+T15	Phrase 737 767	ha vuelto a presentar sangrado
+T16	DISO 759 767	sangrado
+T17	NegSynMarker 797 800	Sin
+T18	DISO 801 808	cefalea
+T19	NegSynMarker 809 811	no
+T20	DISO 812 833	sensacion vertiginosa
+T21	NegSynMarker 905 908	sin
+T22	OTHER 909 936	repercución en el hemograma
+T23	NegSynMarker 975 978	sin
+T24	DISO 979 988	respuesta
+T25	NegMorMarker 1088 1100	asintomática
+T26	NegSynMarker 1318 1320	no
+T27	DISO 1321 1340	nistagmo espontaneo
+T28	Phrase 1321 1369	nistagmo espontaneo ni desviaciones segmentarias
+T29	CoordItem 1341 1343	ni
+T30	DISO 1344 1369	desviaciones segmentarias
+T31	NegSynMarker 1412 1414	No
+T32	DISO 1415 1423	nistagmo
+T33	Phrase 1415 1452	nistagmo ni desviaciones segmentarias
+T34	CoordItem 1424 1426	ni
+T35	DISO 1427 1452	desviaciones segmentarias
+T36	NegMorMarker 1496 1508	asintomática
+T37	NegSynMarker 1511 1513	No
+T38	DISO 1514 1520	disnea
+T39	NegSynMarker 1523 1525	no
+T40	DISO 1526 1534	disfonia
+T41	NegSynMarker 1537 1539	No
+T42	DISO 1540 1554	lateralización
+T43	NegSynMarker 1557 1559	No
+T44	DISO 1560 1568	sangrado
+T45	NegLexMarker 1715 1724	se retira
+T46	OTHER 1725 1737	taponamiento
+T47	NegSynMarker 1784 1787	sin
+T48	Phrase 1788 1800	signos de IC
+T49	DISO 1798 1800	IC
+T50	NegSynMarker 1821 1823	No
+T51	DISO 1824 1830	sangra
+T52	NegMorMarker 1858 1870	Asintomática
+T53	NegMorMarker 1872 1884	Asintomatica
+T54	NegSynMarker 2125 2127	No
+T55	DISO 2128 2136	nistagmo
+T56	NegSynMarker 2213 2215	no
+T57	DISO 2216 2242	exudados a nivel amigdalar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T10
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T12 Arg2:T13
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T26 Arg2:T28
+R13	Scope Arg1:T31 Arg2:T33
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T45 Arg2:T46
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T54 Arg2:T55
+R22	Scope Arg1:T56 Arg2:T57

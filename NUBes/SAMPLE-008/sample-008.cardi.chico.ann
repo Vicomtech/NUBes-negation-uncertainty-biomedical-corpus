@@ -1,0 +1,8 @@
+T1	NegSynMarker 2128 2130	No
+T2	Phrase 2131 2166	dolor toracico ni disnea Ni cefalea
+T3	DISO 2131 2145	dolor toracico
+T4	CoordItem 2146 2148	ni
+T5	DISO 2149 2155	disnea
+T6	CoordItem 2156 2158	Ni
+T7	DISO 2159 2166	cefalea
+R1	Scope Arg1:T1 Arg2:T2

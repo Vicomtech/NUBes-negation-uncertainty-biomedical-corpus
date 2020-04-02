@@ -1,0 +1,18 @@
+T1	NegSynMarker 1020 1022	no
+T2	Phrase 1023 1060	tumbarse en los siguientes 30 minutos
+T3	SUBS 1390 1399	Angiodrox
+T4	NegLexMarker 1411 1419	suspende
+T5	SUBS 2342 2349	Sintrom
+T6	NegLexMarker 2352 2362	suspendido
+T7	SUBS 2444 2454	Amlodipino
+T8	NegLexMarker 2475 2483	suspende
+T9	SUBS 2486 2496	Bisoprolol
+T10	NegLexMarker 2508 2516	suspende
+T11	SUBS 2622 2634	Adiro 100 mg
+T12	NegLexMarker 2646 2654	suspende
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T6 Arg2:T5
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T10 Arg2:T9
+R6	Scope Arg1:T12 Arg2:T11

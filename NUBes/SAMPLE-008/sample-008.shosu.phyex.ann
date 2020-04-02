@@ -1,0 +1,66 @@
+T1	NegSynMarker 179 182	Sin
+T2	DISO 183 192	hallazgos
+T3	NegSynMarker 413 416	Sin
+T4	DISO 417 452	dolor en la posicion de sedestación
+T5	NegSynMarker 1076 1078	No
+T6	Phrase 1079 1092	refiere dolor
+T7	DISO 1087 1092	dolor
+T8	NegSynMarker 1116 1119	sin
+T9	DISO 1120 1130	dificultad
+T10	DISO 1154 1161	ascitis
+T11	UncertLexMarker 1162 1163	?
+T12	NegLexMarker 1226 1234	falta de
+T13	OTHER 1235 1272	control de la dorsiflexión de tobillo
+T14	NegMorMarker 1343 1355	desorientado
+T15	NegSynMarker 1412 1415	sin
+T16	DISO 1416 1450	dificultad con 2 bastones ingleses
+T17	NegSynMarker 1482 1485	sin
+T18	Phrase 1486 1491	ayuda
+T19	NegSynMarker 2045 2048	sin
+T20	Phrase 2049 2057	ascensor
+T21	NegSynMarker 2102 2104	No
+T22	Phrase 2105 2180	dolor a la movilización de cadera izquierda con psoas y gluteo medio a 4-/5
+T23	DISO 2105 2148	dolor a la movilización de cadera izquierda
+T24	NegSynMarker 2190 2193	sin
+T25	Phrase 2194 2233	ninguna dificultad con ayuda de andador
+T26	PolItem 2194 2201	ninguna
+T27	DISO 2202 2212	dificultad
+T28	NegSynMarker 2338 2341	sin
+T29	DISO 2342 2362	signos inflamatorios
+T30	NegMorMarker 2398 2410	desorimetada
+T31	UncertLexMarker 2689 2698	Sin clara
+T32	DISO 2699 2728	focalidad motora ni sensitiva
+T33	NegMorMarker 2815 2827	desorientado
+T34	NegSynMarker 2913 2915	no
+T35	DISO 2916 2924	doloroso
+T36	NegSynMarker 2949 2951	no
+T37	Phrase 2952 2965	refiere dolor
+T38	DISO 2960 2965	dolor
+T39	NegSynMarker 2992 2994	no
+T40	DISO 2995 3030	dolor a la movilización cadera izda
+T41	NegSynMarker 3033 3035	No
+T42	DISO 3036 3076	dolor a la movilización cadera izquierda
+T43	NegMorMarker 3113 3125	desorientada
+T44	NegSynMarker 3221 3223	no
+T45	OTHER 3224 3235	intrevenida
+T46	NegSynMarker 3611 3613	No
+T47	DISO 3614 3647	dolor a la movilización de cadera
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T11 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47

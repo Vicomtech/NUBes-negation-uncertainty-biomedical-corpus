@@ -1,0 +1,6 @@
+T1	NegSynMarker 1216 1219	sin
+T2	Phrase 1220 1223	sal
+T3	NegLexMarker 1743 1754	Se suspende
+T4	SUBS 1755 1770	el lormetazepam
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

@@ -1,0 +1,86 @@
+T1	Phrase 28 52	episodio de epigstralgia
+T2	DISO 40 52	epigstralgia
+T3	NegLexMarker 59 64	cedió
+T4	Phrase 65 73	con IBPs
+T5	UncertLexMarker 145 153	probable
+T6	DISO 154 172	origen suprarrenal
+T7	NegLexMarker 200 213	descartándose
+T8	DISO 214 228	feocromocitoma
+T9	PROC 233 245	metanefrinas
+T10	NegLexMarker 246 255	negativas
+T11	NegSynMarker 403 406	sin
+T12	DISO 407 412	dolor
+T13	NegSynMarker 476 479	sin
+T14	DISO 480 489	hallazgos
+T15	NegSynMarker 531 533	no
+T16	Phrase 534 554	realiza deposiciones
+T17	SUBS 542 554	deposiciones
+T18	NegSynMarker 706 708	No
+T19	DISO 709 732	masas en ampolla rectal
+T20	NegSynMarker 762 764	no
+T21	Phrase 765 780	aprecio fisuras
+T22	DISO 773 780	fisuras
+T23	NegSynMarker 823 826	sin
+T24	DISO 827 836	hallazgos
+T25	NegSynMarker 886 888	No
+T26	Phrase 889 939	dolor abdominal ni otra sintomatologia acompañante
+T27	DISO 889 904	dolor abdominal
+T28	CoordItem 905 907	ni
+T29	DISO 908 939	otra sintomatologia acompañante
+T30	NegSynMarker 1130 1132	no
+T31	Phrase 1133 1162	clinica de infeccion urinaria
+T32	DISO 1144 1162	infeccion urinaria
+T33	NegSynMarker 1165 1167	no
+T34	DISO 1168 1199	otra sintomatologia acompañante
+T35	NegSynMarker 1477 1480	sin
+T36	Phrase 1481 1512	sangre ni productos patológicos
+T37	SUBS 1481 1487	sangre
+T38	CoordItem 1488 1490	ni
+T39	DISO 1491 1512	productos patológicos
+T40	NegSynMarker 1552 1554	No
+T41	DISO 1555 1562	nauseas
+T42	Phrase 1555 1599	nauseas ni vómitos ni otra clínica digestiva
+T43	CoordItem 1563 1565	ni
+T44	DISO 1566 1573	vómitos
+T45	CoordItem 1574 1576	ni
+T46	DISO 1577 1599	otra clínica digestiva
+T47	NegSynMarker 1840 1843	sin
+T48	DISO 1844 1849	dolor
+T49	Phrase 1844 1884	dolor ni otra sintomatología acompañante
+T50	CoordItem 1850 1852	ni
+T51	DISO 1853 1884	otra sintomatología acompañante
+T52	NegSynMarker 2516 2518	no
+T53	OTHER 2519 2529	se realizó
+T54	NegSynMarker 2762 2765	sin
+T55	DISO 2766 2778	alteraciones
+T56	NegLexMarker 3048 3052	cede
+T57	Phrase 3053 3068	espontáneamente
+T58	NegSynMarker 3232 3234	no
+T59	DISO 3235 3261	relacionado con la ingesta
+T60	NegSynMarker 3277 3279	no
+T61	OTHER 3280 3286	diario
+T62	NegSynMarker 3293 3295	no
+T63	OTHER 3296 3329	le impide realizar su vida normal
+R1	Scope Arg1:T7 Arg2:T8
+R2	DiscScope Arg1:T3 Arg2:T4
+R3	DiscScope Arg1:T3 Arg2:T1
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T10 Arg2:T9
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T40 Arg2:T42
+R17	Scope Arg1:T47 Arg2:T49
+R18	Scope Arg1:T52 Arg2:T53
+R19	Scope Arg1:T54 Arg2:T55
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T58 Arg2:T59
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T62 Arg2:T63

@@ -1,0 +1,48 @@
+T1	NegSynMarker 16 19	sin
+T2	DISO 20 25	edema
+T3	NegSynMarker 68 71	Sin
+T4	OTHER 72 102	contraindicaciones quirurgicas
+T5	NegSynMarker 121 124	sin
+T6	DISO 125 149	hallazgos significativos
+T7	NegSynMarker 292 294	No
+T8	Phrase 295 365	se visualizan focos osteolíticos o esponjiformes a nivel de la fissula
+T9	DISO 309 365	focos osteolíticos o esponjiformes a nivel de la fissula
+T10	NegSynMarker 414 421	tampoco
+T11	DISO 422 441	halos pericocleares
+T12	Phrase 422 463	halos pericocleares o estribos engrosados
+T13	CoordItem 442 443	o
+T14	DISO 444 463	estribos engrosados
+T15	NegSynMarker 590 592	no
+T16	DISO 593 601	disfagia
+T17	NegSynMarker 604 606	no
+T18	DISO 607 613	disnea
+T19	NegSynMarker 616 618	no
+T20	DISO 619 627	disfonia
+T21	NegSynMarker 737 739	no
+T22	Phrase 740 787	se palpan adenopatias , ni puntos enfisematosos
+T23	DISO 750 761	adenopatias
+T24	CoordItem 764 766	ni
+T25	DISO 767 787	puntos enfisematosos
+T26	NegSynMarker 813 816	sin
+T27	DISO 817 844	alteraciones significativas
+T28	NegSynMarker 847 849	no
+T29	Phrase 850 867	objetivo lesiones
+T30	DISO 859 867	lesiones
+T31	NegSynMarker 887 890	Sin
+T32	Phrase 891 916	hallazgos de otosclerosis
+T33	DISO 904 916	otosclerosis
+T34	UncertLexMarker 1124 1139	compatibles con
+T35	DISO 1140 1191	un conglomerado adenopático que mide 11 x 10 X 8 mm
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T12
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T34 Arg2:T35

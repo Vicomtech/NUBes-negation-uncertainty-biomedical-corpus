@@ -1,0 +1,21 @@
+T1	UncertLexMarker 1400 1407	valorar
+T2	OTHER 1408 1469	la reducción de la analgesia en función del control del dolor
+T3	NegSynMarker 1677 1679	no
+T4	OTHER 1680 1688	tumbarse
+T5	Phrase 1680 1717	tumbarse en los siguientes 40 minutos
+T6	NegLexMarker 1730 1737	retirar
+T7	OTHER 1738 1784	en función de la evolución de su micosis bucal
+T8	NegSynMarker 2503 2505	no
+T9	OTHER 2506 2534	tomar más de dos comprimidos
+T10	SUBS 3263 3278	Adolonta retard
+T11	NegLexMarker 3301 3309	suspende
+T12	SUBS 3383 3399	domperidona oral
+T13	Phrase 3409 3419	d emomento
+T14	NegLexMarker 3420 3428	suspende
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T10
+R6	DiscScope Arg1:T14 Arg2:T13
+R7	DiscScope Arg1:T14 Arg2:T12

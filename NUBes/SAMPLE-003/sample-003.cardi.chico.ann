@@ -1,0 +1,102 @@
+T1	NegMorMarker 53 65	inespecifico
+T2	NegSynMarker 68 71	sin
+T3	DISO 72 86	dolor toracico
+T4	NegSynMarker 150 152	no
+T5	OTHER 153 161	consultó
+T6	Phrase 184 211	episodios desde hace 5 dias
+T7	DISO 184 193	episodios
+T8	NegLexMarker 216 221	ceden
+T9	Phrase 222 236	expntaneamente
+T10	NegSynMarker 239 241	no
+T11	Phrase 242 272	se relacionan con el ejercicio
+T12	NegLexMarker 384 394	suspendido
+T13	SUBS 395 404	trazodona
+T14	NegSynMarker 407 409	No
+T15	DISO 410 424	dolor toracico
+T16	NegLexMarker 623 628	Niega
+T17	DISO 629 649	dolor a ningun nivel
+T18	NegSynMarker 725 727	No
+T19	DISO 728 742	dolor torácico
+T20	NegSynMarker 745 747	no
+T21	DISO 748 754	disnea
+T22	NegSynMarker 757 759	no
+T23	DISO 760 790	cortejo vegetativo acompañante
+T24	NegSynMarker 793 795	no
+T25	DISO 796 809	palpitaciones
+T26	NegSynMarker 967 970	sin
+T27	Phrase 971 1003	cortejo ni pèrdida de conciencia
+T28	DISO 971 978	cortejo
+T29	CoordItem 979 981	ni
+T30	DISO 982 1003	pèrdida de conciencia
+T31	NegSynMarker 1006 1008	no
+T32	DISO 1009 1023	dolor toràcico
+T33	NegSynMarker 1740 1742	no
+T34	DISO 1743 1749	mejora
+T35	NegSynMarker 2254 2256	No
+T36	Phrase 2257 2294	disnea ni cortejo vegetativo asociado
+T37	DISO 2257 2263	disnea
+T38	CoordItem 2264 2266	ni
+T39	DISO 2267 2294	cortejo vegetativo asociado
+T40	NegSynMarker 2336 2338	No
+T41	DISO 2339 2352	palpitaciones
+T42	NegMorMarker 2378 2391	inespecificas
+T43	NegSynMarker 2422 2425	sin
+T44	DISO 2426 2433	cortejo
+T45	NegMorMarker 2692 2704	asintomático
+T46	NegMorMarker 2892 2901	exfumador
+T47	NegSynMarker 2923 2926	sin
+T48	DISO 2927 2948	factores de riesgo CV
+T49	NegSynMarker 3196 3198	No
+T50	DISO 3199 3213	dolor toracico
+T51	NegSynMarker 3214 3216	No
+T52	DISO 3217 3225	ortopnea
+T53	NegSynMarker 3226 3228	No
+T54	DISO 3229 3258	clinica digestiva ni urinaria
+T55	CoordItem 3247 3249	ni
+T56	NegSynMarker 3260 3262	No
+T57	DISO 3263 3269	fiebre
+T58	NegSynMarker 3272 3274	No
+T59	DISO 3275 3304	proceso respiratorio asociado
+T60	UncertLexMarker 3320 3328	probable
+T61	DISO 3329 3344	artritis gotosa
+T62	Phrase 3517 3559	episodio de mareo al levantarse de la cama
+T63	DISO 3529 3534	mareo
+T64	NegLexMarker 3564 3568	cede
+T65	Phrase 3569 3590	aprox en unos 15 mins
+T66	NegMorMarker 3593 3605	Asintomatico
+T67	NegSynMarker 3621 3623	No
+T68	Phrase 3624 3682	refiere proceso catarral asociado ni digestivo ni urinario
+T69	DISO 3632 3682	proceso catarral asociado ni digestivo ni urinario
+T70	CoordItem 3658 3660	ni
+T71	CoordItem 3671 3673	ni
+T72	NegSynMarker 4035 4037	no
+T73	DISO 4038 4046	conocida
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	DiscScope Arg1:T8 Arg2:T6
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T20 Arg2:T21
+R12	Scope Arg1:T22 Arg2:T23
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T26 Arg2:T27
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T56 Arg2:T57
+R23	Scope Arg1:T53 Arg2:T54
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T60 Arg2:T61
+R26	DiscScope Arg1:T64 Arg2:T65
+R27	DiscScope Arg1:T64 Arg2:T62
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T72 Arg2:T73

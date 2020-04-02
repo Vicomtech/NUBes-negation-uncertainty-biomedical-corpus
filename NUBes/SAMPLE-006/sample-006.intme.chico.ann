@@ -1,0 +1,112 @@
+T1	NegSynMarker 137 140	sin
+T2	DISO 141 155	otros sintomas
+T3	NegSynMarker 512 514	no
+T4	DISO 515 521	fiebre
+T5	NegSynMarker 524 526	no
+T6	DISO 527 541	dolor toràcico
+T7	NegSynMarker 662 664	no
+T8	DISO 665 672	vòmitos
+T9	NegSynMarker 675 677	no
+T10	DISO 678 709	alteraciòn del ritmo intestinal
+T11	NegSynMarker 712 714	no
+T12	DISO 715 733	sindrome miccional
+T13	NegSynMarker 736 738	no
+T14	DISO 739 753	edemas en EEII
+T15	NegSynMarker 1315 1317	no
+T16	Phrase 1318 1336	nauseas ni vómitos
+T17	DISO 1318 1325	nauseas
+T18	CoordItem 1326 1328	ni
+T19	DISO 1329 1336	vómitos
+T20	UncertLexMarker 1444 1451	valorar
+T21	Phrase 1452 1480	posible transplante hepático
+T22	PolItem 1452 1459	posible
+T23	PROC 1460 1480	transplante hepático
+T24	NegSynMarker 1667 1669	no
+T25	Phrase 1670 1699	anticoagulado ni antiagregado
+T26	OTHER 1670 1683	anticoagulado
+T27	CoordItem 1684 1686	ni
+T28	OTHER 1687 1699	antiagregado
+T29	NegSynMarker 1887 1890	sin
+T30	DISO 1891 1912	resolverse la clinica
+T31	NegSynMarker 2647 2649	no
+T32	Phrase 2650 2678	refiere tos ni expectoraciòn
+T33	DISO 2658 2661	tos
+T34	CoordItem 2662 2664	ni
+T35	DISO 2665 2678	expectoraciòn
+T36	NegSynMarker 2712 2714	no
+T37	DISO 2715 2722	vòmitos
+T38	NegSynMarker 2725 2727	no
+T39	DISO 2728 2746	sindrome miccional
+T40	NegSynMarker 3412 3415	sin
+T41	DISO 3416 3425	resultado
+T42	Phrase 3416 3456	resultado a pesar de duphalac y micralax
+T43	UncertLexMarker 3602 3609	posible
+T44	PROC 3610 3621	transfusión
+T45	NegSynMarker 3911 3914	sin
+T46	DISO 3915 3951	control de los momentos de agitacion
+T47	NegSynMarker 3975 3977	No
+T48	Phrase 3978 4011	clínica de infeccion respiratoria
+T49	DISO 3989 4011	infeccion respiratoria
+T50	NegSynMarker 4012 4014	No
+T51	DISO 4015 4022	cefalea
+T52	NegSynMarker 4023 4025	No
+T53	Phrase 4026 4043	nauses ni vómitos
+T54	DISO 4026 4032	nauses
+T55	CoordItem 4033 4035	ni
+T56	DISO 4036 4043	vómitos
+T57	NegSynMarker 4099 4101	No
+T58	DISO 4102 4154	perdida de fuerza ni de sensibilidad en extremidades
+T59	CoordItem 4120 4122	ni
+T60	NegSynMarker 4155 4157	No
+T61	DISO 4158 4163	mareo
+T62	NegSynMarker 4166 4168	no
+T63	DISO 4169 4175	disnea
+T64	NegSynMarker 4178 4180	no
+T65	DISO 4181 4195	dolor torácico
+T66	NegSynMarker 4273 4275	No
+T67	DISO 4276 4283	vomitos
+T68	NegSynMarker 4801 4804	sin
+T69	DISO 4805 4812	interes
+T70	NegSynMarker 5265 5267	No
+T71	DISO 5268 5326	clíncia de infeccionre spiratoria , digestiva ni miccional
+T72	CoordItem 5314 5316	ni
+T73	NegSynMarker 5327 5329	No
+T74	DISO 5330 5338	tiritona
+T75	NegSynMarker 5339 5340	N
+T76	Phrase 5341 5367	reifere mareos posteriores
+T77	DISO 5349 5367	mareos posteriores
+T78	NegLexMarker 5392 5401	Descartar
+T79	DISO 5402 5410	neumonia
+T80	NegSynMarker 5764 5766	no
+T81	DISO 5767 5773	fiebre
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T9 Arg2:T10
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T5 Arg2:T6
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T40 Arg2:T42
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T57 Arg2:T58
+R18	Scope Arg1:T45 Arg2:T46
+R19	Scope Arg1:T52 Arg2:T53
+R20	Scope Arg1:T62 Arg2:T63
+R21	Scope Arg1:T64 Arg2:T65
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T47 Arg2:T48
+R24	Scope Arg1:T50 Arg2:T51
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T73 Arg2:T74
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T75 Arg2:T76
+R30	Scope Arg1:T78 Arg2:T79
+R31	Scope Arg1:T80 Arg2:T81

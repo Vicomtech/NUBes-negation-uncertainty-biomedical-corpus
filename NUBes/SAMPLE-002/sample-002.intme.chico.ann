@@ -1,0 +1,50 @@
+T1	NegMorMarker 480 492	inespecifico
+T2	NegSynMarker 493 496	sin
+T3	DISO 497 534	giro con inestabilidad para la marcha
+T4	NegSynMarker 554 556	no
+T5	DISO 557 565	acúfenos
+T6	NegSynMarker 568 570	no
+T7	DISO 571 581	hipoacusia
+T8	NegSynMarker 692 694	no
+T9	DISO 695 705	productiva
+T10	NegSynMarker 708 710	no
+T11	DISO 711 729	sindrome miccional
+T12	DISO 756 772	hematuria franca
+T13	NegLexMarker 777 782	cedió
+T14	NegSynMarker 852 855	sin
+T15	DISO 856 862	fiebre
+T16	NegMorMarker 865 879	desorientación
+T17	NegSynMarker 882 884	no
+T18	DISO 885 906	pérdida de conciencia
+T19	NegSynMarker 909 911	no
+T20	DISO 912 926	dolor torácico
+T21	NegSynMarker 929 931	no
+T22	DISO 932 938	disnea
+T23	NegSynMarker 941 943	no
+T24	DISO 944 951	cefalea
+T25	NegSynMarker 1555 1557	No
+T26	DISO 1558 1574	clinica urinaria
+T27	NegLexMarker 1577 1582	Niega
+T28	DISO 1583 1610	episodios previos similares
+T29	NegSynMarker 1736 1739	sin
+T30	DISO 1740 1761	productos patologicos
+T31	NegSynMarker 1972 1974	No
+T32	DISO 1975 1982	nauseas
+T33	Phrase 1975 1993	nauseas ni vomitos
+T34	CoordItem 1983 1985	ni
+T35	DISO 1986 1993	vomitos
+R1	Scope Arg1:T4 Arg2:T5
+R2	Scope Arg1:T13 Arg2:T12
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T17 Arg2:T18
+R6	Scope Arg1:T2 Arg2:T3
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T6 Arg2:T7
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T33

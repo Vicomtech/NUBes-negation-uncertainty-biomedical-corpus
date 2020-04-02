@@ -1,0 +1,362 @@
+T1	NegSynMarker 803 806	sin
+T2	DISO 807 818	incidencias
+T3	NegLexMarker 1104 1112	RETIRADA
+T4	Phrase 1113 1135	progresiva de OPIACEOS
+T5	SUBS 1127 1135	OPIACEOS
+T6	NegLexMarker 1219 1228	se retira
+T7	OTHER 1229 1237	via PICC
+T8	NegMorMarker 2180 2187	afebril
+T9	NegMorMarker 2404 2416	asintomático
+T10	NegSynMarker 2657 2659	no
+T11	Phrase 2660 2671	oigo soplos
+T12	DISO 2665 2671	soplos
+T13	PROC 2768 2772	PPRB
+T14	NegLexMarker 2773 2781	negativa
+T15	NegSynMarker 2784 2786	no
+T16	Phrase 2787 2819	presenta signos de abdomen agudo
+T17	DISO 2806 2819	abdomen agudo
+T18	NegMorMarker 2936 2943	afebril
+T19	PROC 3160 3172	Hemocultivos
+T20	NegLexMarker 3200 3209	negativos
+T21	NegSynMarker 3456 3458	no
+T22	Phrase 3459 3480	presenta leucocitosis
+T23	DISO 3468 3480	leucocitosis
+T24	NegLexMarker 3573 3581	Rechazan
+T25	OTHER 3582 3592	ambulancia
+T26	NegSynMarker 4112 4114	no
+T27	DISO 4115 4140	se humidificara la herida
+T28	NegSynMarker 4143 4145	no
+T29	DISO 4146 4166	por problemas de RAO
+T30	NegMorMarker 4443 4450	Afebril
+T31	NegLexMarker 4498 4507	Retiramos
+T32	Phrase 4508 4539	los ágrafes de forma escalonada
+T33	OTHER 4508 4519	los ágrafes
+T34	NegSynMarker 4540 4543	sin
+T35	DISO 4544 4555	incidencias
+T36	SUBS 5085 5113	Amoxicilina/Clavulámico oral
+T37	NegLexMarker 5118 5129	se suspende
+T38	NegMorMarker 5642 5649	afebril
+T39	NegSynMarker 6011 6014	sin
+T40	DISO 6015 6026	incidencias
+T41	NegSynMarker 6115 6118	sin
+T42	Phrase 6119 6172	cambios en diuresis , coágulos asociados ni hematuria
+T43	DISO 6119 6138	cambios en diuresis
+T44	DISO 6141 6159	coágulos asociados
+T45	CoordItem 6160 6162	ni
+T46	DISO 6163 6172	hematuria
+T47	NegSynMarker 6341 6344	sin
+T48	DISO 6345 6367	incidencias reseñables
+T49	NegSynMarker 6680 6682	no
+T50	DISO 6683 6692	empastado
+T51	NegSynMarker 6695 6697	no
+T52	DISO 6698 6706	doloroso
+T53	NegSynMarker 6860 6863	sin
+T54	DISO 6864 6869	dolor
+T55	UncertLexMarker 7395 7403	probable
+T56	DISO 7404 7416	origen mixto
+T57	NegSynMarker 7852 7854	No
+T58	DISO 7855 7875	adenopatías axilares
+T59	DISO 7976 8007	la ulcera del maleolo de la EID
+T60	NegSynMarker 8008 8010	no
+T61	DISO 8011 8017	mejora
+T62	NegLexMarker 8260 8267	impedía
+T63	OTHER 8268 8288	el descanso nocturno
+T64	NegSynMarker 8326 8328	no
+T65	DISO 8329 8361	cedía a paracetamol ni metamizol
+T66	CoordItem 8349 8351	ni
+T67	PROC 8589 8601	hemocultivos
+T68	NegLexMarker 8613 8622	negativos
+T69	NegSynMarker 9360 9363	sin
+T70	DISO 9364 9396	mejoria del nivel de consciencia
+T71	NegSynMarker 9821 9824	sin
+T72	DISO 9825 9834	toxicidad
+T73	NegLexMarker 10029 10041	se suspendió
+T74	Phrase 10042 10072	sintrom hasta nueva valoración
+T75	SUBS 10042 10049	sintrom
+T76	NegMorMarker 10205 10212	afebril
+T77	NegMorMarker 10679 10686	afebril
+T78	UncertLexMarker 11600 11608	no claro
+T79	Phrase 11609 11629	que no lo reingresen
+T80	NegSynMarker 11613 11615	no
+T81	OTHER 11616 11629	lo reingresen
+T82	NegSynMarker 11863 11866	sin
+T83	DISO 11867 11872	fóvea
+T84	NegSynMarker 11875 11878	sin
+T85	DISO 11879 11892	empastamiento
+T86	NegSynMarker 11895 11897	no
+T87	Phrase 11898 11919	palpo cordón varicoso
+T88	DISO 11904 11919	cordón varicoso
+T89	NegSynMarker 11922 11924	no
+T90	DISO 11925 11986	cambios en coloración ni temperatura respecto a contralateral
+T91	CoordItem 11947 11949	ni
+T92	NegLexMarker 12436 12448	se retiraron
+T93	OTHER 12449 12489	los ágrafes de la HQ de forma progresiva
+T94	NegSynMarker 12492 12495	sin
+T95	DISO 12496 12513	incidencia alguna
+T96	PolItem 12507 12513	alguna
+T97	NegLexMarker 12738 12749	se descartó
+T98	DISO 12750 12770	patología trombotica
+T99	NegLexMarker 13090 13103	negativizando
+T100	PROC 13104 13155	los indicadores de infección ( leucos , PCR y VSG )
+T101	UncertLexMarker 13541 13551	compatible
+T102	Phrase 13552 13582	en TAC con hematoma organizado
+T103	DISO 13563 13582	hematoma organizado
+T104	NegSynMarker 13746 13749	sin
+T105	DISO 13750 13755	fóvea
+T106	NegMorMarker 14229 14241	asintomática
+T107	NegMorMarker 14244 14251	afebril
+T108	NegSynMarker 14314 14317	sin
+T109	DISO 14318 14345	alteraciones significativas
+T110	NegSynMarker 14348 14350	No
+T111	DISO 14351 14372	cambios en coloración
+T112	NegSynMarker 14517 14519	no
+T113	DISO 14520 14540	ruidos sobreañadidos
+T114	NegSynMarker 14600 14602	no
+T115	DISO 14603 14609	edemas
+T116	NegSynMarker 14612 14614	no
+T117	Phrase 14615 14636	palpo cordón varicoso
+T118	DISO 14621 14636	cordón varicoso
+T119	PROC 14639 14645	Homans
+T120	NegLexMarker 14646 14654	negativo
+T121	NegSynMarker 14728 14730	No
+T122	Phrase 14731 14768	ha precisado el uso de ningún rescate
+T123	PolItem 14754 14760	ningún
+T124	OTHER 14761 14768	rescate
+T125	NegSynMarker 14771 14773	No
+T126	Phrase 14774 14798	ha precisado que vayamos
+T127	UncertLexMarker 15099 15102	sin
+T128	Phrase 15103 15121	haberse objetivado
+T129	UncertLexMarker 15122 15127	clara
+T130	Phrase 15128 15163	imagen de trombosis venosa profunda
+T131	DISO 15138 15163	trombosis venosa profunda
+T132	UncertLexMarker 15410 15418	probable
+T133	Phrase 15419 15436	episodio de angor
+T134	DISO 15431 15436	angor
+T135	NegMorMarker 15587 15599	asintomático
+T136	NegMorMarker 15602 15609	afebril
+T137	NegSynMarker 15723 15725	No
+T138	Phrase 15726 15768	ha presentado dolor ni otra sintomatología
+T139	DISO 15740 15745	dolor
+T140	CoordItem 15746 15748	ni
+T141	DISO 15749 15768	otra sintomatología
+T142	NegLexMarker 15885 15894	retiramos
+T143	SUBS 15895 15905	el clexane
+T144	Phrase 15895 15935	el clexane que a modo preventivo llevaba
+T145	NegSynMarker 16106 16108	no
+T146	DISO 16109 16129	ruidos sobreañadidos
+T147	NegMorMarker 16193 16200	afebril
+T148	NegLexMarker 16237 16245	falta de
+T149	DISO 16246 16271	fuerza en rodilla derecha
+T150	NegSynMarker 16361 16363	no
+T151	Phrase 16364 16398	presenta exudado en ningún momento
+T152	SUBS 16373 16380	exudado
+T153	PolItem 16384 16390	ningún
+T154	NegSynMarker 16682 16684	no
+T155	Phrase 16685 16708	tiene edemas maleolares
+T156	DISO 16691 16708	edemas maleolares
+T157	UncertLexMarker 16753 16760	parecen
+T158	DISO 16761 16790	ceder con salbutamol inhalado
+T159	NegLexMarker 17325 17332	retirar
+T160	OTHER 17333 17367	el apoyo de la muleta para caminar
+T161	NegMorMarker 17429 17436	afebril
+T162	NegSynMarker 17751 17753	No
+T163	Phrase 17754 17799	presenta dolor a la palpación en ningún punto
+T164	DISO 17763 17799	dolor a la palpación en ningún punto
+T165	PolItem 17787 17793	ningún
+T166	NegSynMarker 17865 17867	no
+T167	Phrase 17868 17900	pudiendo movilizarlo por sí solo
+T168	OTHER 17877 17900	movilizarlo por sí solo
+T169	NegSynMarker 17903 17905	No
+T170	OTHER 17906 17933	tienen claro el tratamiento
+T171	NegSynMarker 17936 17944	no claro
+T172	Phrase 17945 17985	si existe acuerdo familiar sobre actitud
+T173	NegSynMarker 18197 18200	sin
+T174	DISO 18201 18223	edemas en extremidades
+T175	NegLexMarker 18552 18563	retirada de
+T176	SUBS 18564 18586	medicacion hipotensora
+T177	Phrase 18564 18637	medicacion hipotensora ( enalapril , amlodipino/olmesartan , bisiprolol )
+T178	NegSynMarker 18732 18734	no
+T179	DISO 18735 18778	doloroso a la palpación en ningún cuadrante
+T180	PolItem 18762 18768	ningún
+T181	NegSynMarker 18781 18783	no
+T182	Phrase 18784 18815	signos de irritación peritoneal
+T183	DISO 18794 18815	irritación peritoneal
+T184	NegSynMarker 19256 19259	sin
+T185	Phrase 19260 19283	problemas por domicilio
+T186	DISO 19260 19269	problemas
+T187	NegSynMarker 19326 19329	sin
+T188	DISO 19330 19336	disnea
+T189	Phrase 19330 19398	disnea , dolor torácico , ortopnea , fiebre ni otra clínica asociada
+T190	DISO 19339 19353	dolor torácico
+T191	DISO 19356 19364	ortopnea
+T192	DISO 19367 19373	fiebre
+T193	CoordItem 19374 19376	ni
+T194	DISO 19377 19398	otra clínica asociada
+T195	NegSynMarker 19561 19563	No
+T196	DISO 19564 19586	cambios en temperatura
+T197	UncertLexMarker 20078 20093	compatibles con
+T198	DISO 20094 20108	deshidratacion
+T199	NegSynMarker 20511 20513	no
+T200	Phrase 20514 20530	quiso tomar nada
+T201	PolItem 20526 20530	nada
+T202	NegSynMarker 20784 20786	no
+T203	Phrase 20787 20831	detectándose ninguna patología significativa
+T204	PolItem 20800 20807	ninguna
+T205	DISO 20808 20831	patología significativa
+T206	NegSynMarker 20928 20930	no
+T207	Phrase 20931 20960	está para infusor con morfina
+T208	NegSynMarker 20973 20975	no
+T209	OTHER 20976 21033	entiende porqué se le han retirado la medicación habitual
+T210	NegSynMarker 21063 21065	no
+T211	OTHER 21066 21078	podía dormir
+T212	NegLexMarker 21129 21134	niega
+T213	Phrase 21135 21161	que estuviera desorientado
+T214	NegMorMarker 21149 21161	desorientado
+T215	NegLexMarker 21164 21170	niegan
+T216	DISO 21171 21177	disnea
+T217	NegLexMarker 21216 21221	niega
+T218	DISO 21222 21227	dolor
+T219	NegSynMarker 21230 21232	No
+T220	Phrase 21233 21287	es posible explorar sensibilidad por patología de base
+T221	OTHER 21236 21287	posible explorar sensibilidad por patología de base
+T222	NegMorMarker 21666 21673	afebril
+T223	NegMorMarker 21841 21848	afebril
+T224	DISO 22457 22465	relación
+T225	UncertLexMarker 22466 22473	posible
+T226	DISO 22474 22484	a fármacos
+T227	NegSynMarker 22562 22564	no
+T228	DISO 22565 22577	leucocitosis
+T229	NegLexMarker 22951 22962	se descarta
+T230	DISO 22963 22966	tvp
+T231	Phrase 22963 22975	tvp y Backer
+T232	DISO 22969 22975	Backer
+T233	DISO 22978 22984	origen
+T234	UncertLexMarker 22985 22993	no claro
+T235	DISO 22996 23002	abceso
+T236	Phrase 22996 23013	abceso , hematoma
+T237	DISO 23005 23013	hematoma
+T238	UncertLexMarker 23014 23016	¿?
+T239	NegLexMarker 23104 23112	falta de
+T240	DISO 23113 23119	fuerza
+T241	NegSynMarker 23151 23153	no
+T242	Phrase 23154 23225	presenta dolor abdominal de forma espontánea ni a la palpación profunda
+T243	DISO 23163 23225	dolor abdominal de forma espontánea ni a la palpación profunda
+T244	CoordItem 23199 23201	ni
+T245	UncertLexMarker 23431 23445	compatible con
+T246	DISO 23446 23459	flebitis leve
+T247	NegMorMarker 23691 23698	afebril
+T248	NegSynMarker 23770 23772	no
+T249	Phrase 23773 23824	refiriendo dolor alguno en reposo ni a la palpación
+T250	DISO 23784 23824	dolor alguno en reposo ni a la palpación
+T251	PolItem 23790 23796	alguno
+T252	CoordItem 23807 23809	ni
+T253	NegSynMarker 24067 24070	sin
+T254	DISO 24071 24082	incidencias
+T255	UncertLexMarker 24092 24095	sin
+T256	DISO 24096 24100	foco
+T257	UncertLexMarker 24101 24109	aparente
+T258	UncertLexMarker 24115 24126	sospecha de
+T259	Phrase 24127 24210	que el cuadro febril pueda estar inducido por una tasa an sangre alta de Tracolimus
+T260	DISO 24131 24210	el cuadro febril pueda estar inducido por una tasa an sangre alta de Tracolimus
+T261	UncertLexMarker 24367 24374	valorar
+T262	OTHER 24375 24397	ingreso en Hematología
+T263	NegMorMarker 24451 24463	asintomática
+T264	NegMorMarker 24466 24473	afebril
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T14 Arg2:T13
+R7	Scope Arg1:T20 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T37 Arg2:T36
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T53 Arg2:T54
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T62 Arg2:T63
+R24	DiscScope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T68 Arg2:T67
+R26	DiscScope Arg1:T60 Arg2:T59
+R27	Scope Arg1:T64 Arg2:T65
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T82 Arg2:T83
+R35	Scope Arg1:T89 Arg2:T90
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T97 Arg2:T98
+R38	Scope Arg1:T94 Arg2:T95
+R39	Scope Arg1:T92 Arg2:T93
+R40	Scope Arg1:T99 Arg2:T100
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T104 Arg2:T105
+R43	Scope Arg1:T108 Arg2:T109
+R44	Scope Arg1:T110 Arg2:T111
+R45	Scope Arg1:T114 Arg2:T115
+R46	Scope Arg1:T112 Arg2:T113
+R47	Scope Arg1:T120 Arg2:T119
+R48	Scope Arg1:T116 Arg2:T117
+R49	Scope Arg1:T121 Arg2:T122
+R50	Scope Arg1:T125 Arg2:T126
+R51	DiscMarker Arg1:T127 Arg2:T129
+R52	DiscScope Arg1:T129 Arg2:T128
+R53	DiscScope Arg1:T129 Arg2:T130
+R54	Scope Arg1:T132 Arg2:T133
+R55	Scope Arg1:T137 Arg2:T138
+R56	Scope Arg1:T142 Arg2:T144
+R57	Scope Arg1:T145 Arg2:T146
+R58	Scope Arg1:T148 Arg2:T149
+R59	Scope Arg1:T150 Arg2:T151
+R60	Scope Arg1:T157 Arg2:T158
+R61	Scope Arg1:T154 Arg2:T155
+R62	Scope Arg1:T159 Arg2:T160
+R63	Scope Arg1:T162 Arg2:T163
+R64	Scope Arg1:T166 Arg2:T167
+R65	Scope Arg1:T169 Arg2:T170
+R66	Scope Arg1:T171 Arg2:T172
+R67	Scope Arg1:T173 Arg2:T174
+R68	Scope Arg1:T175 Arg2:T177
+R69	Scope Arg1:T178 Arg2:T179
+R70	Scope Arg1:T181 Arg2:T182
+R71	Scope Arg1:T184 Arg2:T185
+R72	Scope Arg1:T187 Arg2:T189
+R73	Scope Arg1:T195 Arg2:T196
+R74	Scope Arg1:T197 Arg2:T198
+R75	Scope Arg1:T199 Arg2:T200
+R76	Scope Arg1:T202 Arg2:T203
+R77	Scope Arg1:T208 Arg2:T209
+R78	Scope Arg1:T212 Arg2:T213
+R79	Scope Arg1:T206 Arg2:T207
+R80	Scope Arg1:T215 Arg2:T216
+R81	Scope Arg1:T210 Arg2:T211
+R82	Scope Arg1:T217 Arg2:T218
+R83	Scope Arg1:T219 Arg2:T220
+R84	DiscScope Arg1:T225 Arg2:T226
+R85	DiscScope Arg1:T225 Arg2:T224
+R86	Scope Arg1:T227 Arg2:T228
+R87	Scope Arg1:T238 Arg2:T236
+R88	Scope Arg1:T234 Arg2:T233
+R89	Scope Arg1:T239 Arg2:T240
+R90	Scope Arg1:T229 Arg2:T231
+R91	Scope Arg1:T241 Arg2:T242
+R92	Scope Arg1:T245 Arg2:T246
+R93	Scope Arg1:T248 Arg2:T249
+R94	Scope Arg1:T253 Arg2:T254
+R95	Scope Arg1:T258 Arg2:T259
+R96	DiscMarker Arg1:T255 Arg2:T257
+R97	Scope Arg1:T257 Arg2:T256
+R98	Scope Arg1:T261 Arg2:T262

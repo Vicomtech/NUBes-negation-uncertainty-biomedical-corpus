@@ -1,0 +1,32 @@
+T1	UncertLexMarker 477 484	sugiere
+T2	DISO 485 500	ca. basocelular
+T3	UncertLexMarker 635 649	compatible con
+T4	DISO 650 663	ca basoceluar
+T5	UncertLexMarker 1240 1254	compatible con
+T6	DISO 1255 1270	ca. basocelular
+T7	Phrase 1255 1322	ca. basocelular en punta nasal de aproximadamente 1 cm. de diámetro
+T8	UncertLexMarker 1383 1397	compatible con
+T9	DISO 1398 1432	ca basocelular en pierna izquierda
+T10	UncertLexMarker 2005 2019	compatible con
+T11	DISO 2020 2034	ca basocelular
+T12	UncertLexMarker 2105 2119	compatible con
+T13	DISO 2120 2133	ca basoceluar
+T14	UncertLexMarker 2202 2216	compatible con
+T15	DISO 2217 2232	ca. basocelular
+T16	Phrase 2217 2270	ca. basocelular en hélix pabellón auricular izquierdo
+T17	UncertLexMarker 2569 2583	compatible con
+T18	DISO 2584 2598	ca basocelular
+T19	NegSynMarker 2775 2778	sin
+T20	DISO 2779 2807	afectación del borde del ala
+T21	UncertLexMarker 2897 2911	compatible con
+T22	DISO 2912 2927	queratoacantoma
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22

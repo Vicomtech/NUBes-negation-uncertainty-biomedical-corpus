@@ -1,0 +1,56 @@
+T1	NegSynMarker 50 52	no
+T2	Phrase 53 87	ha vuelto a presentar dolor cólico
+T3	DISO 75 87	dolor cólico
+T4	NegLexMarker 267 278	se descarto
+T5	DISO 279 291	TEP angiotac
+T6	PROC 361 366	hemos
+T7	NegLexMarker 367 376	negativos
+T8	NegSynMarker 1413 1416	sin
+T9	Phrase 1417 1441	apreciar patologia aguda
+T10	DISO 1426 1441	patologia aguda
+T11	NegLexMarker 1499 1507	Retirada
+T12	OTHER 1508 1524	la sonda vesical
+T13	NegSynMarker 1582 1585	sin
+T14	DISO 1586 1596	dificultad
+T15	NegLexMarker 1729 1740	descartando
+T16	Phrase 1741 1771	cuadro de diverticulitis aguda
+T17	DISO 1751 1771	diverticulitis aguda
+T18	PROC 2424 2439	cambio de sonda
+T19	NegSynMarker 2440 2442	no
+T20	Phrase 2443 2457	siendo posible
+T21	UncertLexMarker 2632 2641	sin clara
+T22	Phrase 2642 2666	clinica de colico biliar
+T23	DISO 2653 2666	colico biliar
+T24	NegSynMarker 2740 2743	sin
+T25	DISO 2744 2749	dolor
+T26	Phrase 2744 2789	dolor ni plapacion sospechosa de colecistitis
+T27	CoordItem 2750 2752	ni
+T28	DISO 2753 2789	plapacion sospechosa de colecistitis
+T29	NegSynMarker 2835 2838	sin
+T30	Phrase 2839 2857	signos de sangrado
+T31	DISO 2849 2857	sangrado
+T32	NegSynMarker 2999 3002	sin
+T33	Phrase 3003 3029	apreciar puntos sangrantes
+T34	DISO 3012 3029	puntos sangrantes
+T35	NegSynMarker 3240 3242	No
+T36	Phrase 3243 3290	ha vuelto a presentar cuadro doloroso ni febril
+T37	DISO 3265 3290	cuadro doloroso ni febril
+T38	CoordItem 3281 3283	ni
+T39	NegSynMarker 3293 3295	No
+T40	Phrase 3296 3330	ha vuelto a presentar dolor lumbar
+T41	DISO 3318 3330	dolor lumbar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	DiscScope Arg1:T19 Arg2:T20
+R9	DiscScope Arg1:T19 Arg2:T18
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T24 Arg2:T26
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T39 Arg2:T40

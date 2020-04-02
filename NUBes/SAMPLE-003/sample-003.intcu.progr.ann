@@ -1,0 +1,91 @@
+T1	NegMorMarker 383 390	Afebril
+T2	NegSynMarker 393 396	sin
+T3	DISO 397 409	leucocitosis
+T4	NegSynMarker 412 415	sin
+T5	PROC 416 439	tratamiento antibiotico
+T6	NegSynMarker 915 918	sin
+T7	Phrase 919 965	evidenciarse en gastroscopia punto de sangrado
+T8	DISO 948 965	punto de sangrado
+T9	NegLexMarker 1165 1173	suprimir
+T10	PROC 1174 1208	la estimulación eléctrica cardíaca
+T11	NegLexMarker 1505 1515	desaparece
+T12	DISO 1516 1524	el dolor
+T13	NegSynMarker 1525 1528	sin
+T14	DISO 1529 1536	mejoría
+T15	UncertLexMarker 1543 1551	Probable
+T16	DISO 1552 1555	TEP
+T17	Phrase 1552 1576	TEP como causa de la PCR
+T18	NegSynMarker 1888 1891	sin
+T19	DISO 1892 1903	incidencias
+T20	NegSynMarker 2212 2215	sin
+T21	DISO 2216 2236	clínica respiratoria
+T22	NegMorMarker 2239 2251	asintomático
+T23	NegSynMarker 2837 2839	no
+T24	DISO 2840 2873	responde al tto médico instaurado
+T25	NegSynMarker 2911 2914	sin
+T26	OTHER 2915 2924	respuesta
+T27	NegSynMarker 4018 4020	no
+T28	OTHER 4021 4029	responde
+T29	NegLexMarker 4132 4142	desestiman
+T30	PROC 4143 4165	tratamiento quirúrgico
+T31	NegLexMarker 4244 4251	retirar
+T32	OTHER 4252 4280	todas las medidas de soporte
+T33	UncertLexMarker 4668 4682	compatible con
+T34	DISO 4683 4686	EAP
+T35	Phrase 5200 5266	nuevas rachas de 2-3 segundos de duración de taquicardia QRS ancho
+T36	DISO 5245 5266	taquicardia QRS ancho
+T37	NegLexMarker 5271 5276	ceden
+T38	Phrase 5277 5292	espontaneamente
+T39	NegSynMarker 6217 6219	no
+T40	Phrase 6220 6269	precisa de tratamiento quirurgico en este moemnto
+T41	PROC 6231 6253	tratamiento quirurgico
+T42	NegSynMarker 6826 6828	no
+T43	PROC 6829 6838	se retira
+T44	NegLexMarker 7667 7678	retirada de
+T45	SUBS 7679 7697	drogas vasoactivas
+T46	NegSynMarker 7902 7905	sin
+T47	Phrase 7906 7930	lograr diuresis adecuada
+T48	DISO 7913 7930	diuresis adecuada
+T49	NegSynMarker 8104 8106	no
+T50	DISO 8107 8115	invasiva
+T51	NegSynMarker 8245 8247	no
+T52	DISO 8248 8259	se recupera
+T53	NegSynMarker 8834 8837	sin
+T54	DISO 8838 8868	remontar con broncodilatadores
+T55	NegSynMarker 8944 8947	sin
+T56	Phrase 8948 9019	realizar maniobras de RCP avanzadas ni plantearnos Ventilación Mecánica
+T57	PROC 8957 8983	maniobras de RCP avanzadas
+T58	CoordItem 8984 8986	ni
+T59	OTHER 8999 9019	Ventilación Mecánica
+T60	UncertLexMarker 9066 9080	compatible con
+T61	DISO 9081 9101	EAPy NT pro BNP alta
+T62	NegSynMarker 9143 9146	sin
+T63	Phrase 9147 9183	recuperar en ningun momento el pulso
+T64	OTHER 9175 9183	el pulso
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T15 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	DiscScope Arg1:T37 Arg2:T35
+R17	DiscScope Arg1:T37 Arg2:T38
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T46 Arg2:T47
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T53 Arg2:T54
+R25	Scope Arg1:T55 Arg2:T56
+R26	Scope Arg1:T60 Arg2:T61
+R27	Scope Arg1:T62 Arg2:T63

@@ -1,0 +1,48 @@
+T1	NegSynMarker 127 130	Sin
+T2	Phrase 131 179	signos de TVP a nivel de extremidades inferiores
+T3	DISO 141 179	TVP a nivel de extremidades inferiores
+T4	NegSynMarker 339 342	Sin
+T5	DISO 343 370	otros hallazgos destacables
+T6	NegSynMarker 781 784	sin
+T7	OTHER 785 809	comunicación con la piel
+T8	NegSynMarker 812 815	sin
+T9	DISO 816 851	imágenes de sangrado agudo-subagudo
+T10	UncertLexMarker 1054 1063	probables
+T11	DISO 1064 1145	cambios infiltrativos iniciales corticales de la diáfisis proximal medial femoral
+T12	NegSynMarker 1148 1150	No
+T13	Phrase 1151 1187	se observan lesiones parenquimatosas
+T14	DISO 1163 1187	lesiones parenquimatosas
+T15	NegSynMarker 1286 1289	sin
+T16	DISO 1290 1302	alteraciones
+T17	NegSynMarker 1376 1378	No
+T18	Phrase 1379 1425	se aprecias datos inflamatorios ni infecciosos
+T19	DISO 1391 1425	datos inflamatorios ni infecciosos
+T20	CoordItem 1411 1413	ni
+T21	NegSynMarker 1745 1747	no
+T22	DISO 1748 1759	visualizado
+T23	UncertLexMarker 1764 1776	SUGESTIVO DE
+T24	DISO 1777 1810	ATIPIA SOBRE CELULARIDAD DISPERSA
+T25	UncertLexMarker 1847 1856	Impresión
+T26	DISO 1891 1911	lipodermatosclerosis
+T27	NegSynMarker 2058 2061	sin
+T28	DISO 2062 2119	cambios significativos de tamaño con respecto del estudio
+T29	NegSynMarker 2398 2400	No
+T30	Phrase 2401 2441	observo colecciones intra o extraaxiales
+T31	DISO 2409 2441	colecciones intra o extraaxiales
+T32	NegSynMarker 2704 2707	sin
+T33	Phrase 2708 2751	signos TC de lesiones agudas intracraneales
+T34	DISO 2715 2751	TC de lesiones agudas intracraneales
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T32 Arg2:T33

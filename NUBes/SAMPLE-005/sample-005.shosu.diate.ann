@@ -1,0 +1,167 @@
+T1	UncertLexMarker 159 165	parece
+T2	Phrase 166 211	comprimida por un probable fecaloma posterior
+T3	DISO 166 176	comprimida
+T4	PolItem 184 192	probable
+T5	UncertLexMarker 453 460	pudiera
+T6	Phrase 461 494	tratarse de una espondilodiscitis
+T7	DISO 473 494	una espondilodiscitis
+T8	NegSynMarker 510 513	Sin
+T9	Phrase 514 543	criterios de ileo obstructivo
+T10	DISO 527 543	ileo obstructivo
+T11	UncertLexMarker 785 801	muy sugestivo de
+T12	Phrase 802 861	corresponder a la osteoporosis agresiva como primera opción
+T13	DISO 817 861	la osteoporosis agresiva como primera opción
+T14	NegSynMarker 972 975	sin
+T15	SUBS 976 979	CIV
+T16	DISO 1328 1336	relación
+T17	UncertLexMarker 1337 1345	probable
+T18	DISO 1346 1374	con mínimo componente de HSA
+T19	NegSynMarker 1473 1476	sin
+T20	DISO 1477 1501	hallazgos significativos
+T21	NegSynMarker 1633 1636	sin
+T22	DISO 1637 1673	temblor cefálico ni de voz asociados
+T23	CoordItem 1654 1656	ni
+T24	UncertLexMarker 1805 1813	probable
+T25	DISO 1814 1842	espondilodiscitis en D2 y L1
+T26	NegSynMarker 1955 1957	No
+T27	Phrase 1958 1986	se aprecia temblor de acción
+T28	DISO 1969 1986	temblor de acción
+T29	NegSynMarker 2136 2139	sin
+T30	DISO 2140 2166	problemas tras la retirada
+T31	UncertLexMarker 2457 2463	parece
+T32	Phrase 2464 2493	de evolución subaguda-crónica
+T33	DISO 2467 2493	evolución subaguda-crónica
+T34	NegSynMarker 2715 2718	Sin
+T35	Phrase 2719 2762	evidencia de derrame ni neumotórax residual
+T36	DISO 2732 2739	derrame
+T37	CoordItem 2740 2742	ni
+T38	DISO 2743 2762	neumotórax residual
+T39	NegSynMarker 2830 2833	sin
+T40	Phrase 2834 2867	signos de afectación supranuclear
+T41	DISO 2844 2867	afectación supranuclear
+T42	UncertLexMarker 2886 2892	podría
+T43	Phrase 2893 2939	realizar de forma complementaria TAC abdominal
+T44	PROC 2926 2939	TAC abdominal
+T45	UncertLexMarker 3127 3142	compatibles con
+T46	DISO 3143 3173	encefalopatía vascular crónica
+T47	NegSynMarker 3528 3531	sin
+T48	DISO 3532 3560	restricciones de la infusión
+T49	NegSynMarker 3679 3682	sin
+T50	SUBS 3683 3686	CIV
+T51	UncertLexMarker 3770 3778	probable
+T52	DISO 3779 3825	condensación neumónica retrocardíaca izquierda
+T53	UncertLexMarker 3855 3870	compatibles con
+T54	DISO 3871 3901	encefalopatía vascular crónica
+T55	NegLexMarker 3973 3989	ninguna de ellas
+T56	Phrase 3990 4017	de evolución aguda-subaguda
+T57	DISO 3993 4017	evolución aguda-subaguda
+T58	UncertLexMarker 4041 4054	probablemente
+T59	DISO 4055 4065	infectadas
+T60	NegSynMarker 4365 4368	sin
+T61	DISO 4369 4381	alteraciones
+T62	NegSynMarker 4409 4412	sin
+T63	DISO 4413 4431	retención urinaria
+T64	UncertLexMarker 4528 4538	se plantea
+T65	OTHER 4539 4570	mantener la sonda vesical 1 mes
+T66	NegSynMarker 4655 4658	sin
+T67	DISO 4659 4683	hallazgos significativos
+T68	NegSynMarker 4971 4974	sin
+T69	Phrase 4975 5003	dificultad , ni incontiencia
+T70	DISO 4975 4985	dificultad
+T71	CoordItem 4988 4990	ni
+T72	DISO 4991 5003	incontiencia
+T73	NegSynMarker 5525 5528	sin
+T74	Phrase 5529 5550	evidencia de fecaloma
+T75	DISO 5542 5550	fecaloma
+T76	NegSynMarker 5630 5633	sin
+T77	Phrase 5634 5665	acudir a revisiones posteriores
+T78	OTHER 5643 5665	revisiones posteriores
+T79	UncertLexMarker 5743 5757	compatible con
+T80	DISO 5758 5773	derrame pleural
+T81	NegSynMarker 5776 5778	No
+T82	Phrase 5779 5814	puedo comparar con estudio anterior
+T83	OTHER 5785 5814	comparar con estudio anterior
+T84	NegSynMarker 5818 5820	no
+T85	OTHER 5821 5835	disponer de el
+T86	UncertLexMarker 6165 6172	sugiere
+T87	DISO 6173 6189	un parkinsonismo
+T88	UncertLexMarker 6193 6200	posible
+T89	DISO 6201 6235	relación a enfermedad de Parkinson
+T90	DISO 6281 6284	PIF
+T91	UncertLexMarker 6285 6286	?
+T92	UncertLexMarker 6661 6675	compatible con
+T93	DISO 6676 6703	colección liquida infectada
+T94	NegSynMarker 6835 6837	no
+T95	DISO 6838 6864	visualizados adecuadamente
+T96	NegSynMarker 6885 6888	Sin
+T97	DISO 6889 6911	cambios significativos
+T98	UncertLexMarker 7348 7354	parece
+T99	Phrase 7355 7429	observarse una ocupación por material ecogénico de pelvis y cáliz superior
+T100	DISO 7366 7429	una ocupación por material ecogénico de pelvis y cáliz superior
+T101	UncertLexMarker 7434 7439	puede
+T102	DISO 7440 7495	estar en relación con el antecedente descrita en el TAC
+T103	NegSynMarker 7525 7528	sin
+T104	DISO 7529 7559	otros hallazgos significativos
+T105	NegLexMarker 7641 7650	retirarla
+T106	NegSynMarker 8093 8095	no
+T107	DISO 8096 8107	visualizado
+T108	UncertLexMarker 8150 8157	valorar
+T109	Phrase 8158 8204	posibilidad clínica de condensación subyacente
+T110	PolItem 8158 8169	posibilidad
+T111	DISO 8181 8204	condensación subyacente
+T112	NegLexMarker 8248 8256	retirada
+T113	OTHER 8257 8270	sonda vesical
+T114	UncertLexMarker 8395 8408	probablemente
+T115	DISO 8409 8418	infectada
+T116	PROC 8680 8690	Urocultivo
+T117	NegLexMarker 8693 8701	negativo
+T118	UncertLexMarker 9088 9103	compatibles con
+T119	DISO 9104 9210	buena evolución del hematoma de evolución subaguda-crónica en región de los ganglios de la base izquierdos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	DiscScope Arg1:T17 Arg2:T18
+R7	DiscScope Arg1:T17 Arg2:T16
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T42 Arg2:T43
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T45 Arg2:T46
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T62 Arg2:T63
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T68 Arg2:T69
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T79 Arg2:T80
+R32	Scope Arg1:T84 Arg2:T85
+R33	Scope Arg1:T81 Arg2:T82
+R34	Scope Arg1:T86 Arg2:T87
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T91 Arg2:T90
+R37	Scope Arg1:T92 Arg2:T93
+R38	Scope Arg1:T94 Arg2:T95
+R39	Scope Arg1:T96 Arg2:T97
+R40	Scope Arg1:T98 Arg2:T99
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T103 Arg2:T104
+R43	Scope Arg1:T106 Arg2:T107
+R44	Scope Arg1:T108 Arg2:T109
+R45	Scope Arg1:T112 Arg2:T113
+R46	Scope Arg1:T114 Arg2:T115
+R47	Scope Arg1:T117 Arg2:T116
+R48	Scope Arg1:T118 Arg2:T119

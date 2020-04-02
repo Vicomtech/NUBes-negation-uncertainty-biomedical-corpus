@@ -1,0 +1,134 @@
+T1	UncertLexMarker 125 133	sospecha
+T2	DISO 134 145	neo vesical
+T3	NegMorMarker 148 160	Asintomático
+T4	PROC 182 199	biopsia posterior
+T5	NegLexMarker 200 208	negativa
+T6	Phrase 209 216	tumoral
+T7	NegMorMarker 309 316	Afebril
+T8	NegSynMarker 712 714	No
+T9	DISO 715 737	incontinencia urinaria
+T10	UncertLexMarker 969 979	Se plantea
+T11	PROC 980 987	cirugía
+T12	UncertLexMarker 1236 1247	Sospecha de
+T13	DISO 1248 1268	neoplasia prostática
+T14	NegSynMarker 1551 1554	sin
+T15	OTHER 1555 1573	tolerar la ingesta
+T16	NegSynMarker 1815 1818	sin
+T17	DISO 1819 1847	terminar de ceder la clínica
+T18	NegSynMarker 2168 2170	no
+T19	Phrase 2171 2215	se quiere operar porque está dando lactancia
+T20	NegSynMarker 2230 2232	no
+T21	OTHER 2233 2265	ha tomado su medicación habitual
+T22	NegSynMarker 2363 2366	sin
+T23	DISO 2367 2390	otros síntomas añadidos
+T24	NegLexMarker 2397 2415	imposibilidad para
+T25	PROC 2416 2432	realizar sondaje
+T26	UncertLexMarker 2603 2616	sospechosa de
+T27	DISO 2617 2625	recidiva
+T28	NegSynMarker 2672 2675	sin
+T29	DISO 2676 2688	alteraciones
+T30	UncertLexMarker 2914 2922	probable
+T31	DISO 2923 2970	implantación del Ca transicional en la próstata
+T32	UncertLexMarker 2982 2992	se plantea
+T33	PROC 2993 3007	RTU de la isma
+T34	NegSynMarker 3008 3010	No
+T35	DISO 3011 3020	hematuria
+T36	NegSynMarker 3443 3445	No
+T37	OTHER 3446 3462	tolera el Toviaz
+T38	UncertLexMarker 4223 4234	sospecha de
+T39	DISO 4235 4245	masa renal
+T40	UncertLexMarker 4515 4530	compatibles con
+T41	DISO 4531 4598	neoplasia vesical en la pared posterolateral izquierda de la vejiga
+T42	NegSynMarker 4635 4638	sin
+T43	DISO 4639 4669	dilatación de la vía excretora
+T44	UncertLexMarker 4720 4733	sugestivas de
+T45	DISO 4734 4778	litiasis en polo inferior de riñón izquierdo
+T46	NegSynMarker 4814 4816	No
+T47	Phrase 4817 4858	se observa dilatación de la vía excretora
+T48	DISO 4828 4858	dilatación de la vía excretora
+T49	UncertLexMarker 5236 5243	valorar
+T50	Phrase 5244 5262	si tiene cistocele
+T51	DISO 5253 5262	cistocele
+T52	PROC 5265 5285	Estudio de extensión
+T53	NegLexMarker 5286 5294	negativo
+T54	NegSynMarker 5927 5930	Sin
+T55	DISO 5931 5961	historia previa de prostatismo
+T56	NegSynMarker 5964 5966	no
+T57	Phrase 5967 6012	refiere haber tomado ninguna medicacion nueva
+T58	OTHER 5981 6012	tomado ninguna medicacion nueva
+T59	PolItem 5988 5995	ninguna
+T60	NegSynMarker 6296 6299	sin
+T61	DISO 6300 6309	problemas
+T62	NegSynMarker 6487 6490	sin
+T63	Phrase 6491 6512	evidencia de abscesos
+T64	DISO 6504 6512	abscesos
+T65	NegMorMarker 6651 6658	Afebril
+T66	UncertLexMarker 6661 6672	no aparente
+T67	Phrase 6673 6718	dolor abdominal , ni otra clinica acompañante
+T68	DISO 6673 6688	dolor abdominal
+T69	CoordItem 6691 6693	ni
+T70	DISO 6694 6718	otra clinica acompañante
+T71	NegSynMarker 6816 6818	No
+T72	DISO 6819 6826	naúseas
+T73	Phrase 6819 6870	naúseas , vómitos ni cambios en el ritmo intestinal
+T74	DISO 6829 6836	vómitos
+T75	CoordItem 6837 6839	ni
+T76	DISO 6840 6870	cambios en el ritmo intestinal
+T77	NegSynMarker 6922 6924	No
+T78	Phrase 6925 6949	ha notado agrandamientos
+T79	DISO 6935 6949	agrandamientos
+T80	NegSynMarker 7155 7157	No
+T81	Phrase 7158 7190	le han administrado contraste IV
+T82	SUBS 7178 7190	contraste IV
+T83	NegSynMarker 7307 7310	sin
+T84	DISO 7311 7320	hematuria
+T85	NegSynMarker 7323 7325	no
+T86	Phrase 7326 7348	fiebre ni dolor lumbar
+T87	DISO 7326 7332	fiebre
+T88	CoordItem 7333 7335	ni
+T89	DISO 7336 7348	dolor lumbar
+T90	NegSynMarker 7351 7353	No
+T91	DISO 7354 7372	fiebre documentada
+T92	UncertLexMarker 7510 7519	No parece
+T93	Phrase 7520 7562	tener dolor abdominal , naúseas ni vómitos
+T94	DISO 7526 7541	dolor abdominal
+T95	DISO 7544 7551	naúseas
+T96	CoordItem 7552 7554	ni
+T97	DISO 7555 7562	vómitos
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T5 Arg2:T6
+R3	DiscScope Arg1:T5 Arg2:T4
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T30 Arg2:T31
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T36 Arg2:T37
+R19	Scope Arg1:T38 Arg2:T39
+R20	Scope Arg1:T42 Arg2:T43
+R21	Scope Arg1:T40 Arg2:T41
+R22	Scope Arg1:T46 Arg2:T47
+R23	Scope Arg1:T44 Arg2:T45
+R24	Scope Arg1:T49 Arg2:T50
+R25	Scope Arg1:T53 Arg2:T52
+R26	Scope Arg1:T54 Arg2:T55
+R27	Scope Arg1:T56 Arg2:T57
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T62 Arg2:T63
+R30	Scope Arg1:T66 Arg2:T67
+R31	Scope Arg1:T71 Arg2:T73
+R32	Scope Arg1:T77 Arg2:T78
+R33	Scope Arg1:T80 Arg2:T81
+R34	Scope Arg1:T85 Arg2:T86
+R35	Scope Arg1:T83 Arg2:T84
+R36	Scope Arg1:T90 Arg2:T91
+R37	Scope Arg1:T92 Arg2:T93

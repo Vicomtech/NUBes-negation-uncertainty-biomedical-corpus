@@ -1,0 +1,60 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 9	fiebre
+T3	Phrase 3 52	fiebre , ni enrojecimiento de bordes de la herida
+T4	CoordItem 12 14	ni
+T5	DISO 15 52	enrojecimiento de bordes de la herida
+T6	NegSynMarker 290 292	no
+T7	Phrase 293 353	tiene fiebre , ni derrame ni dolor en la rodilla protetizada
+T8	DISO 299 305	fiebre
+T9	CoordItem 308 310	ni
+T10	DISO 311 318	derrame
+T11	CoordItem 319 321	ni
+T12	DISO 322 353	dolor en la rodilla protetizada
+T13	PROC 1411 1428	Rx tórax seriadas
+T14	NegLexMarker 1429 1438	negativas
+T15	NegSynMarker 1653 1655	no
+T16	Phrase 1656 1680	sintomas de condensacion
+T17	DISO 1668 1680	condensacion
+T18	UncertLexMarker 1751 1764	probablemente
+T19	DISO 1765 1826	en relación a a medicación vasodilatadora que toma por su HTA
+T20	NegLexMarker 1893 1908	desaparición de
+T21	Phrase 1909 1936	los episodios de hipoensión
+T22	DISO 1926 1936	hipoensión
+T23	NegLexMarker 1975 1988	descartándose
+T24	DISO 1989 2014	patología abdominal aguda
+T25	UncertLexMarker 2132 2146	compatible con
+T26	Phrase 2147 2184	infeccion respiratoria y broncoepasmo
+T27	DISO 2147 2169	infeccion respiratoria
+T28	CoordItem 2170 2171	y
+T29	DISO 2172 2184	broncoepasmo
+T30	NegSynMarker 2783 2786	sin
+T31	DISO 2787 2801	complicaciones
+T32	PROC 2930 2937	cultivo
+T33	NegLexMarker 2938 2946	negativo
+T34	UncertLexMarker 3152 3163	sospecha de
+T35	DISO 3164 3185	bronquitis infecciosa
+T36	NegLexMarker 3525 3540	habiendo cedido
+T37	DISO 3541 3549	el dolor
+T38	PROC 3872 3884	hemocultivos
+T39	NegLexMarker 3885 3894	negativos
+T40	PROC 3897 3907	urocultivo
+T41	NegLexMarker 3908 3916	negativo
+T42	UncertLexMarker 3937 3940	sin
+T43	DISO 3941 3961	signos inflamatorios
+T44	UncertLexMarker 3962 3971	aparentes
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T14 Arg2:T13
+R4	Scope Arg1:T15 Arg2:T16
+R5	Scope Arg1:T20 Arg2:T21
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T23 Arg2:T24
+R8	Scope Arg1:T25 Arg2:T26
+R9	Scope Arg1:T30 Arg2:T31
+R10	Scope Arg1:T33 Arg2:T32
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T39 Arg2:T38
+R14	Scope Arg1:T44 Arg2:T43
+R15	Scope Arg1:T41 Arg2:T40
+R16	DiscMarker Arg1:T42 Arg2:T44

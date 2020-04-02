@@ -1,0 +1,48 @@
+T1	NegSynMarker 117 119	No
+T2	DISO 120 135	hábitos tóxicos
+T3	PROC 155 168	coprocultivos
+T4	NegLexMarker 177 186	negativos
+T5	NegSynMarker 201 204	sin
+T6	DISO 205 231	dolor abdominal espontáneo
+T7	NegSynMarker 434 437	sin
+T8	DISO 438 445	mejoría
+T9	NegSynMarker 689 692	Sin
+T10	DISO 693 717	antec médicos de interés
+T11	PROC 720 723	A.F
+T12	NegLexMarker 726 735	Negativos
+T13	Phrase 736 762	para tu digestivos , o EII
+T14	NegSynMarker 767 769	No
+T15	Phrase 770 791	toma de ttos crónicos
+T16	SUBS 778 791	ttos crónicos
+T17	NegSynMarker 881 884	sin
+T18	DISO 885 911	respetar el sueño nocturno
+T19	NegSynMarker 1014 1016	No
+T20	DISO 1017 1041	dolor abdominal asociado
+T21	UncertLexMarker 1188 1199	sospecha de
+T22	DISO 1200 1203	EII
+T23	NegSynMarker 1219 1221	No
+T24	DISO 1222 1229	náuseas
+T25	Phrase 1222 1242	náuseas , ni vómitos
+T26	CoordItem 1232 1234	ni
+T27	DISO 1235 1242	vómitos
+T28	NegSynMarker 1264 1267	sin
+T29	DISO 1268 1303	antec médico-quirúrgicos de interés
+T30	NegSynMarker 1414 1416	No
+T31	DISO 1417 1451	alteración del tránsito intestinal
+T32	UncertLexMarker 1465 1470	aprox
+T33	OTHER 1471 1475	3 Kg
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	DiscScope Arg1:T12 Arg2:T11
+R7	DiscScope Arg1:T12 Arg2:T13
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T23 Arg2:T25
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T32 Arg2:T33

@@ -1,0 +1,369 @@
+T1	PROC 43 69	Curva de enzimas cardíacas
+T2	NegLexMarker 70 79	negativas
+T3	NegMorMarker 128 140	asintomática
+T4	NegSynMarker 400 402	No
+T5	Phrase 403 431	refiere otras comorbilidades
+T6	DISO 411 431	otras comorbilidades
+T7	NegSynMarker 749 751	no
+T8	DISO 752 767	se pudo dilatar
+T9	NegSynMarker 904 906	No
+T10	PROC 907 910	DBT
+T11	NegSynMarker 913 915	no
+T12	SUBS 916 931	anticoagulantes
+T13	NegSynMarker 1002 1005	sin
+T14	DISO 1006 1020	complicaciones
+T15	NegSynMarker 1130 1132	no
+T16	DISO 1133 1143	prolongada
+T17	NegSynMarker 1161 1164	sin
+T18	DISO 1165 1182	cambios en el EKG
+T19	NegSynMarker 1390 1393	sin
+T20	DISO 1394 1421	alteraciones significativas
+T21	DISO 1487 1551	un trazado con la imagen que simula la TV que originó su ingreso
+T22	NegLexMarker 1556 1566	desaparece
+T23	Phrase 1567 1603	nuevamente cuando cesa el movimiento
+T24	NegLexMarker 1585 1589	cesa
+T25	Phrase 1590 1603	el movimiento
+T26	NegSynMarker 1638 1640	no
+T27	Phrase 1641 1749	es mas que un artefacto de la técnica electrocardiografica inducida por el movimiento amplio de los miembros
+T28	OTHER 1644 1699	mas que un artefacto de la técnica electrocardiografica
+T29	NegLexMarker 2070 2085	desaparicion de
+T30	DISO 2086 2098	los síntomas
+T31	NegSynMarker 2137 2140	sin
+T32	DISO 2141 2159	mas comorbilidades
+T33	NegMorMarker 2197 2209	asintomatico
+T34	NegSynMarker 2376 2379	sin
+T35	Phrase 2380 2416	signos de congestion pasiva pulmonar
+T36	DISO 2390 2416	congestion pasiva pulmonar
+T37	NegLexMarker 2446 2454	descarta
+T38	DISO 2455 2457	IC
+T39	NegLexMarker 2460 2469	Suspender
+T40	Phrase 2470 2491	al mes el clopidogrel
+T41	SUBS 2477 2491	el clopidogrel
+T42	UncertLexMarker 2695 2706	impresionan
+T43	DISO 2707 2716	subagudas
+T44	NegSynMarker 2737 2740	sin
+T45	Phrase 2741 2753	signos de IC
+T46	DISO 2751 2753	IC
+T47	NegSynMarker 2765 2768	sin
+T48	DISO 2769 2796	alteraciones significativas
+T49	NegSynMarker 2799 2801	No
+T50	Phrase 2802 2849	refiere antecedentes patologicos significativos
+T51	DISO 2810 2849	antecedentes patologicos significativos
+T52	NegSynMarker 3052 3054	no
+T53	Phrase 3055 3105	encontrando patologia que justifiquen los síntomas
+T54	DISO 3067 3105	patologia que justifiquen los síntomas
+T55	NegSynMarker 3939 3941	No
+T56	Phrase 3942 4016	refiere antec patologicos significativos ni ingesta habitual de medicación
+T57	DISO 3950 3982	antec patologicos significativos
+T58	CoordItem 3983 3985	ni
+T59	OTHER 3986 4016	ingesta habitual de medicación
+T60	NegMorMarker 4187 4199	asintomática
+T61	UncertLexMarker 4685 4691	dudosa
+T62	DISO 4692 4698	disnea
+T63	NegMorMarker 5215 5227	asintomático
+T64	UncertLexMarker 5338 5352	posibilidad de
+T65	OTHER 5353 5356	CVE
+T66	NegSynMarker 5489 5492	sin
+T67	DISO 5493 5512	congestion pulmonar
+T68	NegMorMarker 6059 6071	asintomático
+T69	NegSynMarker 6283 6286	sin
+T70	DISO 6287 6310	lesiones significativas
+T71	NegMorMarker 6528 6535	afebril
+T72	NegMorMarker 6538 6550	asintomática
+T73	NegLexMarker 6944 6959	desaparicion de
+T74	DISO 6960 6972	los síntomas
+T75	NegSynMarker 7214 7217	sin
+T76	DISO 7218 7230	alteraciones
+T77	NegSynMarker 7256 7258	no
+T78	Phrase 7259 7281	dbt ni anticoagulacion
+T79	DISO 7259 7262	dbt
+T80	CoordItem 7263 7265	ni
+T81	DISO 7266 7281	anticoagulacion
+T82	UncertLexMarker 7598 7605	ni sabe
+T83	PolItem 7606 7613	tampoco
+T84	Phrase 7606 7643	tampoco cuando puede haberse iniciado
+T85	NegSynMarker 7921 7924	sin
+T86	DISO 7925 7947	correlato hemodinamico
+T87	UncertLexMarker 7957 7979	practicamente descarta
+T88	DISO 7980 8011	la etiologia CV de dicho cuadro
+T89	NegSynMarker 8421 8423	no
+T90	Phrase 8424 8459	muestra alteraciones significativas
+T91	DISO 8432 8459	alteraciones significativas
+T92	UncertLexMarker 8885 8888	sin
+T93	Phrase 8889 8895	signos
+T94	UncertLexMarker 8896 8902	claros
+T95	DISO 8903 8932	de congestion pasiva pulmonar
+T96	NegSynMarker 8987 8990	sin
+T97	DISO 8991 9018	alteraciones significativas
+T98	NegLexMarker 9071 9082	se descarta
+T99	DISO 9083 9110	partologia coronaria activa
+T100	Phrase 9083 9128	partologia coronaria activa al momento actual
+T101	NegSynMarker 9198 9200	no
+T102	DISO 9201 9222	ingurgitación yugular
+T103	NegMorMarker 9259 9269	arrítmicos
+T104	UncertLexMarker 9403 9416	probablemente
+T105	DISO 9417 9438	por miocarditis aguda
+T106	NegMorMarker 9453 9465	asintomático
+T107	NegSynMarker 9516 9518	no
+T108	Phrase 9519 9545	muestra cambios isquemicos
+T109	DISO 9527 9545	cambios isquemicos
+T110	NegSynMarker 9791 9794	sin
+T111	DISO 9795 9815	masas intracardíacas
+T112	NegSynMarker 10058 10060	no
+T113	DISO 10061 10064	DBT
+T114	NegMorMarker 10303 10315	asintomático
+T115	NegSynMarker 10359 10362	sin
+T116	DISO 10363 10393	contracción auricular efectiva
+T117	Phrase 10363 10414	contracción auricular efectiva en el ecocardiograma
+T118	UncertLexMarker 10542 10555	probablemente
+T119	Phrase 10556 10682	en relacion a los antialdosterónicos ya que en noviembre del 2018 tenia una creatinina normal y al ingreso esta con 2 de creat
+T120	DISO 10556 10592	en relacion a los antialdosterónicos
+T121	PROC 10696 10716	una curva enzimatica
+T122	NegLexMarker 10724 10732	negativa
+T123	NegSynMarker 10739 10742	sin
+T124	OTHER 10743 10751	cvambios
+T125	NegSynMarker 10754 10756	no
+T126	DISO 10757 10776	repite los sintomas
+T127	NegMorMarker 11012 11024	asintomático
+T128	NegSynMarker 11133 11136	sin
+T129	SUBS 11137 11152	anticoagulacion
+T130	NegSynMarker 11219 11221	no
+T131	DISO 11222 11237	repite el dolor
+T132	NegSynMarker 11240 11242	no
+T133	Phrase 11243 11280	presenta cambios evolutivos en el ECG
+T134	DISO 11252 11280	cambios evolutivos en el ECG
+T135	PROC 11283 11304	las enzimas cardiacas
+T136	NegLexMarker 11309 11318	negativas
+T137	NegSynMarker 11533 11536	sin
+T138	DISO 11537 11543	edemas
+T139	NegMorMarker 11660 11672	inespecífica
+T140	NegSynMarker 11775 11778	Sin
+T141	Phrase 11779 11808	angina ni congestion pulmonar
+T142	DISO 11779 11785	angina
+T143	CoordItem 11786 11788	ni
+T144	DISO 11789 11808	congestion pulmonar
+T145	NegSynMarker 12164 12167	sin
+T146	DISO 12168 12187	congestion pulmonar
+T147	NegLexMarker 12190 12198	Suspendo
+T148	SUBS 12199 12214	espironolactona
+T149	Phrase 12199 12244	espironolactona e IECA por intolerancia renal
+T150	CoordItem 12215 12216	e
+T151	SUBS 12217 12221	IECA
+T152	UncertLexMarker 12294 12300	dudosa
+T153	DISO 12301 12320	etiologia coronaria
+T154	NegMorMarker 12475 12487	asintomatico
+T155	NegLexMarker 12665 12680	desaparicion de
+T156	DISO 12681 12699	todos los síntomas
+T157	NegSynMarker 12938 12941	sin
+T158	DISO 12942 12965	compromiso hemodinamico
+T159	NegMorMarker 13215 13227	asintomática
+T160	Phrase 13313 13333	un cuadro de diarrea
+T161	DISO 13326 13333	diarrea
+T162	NegLexMarker 13338 13343	cedió
+T163	Phrase 13344 13362	con antidiarreicos
+T164	UncertLexMarker 13424 13432	probable
+T165	DISO 13433 13442	hemartros
+T166	NegSynMarker 13443 13446	sin
+T167	Phrase 13447 13529	que se suspendiera la antiacoagulación debido a la patologia previa de la paciente
+T168	NegLexMarker 13454 13465	suspendiera
+T169	SUBS 13466 13485	la antiacoagulación
+T170	NegSynMarker 13728 13731	sin
+T171	Phrase 13732 13767	ninguna medicacion cardioespecífica
+T172	PolItem 13732 13739	ninguna
+T173	SUBS 13740 13767	medicacion cardioespecífica
+T174	NegLexMarker 14064 14075	se suspende
+T175	SUBS 14076 14094	la anticoagulacion
+T176	NegMorMarker 14163 14175	asintomatica
+T177	NegSynMarker 14293 14295	no
+T178	Phrase 14296 14341	presenta signos de congestion pasiva pulmonar
+T179	DISO 14315 14341	congestion pasiva pulmonar
+T180	Phrase 14460 14505	las enzimas cardíacas resultan reiteradamente
+T181	PROC 14460 14481	las enzimas cardíacas
+T182	NegLexMarker 14506 14515	negativas
+T183	NegSynMarker 14525 14527	no
+T184	Phrase 14528 14548	muestra evolutividad
+T185	DISO 14536 14548	evolutividad
+T186	NegLexMarker 14560 14571	se descarta
+T187	DISO 14572 14594	la etiologia coronaria
+T188	NegMorMarker 14741 14753	asintomático
+T189	NegSynMarker 14766 14768	no
+T190	Phrase 14769 14795	ha vuelto a repetir angina
+T191	DISO 14789 14795	angina
+T192	NegSynMarker 14796 14799	sin
+T193	Phrase 14800 14829	signos de congestion pulmonar
+T194	DISO 14810 14829	congestion pulmonar
+T195	NegMorMarker 14885 14897	asintomática
+T196	NegSynMarker 15036 15039	sin
+T197	Phrase 15040 15069	signos de isquemia miocardica
+T198	DISO 15050 15069	isquemia miocardica
+T199	NegSynMarker 15394 15397	sin
+T200	DISO 15398 15425	alteraciones significativas
+T201	NegSynMarker 15442 15445	sin
+T202	DISO 15446 15462	particularidades
+T203	NegSynMarker 16564 16566	no
+T204	OTHER 16567 16608	puede identificar el comienzo de la misma
+T205	NegMorMarker 16965 16977	asintomático
+T206	NegMorMarker 17650 17662	asintomático
+T207	NegMorMarker 17817 17829	Asintomático
+T208	NegSynMarker 17842 17845	sin
+T209	Phrase 17846 17891	signos de isquemia miocardica en el EKG basal
+T210	DISO 17856 17875	isquemia miocardica
+T211	NegSynMarker 17988 17991	sin
+T212	DISO 17992 18015	lesiones significativas
+T213	NegMorMarker 18154 18166	asintomático
+T214	NegMorMarker 18890 18902	asintomático
+T215	NegSynMarker 18942 18945	sin
+T216	DISO 18946 18958	alteraciones
+T217	DISO 19074 19110	una Fa de alta respuesta ventricular
+T218	UncertLexMarker 19111 19122	desconocida
+T219	UncertLexMarker 19128 19141	probablemente
+T220	Phrase 19142 19176	de una antiguedad no mayor a 1 mes
+T221	NegSynMarker 19160 19162	no
+T222	Phrase 19163 19176	mayor a 1 mes
+T223	NegSynMarker 19323 19326	sin
+T224	DISO 19327 19351	perdida de la conciencia
+T225	NegMorMarker 19389 19401	asintomático
+T226	NegSynMarker 19665 19668	sin
+T227	Phrase 19669 19719	que se observaran lesiones focales en la ecografia
+T228	DISO 19687 19703	lesiones focales
+T229	NegMorMarker 19853 19865	asintomático
+T230	NegSynMarker 20082 20084	No
+T231	Phrase 20085 20133	refiere mas comorbilidades ni otras cardiopatias
+T232	DISO 20093 20111	mas comorbilidades
+T233	CoordItem 20112 20114	ni
+T234	DISO 20115 20133	otras cardiopatias
+T235	NegSynMarker 20134 20136	no
+T236	DISO 20137 20140	HTA
+T237	NegSynMarker 20370 20373	Sin
+T238	DISO 20374 20394	otras comorbilidades
+T239	Phrase 20374 20428	otras comorbilidades ni ingesta habitual de medicación
+T240	CoordItem 20395 20397	ni
+T241	OTHER 20398 20428	ingesta habitual de medicación
+T242	NegMorMarker 20465 20477	asintomático
+T243	NegMorMarker 20855 20867	asintomático
+T244	NegMorMarker 21227 21239	asintomático
+T245	NegMorMarker 21441 21453	asintomático
+T246	NegSynMarker 21525 21527	No
+T247	Phrase 21528 21549	tolera bb por su epoc
+T248	DISO 21528 21537	tolera bb
+T249	NegMorMarker 21593 21605	asintomático
+T250	NegSynMarker 21707 21710	sin
+T251	DISO 21711 21727	particularidades
+T252	NegSynMarker 21907 21910	sin
+T253	OTHER 21911 21928	cambios en el ECG
+T254	NegSynMarker 22277 22280	sin
+T255	DISO 22281 22289	lesiones
+T256	UncertLexMarker 22292 22305	probablemente
+T257	DISO 22306 22325	un sme de takotsubo
+T258	NegMorMarker 22511 22523	asintomático
+T259	NegSynMarker 22756 22759	sin
+T260	DISO 22760 22782	relacion con esfuerzos
+T261	NegSynMarker 22803 22805	no
+T262	Phrase 22806 22866	muestra signos de isquemia miocardica ( fuera del episodio )
+T263	DISO 22824 22843	isquemia miocardica
+T264	PROC 22867 22884	enzimas cardíacas
+T265	NegLexMarker 22885 22894	negativas
+T266	NegSynMarker 22958 22960	no
+T267	OTHER 22961 22976	estaba presente
+T268	NegSynMarker 23843 23845	no
+T269	Phrase 23846 23897	refiere antecedentes cardiovasculares de relevancia
+T270	DISO 23854 23897	antecedentes cardiovasculares de relevancia
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	DiscScope Arg1:T22 Arg2:T21
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	DiscScope Arg1:T22 Arg2:T23
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T77 Arg2:T78
+R31	Scope Arg1:T75 Arg2:T76
+R32	Scope Arg1:T82 Arg2:T84
+R33	Scope Arg1:T87 Arg2:T88
+R34	Scope Arg1:T85 Arg2:T86
+R35	Scope Arg1:T89 Arg2:T90
+R36	DiscScope Arg1:T94 Arg2:T93
+R37	DiscMarker Arg1:T92 Arg2:T94
+R38	DiscScope Arg1:T94 Arg2:T95
+R39	Scope Arg1:T98 Arg2:T100
+R40	Scope Arg1:T96 Arg2:T97
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T104 Arg2:T105
+R43	Scope Arg1:T107 Arg2:T108
+R44	Scope Arg1:T110 Arg2:T111
+R45	Scope Arg1:T112 Arg2:T113
+R46	Scope Arg1:T115 Arg2:T117
+R47	Scope Arg1:T118 Arg2:T119
+R48	Scope Arg1:T123 Arg2:T124
+R49	Scope Arg1:T125 Arg2:T126
+R50	Scope Arg1:T122 Arg2:T121
+R51	Scope Arg1:T128 Arg2:T129
+R52	Scope Arg1:T136 Arg2:T135
+R53	Scope Arg1:T132 Arg2:T133
+R54	Scope Arg1:T130 Arg2:T131
+R55	Scope Arg1:T137 Arg2:T138
+R56	Scope Arg1:T140 Arg2:T141
+R57	Scope Arg1:T145 Arg2:T146
+R58	Scope Arg1:T147 Arg2:T149
+R59	Scope Arg1:T152 Arg2:T153
+R60	Scope Arg1:T155 Arg2:T156
+R61	Scope Arg1:T157 Arg2:T158
+R62	DiscScope Arg1:T162 Arg2:T163
+R63	Scope Arg1:T164 Arg2:T165
+R64	DiscScope Arg1:T162 Arg2:T160
+R65	Scope Arg1:T168 Arg2:T169
+R66	Scope Arg1:T166 Arg2:T167
+R67	Scope Arg1:T170 Arg2:T171
+R68	Scope Arg1:T174 Arg2:T175
+R69	Scope Arg1:T177 Arg2:T178
+R70	Scope Arg1:T183 Arg2:T184
+R71	Scope Arg1:T182 Arg2:T180
+R72	Scope Arg1:T186 Arg2:T187
+R73	Scope Arg1:T192 Arg2:T193
+R74	Scope Arg1:T189 Arg2:T190
+R75	Scope Arg1:T196 Arg2:T197
+R76	Scope Arg1:T199 Arg2:T200
+R77	Scope Arg1:T201 Arg2:T202
+R78	Scope Arg1:T203 Arg2:T204
+R79	Scope Arg1:T208 Arg2:T209
+R80	Scope Arg1:T211 Arg2:T212
+R81	Scope Arg1:T215 Arg2:T216
+R82	Scope Arg1:T218 Arg2:T217
+R83	Scope Arg1:T221 Arg2:T222
+R84	Scope Arg1:T219 Arg2:T220
+R85	Scope Arg1:T223 Arg2:T224
+R86	Scope Arg1:T226 Arg2:T227
+R87	Scope Arg1:T235 Arg2:T236
+R88	Scope Arg1:T230 Arg2:T231
+R89	Scope Arg1:T237 Arg2:T239
+R90	Scope Arg1:T246 Arg2:T247
+R91	Scope Arg1:T250 Arg2:T251
+R92	Scope Arg1:T252 Arg2:T253
+R93	Scope Arg1:T256 Arg2:T257
+R94	Scope Arg1:T254 Arg2:T255
+R95	Scope Arg1:T259 Arg2:T260
+R96	Scope Arg1:T266 Arg2:T267
+R97	Scope Arg1:T265 Arg2:T264
+R98	Scope Arg1:T261 Arg2:T262
+R99	Scope Arg1:T268 Arg2:T269

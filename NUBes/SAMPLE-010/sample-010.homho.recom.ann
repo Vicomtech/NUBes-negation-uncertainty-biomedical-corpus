@@ -1,0 +1,18 @@
+T1	UncertLexMarker 128 136	valorará
+T2	DISO 137 182	la continuidad o no de la antibioterapia oral
+T3	NegSynMarker 9523 9526	sin
+T4	Phrase 9527 9546	semillas ni pepitas
+T5	CoordItem 9536 9538	ni
+T6	UncertLexMarker 12334 12342	valorará
+T7	Phrase 12343 12440	si precisa nuestra supervisión durante los fines de semana o ingreso a nuestro cargo más adelante
+T8	OTHER 12346 12373	precisa nuestra supervisión
+T9	CoordItem 12402 12403	o
+T10	OTHER 12404 12411	ingreso
+T11	OTHER 14713 14762	requiere continuar con tratamiento antibiótico IV
+T12	UncertLexMarker 14765 14774	A valorar
+T13	Phrase 14775 14803	por la Unidad de Infecciosas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	DiscScope Arg1:T12 Arg2:T11
+R5	DiscScope Arg1:T12 Arg2:T13

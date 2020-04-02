@@ -1,0 +1,76 @@
+T1	NegSynMarker 180 182	No
+T2	DISO 183 189	disnea
+T3	UncertLexMarker 740 750	No paqrece
+T4	Phrase 751 789	haber tenido dolor torácico ni cefalea
+T5	DISO 764 778	dolor torácico
+T6	CoordItem 779 781	ni
+T7	DISO 782 789	cefalea
+T8	NegSynMarker 1083 1086	sin
+T9	Phrase 1087 1104	recibir respuesta
+T10	UncertLexMarker 1297 1307	parece que
+T11	OTHER 1308 1361	cedieron tras comenzar tto. con Adirio 100 y Somazina
+T12	NegSynMarker 1479 1482	sin
+T13	DISO 1483 1511	recordar nada de lo sucedido
+T14	PolItem 1492 1496	nada
+T15	NegSynMarker 1801 1803	no
+T16	DISO 1804 1844	tolera medicación ni ingesta ni liquidos
+T17	CoordItem 1822 1824	ni
+T18	CoordItem 1833 1835	ni
+T19	NegSynMarker 1900 1902	No
+T20	DISO 1903 1910	naúseas
+T21	Phrase 1903 1921	naúseas ni vómitos
+T22	CoordItem 1911 1913	ni
+T23	DISO 1914 1921	vómitos
+T24	UncertLexMarker 2014 2022	Posibles
+T25	DISO 2023 2032	tiritonas
+T26	NegSynMarker 2125 2127	No
+T27	DISO 2128 2161	clínica miccional ni respiratoria
+T28	CoordItem 2146 2148	ni
+T29	NegSynMarker 2179 2181	no
+T30	Phrase 2182 2288	refiere dolor a ningun nivel , ni recuerda lo sucedido ni sabe precisar desde cuándo ha estado en el suelo
+T31	DISO 2182 2210	refiere dolor a ningun nivel
+T32	PolItem 2198 2204	ningun
+T33	CoordItem 2213 2215	ni
+T34	DISO 2216 2236	recuerda lo sucedido
+T35	CoordItem 2237 2239	ni
+T36	DISO 2240 2288	sabe precisar desde cuándo ha estado en el suelo
+T37	UncertLexMarker 2624 2629	quizá
+T38	DISO 2630 2656	más acentuados ultimamente
+T39	DISO 2792 2809	clínica miccional
+T40	NegSynMarker 2845 2847	no
+T41	OTHER 2848 2856	consultó
+T42	Phrase 2848 2865	consultó ni trató
+T43	CoordItem 2857 2859	ni
+T44	OTHER 2860 2865	trató
+T45	NegLexMarker 2872 2877	cedió
+T46	Phrase 2878 2893	espontaneamente
+T47	NegSynMarker 2896 2898	no
+T48	OTHER 2899 2913	se ha repetido
+T49	UncertLexMarker 3096 3106	al aprecer
+T50	DISO 3107 3122	dolor abdominal
+T51	UncertLexMarker 3140 3147	Posible
+T52	Phrase 3148 3211	aumento progresivo del perímetro abdominal en los últimos meses
+T53	DISO 3148 3190	aumento progresivo del perímetro abdominal
+T54	NegSynMarker 3257 3259	no
+T55	DISO 3260 3285	tomar medicacion habitual
+T56	NegSynMarker 3463 3466	sin
+T57	DISO 3467 3474	mejoría
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T19 Arg2:T21
+R8	Scope Arg1:T24 Arg2:T25
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T37 Arg2:T38
+R12	DiscScope Arg1:T45 Arg2:T39
+R13	DiscScope Arg1:T45 Arg2:T46
+R14	Scope Arg1:T40 Arg2:T42
+R15	Scope Arg1:T47 Arg2:T48
+R16	Scope Arg1:T49 Arg2:T50
+R17	Scope Arg1:T51 Arg2:T52
+R18	Scope Arg1:T54 Arg2:T55
+R19	Scope Arg1:T56 Arg2:T57

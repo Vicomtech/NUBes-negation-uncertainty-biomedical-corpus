@@ -1,0 +1,125 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 52	había presentado antes episodios similares a este
+T3	DISO 26 52	episodios similares a este
+T4	NegSynMarker 203 206	sin
+T5	Phrase 207 212	ayuda
+T6	NegLexMarker 307 322	desaparición de
+T7	DISO 323 335	los síntomas
+T8	NegSynMarker 480 482	No
+T9	DISO 483 506	limitación para las AVD
+T10	NegSynMarker 536 538	No
+T11	Phrase 539 593	refiere disnea ni clínica de claudicación intermitente
+T12	DISO 547 553	disnea
+T13	CoordItem 554 556	ni
+T14	DISO 557 593	clínica de claudicación intermitente
+T15	NegSynMarker 651 653	no
+T16	OTHER 654 683	cambio en el tratamiento oral
+T17	UncertLexMarker 728 734	parece
+T18	DISO 735 778	irradiar hacia zona tercio superior abdomen
+T19	OTHER 781 789	referido
+T20	UncertLexMarker 790 791	?
+T21	NegSynMarker 1167 1169	No
+T22	OTHER 1170 1201	cambios recientes de medicación
+T23	NegSynMarker 1279 1282	sin
+T24	DISO 1283 1294	termometrar
+T25	UncertLexMarker 1624 1630	parece
+T26	DISO 1631 1639	reactivo
+T27	Phrase 1631 1712	reactivo y consecuencia al dolor y la impotencia funcional sufridas tras la caida
+T28	DISO 1642 1712	consecuencia al dolor y la impotencia funcional sufridas tras la caida
+T29	NegSynMarker 1848 1850	No
+T30	Phrase 1851 1901	toma habitual de AINE o descongestionantes nasales
+T31	SUBS 1868 1872	AINE
+T32	SUBS 1875 1901	descongestionantes nasales
+T33	NegMorMarker 1947 1959	asintomática
+T34	UncertLexMarker 1995 2005	impresiona
+T35	Phrase 2006 2029	de perfil osteomuscular
+T36	DISO 2009 2029	perfil osteomuscular
+T37	UncertLexMarker 2152 2160	Probable
+T38	DISO 2161 2187	hepatopatía multifactorial
+T39	NegSynMarker 2190 2192	No
+T40	DISO 2193 2216	disminución de diuresis
+T41	NegSynMarker 2746 2748	No
+T42	DISO 2749 2755	disnea
+T43	NegSynMarker 2758 2760	no
+T44	DISO 2761 2779	cortejo vegetativo
+T45	NegSynMarker 2782 2784	no
+T46	DISO 2785 2798	palpitaciones
+T47	NegSynMarker 2992 2994	No
+T48	DISO 2995 3023	dolor torácico tipo anginoso
+T49	NegSynMarker 3026 3028	No
+T50	Phrase 3029 3053	fiebre ni dolor torácico
+T51	DISO 3029 3035	fiebre
+T52	CoordItem 3036 3038	ni
+T53	DISO 3039 3053	dolor torácico
+T54	NegSynMarker 3182 3184	No
+T55	Phrase 3185 3220	consume regaliz ni bebidas gaseosas
+T56	CoordItem 3201 3203	ni
+T57	UncertLexMarker 3264 3272	probable
+T58	DISO 3273 3332	patologia orgánica concomitante a las previamente conocidas
+T59	NegSynMarker 3891 3894	sin
+T60	DISO 3895 3924	signos inflamatorios externos
+T61	NegSynMarker 3988 3991	sin
+T62	DISO 3992 3999	mejoria
+T63	NegSynMarker 4736 4738	No
+T64	Phrase 4739 4786	mordedura de lengua ni relajación de esfínteres
+T65	DISO 4739 4758	mordedura de lengua
+T66	CoordItem 4759 4761	ni
+T67	DISO 4762 4786	relajación de esfínteres
+T68	NegSynMarker 4880 4882	no
+T69	DISO 4883 4892	irradiado
+T70	NegSynMarker 5065 5067	No
+T71	DISO 5068 5081	expectoración
+T72	Phrase 5068 5097	expectoración en este momento
+T73	NegLexMarker 5117 5122	Niega
+T74	DISO 5123 5128	mareo
+T75	Phrase 5123 5144	mareo si no se agacha
+T76	NegSynMarker 5237 5239	No
+T77	OTHER 5240 5271	recuerda parte de lo acontecido
+T78	NegSynMarker 5315 5317	no
+T79	OTHER 5318 5340	ha cambiado de postura
+T80	NegSynMarker 5365 5367	No
+T81	DISO 5368 5394	otros sintomas especificos
+T82	NegSynMarker 5397 5399	No
+T83	Phrase 5400 5447	se objetiva progresión de la citada lesión osea
+T84	DISO 5412 5447	progresión de la citada lesión osea
+T85	NegSynMarker 5590 5592	no
+T86	DISO 5593 5626	han empeorado en los últimos dias
+T87	NegLexMarker 5629 5634	Niega
+T88	DISO 5635 5641	disnea
+T89	Phrase 5635 5672	disnea ni otros síntomas acompañantes
+T90	CoordItem 5642 5644	ni
+T91	DISO 5645 5672	otros síntomas acompañantes
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T20 Arg2:T19
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T27
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T45 Arg2:T46
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T54 Arg2:T55
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T61 Arg2:T62
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T70 Arg2:T72
+R28	Scope Arg1:T73 Arg2:T75
+R29	Scope Arg1:T78 Arg2:T79
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T82 Arg2:T83
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T87 Arg2:T89

@@ -1,0 +1,12 @@
+T1	NegSynMarker 1095 1097	no
+T2	Phrase 1098 1118	conocida previamente
+T3	NegSynMarker 1907 1909	no
+T4	OTHER 1910 1947	subsidiaria de tratamiento quirurgico
+T5	UncertLexMarker 2986 2997	sospecha de
+T6	DISO 2998 3017	fractura patologica
+T7	NegLexMarker 3705 3721	Imposibilidad de
+T8	Phrase 3722 3728	marcha
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8

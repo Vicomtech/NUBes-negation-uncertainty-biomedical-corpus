@@ -1,0 +1,175 @@
+T1	NegSynMarker 101 104	sin
+T2	DISO 105 122	mejoria del dolor
+T3	NegLexMarker 149 160	se suspende
+T4	SUBS 161 172	tratamiento
+T5	NegSynMarker 371 373	no
+T6	OTHER 374 378	tomó
+T7	Phrase 374 414	tomó por clinica de polaquiuria continua
+T8	NegSynMarker 417 420	Sin
+T9	Phrase 421 443	oliguria , ni ortopnea
+T10	DISO 421 429	oliguria
+T11	CoordItem 432 434	ni
+T12	DISO 435 443	ortopnea
+T13	NegSynMarker 715 717	no
+T14	OTHER 718 728	especifica
+T15	NegLexMarker 786 791	Niega
+T16	Phrase 792 831	dolor torácico , palpitaciones o disnea
+T17	DISO 792 806	dolor torácico
+T18	DISO 809 822	palpitaciones
+T19	CoordItem 823 824	o
+T20	DISO 825 831	disnea
+T21	NegSynMarker 983 985	no
+T22	Phrase 986 1020	ha tomado medicacion para el dolor
+T23	SUBS 996 1020	medicacion para el dolor
+T24	SUBS 1102 1121	klebsiela en esputo
+T25	NegLexMarker 1126 1139	se negativizó
+T26	NegSynMarker 1159 1161	No
+T27	DISO 1162 1177	dolor posterior
+T28	NegSynMarker 1180 1182	no
+T29	DISO 1183 1196	palpitaciones
+T30	NegMorMarker 1252 1264	asintomático
+T31	NegMorMarker 1342 1354	asintomática
+T32	UncertLexMarker 1707 1716	sin claro
+T33	DISO 1717 1747	cortejo vegetativo acompañante
+T34	NegSynMarker 1750 1753	sin
+T35	DISO 1754 1847	irradiación del dolor a extremidades superiores , ni a región cervical ni a otra localización
+T36	CoordItem 1804 1806	ni
+T37	CoordItem 1825 1827	ni
+T38	NegLexMarker 2191 2203	desaparecido
+T39	DISO 2204 2212	el dolor
+T40	NegLexMarker 2443 2449	impide
+T41	Phrase 2450 2456	dormir
+T42	NegSynMarker 2665 2667	no
+T43	OTHER 2668 2680	la ha tomado
+T44	Phrase 2668 2707	la ha tomado en las dos últimas semanas
+T45	NegSynMarker 2776 2779	sin
+T46	Phrase 2780 2817	caer al suelo por apoyarse en su niña
+T47	UncertLexMarker 2938 2946	No clara
+T48	DISO 2947 2955	oliguria
+T49	NegSynMarker 2958 2960	no
+T50	DISO 2961 2964	DPN
+T51	NegSynMarker 2967 2969	no
+T52	DISO 2970 2978	ortopnea
+T53	NegSynMarker 2981 2983	No
+T54	DISO 2984 2998	dolor torácico
+T55	Phrase 2984 3011	dolor torácico días previos
+T56	NegLexMarker 3115 3121	imiden
+T57	OTHER 3122 3134	ingesta oral
+T58	NegSynMarker 3242 3244	No
+T59	DISO 3245 3260	dolor en reposo
+T60	UncertLexMarker 3263 3271	no clara
+T61	DISO 3272 3278	disnea
+T62	NegLexMarker 3392 3397	niega
+T63	Phrase 3398 3430	dolor torácico , o palpitaciones
+T64	DISO 3398 3412	dolor torácico
+T65	CoordItem 3415 3416	o
+T66	DISO 3417 3430	palpitaciones
+T67	NegSynMarker 3557 3559	No
+T68	DISO 3560 3574	dolor torácico
+T69	NegSynMarker 3577 3579	no
+T70	DISO 3580 3586	disnea
+T71	NegSynMarker 3633 3635	no
+T72	DISO 3636 3667	otra sintomatologia acompañante
+T73	Phrase 3636 3678	otra sintomatologia acompañante estos dias
+T74	NegSynMarker 3736 3738	no
+T75	Phrase 3739 3756	presentar volante
+T76	OTHER 3749 3756	volante
+T77	NegSynMarker 4275 4277	No
+T78	DISO 4278 4311	clinica de infección respiratoria
+T79	NegSynMarker 4686 4689	sin
+T80	Phrase 4690 4726	dolor torácico tipico ni irradiación
+T81	DISO 4690 4711	dolor torácico tipico
+T82	CoordItem 4712 4714	ni
+T83	DISO 4715 4726	irradiación
+T84	NegSynMarker 4910 4913	sin
+T85	DISO 4914 4919	dolor
+T86	NegSynMarker 5071 5073	No
+T87	Phrase 5074 5105	le ven con clinica respiratoria
+T88	DISO 5085 5105	clinica respiratoria
+T89	NegSynMarker 5311 5314	sin
+T90	DISO 5315 5322	mejoría
+T91	NegMorMarker 5484 5496	asintomático
+T92	NegSynMarker 5499 5502	sin
+T93	DISO 5503 5519	nuevas descargas
+T94	Phrase 5934 6071	un episodio de dolor centrotorácico irradiado al cuello , nuca y hombro derecho opresivo de unos 5-8 ´ de duración acompañado de malestar
+T95	DISO 5949 5969	dolor centrotorácico
+T96	NegLexMarker 6076 6085	ha cedido
+T97	Phrase 6086 6101	espontáneamente
+T98	NegSynMarker 6113 6115	no
+T99	Phrase 6116 6154	le recuerda a la angina de hace un mes
+T100	NegMorMarker 6182 6194	asintomática
+T101	NegSynMarker 6247 6250	sin
+T102	DISO 6251 6261	dificultad
+T103	NegSynMarker 6473 6475	no
+T104	Phrase 6476 6527	ha acudido a su Médico de Cabecera ni lleva control
+T105	OTHER 6476 6510	ha acudido a su Médico de Cabecera
+T106	CoordItem 6511 6513	ni
+T107	OTHER 6514 6527	lleva control
+T108	Phrase 6723 6790	cuadro de dolor centrotoracico en reposo desde ayer sobre las 09 am
+T109	DISO 6723 6763	cuadro de dolor centrotoracico en reposo
+T110	NegLexMarker 6797 6802	cedio
+T111	Phrase 6803 6869	al mediodia ( + /-14h ) tras toma de dos comprimidos de Vernies sl
+T112	NegMorMarker 6891 6903	asintomatico
+T113	NegLexMarker 7029 7034	Niega
+T114	DISO 7035 7049	dolor torácico
+T115	Phrase 7035 7058	dolor torácico o fiebre
+T116	CoordItem 7050 7051	o
+T117	DISO 7052 7058	fiebre
+T118	NegSynMarker 7117 7119	no
+T119	DISO 7120 7128	responde
+T120	NegSynMarker 7290 7292	no
+T121	DISO 7293 7294	Q
+T122	NegSynMarker 7386 7388	no
+T123	DISO 7389 7402	significativa
+T124	NegSynMarker 7568 7570	No
+T125	DISO 7571 7593	alteracion de diuresis
+T126	NegSynMarker 7596 7598	No
+T127	OTHER 7599 7641	ha acudido a su médico durante este tiempo
+T128	NegMorMarker 7925 7937	asintomática
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T25 Arg2:T24
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T38 Arg2:T39
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T42 Arg2:T44
+R16	Scope Arg1:T45 Arg2:T46
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T51 Arg2:T52
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T53 Arg2:T55
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T62 Arg2:T63
+R25	Scope Arg1:T71 Arg2:T73
+R26	Scope Arg1:T67 Arg2:T68
+R27	Scope Arg1:T69 Arg2:T70
+R28	Scope Arg1:T74 Arg2:T75
+R29	Scope Arg1:T77 Arg2:T78
+R30	Scope Arg1:T79 Arg2:T80
+R31	Scope Arg1:T84 Arg2:T85
+R32	Scope Arg1:T86 Arg2:T87
+R33	Scope Arg1:T89 Arg2:T90
+R34	Scope Arg1:T92 Arg2:T93
+R35	Scope Arg1:T98 Arg2:T99
+R36	DiscScope Arg1:T96 Arg2:T94
+R37	DiscScope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T101 Arg2:T102
+R39	Scope Arg1:T103 Arg2:T104
+R40	DiscScope Arg1:T110 Arg2:T108
+R41	DiscScope Arg1:T110 Arg2:T111
+R42	Scope Arg1:T113 Arg2:T115
+R43	Scope Arg1:T118 Arg2:T119
+R44	Scope Arg1:T120 Arg2:T121
+R45	Scope Arg1:T122 Arg2:T123
+R46	Scope Arg1:T124 Arg2:T125
+R47	Scope Arg1:T126 Arg2:T127

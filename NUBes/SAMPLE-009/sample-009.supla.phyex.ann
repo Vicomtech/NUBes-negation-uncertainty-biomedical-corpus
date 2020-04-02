@@ -1,0 +1,53 @@
+T1	UncertLexMarker 273 287	compatible con
+T2	DISO 288 303	ca. basocelular
+T3	UncertLexMarker 426 440	compatible con
+T4	DISO 441 482	lipoma de gran tamaño en hombro izquierdo
+T5	UncertLexMarker 843 857	compatible con
+T6	DISO 858 873	ca. basocelular
+T7	UncertLexMarker 1231 1245	compatible con
+T8	DISO 1246 1260	ca basocelular
+T9	UncertLexMarker 1350 1364	compatible con
+T10	DISO 1365 1380	ca. basocelular
+T11	UncertLexMarker 1882 1896	compatible con
+T12	DISO 1897 1912	queratoacantoma
+T13	UncertLexMarker 2111 2125	compatible con
+T14	DISO 2126 2139	ca basoceluar
+T15	NegSynMarker 2147 2150	sin
+T16	PROC 2151 2161	epitelizar
+T17	UncertLexMarker 2284 2298	compatible con
+T18	DISO 2299 2313	ca. basocelula
+T19	Phrase 2299 2362	ca. basocelula surco alar nasal derecho de 0.3 cms. de diámetro
+T20	UncertLexMarker 2527 2541	compatible con
+T21	DISO 2542 2557	ca. basocelular
+T22	UncertLexMarker 2677 2691	compatible con
+T23	DISO 2692 2707	ca. basocelular
+T24	Phrase 2692 2768	ca. basocelular de aproximadamente 1 cm. de diámetro de bordes sobreelevados
+T25	UncertLexMarker 2778 2792	compatible con
+T26	DISO 2793 2808	Ca. basocelular
+T27	Phrase 2793 2847	Ca. basocelular ceja izquierda , frente y ceja derecha
+T28	UncertLexMarker 3116 3130	compatible con
+T29	Phrase 3131 3215	ca. basocelular en surco nasogeiano izquierdo de aspecto perlado para cierre directo
+T30	DISO 3131 3146	ca. basocelular
+T31	UncertLexMarker 3251 3265	compatible con
+T32	DISO 3266 3281	ca. basocelular
+T33	Phrase 3266 3340	ca. basocelular en canto interno ojo izquierdo para colgajo local glabelar
+T34	UncertLexMarker 3413 3427	compatible con
+T35	DISO 3428 3443	ca. basocelular
+T36	Phrase 3428 3460	ca. basocelular y/o ca. escamoso
+T37	CoordItem 3444 3447	y/o
+T38	DISO 3448 3460	ca. escamoso
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T27
+R13	Scope Arg1:T31 Arg2:T33
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T34 Arg2:T36

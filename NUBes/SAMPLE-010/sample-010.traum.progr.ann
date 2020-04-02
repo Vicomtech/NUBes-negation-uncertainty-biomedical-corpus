@@ -1,0 +1,40 @@
+T1	NegSynMarker 468 471	sin
+T2	DISO 472 486	complicaciones
+T3	NegSynMarker 556 559	sin
+T4	DISO 560 574	complicaciones
+T5	NegLexMarker 695 705	descartado
+T6	DISO 706 724	proceso trombótico
+T7	UncertLexMarker 1569 1584	compatibles con
+T8	DISO 1585 1604	lesiones herpeticas
+T9	PROC 1762 1779	Estudio de fiebre
+T10	NegLexMarker 1780 1788	negativo
+T11	NegSynMarker 1897 1900	sin
+T12	DISO 1901 1923	complicaciones médicas
+T13	NegSynMarker 1967 1969	no
+T14	Phrase 1970 2006	presenta mejoría del cuadro de dolor
+T15	DISO 1979 2006	mejoría del cuadro de dolor
+T16	NegSynMarker 2169 2172	sin
+T17	DISO 2173 2187	complicaciones
+T18	NegLexMarker 2654 2664	suspendida
+T19	SUBS 2665 2675	furosemida
+T20	NegSynMarker 3065 3067	no
+T21	DISO 3068 3089	es buena inicialmente
+T22	OTHER 3248 3257	resultado
+T23	NegLexMarker 3258 3266	negativo
+T24	Phrase 3267 3287	de todas las pruebas
+T25	NegSynMarker 3382 3384	no
+T26	Phrase 3385 3454	tiene dolor con la inmovilizacion de hombro y la ferula de yeso izdos
+T27	DISO 3391 3396	dolor
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T9
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	DiscScope Arg1:T23 Arg2:T24
+R12	DiscScope Arg1:T23 Arg2:T22
+R13	Scope Arg1:T25 Arg2:T26

@@ -1,0 +1,324 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 86	se ha termometrado fiebre ni refiere haber presentado ninguna otra clinica asociada
+T3	DISO 22 28	fiebre
+T4	CoordItem 29 31	ni
+T5	PolItem 57 64	ninguna
+T6	DISO 57 86	ninguna otra clinica asociada
+T7	DISO 147 180	febricula termometrada de 37 ´ 6º
+T8	NegSynMarker 196 199	sin
+T9	DISO 200 218	foco identificable
+T10	NegLexMarker 227 236	ha cedido
+T11	Phrase 237 268	tras la toma de Paracetamol 500
+T12	UncertLexMarker 447 453	podría
+T13	OTHER 454 473	haberse precipitado
+T14	Phrase 454 642	haberse precipitado por alteración del ritmo del sueño que viene sufriendo desde hace varios dias por una insuficiencia ventilatoria nasal en relación a catarro de vias respiratorias altas
+T15	NegLexMarker 776 781	Niega
+T16	Phrase 782 802	presencia de cefalea
+T17	DISO 795 802	cefalea
+T18	NegMorMarker 852 864	inespecífico
+T19	NegSynMarker 865 868	sin
+T20	DISO 869 876	nauseas
+T21	Phrase 869 933	nauseas ni vómitos ni ninguna clínica focal neurológica asociada
+T22	CoordItem 877 879	ni
+T23	DISO 880 887	vómitos
+T24	CoordItem 888 890	ni
+T25	PolItem 891 898	ninguna
+T26	DISO 891 933	ninguna clínica focal neurológica asociada
+T27	NegMorMarker 993 1005	asintomática
+T28	NegSynMarker 1020 1022	no
+T29	Phrase 1023 1061	ha presentado en nigun momento cefalea
+T30	PolItem 1040 1045	nigun
+T31	DISO 1054 1061	cefalea
+T32	UncertLexMarker 1273 1284	sospecha de
+T33	DISO 1285 1307	una infección urinaria
+T34	NegMorMarker 1666 1678	inespecífico
+T35	NegSynMarker 1823 1826	sin
+T36	DISO 1827 1862	déficits focal neurológico residual
+T37	NegLexMarker 1942 1957	haber dejado de
+T38	OTHER 1958 1963	beber
+T39	Phrase 1958 2009	beber por completo en los 4 días previos al ingreso
+T40	NegSynMarker 2012 2014	No
+T41	Phrase 2015 2100	refiere traumatismo craneal ni mareo previo ni perdida de concienca en ningún momento
+T42	DISO 2023 2042	traumatismo craneal
+T43	CoordItem 2043 2045	ni
+T44	DISO 2046 2058	mareo previo
+T45	CoordItem 2059 2061	ni
+T46	DISO 2062 2100	perdida de concienca en ningún momento
+T47	PolItem 2086 2092	ningún
+T48	NegSynMarker 2131 2133	No
+T49	Phrase 2134 2218	ha presentado movimientos convulsivos , mordedura lingual ni relajación esfinteriana
+T50	DISO 2148 2171	movimientos convulsivos
+T51	DISO 2174 2191	mordedura lingual
+T52	CoordItem 2192 2194	ni
+T53	DISO 2195 2218	relajación esfinteriana
+T54	NegSynMarker 2367 2370	sin
+T55	DISO 2371 2394	antecedentes de interés
+T56	NegSynMarker 2496 2498	No
+T57	DISO 2499 2506	cefalea
+T58	Phrase 2499 2563	cefalea , clínica febril , respiratoria , digestiva ni miccional
+T59	DISO 2509 2563	clínica febril , respiratoria , digestiva ni miccional
+T60	CoordItem 2551 2553	ni
+T61	UncertLexMarker 3027 3033	Parece
+T62	Phrase 3034 3156	que coincidiendo con la introduccion del Tramadol el paciente presenta cefalea cervico-occipital de carácter mal precisado
+T63	OTHER 3038 3130	coincidiendo con la introduccion del Tramadol el paciente presenta cefalea cervico-occipital
+T64	NegMorMarker 3209 3222	inespecificas
+T65	NegSynMarker 3223 3226	sin
+T66	Phrase 3227 3294	pérdida de conciencia ni ninguna clinica focal neurológica asociada
+T67	DISO 3227 3248	pérdida de conciencia
+T68	CoordItem 3249 3251	ni
+T69	PolItem 3252 3259	ninguna
+T70	DISO 3252 3294	ninguna clinica focal neurológica asociada
+T71	UncertLexMarker 3325 3331	dudosa
+T72	DISO 3332 3345	rigidez nucal
+T73	UncertLexMarker 3559 3568	No parece
+T74	Phrase 3569 3656	haber presentado fiebre ni proceso infeccioso alguno a ningún nivel en los días previos
+T75	DISO 3586 3592	fiebre
+T76	CoordItem 3593 3595	ni
+T77	DISO 3596 3621	proceso infeccioso alguno
+T78	PolItem 3615 3621	alguno
+T79	PolItem 3624 3630	ningún
+T80	NegSynMarker 3667 3669	no
+T81	Phrase 3670 3708	haber presentado pérdida de conciencia
+T82	DISO 3687 3708	pérdida de conciencia
+T83	UncertLexMarker 3714 3721	no sabe
+T84	OTHER 3722 3755	precisar con claridad lo ocurrido
+T85	NegSynMarker 3758 3760	No
+T86	Phrase 3761 3835	refiere cefalea , naúseas ni vómitos ni ningún tipo de clínica neurológica
+T87	DISO 3769 3776	cefalea
+T88	DISO 3779 3786	naúseas
+T89	CoordItem 3787 3789	ni
+T90	DISO 3790 3797	vómitos
+T91	CoordItem 3798 3800	ni
+T92	DISO 3801 3835	ningún tipo de clínica neurológica
+T93	PolItem 3801 3807	ningún
+T94	NegSynMarker 3912 3915	sin
+T95	DISO 3916 3981	foco respiratorio , urinario , GI o de otra localización conocido
+T96	NegMorMarker 4254 4268	desorientación
+T97	NegSynMarker 4547 4550	sin
+T98	DISO 4551 4578	otros síntomas acompañantes
+T99	NegSynMarker 4711 4714	sin
+T100	Phrase 4715 4784	movimientos anormales , relajación de esfínteres ni mordedura lingual
+T101	DISO 4715 4736	movimientos anormales
+T102	DISO 4739 4763	relajación de esfínteres
+T103	CoordItem 4764 4766	ni
+T104	DISO 4767 4784	mordedura lingual
+T105	NegSynMarker 4826 4829	sin
+T106	DISO 4830 4860	focalidad neurologica residual
+T107	NegMorMarker 5215 5227	inespecífico
+T108	UncertLexMarker 5385 5393	probable
+T109	DISO 5394 5414	intoxicación enólica
+T110	NegSynMarker 5723 5726	sin
+T111	OTHER 5727 5738	seguimiento
+T112	NegSynMarker 6040 6043	sin
+T113	Phrase 6044 6084	pérdida de conciencia ni giro de objetos
+T114	DISO 6044 6065	pérdida de conciencia
+T115	CoordItem 6066 6068	ni
+T116	DISO 6069 6084	giro de objetos
+T117	NegSynMarker 6224 6227	sin
+T118	DISO 6228 6259	antecedentes médicos de interés
+T119	NegMorMarker 6619 6631	desorientada
+T120	DISO 6881 6889	ideación
+T121	UncertLexMarker 6892 6902	al parecer
+T122	DISO 6905 6915	autolitica
+T123	UncertLexMarker 6916 6919	sin
+T124	OTHER 6920 6934	precisar causa
+T125	UncertLexMarker 6935 6940	clara
+T126	Phrase 6941 6956	de tal conducta
+T127	NegSynMarker 7009 7011	No
+T128	Phrase 7012 7070	ha presentado mordedura lingual ni relajación esfinteriana
+T129	DISO 7026 7043	mordedura lingual
+T130	CoordItem 7044 7046	ni
+T131	DISO 7047 7070	relajación esfinteriana
+T132	NegMorMarker 7269 7283	desorientación
+T133	NegSynMarker 7306 7308	no
+T134	DISO 7309 7331	coordinando las frases
+T135	NegSynMarker 7508 7511	sin
+T136	DISO 7512 7536	relajación de esfinteres
+T137	NegSynMarker 7848 7850	No
+T138	DISO 7851 7865	dolor torácico
+T139	Phrase 7851 7904	dolor torácico , ni disnea , ni movimientos anormales
+T140	CoordItem 7868 7870	ni
+T141	DISO 7871 7877	disnea
+T142	CoordItem 7880 7882	ni
+T143	DISO 7883 7904	movimientos anormales
+T144	NegMorMarker 8239 8253	desorientación
+T145	NegSynMarker 8558 8561	sin
+T146	DISO 8562 8583	perdida de conciencia
+T147	NegSynMarker 8949 8952	sin
+T148	DISO 8953 8968	giro de objetos
+T149	UncertLexMarker 9243 9251	probable
+T150	DISO 9252 9267	sinusitis aguda
+T151	NegSynMarker 9390 9392	no
+T152	DISO 9393 9399	mejora
+T153	NegSynMarker 9478 9485	Tampoco
+T154	Phrase 9486 9615	presentó movimientos involuntarios anormales , mordedura lingual , relajación esfinteriana ni período de estupor tras el episodio
+T155	DISO 9495 9530	movimientos involuntarios anormales
+T156	DISO 9533 9550	mordedura lingual
+T157	DISO 9553 9576	relajación esfinteriana
+T158	CoordItem 9577 9579	ni
+T159	DISO 9580 9615	período de estupor tras el episodio
+T160	UncertLexMarker 9630 9636	parece
+T161	Phrase 9637 9690	no perder la conciencia durante el trayecto del viaje
+T162	NegSynMarker 9637 9639	no
+T163	DISO 9640 9660	perder la conciencia
+T164	UncertLexMarker 9747 9753	parece
+T165	Phrase 9754 9803	que sí sufre un desvanecimiento de breve duración
+T166	DISO 9767 9803	un desvanecimiento de breve duración
+T167	NegSynMarker 9858 9861	sin
+T168	DISO 9862 9892	focalidad neurológica residual
+T169	NegSynMarker 10015 10017	no
+T170	DISO 10018 10047	control total de los sintomas
+T171	NegMorMarker 10167 10179	inespecífico
+T172	UncertLexMarker 10180 10189	sin clara
+T173	DISO 10190 10211	pérdida de conciencia
+T174	NegMorMarker 10539 10551	desorientada
+T175	NegMorMarker 10798 10810	inespecífico
+T176	UncertLexMarker 10817 10824	parecen
+T177	Phrase 10825 10942	presentarse en forma de episodios que pudieran tener relación con los movimientos de la cabeza e hipoacusia izquierda
+T178	DISO 10849 10942	episodios que pudieran tener relación con los movimientos de la cabeza e hipoacusia izquierda
+T179	PolItem 10863 10871	pudieran
+T180	UncertLexMarker 11063 11071	pudiendo
+T181	Phrase 11072 11133	haber presentado pérdida de conciencia durante unos instantes
+T182	DISO 11089 11133	pérdida de conciencia durante unos instantes
+T183	NegSynMarker 11264 11267	sin
+T184	DISO 11268 11289	pérdida de conciencia
+T185	NegSynMarker 11292 11295	sin
+T186	DISO 11296 11306	sudoración
+T187	NegSynMarker 11307 11310	sin
+T188	OTHER 11311 11356	poder precisar el tiempo en que ha estado así
+T189	UncertLexMarker 11453 11466	probablemente
+T190	Phrase 11467 11506	la vispera del ingreso después de comer
+T191	NegSynMarker 11537 11540	sin
+T192	Phrase 11541 11552	conseguirlo
+T193	NegSynMarker 11736 11739	sin
+T194	OTHER 11740 11797	ser capaz el paciente de aportar más datos a la anamnesis
+T195	Phrase 11916 11944	sudoración y palidez intensa
+T196	DISO 11916 11926	sudoración
+T197	DISO 11929 11944	palidez intensa
+T198	NegLexMarker 11949 11963	desaparecieron
+T199	Phrase 11964 11979	con el decúbito
+T200	NegSynMarker 11986 11988	no
+T201	Phrase 11989 12056	se acompañaron de dolor torácico ni disnea ni movimientos anormales
+T202	DISO 12007 12021	dolor torácico
+T203	CoordItem 12022 12024	ni
+T204	DISO 12025 12031	disnea
+T205	CoordItem 12032 12034	ni
+T206	DISO 12035 12056	movimientos anormales
+T207	NegSynMarker 12173 12175	No
+T208	Phrase 12176 12215	datos de focalidad neurológica asociada
+T209	DISO 12185 12215	focalidad neurológica asociada
+T210	NegSynMarker 12364 12367	sin
+T211	Phrase 12368 12397	llegar a perder la conciencia
+T212	DISO 12377 12397	perder la conciencia
+T213	NegSynMarker 12444 12447	sin
+T214	DISO 12448 12469	pérdida de conciencia
+T215	NegSynMarker 12753 12756	sin
+T216	DISO 12757 12783	pérdida de fuerza asociada
+T217	NegSynMarker 12815 12818	sin
+T218	DISO 12819 12882	ninguna otra clínica focal neurológica o sistémica concomitante
+T219	PolItem 12819 12826	ninguna
+T220	NegSynMarker 13137 13139	no
+T221	DISO 13140 13147	remitía
+T222	NegSynMarker 13150 13157	Tampoco
+T223	Phrase 13158 13306	ha presentado movimientos involuntarios anormales , mordedura lingual ni relajación esfinteriana ni dolor torácico , disnea ni otra clínica asociada
+T224	DISO 13172 13207	movimientos involuntarios anormales
+T225	DISO 13210 13227	mordedura lingual
+T226	CoordItem 13228 13230	ni
+T227	DISO 13231 13254	relajación esfinteriana
+T228	CoordItem 13255 13257	ni
+T229	DISO 13258 13272	dolor torácico
+T230	DISO 13275 13281	disnea
+T231	CoordItem 13282 13284	ni
+T232	DISO 13285 13306	otra clínica asociada
+T233	NegSynMarker 13517 13520	sin
+T234	DISO 13521 13528	mejoria
+T235	UncertLexMarker 13543 13550	valorar
+T236	Phrase 13551 13586	la retirada del fentanilo y Zaldiar
+T237	NegLexMarker 13554 13566	retirada del
+T238	SUBS 13567 13576	fentanilo
+T239	Phrase 13567 13586	fentanilo y Zaldiar
+T240	CoordItem 13577 13578	y
+T241	SUBS 13579 13586	Zaldiar
+T242	NegSynMarker 13629 13631	No
+T243	DISO 13632 13659	dolor torácico ni abdominal
+T244	CoordItem 13647 13649	ni
+T245	NegSynMarker 13770 13773	sin
+T246	DISO 13774 13804	focalidad neurológica residual
+T247	NegMorMarker 13858 13870	asintomática
+T248	UncertLexMarker 13873 13883	Al parecer
+T249	Phrase 13884 13949	la paciente ha presentado en los días previos cuadro de ciatalgia
+T250	DISO 13940 13949	ciatalgia
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T10 Arg2:T11
+R3	Scope Arg1:T8 Arg2:T9
+R4	DiscScope Arg1:T10 Arg2:T7
+R5	Scope Arg1:T12 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T19 Arg2:T21
+R8	Scope Arg1:T28 Arg2:T29
+R9	Scope Arg1:T32 Arg2:T33
+R10	Scope Arg1:T35 Arg2:T36
+R11	Scope Arg1:T37 Arg2:T39
+R12	Scope Arg1:T40 Arg2:T41
+R13	Scope Arg1:T48 Arg2:T49
+R14	Scope Arg1:T54 Arg2:T55
+R15	Scope Arg1:T56 Arg2:T58
+R16	Scope Arg1:T71 Arg2:T72
+R17	Scope Arg1:T65 Arg2:T66
+R18	Scope Arg1:T61 Arg2:T62
+R19	Scope Arg1:T73 Arg2:T74
+R20	Scope Arg1:T83 Arg2:T84
+R21	Scope Arg1:T80 Arg2:T81
+R22	Scope Arg1:T85 Arg2:T86
+R23	Scope Arg1:T94 Arg2:T95
+R24	Scope Arg1:T97 Arg2:T98
+R25	Scope Arg1:T99 Arg2:T100
+R26	Scope Arg1:T105 Arg2:T106
+R27	Scope Arg1:T108 Arg2:T109
+R28	Scope Arg1:T110 Arg2:T111
+R29	Scope Arg1:T112 Arg2:T113
+R30	Scope Arg1:T117 Arg2:T118
+R31	DiscScope Arg1:T125 Arg2:T126
+R32	DiscScope Arg1:T125 Arg2:T124
+R33	DiscScope Arg1:T121 Arg2:T120
+R34	DiscScope Arg1:T121 Arg2:T122
+R35	DiscMarker Arg1:T123 Arg2:T125
+R36	Scope Arg1:T127 Arg2:T128
+R37	Scope Arg1:T133 Arg2:T134
+R38	Scope Arg1:T135 Arg2:T136
+R39	Scope Arg1:T137 Arg2:T139
+R40	Scope Arg1:T145 Arg2:T146
+R41	Scope Arg1:T147 Arg2:T148
+R42	Scope Arg1:T149 Arg2:T150
+R43	Scope Arg1:T151 Arg2:T152
+R44	Scope Arg1:T153 Arg2:T154
+R45	Scope Arg1:T162 Arg2:T163
+R46	Scope Arg1:T167 Arg2:T168
+R47	Scope Arg1:T160 Arg2:T161
+R48	Scope Arg1:T164 Arg2:T165
+R49	Scope Arg1:T169 Arg2:T170
+R50	Scope Arg1:T172 Arg2:T173
+R51	Scope Arg1:T176 Arg2:T177
+R52	Scope Arg1:T180 Arg2:T181
+R53	Scope Arg1:T185 Arg2:T186
+R54	Scope Arg1:T183 Arg2:T184
+R55	Scope Arg1:T187 Arg2:T188
+R56	Scope Arg1:T191 Arg2:T192
+R57	Scope Arg1:T189 Arg2:T190
+R58	Scope Arg1:T193 Arg2:T194
+R59	DiscScope Arg1:T198 Arg2:T199
+R60	DiscScope Arg1:T198 Arg2:T195
+R61	Scope Arg1:T200 Arg2:T201
+R62	Scope Arg1:T207 Arg2:T208
+R63	Scope Arg1:T210 Arg2:T211
+R64	Scope Arg1:T213 Arg2:T214
+R65	Scope Arg1:T215 Arg2:T216
+R66	Scope Arg1:T217 Arg2:T218
+R67	Scope Arg1:T220 Arg2:T221
+R68	Scope Arg1:T222 Arg2:T223
+R69	Scope Arg1:T237 Arg2:T239
+R70	Scope Arg1:T233 Arg2:T234
+R71	Scope Arg1:T235 Arg2:T236
+R72	Scope Arg1:T242 Arg2:T243
+R73	Scope Arg1:T245 Arg2:T246
+R74	Scope Arg1:T248 Arg2:T249

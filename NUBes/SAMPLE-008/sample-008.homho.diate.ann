@@ -1,0 +1,9 @@
+T1	NegSynMarker 41 43	no
+T2	DISO 44 57	cardiomegalia
+T3	NegSynMarker 137 140	sin
+T4	Phrase 141 191	condensación neumónica ni derrame pleural asociado
+T5	DISO 141 163	condensación neumónica
+T6	CoordItem 164 166	ni
+T7	DISO 167 191	derrame pleural asociado
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2

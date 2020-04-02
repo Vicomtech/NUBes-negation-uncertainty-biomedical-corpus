@@ -1,0 +1,122 @@
+T1	NegLexMarker 0 11	Ausencia de
+T2	DISO 12 26	bradiarritmias
+T3	NegSynMarker 157 159	No
+T4	Phrase 160 192	refiere alteraciones miccionales
+T5	DISO 168 192	alteraciones miccionales
+T6	NegSynMarker 332 335	sin
+T7	Phrase 336 361	hipertrofia ni dilatación
+T8	DISO 336 347	hipertrofia
+T9	CoordItem 348 350	ni
+T10	DISO 351 361	dilatación
+T11	NegSynMarker 364 366	No
+T12	Phrase 367 393	refiere mas comorbilidades
+T13	DISO 379 393	comorbilidades
+T14	NegSynMarker 1064 1066	no
+T15	OTHER 1067 1076	conocidoa
+T16	NegSynMarker 1288 1290	No
+T17	DISO 1291 1299	oliguria
+T18	Phrase 1291 1309	oliguria ni edemas
+T19	CoordItem 1300 1302	ni
+T20	DISO 1303 1309	edemas
+T21	NegSynMarker 1510 1512	No
+T22	DISO 1513 1533	movimiento anormales
+T23	NegSynMarker 1536 1538	no
+T24	DISO 1539 1558	mordedura de lengua
+T25	Phrase 1539 1586	mordedura de lengua ni relajación de esfínteres
+T26	CoordItem 1559 1561	ni
+T27	DISO 1562 1586	relajación de esfínteres
+T28	NegSynMarker 1646 1649	sin
+T29	Phrase 1650 1676	sincope ni otra afectacion
+T30	DISO 1650 1657	sincope
+T31	CoordItem 1658 1660	ni
+T32	DISO 1661 1676	otra afectacion
+T33	NegSynMarker 1764 1767	sin
+T34	DISO 1768 1775	nauseas
+T35	Phrase 1768 1813	nauseas ni vomitos ni dolor toracio ni disnea
+T36	CoordItem 1776 1778	ni
+T37	DISO 1779 1786	vomitos
+T38	CoordItem 1787 1789	ni
+T39	DISO 1790 1803	dolor toracio
+T40	CoordItem 1804 1806	ni
+T41	DISO 1807 1813	disnea
+T42	NegMorMarker 2030 2042	asintomatico
+T43	NegSynMarker 2142 2144	No
+T44	DISO 2145 2164	medicacion habitual
+T45	NegSynMarker 2343 2346	sin
+T46	Phrase 2347 2399	episodios de taquicardia paroxísitica ni fibrilación
+T47	DISO 2360 2384	taquicardia paroxísitica
+T48	CoordItem 2385 2387	ni
+T49	DISO 2388 2399	fibrilación
+T50	NegSynMarker 2502 2505	sin
+T51	DISO 2506 2520	ceder del todo
+T52	NegSynMarker 2523 2525	No
+T53	DISO 2526 2540	dolor torácico
+T54	Phrase 2526 2557	dolor torácico ni palpitaciones
+T55	CoordItem 2541 2543	ni
+T56	DISO 2544 2557	palpitaciones
+T57	UncertLexMarker 2837 2846	sin claro
+T58	Phrase 2847 2873	dolor toracico acompañante
+T59	DISO 2847 2861	dolor toracico
+T60	NegSynMarker 3120 3123	sin
+T61	DISO 3124 3146	modificación del dolor
+T62	NegSynMarker 3228 3231	sin
+T63	OTHER 3232 3236	part
+T64	NegSynMarker 3302 3304	no
+T65	DISO 3305 3312	tratada
+T66	UncertLexMarker 3393 3403	Al parecer
+T67	Phrase 3404 3533	mientras se encontraba en sedestación ha sufrido episodio de desconexión con el entorno , eversión de la mirada y palidez cutánea
+T68	DISO 3453 3491	episodio de desconexión con el entorno
+T69	DISO 3494 3515	eversión de la mirada
+T70	CoordItem 3516 3517	y
+T71	DISO 3518 3533	palidez cutánea
+T72	UncertLexMarker 3686 3688	no
+T73	DISO 3689 3703	dolor toracico
+T74	UncertLexMarker 3704 3709	claro
+T75	NegSynMarker 3718 3721	sin
+T76	DISO 3722 3735	espectoracion
+T77	UncertLexMarker 4099 4107	Probable
+T78	OTHER 4108 4135	duración de unos 10 minutos
+T79	NegSynMarker 4136 4139	sin
+T80	Phrase 4140 4184	llegar a la pérdida completa de conocimiento
+T81	DISO 4149 4184	la pérdida completa de conocimiento
+T82	NegSynMarker 4275 4277	No
+T83	DISO 4278 4304	antecedentes respiratorios
+T84	NegSynMarker 4655 4657	no
+T85	Phrase 4658 4686	refire sintomatología alguna
+T86	DISO 4665 4679	sintomatología
+T87	PolItem 4680 4686	alguna
+T88	NegSynMarker 4689 4691	no
+T89	DISO 4692 4714	recuerda lo acontecido
+T90	NegSynMarker 4957 4959	No
+T91	DISO 4960 4983	alergias medicamentosas
+T92	UncertLexMarker 5291 5298	posible
+T93	DISO 5299 5321	etiología cardiogénica
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T18
+R7	Scope Arg1:T23 Arg2:T25
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T33 Arg2:T35
+R11	Scope Arg1:T43 Arg2:T44
+R12	Scope Arg1:T45 Arg2:T46
+R13	Scope Arg1:T50 Arg2:T51
+R14	Scope Arg1:T52 Arg2:T54
+R15	Scope Arg1:T57 Arg2:T58
+R16	Scope Arg1:T60 Arg2:T61
+R17	Scope Arg1:T62 Arg2:T63
+R18	Scope Arg1:T64 Arg2:T65
+R19	Scope Arg1:T66 Arg2:T67
+R20	Scope Arg1:T74 Arg2:T73
+R21	DiscMarker Arg1:T72 Arg2:T74
+R22	Scope Arg1:T75 Arg2:T76
+R23	Scope Arg1:T77 Arg2:T78
+R24	Scope Arg1:T79 Arg2:T80
+R25	Scope Arg1:T82 Arg2:T83
+R26	Scope Arg1:T88 Arg2:T89
+R27	Scope Arg1:T84 Arg2:T85
+R28	Scope Arg1:T90 Arg2:T91
+R29	Scope Arg1:T92 Arg2:T93

@@ -1,0 +1,128 @@
+T1	NegSynMarker 101 103	no
+T2	Phrase 104 174	adoptar medidas terapéuticas extraordinarias de acuerdo con la familia
+T3	PROC 112 148	medidas terapéuticas extraordinarias
+T4	UncertLexMarker 509 518	sin clara
+T5	DISO 519 540	respuesta a estímulos
+T6	NegSynMarker 614 616	no
+T7	OTHER 617 625	invasiva
+T8	NegSynMarker 1129 1131	no
+T9	OTHER 1132 1143	se recupera
+T10	NegSynMarker 1824 1826	no
+T11	Phrase 1827 1866	se apreciaban condensaciones neumónicas
+T12	DISO 1841 1866	condensaciones neumónicas
+T13	PROC 2557 2568	Radiografia
+T14	UncertLexMarker 2569 2579	compatible
+T15	NegSynMarker 2686 2688	no
+T16	Phrase 2689 2722	presentaba condensación neumónica
+T17	DISO 2700 2722	condensación neumónica
+T18	NegLexMarker 2887 2894	retirar
+T19	OTHER 2895 2916	el soporte vasoactivo
+T20	NegSynMarker 2919 2921	No
+T21	Phrase 2922 3028	ha presentado nuevos episodios de dolor torácico , ni se han registrado arritmias de interés en el monitor
+T22	DISO 2936 2970	nuevos episodios de dolor torácico
+T23	CoordItem 2973 2975	ni
+T24	DISO 2994 3014	arritmias de interés
+T25	NegLexMarker 3428 3439	retirada de
+T26	SUBS 3440 3448	sedación
+T27	NegSynMarker 3461 3464	sin
+T28	DISO 3465 3486	focalidad neurológica
+T29	NegSynMarker 3507 3510	sin
+T30	DISO 3511 3522	incidencias
+T31	NegSynMarker 3972 3975	sin
+T32	SUBS 3976 3984	sedación
+T33	NegLexMarker 4033 4044	retirada de
+T34	OTHER 4045 4068	medidas extraordinarias
+T35	NegSynMarker 4403 4405	no
+T36	DISO 4406 4422	se ha recuperado
+T37	NegSynMarker 4678 4680	no
+T38	Phrase 4681 4693	era conocido
+T39	DISO 4685 4693	conocido
+T40	UncertLexMarker 5034 5037	sin
+T41	OTHER 5038 5045	cambios
+T42	UncertLexMarker 5046 5055	aparentes
+T43	UncertLexMarker 5449 5457	sugieren
+T44	DISO 5458 5475	patología maligna
+T45	NegLexMarker 6643 6651	falta de
+T46	Phrase 6652 6657	camas
+T47	NegSynMarker 6829 6831	no
+T48	DISO 6832 6843	obstructiva
+T49	UncertLexMarker 7090 7101	sospecha de
+T50	DISO 7102 7117	derrame pleural
+T51	NegSynMarker 7151 7153	no
+T52	Phrase 7154 7207	ha vuelto a presentar ningún cuadro de dolor torácico
+T53	DISO 7193 7207	dolor torácico
+T54	DISO 7292 7355	tres episodios de dolor torácico de unos 15 minutos de duración
+T55	NegLexMarker 7360 7370	han cedido
+T56	NegSynMarker 7882 7885	sin
+T57	DISO 7886 7941	variaciones con respecto a RMN previa ( marzo de 2018 )
+T58	NegSynMarker 8083 8085	No
+T59	DISO 8086 8110	arritmias de reperfusión
+T60	NegSynMarker 8749 8751	no
+T61	DISO 8752 8782	cede con la analgesia habitual
+T62	UncertLexMarker 8975 8990	compatibles con
+T63	DISO 8991 9024	hematoma agudo epidural posterior
+T64	NegSynMarker 9300 9302	no
+T65	DISO 9303 9311	conocida
+T66	NegLexMarker 10061 10078	En ningún momento
+T67	Phrase 10079 10135	ha sido posible contactar razonablemente con la paciente
+T68	OTHER 10095 10135	contactar razonablemente con la paciente
+T69	NegLexMarker 10167 10176	se retira
+T70	SUBS 10177 10185	sedación
+T71	NegSynMarker 10217 10219	no
+T72	OTHER 10220 10229	despierta
+T73	UncertLexMarker 10404 10411	posible
+T74	DISO 10412 10429	origen traumático
+T75	NegSynMarker 10733 10736	sin
+T76	OTHER 10737 10751	cambios en ECG
+T77	NegSynMarker 11158 11161	sin
+T78	DISO 11162 11169	mejoría
+T79	Phrase 11298 11380	muestras de cultivo de sangre y esputo , así como de catéteres centrales removidos
+T80	PROC 11310 11336	cultivo de sangre y esputo
+T81	PROC 11351 11380	catéteres centrales removidos
+T82	NegLexMarker 11409 11418	negativos
+T83	NegMorMarker 11859 11866	afebril
+T84	NegSynMarker 12488 12490	no
+T85	DISO 12491 12502	se recupera
+T86	NegSynMarker 13975 13978	Sin
+T87	DISO 13979 13999	arritmias en monitor
+T88	DISO 14081 14105	La evolución neurológica
+T89	NegLexMarker 14109 14117	negativa
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T14 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T42 Arg2:T41
+R18	DiscMarker Arg1:T40 Arg2:T42
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T55 Arg2:T54
+R25	Scope Arg1:T56 Arg2:T57
+R26	Scope Arg1:T58 Arg2:T59
+R27	Scope Arg1:T60 Arg2:T61
+R28	Scope Arg1:T62 Arg2:T63
+R29	Scope Arg1:T64 Arg2:T65
+R30	Scope Arg1:T66 Arg2:T67
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T69 Arg2:T70
+R33	Scope Arg1:T73 Arg2:T74
+R34	Scope Arg1:T75 Arg2:T76
+R35	Scope Arg1:T77 Arg2:T78
+R36	Scope Arg1:T82 Arg2:T79
+R37	Scope Arg1:T84 Arg2:T85
+R38	Scope Arg1:T86 Arg2:T87
+R39	Scope Arg1:T89 Arg2:T88

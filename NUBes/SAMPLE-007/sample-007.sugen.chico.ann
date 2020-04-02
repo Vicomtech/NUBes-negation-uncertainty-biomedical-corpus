@@ -1,0 +1,68 @@
+T1	NegMorMarker 144 156	inconsciente
+T2	NegSynMarker 637 639	No
+T3	DISO 640 667	clínica febril ni miccional
+T4	CoordItem 655 657	ni
+T5	NegSynMarker 710 712	No
+T6	Phrase 713 722	ha comido
+T7	NegSynMarker 1021 1023	No
+T8	DISO 1024 1031	disuria
+T9	NegSynMarker 1034 1036	no
+T10	DISO 1037 1048	polaquiuria
+T11	NegMorMarker 1051 1058	afebril
+T12	NegSynMarker 1060 1062	no
+T13	DISO 1063 1098	dolor irradiado a otra localizacion
+T14	UncertLexMarker 1216 1226	al parecer
+T15	Phrase 1227 1243	no muy abundante
+T16	NegSynMarker 1227 1229	no
+T17	OTHER 1230 1243	muy abundante
+T18	NegSynMarker 1453 1456	sin
+T19	DISO 1457 1490	alteraciones de la repolarizacion
+T20	NegSynMarker 1769 1772	sin
+T21	DISO 1773 1794	productos patológicos
+T22	NegSynMarker 1968 1970	No
+T23	DISO 1971 2002	clinica miccional ni de diarrea
+T24	CoordItem 1989 1991	ni
+T25	NegSynMarker 2258 2260	No
+T26	DISO 2261 2267	fiebre
+T27	Phrase 2261 2288	fiebre , náuseas ni vómitos
+T28	DISO 2270 2277	náuseas
+T29	CoordItem 2278 2280	ni
+T30	DISO 2281 2288	vómitos
+T31	NegSynMarker 2857 2860	sin
+T32	DISO 2861 2868	nauseas
+T33	Phrase 2861 2879	nauseas ni vómitos
+T34	CoordItem 2869 2871	ni
+T35	DISO 2872 2879	vómitos
+T36	NegSynMarker 2909 2911	No
+T37	DISO 2912 2918	fiebre
+T38	NegMorMarker 3125 3137	asintomática
+T39	NegLexMarker 3332 3343	ausencia de
+T40	DISO 3344 3362	eliminación de DPS
+T41	NegSynMarker 3470 3472	no
+T42	DISO 3473 3503	ha cedido tras toma de tonopam
+T43	NegSynMarker 3562 3564	no
+T44	OTHER 3565 3594	controlado con metamizol oral
+T45	NegMorMarker 3799 3806	Afebril
+T46	NegSynMarker 3809 3811	ni
+T47	DISO 3812 3832	sensacion distérmica
+T48	NegSynMarker 3835 3837	No
+T49	DISO 3838 3853	cuadro catarral
+T50	Phrase 3838 3864	cuadro catarral éstos días
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T27
+R12	Scope Arg1:T31 Arg2:T33
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T48 Arg2:T50

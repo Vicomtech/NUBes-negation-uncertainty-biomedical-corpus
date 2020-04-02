@@ -1,0 +1,69 @@
+T1	UncertLexMarker 68 78	Desconocen
+T2	Phrase 79 112	el tiempo que ha permanecido allí
+T3	NegSynMarker 162 164	No
+T4	OTHER 165 185	capta el saturómetro
+T5	NegSynMarker 228 230	no
+T6	Phrase 231 253	quiso acudir al médico
+T7	NegSynMarker 1005 1007	no
+T8	Phrase 1008 1022	ha sufrido TCE
+T9	DISO 1019 1022	TCE
+T10	NegSynMarker 1025 1027	no
+T11	Phrase 1028 1052	contusion a ningún nivel
+T12	DISO 1028 1037	contusion
+T13	PolItem 1040 1046	ningún
+T14	NegSynMarker 1174 1176	no
+T15	OTHER 1177 1201	va al Médico de Cabecera
+T16	NegLexMarker 1269 1278	se retira
+T17	SUBS 1279 1289	amiodarona
+T18	Phrase 1279 1304	amiodarona y b-bloqueante
+T19	CoordItem 1290 1291	y
+T20	SUBS 1292 1304	b-bloqueante
+T21	NegSynMarker 1368 1370	No
+T22	DISO 1371 1385	dolor torácico
+T23	NegSynMarker 1388 1390	no
+T24	DISO 1391 1406	dolor abdominal
+T25	NegSynMarker 1409 1411	no
+T26	DISO 1412 1431	otra sintomatologia
+T27	UncertLexMarker 1434 1440	Parece
+T28	Phrase 1441 1457	haber tenido TCE
+T29	DISO 1454 1457	TCE
+T30	NegSynMarker 1624 1627	sin
+T31	Phrase 1628 1631	luz
+T32	NegSynMarker 1763 1765	no
+T33	OTHER 1766 1770	fuma
+T34	NegSynMarker 1825 1827	no
+T35	OTHER 1828 1845	visualizado en Rx
+T36	PROC 2109 2128	Antigenos neumococo
+T37	Phrase 2109 2150	Antigenos neumococo y legionella en orina
+T38	CoordItem 2129 2130	y
+T39	PROC 2131 2150	legionella en orina
+T40	NegLexMarker 2151 2160	negativos
+T41	NegSynMarker 2615 2617	No
+T42	OTHER 2618 2633	toma medicación
+T43	NegSynMarker 2753 2755	No
+T44	Phrase 2756 2775	ha ingerido alcohol
+T45	NegSynMarker 2805 2807	no
+T46	Phrase 2808 2844	ruidos ni ningún estimulante externo
+T47	CoordItem 2815 2817	ni
+T48	PolItem 2818 2824	ningún
+T49	UncertLexMarker 3240 3246	dudosa
+T50	DISO 3247 3267	alergia a quinolonas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T18
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T40 Arg2:T37
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T49 Arg2:T50

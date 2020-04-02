@@ -1,0 +1,43 @@
+T1	NegLexMarker 348 356	ausencia
+T2	DISO 357 370	peristaltismo
+T3	NegSynMarker 473 475	no
+T4	DISO 476 520	cambia con movimientos ni palpación profunda
+T5	CoordItem 499 501	ni
+T6	NegMorMarker 568 580	asintomatico
+T7	NegSynMarker 595 598	sin
+T8	DISO 599 620	responder a estímulos
+T9	NegSynMarker 712 714	no
+T10	OTHER 715 749	se puede transfundir por creencias
+T11	UncertLexMarker 964 966	no
+T12	Phrase 967 970	les
+T13	UncertLexMarker 971 977	parece
+T14	DISO 978 991	mediastinitis
+T15	Phrase 1288 1380	rachas de taquicardia QRS ancho de unos 2 segundos de duración , con sintomatologia de mareo
+T16	DISO 1298 1319	taquicardia QRS ancho
+T17	NegLexMarker 1387 1392	ceden
+T18	Phrase 1393 1408	espontaneamente
+T19	UncertLexMarker 2059 2073	compatible con
+T20	Phrase 2074 2105	la información de mediastinitis
+T21	DISO 2092 2105	mediastinitis
+T22	NegSynMarker 2377 2380	sin
+T23	DISO 2381 2393	alteraciones
+T24	NegSynMarker 3448 3451	sin
+T25	Phrase 3452 3473	derrame ni neumotorax
+T26	DISO 3452 3459	derrame
+T27	CoordItem 3460 3462	ni
+T28	DISO 3463 3473	neumotorax
+T29	NegSynMarker 3561 3564	sin
+T30	DISO 3565 3600	alteracion en auscultación pulmonar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	DiscMarker Arg1:T11 Arg2:T13
+R6	DiscScope Arg1:T13 Arg2:T14
+R7	DiscScope Arg1:T13 Arg2:T12
+R8	DiscScope Arg1:T17 Arg2:T18
+R9	DiscScope Arg1:T17 Arg2:T15
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T29 Arg2:T30

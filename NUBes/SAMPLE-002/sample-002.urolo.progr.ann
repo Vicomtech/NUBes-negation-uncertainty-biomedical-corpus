@@ -1,0 +1,126 @@
+T1	NegLexMarker 555 563	negativo
+T2	DISO 564 576	diseminacion
+T3	NegLexMarker 811 822	retirada de
+T4	OTHER 823 831	la sonda
+T5	UncertLexMarker 1175 1183	probable
+T6	DISO 1184 1223	neoplasia infiltrante a nivel de vejiga
+T7	PROC 1332 1353	2 TAC en el año 2.013
+T8	NegLexMarker 1356 1365	negativos
+T9	NegLexMarker 1434 1442	cediendo
+T10	DISO 1443 1461	el cuadro doloroso
+T11	UncertLexMarker 1957 1965	probable
+T12	Phrase 1966 2008	imagen de bulla neumotórax parcial derecho
+T13	DISO 1976 2008	bulla neumotórax parcial derecho
+T14	NegLexMarker 2085 2098	se desestiman
+T15	PROC 2099 2116	medidas invasivas
+T16	NegSynMarker 2287 2289	no
+T17	DISO 2290 2309	papilares de corion
+T18	NegSynMarker 2689 2691	no
+T19	Phrase 2692 2773	siendo posible por obstruccion de cálculo a unos 2 cm. del meato ureteral derecha
+T20	NegSynMarker 3595 3597	no
+T21	DISO 3598 3609	obstructiva
+T22	NegSynMarker 3692 3694	No
+T23	Phrase 3695 3738	ha vuelto a presentar hematuria ni coagulos
+T24	DISO 3717 3726	hematuria
+T25	CoordItem 3727 3729	ni
+T26	DISO 3730 3738	coagulos
+T27	NegLexMarker 3994 4002	cediendo
+T28	DISO 4003 4021	el cuadro doloroso
+T29	NegSynMarker 4088 4090	no
+T30	OTHER 4091 4140	siendo posible por presencia de estenosis uretral
+T31	NegSynMarker 4379 4381	no
+T32	Phrase 4382 4441	se observa afectación de la representación de capa muscular
+T33	DISO 4393 4441	afectación de la representación de capa muscular
+T34	PROC 4646 4662	Resto de estudio
+T35	NegLexMarker 4663 4671	negativo
+T36	UncertLexMarker 4765 4773	sospecha
+T37	Phrase 4774 4863	es que se trata de una lesión ósea metastásica en relación a neoplasia infiltrante vejiga
+T38	DISO 4797 4863	lesión ósea metastásica en relación a neoplasia infiltrante vejiga
+T39	NegLexMarker 5086 5094	Retirada
+T40	OTHER 5095 5111	la sonda vesical
+T41	NegSynMarker 5118 5121	sin
+T42	OTHER 5122 5132	dificultad
+T43	NegMorMarker 5271 5285	desorientación
+T44	NegSynMarker 5910 5913	sin
+T45	DISO 5914 5923	problemas
+T46	NegSynMarker 6072 6075	sin
+T47	Phrase 6076 6146	que se observaran tampoco signos de hipotensión o de hemorragia activa
+T48	PolItem 6094 6101	tampoco
+T49	DISO 6112 6123	hipotensión
+T50	CoordItem 6124 6125	o
+T51	DISO 6129 6146	hemorragia activa
+T52	NegSynMarker 6177 6180	sin
+T53	Phrase 6181 6219	conseguirse una mejoría de esta anemia
+T54	DISO 6197 6219	mejoría de esta anemia
+T55	UncertLexMarker 6361 6373	muy probable
+T56	Phrase 6374 6477	que este sangrado pueda guardar relación con el importante alargamiento del INR observado en su ingreso
+T57	DISO 6406 6477	relación con el importante alargamiento del INR observado en su ingreso
+T58	NegSynMarker 6749 6752	sin
+T59	DISO 6753 6776	complicaciones precoces
+T60	NegSynMarker 6976 6979	SIN
+T61	DISO 6980 6985	TUMOR
+T62	UncertLexMarker 7051 7059	probable
+T63	DISO 7060 7080	relación a hipoxemia
+T64	UncertLexMarker 7190 7197	valorar
+T65	Phrase 7198 7218	remitir a Litotricia
+T66	PROC 7208 7218	Litotricia
+T67	NegSynMarker 7229 7232	sin
+T68	DISO 7233 7238	dolor
+T69	OTHER 7611 7619	La sonda
+T70	NegLexMarker 7666 7674	retirada
+T71	NegSynMarker 7746 7749	sin
+T72	Phrase 7750 7809	presentar disnea ni empeoramiento de su estado respiratorio
+T73	DISO 7760 7766	disnea
+T74	CoordItem 7767 7769	ni
+T75	DISO 7770 7809	empeoramiento de su estado respiratorio
+T76	UncertLexMarker 8022 8029	valorar
+T77	Phrase 8030 8050	remitir a Litotricia
+T78	PROC 8040 8050	Litotricia
+T79	NegLexMarker 8141 8152	retirada de
+T80	OTHER 8153 8169	la sonda vesical
+T81	NegSynMarker 8176 8179	sin
+T82	OTHER 8180 8190	dificultad
+T83	NegLexMarker 8385 8396	retirada de
+T84	OTHER 8397 8413	la sonda vesical
+T85	NegSynMarker 8492 8495	sin
+T86	DISO 8496 8518	halllazgos patológicos
+T87	NegSynMarker 8753 8756	sin
+T88	DISO 8757 8768	incidencias
+T89	NegLexMarker 8835 8844	ha cedido
+T90	DISO 8845 8857	la hematuria
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T35 Arg2:T34
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T46 Arg2:T47
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T62 Arg2:T63
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T70 Arg2:T69
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T81 Arg2:T82
+R32	Scope Arg1:T79 Arg2:T80
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T83 Arg2:T84
+R35	Scope Arg1:T87 Arg2:T88
+R36	Scope Arg1:T89 Arg2:T90

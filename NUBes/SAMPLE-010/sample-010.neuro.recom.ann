@@ -1,0 +1,10 @@
+T1	NegLexMarker 126 136	suspenderá
+T2	Phrase 137 173	la toma de Amlodipino 5 mg ( 0-0-1 )
+T3	SUBS 148 163	Amlodipino 5 mg
+T4	NegLexMarker 726 736	Suspenderá
+T5	Phrase 737 769	la toma de Losartan y Furosemida
+T6	SUBS 748 756	Losartan
+T7	CoordItem 757 758	y
+T8	SUBS 759 769	Furosemida
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

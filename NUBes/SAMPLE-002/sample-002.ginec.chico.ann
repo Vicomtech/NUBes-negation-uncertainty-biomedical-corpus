@@ -1,0 +1,9 @@
+T1	NegSynMarker 249 251	no
+T2	DISO 252 258	fiebre
+T3	NegSynMarker 259 261	no
+T4	DISO 262 269	vomitos
+T5	NegSynMarker 288 290	no
+T6	DISO 291 308	clinica miccional
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

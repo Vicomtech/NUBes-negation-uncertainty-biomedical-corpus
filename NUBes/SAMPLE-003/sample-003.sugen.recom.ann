@@ -1,0 +1,6 @@
+T1	SUBS 1124 1136	Lactoferrina
+T2	NegLexMarker 1148 1156	suspende
+T3	SUBS 1541 1555	Clexane 40 mgr
+T4	NegLexMarker 1565 1573	suspende
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T3

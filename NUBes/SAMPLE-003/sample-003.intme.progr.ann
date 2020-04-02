@@ -1,0 +1,281 @@
+T1	UncertLexMarker 307 314	valorar
+T2	Phrase 315 347	presencia de varices eseofagicas
+T3	DISO 328 347	varices eseofagicas
+T4	NegMorMarker 421 428	afebril
+T5	NegSynMarker 598 600	No
+T6	Phrase 601 639	es candidato a quimioterapia paliativa
+T7	OTHER 604 639	candidato a quimioterapia paliativa
+T8	NegSynMarker 955 957	no
+T9	Phrase 958 984	se aprecia patologia aguda
+T10	DISO 969 984	patologia aguda
+T11	UncertLexMarker 1388 1396	probable
+T12	DISO 1397 1507	relación con nefritis intersticial aguda en relación probable a la administración de dexketoprofeno endovenoso
+T13	PolItem 1450 1458	probable
+T14	NegSynMarker 1758 1760	No
+T15	Phrase 1761 1779	volvio a repetirse
+T16	NegSynMarker 2028 2030	no
+T17	DISO 2031 2039	invasiva
+T18	NegSynMarker 2335 2337	No
+T19	Phrase 2338 2377	obtenemos esputo para completar estudio
+T20	PROC 2338 2354	obtenemos esputo
+T21	UncertLexMarker 2410 2424	posibilidad de
+T22	PROC 2425 2437	broncoscopia
+T23	PROC 2473 2478	Ziehl
+T24	NegLexMarker 2479 2487	negativo
+T25	UncertLexMarker 2949 2961	sugestiva de
+T26	DISO 2962 2968	litica
+T27	NegSynMarker 3703 3705	No
+T28	Phrase 3706 3731	se realizarán más pruebas
+T29	PROC 3720 3731	más pruebas
+T30	NegSynMarker 3792 3794	no
+T31	OTHER 3795 3823	cambia la acitud terapeutica
+T32	NegSynMarker 4064 4069	nunca
+T33	Phrase 4070 4109	habia seguido tratamiento antidiabético
+T34	SUBS 4096 4109	antidiabético
+T35	NegSynMarker 5031 5033	no
+T36	Phrase 5034 5063	encontrándose patologia aguda
+T37	DISO 5048 5063	patologia aguda
+T38	NegSynMarker 5635 5638	sin
+T39	SUBS 5639 5660	restos de comprimidos
+T40	UncertLexMarker 5671 5682	sospecha de
+T41	DISO 5683 5722	enfermedad pulmonar intersticial difusa
+T42	UncertLexMarker 6080 6094	compatible con
+T43	Phrase 6095 6140	hepatitis tóxica y/ó en relación a bajo gasto
+T44	DISO 6095 6111	hepatitis tóxica
+T45	CoordItem 6112 6115	y/ó
+T46	DISO 6119 6140	relación a bajo gasto
+T47	NegSynMarker 6285 6287	no
+T48	Phrase 6288 6322	se aprecian lesiones estructurales
+T49	DISO 6300 6322	lesiones estructurales
+T50	UncertLexMarker 6552 6566	compatible con
+T51	DISO 6567 6617	trombosis venosa profunda tibial posterior derecha
+T52	NegSynMarker 6651 6653	no
+T53	Phrase 6654 6713	se inició anticoagulación terapeutica en las primeras horas
+T54	PROC 6664 6691	anticoagulación terapeutica
+T55	NegSynMarker 7018 7020	no
+T56	Phrase 7021 7062	ha presentado alteraciones significativas
+T57	DISO 7035 7062	alteraciones significativas
+T58	NegSynMarker 7238 7240	no
+T59	OTHER 7241 7293	hemos conseguido poder filiar la etiologia del mismo
+T60	DISO 7271 7293	la etiologia del mismo
+T61	UncertLexMarker 7296 7309	probablemente
+T62	DISO 7310 7319	abdominal
+T63	UncertLexMarker 7727 7738	sospecha de
+T64	DISO 7739 7765	neoplasia metastasica ósea
+T65	NegLexMarker 8259 8272	descartándose
+T66	DISO 8273 8290	dicha posibilidad
+T67	NegSynMarker 8293 8295	No
+T68	Phrase 8296 8344	ha presentado nuevos episodios de dolor torácico
+T69	DISO 8330 8344	dolor torácico
+T70	NegLexMarker 8569 8579	Suspendida
+T71	PROC 8580 8603	perfusión de amiodarona
+T72	Phrase 9118 9184	Los resultados de sangre oculta en heces y de marcadores tumorales
+T73	PROC 9136 9158	sangre oculta en heces
+T74	PROC 9164 9184	marcadores tumorales
+T75	NegLexMarker 9189 9197	negativo
+T76	UncertLexMarker 9274 9285	sospecha de
+T77	DISO 9286 9317	insuficiencia arterial y venosa
+T78	PROC 9627 9630	ANA
+T79	Phrase 9627 9637	ANA y ANCA
+T80	PROC 9633 9637	ANCA
+T81	NegLexMarker 9638 9647	negativos
+T82	NegSynMarker 9665 9668	sin
+T83	SUBS 9669 9671	02
+T84	NegSynMarker 10233 10236	sin
+T85	DISO 10237 10245	reacción
+T86	PROC 10331 10348	los coprocultivos
+T87	Phrase 10331 10376	los coprocultivos y el cultivo de clostridium
+T88	CoordItem 10349 10350	y
+T89	PROC 10351 10376	el cultivo de clostridium
+T90	NegLexMarker 10377 10386	negativos
+T91	UncertLexMarker 10389 10393	pudo
+T92	DISO 10394 10462	estar en relación a los múltiples tratamientos antibioticos seguidos
+T93	NegSynMarker 10616 10618	no
+T94	Phrase 10619 10650	realizacion de biopsia pulmonar
+T95	PROC 10634 10650	biopsia pulmonar
+T96	NegSynMarker 10719 10721	no
+T97	Phrase 10722 10739	necesitando corsé
+T98	OTHER 10734 10739	corsé
+T99	NegLexMarker 10889 10900	se suspende
+T100	Phrase 10901 10976	el tratamiento antibiótico ( piperazilina/tazobactan ) así como metotrexate
+T101	SUBS 10930 10953	piperazilina/tazobactan
+T102	CoordItem 10956 10964	así como
+T103	SUBS 10965 10976	metotrexate
+T104	NegSynMarker 11001 11003	no
+T105	OTHER 11004 11039	lo reintroducimos en su tratamiento
+T106	NegLexMarker 11042 11053	Se descartó
+T107	Phrase 11054 11074	la existencia de TEP
+T108	DISO 11071 11074	TEP
+T109	NegSynMarker 11453 11455	no
+T110	Phrase 11456 11526	hemos encontrado datos que nos orienten hacia un cuadro paraneoplasico
+T111	DISO 11473 11526	datos que nos orienten hacia un cuadro paraneoplasico
+T112	UncertLexMarker 11809 11816	posible
+T113	DISO 11817 11850	relación a insuficiencia cardiaca
+T114	NegSynMarker 12405 12407	no
+T115	Phrase 12408 12435	ha vuelto a presentar dolor
+T116	DISO 12430 12435	dolor
+T117	NegSynMarker 12451 12453	no
+T118	Phrase 12454 12476	hemos ampliado estudio
+T119	OTHER 12460 12476	ampliado estudio
+T120	UncertLexMarker 12814 12828	compatible con
+T121	DISO 12829 12861	esofagitis crónica y aguda focal
+T122	NegLexMarker 13252 13263	se suspende
+T123	Phrase 13264 13293	el tratamiento con amiodarona
+T124	SUBS 13283 13293	amiodarona
+T125	UncertLexMarker 13395 13402	valorar
+T126	Phrase 13403 13454	la posibilidad de comenzar con otros antiarritmicos
+T127	SUBS 13434 13454	otros antiarritmicos
+T128	Phrase 13752 13778	situación de encefalopatia
+T129	DISO 13765 13778	encefalopatia
+T130	UncertLexMarker 13779 13792	probablemente
+T131	DISO 13793 13798	mixta
+T132	NegSynMarker 13962 13965	sin
+T133	DISO 13966 14022	hallazgos en la Rx de torax realizada ni en los cultivos
+T134	CoordItem 14004 14006	ni
+T135	NegSynMarker 14270 14273	sin
+T136	Phrase 14274 14294	mostrar alteraciones
+T137	DISO 14282 14294	alteraciones
+T138	NegSynMarker 14428 14431	sin
+T139	Phrase 14432 14473	signos de encefalopatia ni de deprivación
+T140	DISO 14442 14455	encefalopatia
+T141	CoordItem 14456 14458	ni
+T142	DISO 14462 14473	deprivación
+T143	NegSynMarker 14665 14667	No
+T144	Phrase 14668 14735	hemos apreciado alteraciones en la proteina C reactiva ni en la VSG
+T145	DISO 14684 14735	alteraciones en la proteina C reactiva ni en la VSG
+T146	CoordItem 14723 14725	ni
+T147	UncertLexMarker 15566 15574	probable
+T148	DISO 15575 15633	relación así mismo con la administración de dexketoprofeno
+T149	NegSynMarker 15636 15638	No
+T150	DISO 15639 15644	mareo
+T151	Phrase 15639 15655	mareo ni sincope
+T152	CoordItem 15645 15647	ni
+T153	DISO 15648 15655	sincope
+T154	UncertLexMarker 16286 16302	impresionando de
+T155	DISO 16303 16318	brote psicotico
+T156	UncertLexMarker 16863 16872	sin clara
+T157	Phrase 16873 16903	obstrucción hasta este momento
+T158	DISO 16873 16884	obstrucción
+T159	NegSynMarker 16906 16908	No
+T160	Phrase 16909 16937	ha presentado complicaciones
+T161	DISO 16923 16937	complicaciones
+T162	NegSynMarker 16983 16986	sin
+T163	DISO 16987 16994	mejoría
+T164	NegSynMarker 17143 17145	no
+T165	Phrase 17146 17189	desea realizar nuevas pruebas exploratorias
+T166	PROC 17161 17189	nuevas pruebas exploratorias
+T167	NegSynMarker 17332 17334	no
+T168	Phrase 17335 17360	es candidato a intubación
+T169	OTHER 17338 17360	candidato a intubación
+T170	NegSynMarker 17554 17556	No
+T171	Phrase 17557 17616	se apreciaron cristales en el estudio del liquido articular
+T172	OTHER 17571 17616	cristales en el estudio del liquido articular
+T173	NegSynMarker 17764 17766	no
+T174	Phrase 17767 17799	muestra datos muy significativos
+T175	DISO 17775 17799	datos muy significativos
+T176	PROC 17813 17844	todas las serologias realizadas
+T177	NegLexMarker 17854 17863	negativas
+T178	PROC 17866 17896	la inmunologia ( ANA y ANCAS )
+T179	NegLexMarker 17911 17920	negativas
+T180	NegMorMarker 18136 18143	afebril
+T181	NegSynMarker 18227 18230	sin
+T182	DISO 18231 18257	insuficiencia respiratoria
+T183	NegSynMarker 18399 18402	sin
+T184	DISO 18403 18412	hallazgos
+T185	NegSynMarker 18898 18900	No
+T186	Phrase 18901 18949	se observan cambios displásicos ni de malignidad
+T187	DISO 18913 18949	cambios displásicos ni de malignidad
+T188	CoordItem 18933 18935	ni
+T189	UncertLexMarker 19296 19302	parece
+T190	Phrase 19303 19345	estar en relación a su hepatopatia crónica
+T191	DISO 19312 19345	relación a su hepatopatia crónica
+T192	PROC 19374 19400	primera punción citologica
+T193	NegLexMarker 19401 19409	negativa
+T194	Phrase 19410 19431	para celulas malignas
+T195	UncertLexMarker 19484 19490	podría
+T196	Phrase 19491 19613	haber estado en relación a la hiperuricemia que el paciente presenta desde hace años y/o reactiva a otros procesos virales
+T197	DISO 19491 19575	haber estado en relación a la hiperuricemia que el paciente presenta desde hace años
+T198	CoordItem 19576 19579	y/o
+T199	DISO 19580 19613	reactiva a otros procesos virales
+T200	PROC 19616 19638	Sangre oculta en heces
+T201	NegLexMarker 19639 19647	negativo
+T202	NegSynMarker 19836 19838	no
+T203	Phrase 19839 19882	ha llegado a presentar episodios sincopales
+T204	DISO 19862 19882	episodios sincopales
+T205	NegSynMarker 19919 19922	sin
+T206	DISO 19923 19932	hematuria
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T24 Arg2:T23
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T50 Arg2:T51
+R20	Scope Arg1:T52 Arg2:T53
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T58 Arg2:T59
+R23	DiscScope Arg1:T61 Arg2:T62
+R24	DiscScope Arg1:T61 Arg2:T60
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T75 Arg2:T72
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T81 Arg2:T79
+R32	Scope Arg1:T82 Arg2:T83
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T90 Arg2:T87
+R35	Scope Arg1:T91 Arg2:T92
+R36	Scope Arg1:T93 Arg2:T94
+R37	Scope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T99 Arg2:T100
+R39	Scope Arg1:T104 Arg2:T105
+R40	Scope Arg1:T106 Arg2:T107
+R41	Scope Arg1:T109 Arg2:T110
+R42	Scope Arg1:T112 Arg2:T113
+R43	Scope Arg1:T117 Arg2:T118
+R44	Scope Arg1:T114 Arg2:T115
+R45	Scope Arg1:T120 Arg2:T121
+R46	Scope Arg1:T122 Arg2:T123
+R47	Scope Arg1:T125 Arg2:T126
+R48	DiscScope Arg1:T130 Arg2:T131
+R49	DiscScope Arg1:T130 Arg2:T128
+R50	Scope Arg1:T132 Arg2:T133
+R51	Scope Arg1:T135 Arg2:T136
+R52	Scope Arg1:T138 Arg2:T139
+R53	Scope Arg1:T143 Arg2:T144
+R54	Scope Arg1:T147 Arg2:T148
+R55	Scope Arg1:T149 Arg2:T151
+R56	Scope Arg1:T154 Arg2:T155
+R57	Scope Arg1:T156 Arg2:T157
+R58	Scope Arg1:T159 Arg2:T160
+R59	Scope Arg1:T162 Arg2:T163
+R60	Scope Arg1:T164 Arg2:T165
+R61	Scope Arg1:T167 Arg2:T168
+R62	Scope Arg1:T170 Arg2:T171
+R63	Scope Arg1:T173 Arg2:T174
+R64	Scope Arg1:T179 Arg2:T178
+R65	Scope Arg1:T177 Arg2:T176
+R66	Scope Arg1:T181 Arg2:T182
+R67	Scope Arg1:T183 Arg2:T184
+R68	Scope Arg1:T185 Arg2:T186
+R69	Scope Arg1:T189 Arg2:T190
+R70	DiscScope Arg1:T193 Arg2:T192
+R71	DiscScope Arg1:T193 Arg2:T194
+R72	Scope Arg1:T195 Arg2:T196
+R73	Scope Arg1:T201 Arg2:T200
+R74	Scope Arg1:T202 Arg2:T203
+R75	Scope Arg1:T205 Arg2:T206

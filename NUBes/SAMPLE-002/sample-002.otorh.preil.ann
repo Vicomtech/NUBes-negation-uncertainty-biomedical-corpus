@@ -1,0 +1,108 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 23	otitis de repetición
+T3	NegSynMarker 189 191	No
+T4	DISO 192 212	afectacion bronquial
+T5	NegSynMarker 215 217	No
+T6	DISO 218 226	disfonia
+T7	NegSynMarker 305 307	No
+T8	OTHER 308 315	fumador
+T9	NegSynMarker 384 386	no
+T10	OTHER 387 398	establecida
+T11	NegSynMarker 401 403	No
+T12	Phrase 404 418	lana ni plumas
+T13	CoordItem 409 411	ni
+T14	NegSynMarker 421 423	No
+T15	DISO 424 443	alergia alimentaria
+T16	NegSynMarker 446 448	No
+T17	Phrase 449 462	refiere dolor
+T18	DISO 457 462	dolor
+T19	NegSynMarker 622 625	sin
+T20	Phrase 626 634	problema
+T21	NegSynMarker 681 683	No
+T22	DISO 684 697	odinodisfagia
+T23	NegSynMarker 700 702	No
+T24	Phrase 703 727	animales en el domicilio
+T25	NegSynMarker 847 849	no
+T26	DISO 850 859	pegajosas
+T27	NegSynMarker 862 865	sin
+T28	DISO 866 879	ser melénicas
+T29	NegSynMarker 882 884	No
+T30	Phrase 885 920	animales ni humedad en el domicilio
+T31	CoordItem 894 896	ni
+T32	NegSynMarker 1016 1018	No
+T33	DISO 1019 1063	infecciones faringoamigdalares de repetición
+T34	NegSynMarker 1066 1068	No
+T35	DISO 1069 1084	pausas de apnea
+T36	NegSynMarker 1087 1089	No
+T37	OTHER 1090 1098	fumadora
+T38	UncertLexMarker 1134 1139	dudas
+T39	DISO 1140 1151	de audición
+T40	PROC 1154 1171	Pruebas alérgicas
+T41	NegLexMarker 1172 1181	negativas
+T42	DISO 1442 1450	Catarros
+T43	NegSynMarker 1453 1455	no
+T44	DISO 1456 1462	Otitis
+T45	NegSynMarker 1465 1467	no
+T46	DISO 1468 1479	Amigdalitis
+T47	NegSynMarker 1482 1484	no
+T48	NegMorMarker 1518 1528	Exfumadora
+T49	NegSynMarker 1558 1560	No
+T50	DISO 1561 1602	síntomas ORL , respiratorios ni urinarios
+T51	CoordItem 1590 1592	ni
+T52	DISO 1605 1627	Sospecha de hipoacusia
+T53	NegSynMarker 1630 1632	no
+T54	DISO 1633 1655	Retraso en el lenguaje
+T55	NegSynMarker 1658 1660	no
+T56	NegSynMarker 1661 1663	No
+T57	DISO 1664 1676	voz engolada
+T58	NegSynMarker 1781 1783	No
+T59	OTHER 1784 1799	habitos toxicos
+T60	NegSynMarker 1921 1924	sin
+T61	Phrase 1925 1982	tratamiento habitual ni alergias medicamentosas conocidas
+T62	PROC 1925 1945	tratamiento habitual
+T63	CoordItem 1946 1948	ni
+T64	DISO 1949 1982	alergias medicamentosas conocidas
+T65	NegSynMarker 1985 1987	No
+T66	OTHER 1988 2051	es capaz de realizar las mismas actividades que realizada antes
+T67	NegSynMarker 2066 2069	sin
+T68	Phrase 2070 2078	problema
+T69	NegSynMarker 2081 2083	No
+T70	OTHER 2084 2099	atopia familiar
+T71	NegSynMarker 2242 2244	No
+T72	Phrase 2245 2252	humedad
+T73	NegMorMarker 2261 2273	asintomática
+T74	UncertLexMarker 2755 2763	no clara
+T75	DISO 2764 2767	IRN
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T36 Arg2:T37
+R18	Scope Arg1:T38 Arg2:T39
+R19	Scope Arg1:T41 Arg2:T40
+R20	Scope Arg1:T45 Arg2:T44
+R21	Scope Arg1:T47 Arg2:T46
+R22	Scope Arg1:T43 Arg2:T42
+R23	Scope Arg1:T49 Arg2:T50
+R24	Scope Arg1:T56 Arg2:T57
+R25	Scope Arg1:T55 Arg2:T54
+R26	Scope Arg1:T53 Arg2:T52
+R27	Scope Arg1:T58 Arg2:T59
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T65 Arg2:T66
+R30	Scope Arg1:T67 Arg2:T68
+R31	Scope Arg1:T69 Arg2:T70
+R32	Scope Arg1:T71 Arg2:T72
+R33	Scope Arg1:T74 Arg2:T75

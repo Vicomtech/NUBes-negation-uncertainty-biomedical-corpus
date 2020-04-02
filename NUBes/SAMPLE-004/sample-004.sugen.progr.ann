@@ -1,0 +1,134 @@
+T1	UncertLexMarker 457 466	sospechar
+T2	DISO 467 505	obstrucción de la via biliar principal
+T3	UncertLexMarker 681 692	sospecha de
+T4	DISO 693 711	neoplasia de colon
+T5	NegSynMarker 1909 1912	sin
+T6	DISO 1913 1935	complicaciones severas
+T7	NegMorMarker 1942 1949	afebril
+T8	NegLexMarker 1952 1961	Ha cedido
+T9	Phrase 1962 2007	espontáneamente tras suspender antiagregación
+T10	NegLexMarker 1983 1992	suspender
+T11	SUBS 1993 2007	antiagregación
+T12	NegLexMarker 2313 2317	Cesa
+T13	DISO 2318 2329	el sangrado
+T14	UncertLexMarker 2745 2753	probable
+T15	DISO 2754 2785	relaciona tratamiento diuretico
+T16	PROC 2764 2785	tratamiento diuretico
+T17	NegLexMarker 2799 2810	suspendemos
+T18	PROC 2866 2878	hemocultivos
+T19	NegLexMarker 2886 2895	negativos
+T20	NegSynMarker 2898 2900	No
+T21	DISO 2901 2912	rectorragia
+T22	NegSynMarker 2963 2966	sin
+T23	DISO 2967 2986	repercusión clínica
+T24	NegLexMarker 3032 3041	descartar
+T25	DISO 3042 3082	otras causas más remotas de su patología
+T26	NegSynMarker 3979 3981	no
+T27	Phrase 3982 4000	signos de sangrado
+T28	DISO 3992 4000	sangrado
+T29	NegSynMarker 4144 4147	sin
+T30	DISO 4148 4172	respuesta al tratamiento
+T31	NegLexMarker 4565 4581	Se ha suspendido
+T32	Phrase 4582 4608	el tratamiento con Sintrom
+T33	SUBS 4601 4608	Sintrom
+T34	NegSynMarker 4641 4643	No
+T35	Phrase 4644 4750	presenta complicaciones relativas a la transfusión , procedimeinto endoscópico ni descompensación hepática
+T36	DISO 4653 4694	complicaciones relativas a la transfusión
+T37	DISO 4697 4722	procedimeinto endoscópico
+T38	CoordItem 4723 4725	ni
+T39	DISO 4726 4750	descompensación hepática
+T40	NegSynMarker 4925 4927	no
+T41	Phrase 4928 4988	se ha podido biopsiar por estar en tratamiento con Adiro 300
+T42	PROC 4941 4949	biopsiar
+T43	NegSynMarker 5690 5692	No
+T44	DISO 5693 5700	bloqueo
+T45	NegSynMarker 5739 5741	No
+T46	DISO 5742 5751	sostenida
+T47	NegMorMarker 6035 6047	asintomático
+T48	NegMorMarker 6082 6096	desorientación
+T49	NegSynMarker 6237 6240	sin
+T50	DISO 6241 6246	dolor
+T51	NegMorMarker 6364 6376	asintomático
+T52	NegSynMarker 6502 6505	sin
+T53	DISO 6506 6525	repercusión clínica
+T54	OTHER 6764 6788	sospecha de evisceración
+T55	UncertLexMarker 6764 6775	sospecha de
+T56	DISO 6776 6788	evisceración
+T57	NegSynMarker 6793 6795	no
+T58	Phrase 6796 6807	se confirma
+T59	NegLexMarker 6822 6833	ausencia de
+T60	DISO 6834 6861	complicación intraabdominal
+T61	NegMorMarker 7145 7152	afebril
+T62	Phrase 7245 7327	la posibilidad de realizar estudio por colonoscopia por la imagen del ciego en TAC
+T63	PROC 7272 7296	estudio por colonoscopia
+T64	NegLexMarker 7347 7354	rechaza
+T65	UncertLexMarker 7684 7696	sugestiva de
+T66	DISO 7697 7731	enfermedad inflamatoria intestinal
+T67	NegSynMarker 7844 7847	sin
+T68	DISO 7848 7898	hallazgos significativos según informe radiológico
+T69	NegSynMarker 8344 8346	no
+T70	Phrase 8347 8378	realizar acto quirúrgico alguno
+T71	PROC 8356 8371	acto quirúrgico
+T72	PolItem 8372 8378	alguno
+T73	NegSynMarker 8766 8769	sin
+T74	Phrase 8770 8799	objetivarse causa de sangrado
+T75	DISO 8782 8799	causa de sangrado
+T76	NegLexMarker 8824 8835	ausencia de
+T77	DISO 8836 8860	infección por pseudomona
+T78	DISO 8991 8999	el dolor
+T79	NegLexMarker 9025 9036	desaparecer
+T80	NegMorMarker 9189 9201	asintomática
+T81	NegMorMarker 9288 9300	asintomático
+T82	NegMorMarker 9398 9411	asintomártico
+T83	UncertLexMarker 9444 9447	sin
+T84	DISO 9448 9457	focalidad
+T85	UncertLexMarker 9458 9466	aparente
+T86	NegSynMarker 10229 10232	sin
+T87	DISO 10233 10243	incidentes
+T88	UncertLexMarker 10587 10593	parece
+T89	Phrase 10594 10626	corresponder a herida quirúrgica
+T90	DISO 10609 10626	herida quirúrgica
+T91	NegMorMarker 11182 11189	afebril
+T92	NegSynMarker 11192 11195	sin
+T93	Phrase 11196 11228	signos de sepsis en la analitica
+T94	DISO 11206 11228	sepsis en la analitica
+T95	UncertLexMarker 11258 11269	sospecha de
+T96	DISO 11270 11297	aire extraluminal en el TAC
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T16
+R9	Scope Arg1:T19 Arg2:T18
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T45 Arg2:T46
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T59 Arg2:T60
+R24	DiscScope Arg1:T57 Arg2:T54
+R25	DiscScope Arg1:T57 Arg2:T58
+R26	Scope Arg1:T64 Arg2:T62
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T79 Arg2:T78
+R33	Scope Arg1:T85 Arg2:T84
+R34	DiscMarker Arg1:T83 Arg2:T85
+R35	Scope Arg1:T86 Arg2:T87
+R36	Scope Arg1:T88 Arg2:T89
+R37	Scope Arg1:T95 Arg2:T96
+R38	Scope Arg1:T92 Arg2:T93

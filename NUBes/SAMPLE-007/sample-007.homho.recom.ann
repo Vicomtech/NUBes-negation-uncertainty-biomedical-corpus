@@ -1,0 +1,15 @@
+T1	NegSynMarker 571 573	No
+T2	Phrase 574 620	realizar deportes de contacto ni sobresfuerzos
+T3	CoordItem 604 606	ni
+T4	NegSynMarker 625 627	No
+T5	Phrase 628 654	realizar esfuerzos físicos
+T6	OTHER 637 654	esfuerzos físicos
+T7	NegSynMarker 1944 1947	sin
+T8	OTHER 1948 1954	forzar
+T9	NegSynMarker 2896 2898	No
+T10	Phrase 2899 2928	consumirá pepitas ni semillas
+T11	CoordItem 2917 2919	ni
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10

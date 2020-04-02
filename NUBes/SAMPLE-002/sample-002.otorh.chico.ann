@@ -1,0 +1,99 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 17	dolor toracico
+T3	NegSynMarker 20 22	no
+T4	DISO 23 54	otra sintomatologia acompañante
+T5	NegSynMarker 297 300	sin
+T6	DISO 301 316	A.p. de interés
+T7	NegSynMarker 549 551	no
+T8	DISO 552 564	termometrada
+T9	UncertLexMarker 766 776	Al parecer
+T10	Phrase 779 830	inicia con disnea desde las 2 : 00h de la madrugada
+T11	DISO 790 830	disnea desde las 2 : 00h de la madrugada
+T12	NegSynMarker 985 988	sin
+T13	DISO 989 1002	clara mejoria
+T14	UncertLexMarker 1161 1167	parece
+T15	Phrase 1168 1225	ser de perfin neurologico en territorio trigemino derecho
+T16	DISO 1175 1225	perfin neurologico en territorio trigemino derecho
+T17	DISO 1228 1237	Neuralgia
+T18	UncertLexMarker 1238 1239	?
+T19	NegSynMarker 1362 1364	No
+T20	DISO 1365 1372	melenas
+T21	NegSynMarker 1375 1377	no
+T22	DISO 1378 1390	rectorragias
+T23	NegSynMarker 1393 1395	no
+T24	DISO 1396 1411	dolor abdomianl
+T25	NegSynMarker 1412 1414	no
+T26	Phrase 1415 1437	mareo ni palpitaciones
+T27	DISO 1415 1420	mareo
+T28	CoordItem 1421 1423	ni
+T29	DISO 1424 1437	palpitaciones
+T30	NegSynMarker 1787 1789	no
+T31	Phrase 1790 1807	han requerido IOT
+T32	PROC 1804 1807	IOT
+T33	UncertLexMarker 2393 2396	sin
+T34	DISO 2397 2404	mejoría
+T35	UncertLexMarker 2405 2410	clara
+T36	NegMorMarker 2419 2428	inestable
+T37	NegSynMarker 2780 2782	No
+T38	Phrase 2783 2794	refiere tos
+T39	DISO 2791 2794	tos
+T40	NegSynMarker 2797 2799	no
+T41	DISO 2800 2813	expectoración
+T42	NegSynMarker 2816 2818	no
+T43	DISO 2819 2825	disnea
+T44	Phrase 2819 2843	disnea ni dolor torácico
+T45	CoordItem 2826 2828	ni
+T46	DISO 2829 2843	dolor torácico
+T47	NegSynMarker 2846 2848	no
+T48	DISO 2849 2859	hemoptisis
+T49	NegSynMarker 2961 2963	No
+T50	DISO 2964 2970	fiebre
+T51	NegSynMarker 2973 2975	no
+T52	DISO 2976 2986	hipoacusia
+T53	NegSynMarker 3225 3227	No
+T54	Phrase 3228 3263	refiere ser bronquitico ni asmatico
+T55	DISO 3240 3251	bronquitico
+T56	CoordItem 3252 3254	ni
+T57	DISO 3255 3263	asmatico
+T58	NegSynMarker 3303 3305	no
+T59	Phrase 3306 3335	ha llegado a ir a un hospital
+T60	NegSynMarker 3366 3369	sin
+T61	DISO 3370 3377	interés
+T62	NegSynMarker 3453 3455	No
+T63	Phrase 3456 3532	refiere alteraciones hepáticas conocidas ni patología gastrodudodenal previa
+T64	DISO 3464 3496	alteraciones hepáticas conocidas
+T65	CoordItem 3497 3499	ni
+T66	DISO 3500 3532	patología gastrodudodenal previa
+T67	NegSynMarker 3535 3537	No
+T68	DISO 3538 3547	disfonica
+T69	Phrase 3538 3577	disfonica , disnea , naúseas ni vómitos
+T70	DISO 3550 3556	disnea
+T71	DISO 3559 3566	naúseas
+T72	CoordItem 3567 3569	ni
+T73	DISO 3570 3577	vómitos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T18 Arg2:T17
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T21 Arg2:T22
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T35 Arg2:T34
+R15	DiscMarker Arg1:T33 Arg2:T35
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T37 Arg2:T38
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T42 Arg2:T44
+R22	Scope Arg1:T58 Arg2:T59
+R23	Scope Arg1:T53 Arg2:T54
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T62 Arg2:T63
+R26	Scope Arg1:T67 Arg2:T69

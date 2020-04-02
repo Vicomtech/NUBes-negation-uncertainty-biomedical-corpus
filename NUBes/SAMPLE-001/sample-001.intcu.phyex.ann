@@ -1,0 +1,28 @@
+T1	NegSynMarker 14 16	no
+T2	DISO 17 29	taquicárdico
+T3	NegSynMarker 30 33	sin
+T4	DISO 34 49	ruidos añadidos
+T5	NegSynMarker 248 250	No
+T6	DISO 251 270	trastorno del habla
+T7	NegSynMarker 273 275	No
+T8	DISO 276 286	dismetrias
+T9	NegSynMarker 289 291	No
+T10	DISO 292 311	mordedura de lengua
+T11	NegSynMarker 314 316	No
+T12	DISO 317 326	nistagmus
+T13	NegSynMarker 441 443	no
+T14	DISO 444 452	megalias
+T15	NegSynMarker 549 551	no
+T16	DISO 552 558	edemas
+T17	NegSynMarker 561 563	no
+T18	Phrase 564 577	signos de tvp
+T19	DISO 574 577	tvp
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18

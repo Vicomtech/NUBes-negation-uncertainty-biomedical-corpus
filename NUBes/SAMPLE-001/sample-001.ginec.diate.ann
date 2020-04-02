@@ -1,0 +1,30 @@
+T1	NegSynMarker 155 158	sin
+T2	DISO 159 183	hallazgos significativos
+T3	NegSynMarker 391 393	No
+T4	Phrase 394 445	evidencia de líquido libre intraabdominal o pélvico
+T5	DISO 407 445	líquido libre intraabdominal o pélvico
+T6	CoordItem 436 437	o
+T7	NegSynMarker 448 450	No
+T8	Phrase 451 483	líquido libre ni otros hallazgos
+T9	DISO 451 464	líquido libre
+T10	CoordItem 465 467	ni
+T11	DISO 468 483	otros hallazgos
+T12	UncertLexMarker 486 509	Orientación diagnóstica
+T13	DISO 512 559	Distensión de algunas asas de inetstino delgado
+T14	Phrase 512 604	Distensión de algunas asas de inetstino delgado ( la más distendida a nivel de ileon medio )
+T15	NegSynMarker 607 610	sin
+T16	Phrase 611 643	signos de obstrucción intestinal
+T17	DISO 621 643	obstrucción intestinal
+T18	NegSynMarker 772 775	sin
+T19	Phrase 776 798	evidencia de patologia
+T20	DISO 789 798	patologia
+T21	NegSynMarker 943 946	sin
+T22	Phrase 947 989	signos que sugieran obstrucción intestinal
+T23	DISO 967 989	obstrucción intestinal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T15 Arg2:T16
+R5	Scope Arg1:T12 Arg2:T14
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T21 Arg2:T22

@@ -1,0 +1,12 @@
+T1	NegLexMarker 2279 2290	Se suspende
+T2	SUBS 2291 2304	el corticoide
+T3	Phrase 2291 2330	el corticoide ( prednisona o dacortin )
+T4	Phrase 3889 3914	De su medicación habitual
+T5	NegLexMarker 3915 3929	hemos retirado
+T6	SUBS 3932 3941	Enalapril
+T7	Phrase 3932 3984	Enalapril , amlodipino/Omlesartan ( balzak ) , Ideos
+T8	SUBS 3944 3976	amlodipino/Omlesartan ( balzak )
+T9	SUBS 3979 3984	Ideos
+R1	Scope Arg1:T1 Arg2:T3
+R2	DiscScope Arg1:T5 Arg2:T7
+R3	DiscScope Arg1:T5 Arg2:T4

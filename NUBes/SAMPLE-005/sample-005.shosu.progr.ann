@@ -1,0 +1,220 @@
+T1	UncertLexMarker 291 300	sin clara
+T2	Phrase 301 323	evidencia de neoplasia
+T3	DISO 314 323	neoplasia
+T4	NegSynMarker 710 713	sin
+T5	Phrase 714 732	signos de sangrado
+T6	DISO 724 732	sangrado
+T7	NegSynMarker 876 879	sin
+T8	Phrase 880 918	que se espere mayor ganancia funcional
+T9	DISO 894 918	mayor ganancia funcional
+T10	NegLexMarker 1189 1200	ausencia de
+T11	PROC 1201 1239	potencial evocado visual en ambos ojos
+T12	NegSynMarker 1719 1721	No
+T13	PROC 1722 1794	se ha podido colocar ni foot-up ni antiequino tipo rancho en pie derecho
+T14	CoordItem 1743 1745	ni
+T15	CoordItem 1754 1756	ni
+T16	UncertLexMarker 1940 1948	probable
+T17	DISO 1949 1967	bocio multinodular
+T18	NegLexMarker 2029 2045	Se ha suspendido
+T19	SUBS 2046 2057	haloperidol
+T20	NegSynMarker 2494 2496	no
+T21	Phrase 2497 2543	se realizan pruebas invasivas ( colonoscopia )
+T22	PROC 2509 2543	pruebas invasivas ( colonoscopia )
+T23	NegSynMarker 3344 3346	no
+T24	Phrase 3347 3364	realizar estudios
+T25	PROC 3356 3364	estudios
+T26	NegSynMarker 3931 3934	sin
+T27	DISO 3935 3949	dolor referido
+T28	NegSynMarker 4354 4357	sin
+T29	Phrase 4358 4386	evidencia patologia orgánica
+T30	DISO 4368 4386	patologia orgánica
+T31	NegLexMarker 4413 4425	Se desestima
+T32	PROC 4426 4458	cirugía abierta sobre dicha zona
+T33	NegLexMarker 4699 4711	se desestima
+T34	PROC 4712 4740	medidas de soporte agresivas
+T35	NegSynMarker 4801 4804	sin
+T36	Phrase 4805 4810	ayuda
+T37	PROC 4953 4999	estudio para busqueda de enfermedad neoplasica
+T38	NegLexMarker 5008 5016	negativo
+T39	NegSynMarker 5019 5022	Sin
+T40	DISO 5023 5029	disnea
+T41	NegLexMarker 5152 5161	retirando
+T42	SUBS 5162 5171	diltiazem
+T43	PROC 5638 5655	cultivo de esputo
+T44	NegLexMarker 5656 5664	negativo
+T45	NegSynMarker 5917 5920	sin
+T46	DISO 5921 5927	fatiga
+T47	DISO 5943 5976	enfermedad neoplásica metastásica
+T48	UncertLexMarker 5977 5985	probable
+T49	NegSynMarker 6085 6087	no
+T50	Phrase 6088 6104	presenta derrame
+T51	DISO 6097 6104	derrame
+T52	NegSynMarker 6128 6131	sin
+T53	DISO 6132 6155	dolor a la movilización
+T54	NegSynMarker 6165 6168	sin
+T55	DISO 6169 6179	dificultad
+T56	NegSynMarker 6205 6207	no
+T57	Phrase 6208 6263	precisando tratamiento rehabiliador de manera ambulante
+T58	PROC 6219 6263	tratamiento rehabiliador de manera ambulante
+T59	NegSynMarker 6366 6369	sin
+T60	DISO 6370 6379	dificulad
+T61	NegSynMarker 6639 6642	sin
+T62	DISO 6643 6653	dificultad
+T63	NegSynMarker 6894 6897	sin
+T64	PolItem 6898 6905	ninguna
+T65	Phrase 6898 6949	ninguna dificultad con ayuda de una tercera persona
+T66	DISO 6906 6949	dificultad con ayuda de una tercera persona
+T67	NegSynMarker 6971 6974	sin
+T68	DISO 6975 6985	dificultad
+T69	DISO 7161 7192	dolores trocantereos y lumbares
+T70	NegLexMarker 7197 7207	han cedido
+T71	UncertLexMarker 7633 7646	sospechoso de
+T72	DISO 7647 7659	neoformación
+T73	NegSynMarker 7684 7687	sin
+T74	Phrase 7688 7755	evidencia de progresion local en los controles de los ultimos meses
+T75	DISO 7701 7755	progresion local en los controles de los ultimos meses
+T76	UncertLexMarker 7781 7789	probable
+T77	DISO 7790 7815	poliangeitis microscopica
+T78	NegLexMarker 7965 7979	suspension del
+T79	SUBS 7980 7994	farmaco pletal
+T80	NegSynMarker 8293 8296	sin
+T81	DISO 8297 8321	respuesta al tratamiento
+T82	NegSynMarker 8352 8355	sin
+T83	Phrase 8356 8381	evidencia de complicación
+T84	DISO 8369 8381	complicación
+T85	NegSynMarker 9205 9207	no
+T86	Phrase 9208 9245	refiere dolor en reposo ni a la craga
+T87	DISO 9216 9245	dolor en reposo ni a la craga
+T88	CoordItem 9232 9234	ni
+T89	NegSynMarker 9397 9400	sin
+T90	DISO 9401 9411	dificultad
+T91	NegSynMarker 9599 9602	sin
+T92	SUBS 9603 9622	parche de fentanilo
+T93	NegLexMarker 9645 9654	retiramos
+T94	NegSynMarker 9885 9888	sin
+T95	Phrase 9889 9894	ayuda
+T96	NegSynMarker 10478 10480	no
+T97	OTHER 10481 10512	ampliar el estudio ginecológico
+T98	NegSynMarker 10578 10581	sin
+T99	DISO 10582 10620	alteraciones a nivel de dicha fractura
+T100	NegSynMarker 10696 10698	no
+T101	Phrase 10699 10739	presenta dolor a nivel de cadera derecha
+T102	DISO 10708 10739	dolor a nivel de cadera derecha
+T103	NegSynMarker 11020 11023	sin
+T104	OTHER 11024 11043	poder tomar muestra
+T105	PROC 11030 11043	tomar muestra
+T106	NegSynMarker 11268 11271	sin
+T107	DISO 11272 11329	dolor referido ni a zona sacra ni a zona inguinal derecha
+T108	CoordItem 11287 11289	ni
+T109	CoordItem 11303 11305	ni
+T110	NegLexMarker 11690 11701	se suspende
+T111	SUBS 11702 11719	la antiagregación
+T112	NegSynMarker 12202 12205	sin
+T113	DISO 12206 12217	tratamiento
+T114	NegSynMarker 12449 12452	sin
+T115	Phrase 12453 12516	criterio ( por lo menos de momento ) de oxigenoterapia continua
+T116	PROC 12493 12516	oxigenoterapia continua
+T117	UncertLexMarker 12726 12737	sospecha de
+T118	DISO 12738 12790	infección ( subaguda ) a nivel de articulacion L3-L4
+T119	PROC 13542 13554	los cultivos
+T120	NegLexMarker 13555 13564	negativos
+T121	PROC 13588 13610	tandas de hemocultivos
+T122	NegLexMarker 13611 13620	negativos
+T123	NegSynMarker 14138 14141	sin
+T124	Phrase 14142 14147	ayuda
+T125	NegSynMarker 14980 14982	no
+T126	DISO 14983 15008	deficit motor objetivable
+T127	NegSynMarker 15032 15035	sin
+T128	Phrase 15036 15054	ninguna dificultad
+T129	PolItem 15036 15043	ninguna
+T130	DISO 15044 15054	dificultad
+T131	NegLexMarker 15229 15238	suspender
+T132	SUBS 15239 15249	el sintrom
+T133	NegSynMarker 15368 15370	no
+T134	Phrase 15371 15402	refiere dolor a la movilización
+T135	DISO 15379 15402	dolor a la movilización
+T136	NegSynMarker 15551 15554	sin
+T137	DISO 15555 15573	ninguna dificultad
+T138	PolItem 15555 15562	ninguna
+T139	UncertLexMarker 15872 15883	sospecha de
+T140	DISO 15884 15907	lesion tumoral en femur
+T141	NegSynMarker 15910 15912	no
+T142	DISO 15913 15941	confirmacion histopatologica
+T143	UncertLexMarker 15974 15982	probable
+T144	DISO 15983 15994	hepatopatia
+T145	Phrase 16010 16045	rehabilitacion y ganancia funcional
+T146	PROC 16010 16024	rehabilitacion
+T147	PROC 16027 16045	ganancia funcional
+T148	NegLexMarker 16058 16067	imposible
+T149	NegSynMarker 16127 16130	sin
+T150	Phrase 16131 16136	ayuda
+T151	NegSynMarker 16146 16149	sin
+T152	DISO 16150 16160	dificultad
+T153	OTHER 16645 16661	irreversibilidad
+T154	UncertLexMarker 16662 16670	probable
+T155	Phrase 16671 16682	del proceso
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T43
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T48 Arg2:T47
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T59 Arg2:T60
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T63 Arg2:T65
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T70 Arg2:T69
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T76 Arg2:T77
+R33	Scope Arg1:T78 Arg2:T79
+R34	Scope Arg1:T80 Arg2:T81
+R35	Scope Arg1:T82 Arg2:T83
+R36	Scope Arg1:T85 Arg2:T86
+R37	Scope Arg1:T89 Arg2:T90
+R38	Scope Arg1:T93 Arg2:T92
+R39	Scope Arg1:T91 Arg2:T92
+R40	Scope Arg1:T94 Arg2:T95
+R41	Scope Arg1:T96 Arg2:T97
+R42	Scope Arg1:T98 Arg2:T99
+R43	Scope Arg1:T100 Arg2:T101
+R44	Scope Arg1:T103 Arg2:T104
+R45	Scope Arg1:T106 Arg2:T107
+R46	Scope Arg1:T110 Arg2:T111
+R47	Scope Arg1:T112 Arg2:T113
+R48	Scope Arg1:T114 Arg2:T115
+R49	Scope Arg1:T117 Arg2:T118
+R50	Scope Arg1:T122 Arg2:T121
+R51	Scope Arg1:T120 Arg2:T119
+R52	Scope Arg1:T123 Arg2:T124
+R53	Scope Arg1:T127 Arg2:T128
+R54	Scope Arg1:T125 Arg2:T126
+R55	Scope Arg1:T131 Arg2:T132
+R56	Scope Arg1:T133 Arg2:T134
+R57	Scope Arg1:T136 Arg2:T137
+R58	Scope Arg1:T143 Arg2:T144
+R59	Scope Arg1:T141 Arg2:T142
+R60	Scope Arg1:T139 Arg2:T140
+R61	Scope Arg1:T148 Arg2:T145
+R62	Scope Arg1:T149 Arg2:T150
+R63	Scope Arg1:T151 Arg2:T152
+R64	DiscScope Arg1:T154 Arg2:T155
+R65	DiscScope Arg1:T154 Arg2:T153

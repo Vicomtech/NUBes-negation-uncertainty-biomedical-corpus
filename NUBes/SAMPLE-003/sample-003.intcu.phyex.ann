@@ -1,0 +1,85 @@
+T1	NegSynMarker 67 70	sin
+T2	OTHER 71 78	defensa
+T3	NegSynMarker 313 315	no
+T4	DISO 316 324	doloroso
+T5	NegSynMarker 416 418	no
+T6	DISO 419 427	doloroso
+T7	NegSynMarker 592 595	sin
+T8	DISO 596 616	ruidos sobreañadidos
+T9	NegSynMarker 906 908	no
+T10	DISO 909 935	otros ruidos sobreañadidos
+T11	NegSynMarker 1000 1002	no
+T12	DISO 1003 1013	distendido
+T13	NegSynMarker 1036 1038	no
+T14	DISO 1039 1082	doloroso a la palpación en ningún cuadrante
+T15	PolItem 1066 1072	ningún
+T16	NegSynMarker 1085 1087	no
+T17	Phrase 1088 1119	signos de irritación peritoneal
+T18	DISO 1098 1119	irritación peritoneal
+T19	NegSynMarker 1166 1169	sin
+T20	DISO 1170 1186	dolor precordial
+T21	NegSynMarker 1369 1371	no
+T22	DISO 1372 1378	soplos
+T23	NegSynMarker 1461 1463	no
+T24	DISO 1464 1472	doloroso
+T25	NegSynMarker 1475 1477	no
+T26	Phrase 1478 1509	signos de irritación peritoneal
+T27	DISO 1488 1509	irritación peritoneal
+T28	NegSynMarker 1512 1514	no
+T29	Phrase 1515 1538	palpo masas ni megalias
+T30	DISO 1521 1526	masas
+T31	CoordItem 1527 1529	ni
+T32	DISO 1530 1538	megalias
+T33	NegSynMarker 1586 1588	no
+T34	DISO 1589 1595	edemas
+T35	Phrase 1589 1612	edemas ni signos de TVP
+T36	CoordItem 1596 1598	ni
+T37	DISO 1609 1612	TVP
+T38	PROC 1615 1623	Lassegue
+T39	Phrase 1615 1640	Lassegue y Bragard y Neri
+T40	CoordItem 1624 1625	y
+T41	PROC 1626 1633	Bragard
+T42	CoordItem 1634 1635	y
+T43	PROC 1636 1640	Neri
+T44	NegLexMarker 1641 1650	negativos
+T45	NegSynMarker 1773 1776	sin
+T46	DISO 1777 1783	edemas
+T47	NegSynMarker 1926 1928	no
+T48	DISO 1929 1969	alteraciones agudas de la repolarización
+T49	NegSynMarker 2038 2041	sin
+T50	DISO 2042 2048	soplos
+T51	NegSynMarker 2118 2120	no
+T52	OTHER 2121 2131	en derecha
+T53	DISO 2317 2330	peristaltismo
+T54	NegLexMarker 2331 2338	ausente
+T55	NegSynMarker 2516 2518	No
+T56	Phrase 2519 2537	oigo peristaltismo
+T57	DISO 2524 2537	peristaltismo
+T58	UncertLexMarker 2775 2788	impresiona de
+T59	OTHER 2789 2797	gravedad
+T60	NegSynMarker 3219 3221	no
+T61	Phrase 3222 3255	valorable por tendinopatía hombro
+T62	DISO 3222 3231	valorable
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T11 Arg2:T12
+R8	Scope Arg1:T13 Arg2:T14
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T44 Arg2:T39
+R13	Scope Arg1:T33 Arg2:T35
+R14	Scope Arg1:T21 Arg2:T22
+R15	Scope Arg1:T23 Arg2:T24
+R16	Scope Arg1:T45 Arg2:T46
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T54 Arg2:T53
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T58 Arg2:T59
+R23	Scope Arg1:T60 Arg2:T61

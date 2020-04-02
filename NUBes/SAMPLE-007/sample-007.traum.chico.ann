@@ -1,0 +1,31 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 24	pérdida de conciencia
+T3	Phrase 3 37	pérdida de conciencia ni focalidad
+T4	CoordItem 25 27	ni
+T5	DISO 28 37	focalidad
+T6	NegSynMarker 106 108	No
+T7	Phrase 109 129	se ha dado contusion
+T8	DISO 120 129	contusion
+T9	NegSynMarker 132 134	no
+T10	Phrase 135 188	aumento de tamaño , ni edema , ni otra sintomatologia
+T11	DISO 135 152	aumento de tamaño
+T12	CoordItem 155 157	ni
+T13	DISO 158 163	edema
+T14	CoordItem 166 168	ni
+T15	DISO 169 188	otra sintomatologia
+T16	NegSynMarker 226 228	No
+T17	DISO 229 232	TCE
+T18	NegSynMarker 234 236	no
+T19	DISO 237 264	dolor torácico ni abdominal
+T20	CoordItem 252 254	ni
+T21	NegSynMarker 301 304	sin
+T22	DISO 305 334	mejoria en los ultimos 2 dias
+T23	NegSynMarker 665 667	No
+T24	DISO 668 683	dolor en reposo
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T9 Arg2:T10
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T18 Arg2:T19
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T21 Arg2:T22
+R7	Scope Arg1:T23 Arg2:T24

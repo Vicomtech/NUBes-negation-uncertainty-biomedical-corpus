@@ -1,0 +1,34 @@
+T1	NegMorMarker 575 587	Asintomática
+T2	UncertLexMarker 743 751	probable
+T3	DISO 752 770	vértigo periférico
+T4	NegSynMarker 773 775	No
+T5	Phrase 776 820	refiere fiebre , ni otra clinica acompañante
+T6	DISO 784 790	fiebre
+T7	CoordItem 793 795	ni
+T8	DISO 796 820	otra clinica acompañante
+T9	NegSynMarker 1025 1028	sin
+T10	Phrase 1029 1076	dolor precordial ni otra sintomatología añadida
+T11	DISO 1029 1045	dolor precordial
+T12	CoordItem 1046 1048	ni
+T13	DISO 1049 1076	otra sintomatología añadida
+T14	NegMorMarker 1266 1278	inespecifico
+T15	NegSynMarker 1640 1642	no
+T16	DISO 1643 1646	tos
+T17	NegLexMarker 2574 2583	retirando
+T18	SUBS 2584 2599	medicación oral
+T19	UncertLexMarker 2602 2614	Desconocemos
+T20	PolItem 2615 2629	cualquier otra
+T21	Phrase 2615 2637	cualquier otra clínica
+T22	DISO 2630 2637	clínica
+T23	NegSynMarker 2868 2871	sin
+T24	DISO 2872 2895	antecedentes de interés
+T25	NegSynMarker 2965 2967	No
+T26	OTHER 2968 2997	ha tomado su tto de la mañana
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T15 Arg2:T16
+R5	Scope Arg1:T17 Arg2:T18
+R6	Scope Arg1:T19 Arg2:T21
+R7	Scope Arg1:T23 Arg2:T24
+R8	Scope Arg1:T25 Arg2:T26

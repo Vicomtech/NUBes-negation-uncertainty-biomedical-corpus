@@ -1,0 +1,30 @@
+T1	NegSynMarker 138 141	sin
+T2	DISO 142 188	cambios con respecto estudio de agosto de 2014
+T3	NegSynMarker 250 253	sin
+T4	DISO 254 286	estenosis raquídeo significativa
+T5	UncertLexMarker 477 485	probable
+T6	DISO 486 515	afectacion de ambas raices L5
+T7	NegSynMarker 647 649	No
+T8	DISO 650 678	contracturas paravertebrales
+T9	NegSynMarker 764 766	no
+T10	DISO 767 775	doloroso
+T11	PROC 889 904	Espinopercusión
+T12	NegLexMarker 905 913	negativa
+T13	NegSynMarker 1100 1102	No
+T14	PROC 1103 1116	empastamiento
+T15	NegSynMarker 1149 1151	No
+T16	DISO 1152 1170	signos radiuclares
+T17	NegSynMarker 1353 1355	No
+T18	DISO 1356 1374	signos radiculares
+T19	NegSynMarker 1472 1474	no
+T20	DISO 1475 1500	ha receso lateral derecho
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20

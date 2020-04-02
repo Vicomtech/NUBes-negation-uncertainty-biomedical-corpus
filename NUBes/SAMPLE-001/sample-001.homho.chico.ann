@@ -1,0 +1,73 @@
+T1	NegSynMarker 326 328	no
+T2	Phrase 329 351	hemos podido aterderle
+T3	NegLexMarker 662 673	retirada de
+T4	OTHER 674 696	infusor quimioterapico
+T5	NegLexMarker 1560 1571	retirada de
+T6	OTHER 1572 1596	Infusor de Quimioterapia
+T7	NegSynMarker 2085 2087	no
+T8	DISO 2088 2103	dolor abdominal
+T9	NegSynMarker 2106 2108	no
+T10	DISO 2109 2129	dolor en zona lumbar
+T11	UncertLexMarker 2820 2831	Sospecha de
+T12	DISO 2832 2853	lesiones metastásicas
+T13	Phrase 2832 2880	lesiones metastásicas en glándulas suprarrenales
+T14	NegLexMarker 2897 2902	Niega
+T15	DISO 2903 2926	disminución de diuresis
+T16	Phrase 2903 2943	disminución de diuresis o edemas en EEII
+T17	CoordItem 2927 2928	o
+T18	DISO 2929 2943	edemas en EEII
+T19	NegLexMarker 3239 3250	se descarta
+T20	PROC 3251 3258	cirugia
+T21	NegSynMarker 4466 4468	No
+T22	DISO 4469 4478	contusion
+T23	NegSynMarker 4481 4483	no
+T24	DISO 4484 4495	traumatismo
+T25	NegSynMarker 4498 4500	no
+T26	DISO 4501 4521	herida a dicho nivel
+T27	NegSynMarker 4588 4590	no
+T28	Phrase 4591 4629	ha seguido tratamiento médico QT ni RT
+T29	SUBS 4602 4629	tratamiento médico QT ni RT
+T30	CoordItem 4624 4626	ni
+T31	NegSynMarker 5519 5521	No
+T32	Phrase 5522 5557	fiebre , dolor torácico ni ortopnea
+T33	DISO 5522 5528	fiebre
+T34	DISO 5531 5545	dolor torácico
+T35	CoordItem 5546 5548	ni
+T36	DISO 5549 5557	ortopnea
+T37	NegSynMarker 6278 6280	no
+T38	Phrase 6281 6299	responder nosotros
+T39	UncertLexMarker 6503 6512	Probables
+T40	DISO 6513 6542	pequeñas metástasis hepáticas
+T41	NegSynMarker 6578 6580	no
+T42	Phrase 6581 6613	hacer más EC ni tto. del proceso
+T43	PROC 6591 6593	EC
+T44	CoordItem 6594 6596	ni
+T45	PROC 6597 6613	tto. del proceso
+T46	NegSynMarker 6668 6670	No
+T47	DISO 6671 6682	clinica ORL
+T48	NegSynMarker 6685 6687	no
+T49	Phrase 6688 6734	clinica de infeccion respiratoria ni digestiva
+T50	DISO 6699 6734	infeccion respiratoria ni digestiva
+T51	CoordItem 6722 6724	ni
+T52	NegSynMarker 6765 6767	no
+T53	Phrase 6768 6807	presentar picos febriles en dos semanas
+T54	DISO 6778 6807	picos febriles en dos semanas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T11 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T16
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T48 Arg2:T49
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T52 Arg2:T53

@@ -1,0 +1,76 @@
+T1	DISO 701 748	incontinencia de orina de esfuerzo , en la cama
+T2	NegSynMarker 749 751	no
+T3	NegSynMarker 787 790	sin
+T4	DISO 791 800	hallazgos
+T5	NegMorMarker 840 854	desorientación
+T6	NegSynMarker 1104 1106	No
+T7	DISO 1107 1144	ha mejorado con tratamiento de Toviaz
+T8	NegMorMarker 1291 1303	asintomático
+T9	NegSynMarker 1321 1323	no
+T10	OTHER 1324 1332	regladas
+T11	UncertLexMarker 1517 1527	Se plantea
+T12	PROC 1528 1536	nueva IQ
+T13	NegSynMarker 1645 1647	No
+T14	Phrase 1648 1666	nauseas ni vómitos
+T15	DISO 1648 1655	nauseas
+T16	CoordItem 1656 1658	ni
+T17	DISO 1659 1666	vómitos
+T18	NegMorMarker 1668 1675	afebril
+T19	UncertLexMarker 1793 1801	sospecha
+T20	Phrase 1802 1820	diagnóstica de PNA
+T21	DISO 1817 1820	PNA
+T22	NegSynMarker 1855 1857	no
+T23	PROC 1858 1864	tratar
+T24	NegSynMarker 2400 2402	no
+T25	DISO 2403 2409	fiebre
+T26	NegSynMarker 2647 2650	sin
+T27	DISO 2651 2660	problemas
+T28	PROC 3026 3043	biopsia de vejiga
+T29	NegLexMarker 3046 3054	negativa
+T30	Phrase 3055 3065	para tumor
+T31	UncertLexMarker 3154 3162	probable
+T32	DISO 3163 3210	lesión intraluminal posterior derecha de 1,7 cm
+T33	UncertLexMarker 3277 3291	menos probable
+T34	DISO 3292 3300	litiasis
+T35	NegSynMarker 3318 3321	sin
+T36	Phrase 3322 3362	evidencia de enfermedad en los controles
+T37	DISO 3335 3345	enfermedad
+T38	NegLexMarker 3661 3672	retirada de
+T39	OTHER 3673 3687	sonda urinaria
+T40	NegSynMarker 3767 3770	sin
+T41	DISO 3771 3792	síntomas acompañantes
+T42	NegSynMarker 3895 3898	sin
+T43	DISO 3899 3928	lesiones ocupantes de espacio
+T44	NegSynMarker 4042 4045	sin
+T45	DISO 4046 4067	residuo postmiccional
+T46	UncertLexMarker 4080 4095	compatibles con
+T47	DISO 4096 4113	cistocele grado I
+T48	NegSynMarker 4510 4512	no
+T49	DISO 4513 4524	obstructiva
+T50	NegLexMarker 4600 4618	imposibilidad para
+T51	OTHER 4619 4625	orinar
+T52	UncertLexMarker 4708 4721	probablemente
+T53	OTHER 4722 4738	postradioterapia
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	DiscScope Arg1:T29 Arg2:T30
+R12	DiscScope Arg1:T29 Arg2:T28
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53

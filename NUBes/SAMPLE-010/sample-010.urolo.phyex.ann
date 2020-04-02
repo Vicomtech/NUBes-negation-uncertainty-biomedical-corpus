@@ -1,0 +1,12 @@
+T1	NegSynMarker 0 3	Sin
+T2	DISO 4 19	otros hallazgos
+T3	NegSynMarker 37 39	No
+T4	DISO 40 60	signos inflamatorios
+T5	NegSynMarker 393 395	No
+T6	DISO 396 403	hernias
+T7	PROC 406 408	UC
+T8	NegLexMarker 411 412	-
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T7

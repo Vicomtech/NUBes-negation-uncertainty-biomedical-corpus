@@ -1,0 +1,31 @@
+T1	NegMorMarker 707 719	asintomático
+T2	UncertLexMarker 921 930	No claros
+T3	DISO 931 952	síntomas neurológicos
+T4	Phrase 931 967	síntomas neurológicos hasta le fecha
+T5	NegSynMarker 1178 1180	No
+T6	Phrase 1181 1229	desviaciones faciales ni trastornos del lenguaje
+T7	DISO 1181 1202	desviaciones faciales
+T8	CoordItem 1203 1205	ni
+T9	DISO 1206 1229	trastornos del lenguaje
+T10	NegSynMarker 1918 1921	sin
+T11	DISO 1922 1942	secuelas posteriores
+T12	NegMorMarker 2050 2064	desorientación
+T13	NegSynMarker 2542 2544	No
+T14	Phrase 2545 2561	refiere oliguria
+T15	DISO 2553 2561	oliguria
+T16	NegSynMarker 2564 2566	no
+T17	DISO 2567 2570	DPN
+T18	NegSynMarker 2761 2764	sin
+T19	Phrase 2765 2800	respuestas ni movimientos anormales
+T20	DISO 2765 2775	respuestas
+T21	CoordItem 2776 2778	ni
+T22	DISO 2779 2800	movimientos anormales
+T23	UncertLexMarker 2805 2813	No clara
+T24	DISO 2814 2822	ortopnea
+R1	Scope Arg1:T2 Arg2:T4
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T16 Arg2:T17
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T23 Arg2:T24

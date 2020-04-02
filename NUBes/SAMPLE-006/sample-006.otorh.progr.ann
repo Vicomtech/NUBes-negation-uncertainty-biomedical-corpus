@@ -1,0 +1,3 @@
+T1	NegLexMarker 268 279	Se suspende
+T2	PROC 280 303	intervención quirurgica
+R1	Scope Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	DISO 1058 1078	Intoxicación etilica
+T2	UncertLexMarker 1079 1087	probable
+T3	NegSynMarker 2333 2336	sin
+T4	DISO 2337 2360	antecedentes de interés
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4

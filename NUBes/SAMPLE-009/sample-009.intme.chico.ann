@@ -1,0 +1,3 @@
+T1	NegLexMarker 1794 1803	descartar
+T2	DISO 1804 1812	neumonia
+R1	Scope Arg1:T1 Arg2:T2

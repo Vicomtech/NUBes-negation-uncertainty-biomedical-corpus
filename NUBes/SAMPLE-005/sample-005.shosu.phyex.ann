@@ -1,0 +1,26 @@
+T1	NegSynMarker 137 140	sin
+T2	DISO 141 165	hallazgos significativos
+T3	NegSynMarker 196 198	no
+T4	DISO 199 207	doloroso
+T5	UncertLexMarker 239 245	parece
+T6	DISO 246 256	conservada
+T7	NegSynMarker 487 489	No
+T8	Phrase 490 511	tolera la sedestación
+T9	DISO 500 511	sedestación
+T10	NegMorMarker 1123 1135	desorientado
+T11	NegSynMarker 1458 1460	No
+T12	DISO 1461 1502	dolor a la movilización de cadera derecha
+T13	DISO 1529 1538	orientada
+T14	NegSynMarker 1550 1552	no
+T15	DISO 1553 1562	en tiempo
+T16	NegSynMarker 1672 1674	no
+T17	DISO 1675 1719	dolor a la movilización de cadera ni rodilla
+T18	CoordItem 1709 1711	ni
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T14 Arg2:T13
+R7	DiscScope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17

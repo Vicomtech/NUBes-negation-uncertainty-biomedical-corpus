@@ -1,0 +1,6 @@
+T1	NegLexMarker 1609 1617	extirpar
+T2	DISO 1618 1639	quiste sebáceo facial
+T3	UncertLexMarker 2164 2171	posible
+T4	DISO 2172 2205	recidiva de ca. basocelular nasal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

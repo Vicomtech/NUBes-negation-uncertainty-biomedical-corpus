@@ -1,0 +1,12 @@
+T1	NegSynMarker 795 797	no
+T2	OTHER 798 827	entra por la seguridad social
+T3	SUBS 1049 1059	Linisopril
+T4	NegLexMarker 1073 1081	suspende
+T5	NegSynMarker 1574 1576	No
+T6	OTHER 1577 1593	toma los impares
+T7	NegLexMarker 1991 1999	Suspende
+T8	SUBS 2000 2007	Sintrom
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8

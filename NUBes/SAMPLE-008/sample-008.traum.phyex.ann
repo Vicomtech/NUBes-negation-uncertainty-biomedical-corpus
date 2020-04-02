@@ -1,0 +1,30 @@
+T1	NegSynMarker 102 104	no
+T2	DISO 105 113	dolorosa
+T3	PROC 361 383	Maniobras sacroiliacas
+T4	NegLexMarker 384 393	negativas
+T5	NegSynMarker 396 398	No
+T6	DISO 399 414	flexo de cadera
+T7	NegSynMarker 856 858	no
+T8	DISO 859 867	dolorosa
+T9	NegSynMarker 898 901	sin
+T10	DISO 902 907	dolor
+T11	NegSynMarker 1036 1038	No
+T12	DISO 1039 1061	déficit sensitivomotor
+T13	NegSynMarker 1109 1111	no
+T14	DISO 1112 1139	dolor en interlínea lateral
+T15	NegSynMarker 1180 1182	no
+T16	DISO 1183 1188	calor
+T17	Phrase 1183 1199	calor ni eritema
+T18	CoordItem 1189 1191	ni
+T19	DISO 1192 1199	eritema
+T20	NegSynMarker 1202 1204	no
+T21	DISO 1205 1220	peloteo patelar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T15 Arg2:T17
+R8	Scope Arg1:T13 Arg2:T14
+R9	Scope Arg1:T20 Arg2:T21

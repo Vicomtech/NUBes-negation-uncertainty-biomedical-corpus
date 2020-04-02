@@ -1,0 +1,22 @@
+T1	Phrase 8 31	se ve un microaneurisma
+T2	DISO 17 31	microaneurisma
+T3	UncertLexMarker 32 33	?
+T4	NegSynMarker 485 487	No
+T5	DISO 488 490	IY
+T6	NegSynMarker 517 519	No
+T7	DISO 520 537	alteracion visual
+T8	NegSynMarker 634 636	no
+T9	OTHER 637 642	excv.
+T10	NegSynMarker 647 649	No
+T11	DISO 650 675	dèficit focal neurològico
+T12	UncertLexMarker 1003 1012	no parece
+T13	DISO 1013 1017	excv
+T14	NegSynMarker 1158 1160	no
+T15	DISO 1161 1169	megalias
+R1	Scope Arg1:T3 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15

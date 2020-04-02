@@ -1,0 +1,147 @@
+T1	NegSynMarker 110 112	no
+T2	DISO 113 124	taquicardia
+T3	UncertLexMarker 219 226	Posible
+T4	DISO 227 250	disminución de diuresis
+T5	NegSynMarker 544 546	No
+T6	Phrase 547 571	disnea ni otros síntomas
+T7	DISO 547 553	disnea
+T8	CoordItem 554 556	ni
+T9	DISO 557 571	otros síntomas
+T10	NegSynMarker 739 741	No
+T11	Phrase 742 798	refiere mareo , palpitaciones , disnea ni dolor torácico
+T12	DISO 750 755	mareo
+T13	DISO 758 771	palpitaciones
+T14	DISO 774 780	disnea
+T15	CoordItem 781 783	ni
+T16	DISO 784 798	dolor torácico
+T17	NegSynMarker 801 803	No
+T18	DISO 804 824	clinica respiratoria
+T19	OTHER 870 881	inhaladores
+T20	NegSynMarker 887 889	no
+T21	OTHER 894 900	tolera
+T22	NegSynMarker 969 971	No
+T23	DISO 972 977	mareo
+T24	NegSynMarker 980 982	no
+T25	DISO 983 990	síncope
+T26	PROC 1162 1176	FA con encimas
+T27	NegLexMarker 1177 1186	negativas
+T28	NegSynMarker 1314 1316	no
+T29	OTHER 1317 1337	descrito previamente
+T30	NegSynMarker 1529 1532	sin
+T31	DISO 1533 1541	ortopnea
+T32	NegSynMarker 1544 1547	sin
+T33	DISO 1548 1551	DPN
+T34	NegSynMarker 1569 1572	sin
+T35	DISO 1573 1595	edemas en extremidades
+T36	NegSynMarker 1724 1726	No
+T37	OTHER 1727 1765	modificación de su medicacion habitual
+T38	NegSynMarker 1768 1770	No
+T39	Phrase 1771 1806	refiere ningún cambio de medicación
+T40	PolItem 1779 1785	ningún
+T41	OTHER 1786 1806	cambio de medicación
+T42	NegSynMarker 1986 1989	sin
+T43	DISO 1990 1997	cortejo
+T44	NegSynMarker 2000 2002	no
+T45	DISO 2003 2011	opresiva
+T46	NegSynMarker 2041 2043	no
+T47	DISO 2044 2054	mantenidas
+T48	NegSynMarker 2057 2059	No
+T49	Phrase 2060 2088	tos , expectoración , fiebre
+T50	DISO 2060 2063	tos
+T51	DISO 2066 2079	expectoración
+T52	DISO 2082 2088	fiebre
+T53	NegSynMarker 2089 2091	no
+T54	DISO 2092 2106	dolor torácico
+T55	NegSynMarker 2109 2112	Sin
+T56	DISO 2113 2131	cortejo vegetativo
+T57	NegSynMarker 2134 2137	sin
+T58	DISO 2138 2149	irradiación
+T59	NegLexMarker 2219 2224	Niega
+T60	DISO 2225 2245	dolro a ningún nivel
+T61	PolItem 2233 2239	ningún
+T62	NegSynMarker 2534 2536	No
+T63	DISO 2537 2545	ortopnea
+T64	NegSynMarker 2548 2550	no
+T65	DISO 2551 2559	oliguria
+T66	NegSynMarker 2621 2623	No
+T67	Phrase 2624 2644	ha tomado excitantes
+T68	SUBS 2634 2644	excitantes
+T69	NegSynMarker 2690 2692	No
+T70	DISO 2693 2700	cefalea
+T71	NegSynMarker 2703 2705	no
+T72	DISO 2706 2713	vómitos
+T73	NegSynMarker 2716 2718	No
+T74	Phrase 2719 2771	refiere proceso respiratorio , digestivo ni urinario
+T75	DISO 2727 2771	proceso respiratorio , digestivo ni urinario
+T76	CoordItem 2760 2762	ni
+T77	NegSynMarker 3031 3034	sin
+T78	DISO 3035 3058	pérdida de conocimiento
+T79	NegSynMarker 3061 3064	sin
+T80	DISO 3065 3072	náuseas
+T81	Phrase 3065 3096	náuseas ni vómitos posterioresy
+T82	CoordItem 3073 3075	ni
+T83	DISO 3076 3083	vómitos
+T84	NegSynMarker 3134 3137	sin
+T85	DISO 3138 3154	disnea posterior
+T86	NegSynMarker 3157 3159	No
+T87	DISO 3160 3177	cortejo vegetaivo
+T88	SUBS 3366 3382	furosemida 0 ´ 5
+T89	NegSynMarker 3405 3407	no
+T90	Phrase 3408 3415	lo toma
+T91	NegSynMarker 3431 3433	no
+T92	DISO 3434 3439	mareo
+T93	NegSynMarker 3442 3444	no
+T94	DISO 3445 3451	disnea
+T95	NegSynMarker 3454 3456	no
+T96	DISO 3457 3470	palpitaciones
+T97	Phrase 3457 3488	palpitaciones ni dolor torácico
+T98	CoordItem 3471 3473	ni
+T99	DISO 3474 3488	dolor torácico
+T100	UncertLexMarker 3560 3572	ha debido de
+T101	Phrase 3573 3593	tener a la madrugada
+T102	NegSynMarker 3686 3688	No
+T103	DISO 3689 3694	mareo
+T104	NegSynMarker 3755 3757	no
+T105	Phrase 3758 3769	define bien
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T17 Arg2:T18
+R6	DiscScope Arg1:T20 Arg2:T19
+R7	DiscScope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T24 Arg2:T25
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T27 Arg2:T26
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T64 Arg2:T65
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T77 Arg2:T78
+R32	Scope Arg1:T79 Arg2:T81
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T86 Arg2:T87
+R35	DiscScope Arg1:T89 Arg2:T88
+R36	DiscScope Arg1:T89 Arg2:T90
+R37	Scope Arg1:T91 Arg2:T92
+R38	Scope Arg1:T95 Arg2:T97
+R39	Scope Arg1:T93 Arg2:T94
+R40	Scope Arg1:T100 Arg2:T101
+R41	Scope Arg1:T102 Arg2:T103
+R42	Scope Arg1:T104 Arg2:T105

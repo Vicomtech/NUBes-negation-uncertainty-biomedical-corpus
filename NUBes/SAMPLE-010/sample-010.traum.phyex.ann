@@ -1,0 +1,104 @@
+T1	NegSynMarker 43 46	sin
+T2	DISO 47 56	hematomas
+T3	NegSynMarker 59 61	No
+T4	Phrase 62 116	se aprecian lesiones ocupantes de espacio a nivel óseo
+T5	DISO 74 116	lesiones ocupantes de espacio a nivel óseo
+T6	UncertLexMarker 170 172	ni
+T7	DISO 173 181	hematoma
+T8	UncertLexMarker 182 190	aparente
+T9	NegSynMarker 258 260	no
+T10	DISO 261 269	dolorosa
+T11	BODY 290 296	Planta
+T12	NegSynMarker 299 301	no
+T13	NegSynMarker 439 441	No
+T14	DISO 442 475	dolor a la palpación de espinosas
+T15	NegSynMarker 485 487	no
+T16	DISO 488 496	nistagmo
+T17	NegSynMarker 699 702	sin
+T18	DISO 703 712	hematoams
+T19	Phrase 703 726	hematoams ni deformidad
+T20	CoordItem 713 715	ni
+T21	DISO 716 726	deformidad
+T22	NegSynMarker 947 949	no
+T23	DISO 950 973	doloroso a la palpación
+T24	NegSynMarker 976 978	No
+T25	DISO 979 1003	transtorno de esfínteres
+T26	NegSynMarker 1114 1116	no
+T27	DISO 1117 1125	dolorosa
+T28	NegSynMarker 1128 1130	No
+T29	DISO 1131 1153	puntos oseos dolorosos
+T30	NegSynMarker 1188 1190	no
+T31	DISO 1191 1200	dolorosos
+T32	NegSynMarker 1328 1331	sin
+T33	Phrase 1332 1400	cambios significativos con respecto al estudio de septiembre de 2002
+T34	DISO 1332 1354	cambios significativos
+T35	PROC 1491 1498	Lasegue
+T36	NegLexMarker 1499 1507	negativo
+T37	PROC 1510 1517	bragard
+T38	UncertLexMarker 1518 1529	dudosamente
+T39	Phrase 1530 1538	positivo
+T40	NegSynMarker 1554 1556	no
+T41	DISO 1557 1583	déficit motor ni sensitivo
+T42	CoordItem 1571 1573	ni
+T43	NegSynMarker 1600 1602	no
+T44	DISO 1603 1617	dismetria dcha
+T45	NegSynMarker 1624 1626	no
+T46	DISO 1627 1636	valorable
+T47	NegSynMarker 1775 1777	no
+T48	Phrase 1778 1793	sale a la calle
+T49	UncertLexMarker 1929 1944	compatibles con
+T50	DISO 1945 1999	patrón neurogeno crónico de denervación - reinervación
+T51	NegSynMarker 2002 2005	sin
+T52	DISO 2006 2024	denervación activa
+T53	UncertLexMarker 2198 2207	plausible
+T54	DISO 2208 2241	afectación radicular a este nivel
+T55	UncertLexMarker 2426 2440	compatible con
+T56	DISO 2441 2458	derrame articular
+T57	NegSynMarker 2619 2621	No
+T58	Phrase 2622 2654	ytumefacción ni hematoma frontal
+T59	DISO 2622 2634	ytumefacción
+T60	CoordItem 2635 2637	ni
+T61	DISO 2638 2654	hematoma frontal
+T62	NegSynMarker 2775 2777	no
+T63	DISO 2778 2791	dolor acusado
+T64	DISO 2794 2811	Subluxaciones MTF
+T65	NegSynMarker 2814 2816	no
+T66	NegSynMarker 2866 2868	No
+T67	DISO 2869 2907	dolor a espinopresion dorsal ni lumbar
+T68	CoordItem 2898 2900	ni
+T69	UncertLexMarker 3756 3764	No claro
+T70	DISO 3765 3782	derrame articular
+T71	NegSynMarker 4044 4046	No
+T72	DISO 4047 4055	déficits
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	DiscMarker Arg1:T6 Arg2:T8
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T19
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T36 Arg2:T35
+R17	DiscScope Arg1:T38 Arg2:T39
+R18	DiscScope Arg1:T38 Arg2:T37
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T40 Arg2:T41
+R21	Scope Arg1:T43 Arg2:T44
+R22	Scope Arg1:T47 Arg2:T48
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T49 Arg2:T50
+R25	Scope Arg1:T53 Arg2:T54
+R26	Scope Arg1:T55 Arg2:T56
+R27	Scope Arg1:T57 Arg2:T58
+R28	Scope Arg1:T62 Arg2:T63
+R29	Scope Arg1:T65 Arg2:T64
+R30	Scope Arg1:T66 Arg2:T67
+R31	Scope Arg1:T69 Arg2:T70
+R32	Scope Arg1:T71 Arg2:T72

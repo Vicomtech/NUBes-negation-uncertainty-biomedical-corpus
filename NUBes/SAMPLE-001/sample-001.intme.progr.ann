@@ -1,0 +1,81 @@
+T1	NegSynMarker 36 39	sin
+T2	DISO 40 51	incidencias
+T3	NegMorMarker 377 384	afberil
+T4	NegLexMarker 1278 1296	quedan suspendidas
+T5	PROC 1297 1316	estas exploraciones
+T6	NegSynMarker 1709 1711	no
+T7	Phrase 1712 1764	muestra variaciones respecto al TAC previo del 2.014
+T8	DISO 1720 1764	variaciones respecto al TAC previo del 2.014
+T9	NegSynMarker 2270 2273	sin
+T10	DISO 2274 2283	problemas
+T11	NegSynMarker 2603 2606	sin
+T12	DISO 2607 2628	focalidad neurológica
+T13	UncertLexMarker 2933 2939	podria
+T14	OTHER 2940 2971	ser fatal en las próximas horas
+T15	NegMorMarker 3388 3400	Decanulación
+T16	NegSynMarker 3620 3623	sin
+T17	DISO 3624 3633	focalidad
+T18	SUBS 4230 4242	S. coagulasa
+T19	NegLexMarker 4243 4251	negativo
+T20	NegLexMarker 4833 4842	Se retiro
+T21	Phrase 4843 4893	a su indicacion digoxina y bisoprolol ( emconcor )
+T22	SUBS 4859 4867	digoxina
+T23	SUBS 4870 4893	bisoprolol ( emconcor )
+T24	PROC 5292 5307	balance hídrico
+T25	NegLexMarker 5308 5316	negativo
+T26	NegSynMarker 6317 6320	sin
+T27	Phrase 6321 6347	remontar con fluidoterapia
+T28	DISO 6321 6329	remontar
+T29	NegSynMarker 6450 6452	No
+T30	Phrase 6453 6486	fue posible realizar paracentesis
+T31	PROC 6474 6486	paracentesis
+T32	NegLexMarker 7583 7594	Se suspende
+T33	Phrase 7595 7622	el tratamiento con digoxina
+T34	SUBS 7614 7622	digoxina
+T35	UncertLexMarker 7762 7769	pudiera
+T36	Phrase 7770 7844	ser el origen de la sensación nauseosa y malestar digestivo que presentaba
+T37	OTHER 7774 7783	el origen
+T38	NegLexMarker 7967 7978	se suspende
+T39	Phrase 7979 8012	la administración de acenocumarol
+T40	SUBS 8000 8012	acenocumarol
+T41	UncertLexMarker 8417 8428	sospecha de
+T42	DISO 8429 8456	infección por virus gripe A
+T43	NegLexMarker 9729 9737	descartó
+T44	Phrase 9738 9757	la presencia de TEP
+T45	DISO 9754 9757	TEP
+T46	NegSynMarker 11203 11206	sin
+T47	DISO 11207 11218	otros datos
+T48	NegSynMarker 11491 11493	no
+T49	Phrase 11494 11517	presenta sangrado actvo
+T50	DISO 11503 11517	sangrado actvo
+T51	NegSynMarker 11770 11773	sin
+T52	DISO 11774 11785	incidencias
+T53	NegLexMarker 12051 12059	cediendo
+T54	DISO 12060 12070	el estatus
+T55	UncertLexMarker 12252 12265	Impresiona de
+T56	DISO 12266 12299	peritonitis bacteriana espontanea
+T57	NegLexMarker 12368 12379	ausencia de
+T58	DISO 12380 12390	malignidad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T18
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T25 Arg2:T24
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T57 Arg2:T58

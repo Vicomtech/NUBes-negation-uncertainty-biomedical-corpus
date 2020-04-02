@@ -1,0 +1,48 @@
+T1	NegSynMarker 110 112	no
+T2	OTHER 113 118	calor
+T3	NegSynMarker 121 123	no
+T4	DISO 124 131	derrame
+T5	NegSynMarker 175 178	sin
+T6	DISO 179 189	dificultad
+T7	NegMorMarker 502 514	desorientado
+T8	NegSynMarker 537 539	No
+T9	Phrase 540 561	se realiza minimental
+T10	PROC 551 561	minimental
+T11	NegSynMarker 771 774	sin
+T12	Phrase 775 809	signos inflamatorios ni supuración
+T13	DISO 775 795	signos inflamatorios
+T14	CoordItem 796 798	ni
+T15	DISO 799 809	supuración
+T16	NegMorMarker 1619 1626	afebril
+T17	NegSynMarker 1920 1923	sin
+T18	DISO 1924 1944	signos inflamatorios
+T19	UncertLexMarker 2007 2015	probable
+T20	DISO 2016 2066	relación a parálisis de ciatico popliteo izquierdo
+T21	UncertLexMarker 2072 2079	posible
+T22	DISO 2080 2124	relación a la traccion - apoyo sobre la zona
+T23	NegMorMarker 2286 2298	desorientado
+T24	NegMorMarker 2368 2379	incoherente
+T25	NegMorMarker 2486 2495	arritmico
+T26	NegSynMarker 2504 2507	sin
+T27	DISO 2508 2517	hallazgos
+T28	NegSynMarker 2773 2775	No
+T29	DISO 2776 2816	dolor a la movilización cadera izquierda
+T30	NegSynMarker 2838 2841	sin
+T31	DISO 2842 2852	dificultad
+T32	UncertLexMarker 2960 2973	Impresiona de
+T33	DISO 2974 3009	discreta parálisis facial izquierda
+T34	NegMorMarker 3025 3039	desorientación
+T35	NegMorMarker 3110 3122	desorientada
+T36	NegMorMarker 3705 3717	desorientada
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T32 Arg2:T33

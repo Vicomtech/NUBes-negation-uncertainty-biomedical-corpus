@@ -1,0 +1,24 @@
+T1	NegSynMarker 19 22	sin
+T2	DISO 23 40	vomitos asociados
+T3	NegSynMarker 293 295	No
+T4	Phrase 296 320	diarrea ni estreñimiento
+T5	DISO 296 303	diarrea
+T6	CoordItem 304 306	ni
+T7	DISO 307 320	estreñimiento
+T8	NegSynMarker 682 685	sin
+T9	DISO 686 697	irradiacion
+T10	NegSynMarker 759 761	No
+T11	DISO 762 778	clinica urinaria
+T12	Phrase 762 801	clinica urinaria ni cuadro respiratorio
+T13	CoordItem 779 781	ni
+T14	DISO 782 801	cuadro respiratorio
+T15	NegSynMarker 804 806	No
+T16	Phrase 807 834	fiebre ni clínica miccional
+T17	DISO 807 813	fiebre
+T18	CoordItem 814 816	ni
+T19	DISO 817 834	clínica miccional
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T12
+R5	Scope Arg1:T15 Arg2:T16

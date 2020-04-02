@@ -1,0 +1,30 @@
+T1	NegSynMarker 40 43	sin
+T2	Phrase 44 90	evidencia de movilizacion a nivel de " clavo "
+T3	DISO 57 90	movilizacion a nivel de " clavo "
+T4	NegSynMarker 323 326	Sin
+T5	DISO 327 371	alteraciones cardiopulmonares significativas
+T6	NegSynMarker 560 563	Sin
+T7	DISO 564 609	alteraciones escapulohumerales significativas
+T8	NegSynMarker 632 634	No
+T9	Phrase 635 680	se objetiva cambios respecto a control previo
+T10	OTHER 647 680	cambios respecto a control previo
+T11	UncertLexMarker 683 691	probable
+T12	DISO 692 742	pequeño aplastamiento agudo de D12 y crónico de L2
+T13	UncertLexMarker 996 1005	Sin clara
+T14	Phrase 1006 1041	evidencia de condensación neumonica
+T15	DISO 1019 1041	condensación neumonica
+T16	NegSynMarker 1200 1203	sin
+T17	DISO 1204 1245	alteraciones respecto a controles previos
+T18	UncertLexMarker 1298 1309	Sospecha de
+T19	DISO 1310 1324	neumonia basal
+T20	UncertLexMarker 1349 1363	compatible con
+T21	DISO 1364 1406	lesión metastásica en hemipelvis izquierda
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21

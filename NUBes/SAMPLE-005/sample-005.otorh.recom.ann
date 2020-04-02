@@ -1,0 +1,4 @@
+T1	NegSynMarker 492 494	No
+T2	Phrase 495 513	realizar esfuerzos
+T3	OTHER 504 513	esfuerzos
+R1	Scope Arg1:T1 Arg2:T2

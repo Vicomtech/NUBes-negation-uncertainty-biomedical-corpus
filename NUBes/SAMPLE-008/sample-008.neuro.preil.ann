@@ -1,0 +1,467 @@
+T1	UncertLexMarker 0 6	Parece
+T2	Phrase 7 100	que previamente el paciente pudo presentar un mareo de caracteristicas imposibles de precisar
+T3	DISO 50 100	un mareo de caracteristicas imposibles de precisar
+T4	NegLexMarker 78 91	imposibles de
+T5	OTHER 92 100	precisar
+T6	NegSynMarker 552 555	sin
+T7	Phrase 556 578	responder a la llamada
+T8	NegSynMarker 616 619	sin
+T9	Phrase 620 670	movimientos convulsivos ni relajacion esfinteriana
+T10	DISO 620 643	movimientos convulsivos
+T11	CoordItem 644 646	ni
+T12	DISO 647 670	relajacion esfinteriana
+T13	NegSynMarker 895 898	sin
+T14	OTHER 899 910	cuantificar
+T15	NegSynMarker 911 914	sin
+T16	Phrase 915 984	dolor abdominal , naúseas ni vómitos ni ninguna otra clinica asociada
+T17	DISO 915 930	dolor abdominal
+T18	DISO 933 940	naúseas
+T19	CoordItem 941 943	ni
+T20	DISO 944 951	vómitos
+T21	CoordItem 952 954	ni
+T22	PolItem 955 962	ninguna
+T23	DISO 955 984	ninguna otra clinica asociada
+T24	NegMorMarker 1359 1371	inespecífico
+T25	NegSynMarker 1414 1416	No
+T26	Phrase 1417 1479	lesiones de mordedura en la lengua ni relajación de esfinteres
+T27	DISO 1417 1451	lesiones de mordedura en la lengua
+T28	CoordItem 1452 1454	ni
+T29	DISO 1455 1479	relajación de esfinteres
+T30	UncertLexMarker 2597 2603	parece
+T31	DISO 2604 2648	haberse iniciado tras la toma de Betahistina
+T32	NegSynMarker 2809 2812	sin
+T33	DISO 2813 2836	movimientos convulsivos
+T34	Phrase 2813 2869	movimientos convulsivos ni ninguna otra clinica asociada
+T35	CoordItem 2837 2839	ni
+T36	DISO 2840 2869	ninguna otra clinica asociada
+T37	PolItem 2840 2847	ninguna
+T38	NegSynMarker 3017 3019	no
+T39	Phrase 3020 3055	vuelvan a llevar allí a la paciente
+T40	NegSynMarker 3058 3060	No
+T41	DISO 3061 3095	otra focalidad neurologca asociada
+T42	NegSynMarker 3505 3508	sin
+T43	DISO 3509 3530	pérdida de conciencia
+T44	Phrase 3509 3570	pérdida de conciencia , TCE ni focalidad neurologica asociada
+T45	DISO 3533 3536	TCE
+T46	CoordItem 3537 3539	ni
+T47	DISO 3540 3570	focalidad neurologica asociada
+T48	NegMorMarker 3681 3693	asintomatico
+T49	UncertLexMarker 3859 3867	pudieron
+T50	Phrase 3868 3906	haber sido el origen de la rectorragia
+T51	DISO 3879 3906	el origen de la rectorragia
+T52	UncertLexMarker 3909 3921	posiblemente
+T53	Phrase 3922 4048	por uso de AINEs como tratamiento analgesico de la clinica derivada de la estenosis de canal lumbar que el paciente presentaba
+T54	OTHER 3922 3938	por uso de AINEs
+T55	UncertLexMarker 4144 4151	parecía
+T56	Phrase 4152 4176	apreciarse fetor etílico
+T57	DISO 4163 4176	fetor etílico
+T58	NegSynMarker 4259 4262	sin
+T59	Phrase 4263 4318	perdida de conciencia ni focalidad neurologica asociada
+T60	DISO 4263 4284	perdida de conciencia
+T61	CoordItem 4285 4287	ni
+T62	DISO 4288 4318	focalidad neurologica asociada
+T63	UncertLexMarker 4333 4342	no parece
+T64	Phrase 4343 4404	haber presentado cefalea , ni otra sintomatologia acompañante
+T65	DISO 4360 4367	cefalea
+T66	CoordItem 4370 4372	ni
+T67	DISO 4373 4404	otra sintomatologia acompañante
+T68	UncertLexMarker 4873 4879	parece
+T69	DISO 4880 4920	prevalecer estable desde su instauración
+T70	NegSynMarker 5124 5127	sin
+T71	DISO 5128 5137	prodromos
+T72	UncertLexMarker 5142 5149	posible
+T73	DISO 5150 5180	pérdida de conciencia asociada
+T74	NegSynMarker 5294 5296	No
+T75	Phrase 5297 5393	ha presentado movimientos involuntarios anormales , mordedura lingual ni relajación esfinteriana
+T76	DISO 5311 5346	movimientos involuntarios anormales
+T77	DISO 5349 5366	mordedura lingual
+T78	CoordItem 5367 5369	ni
+T79	DISO 5370 5393	relajación esfinteriana
+T80	NegLexMarker 5476 5481	niega
+T81	DISO 5482 5512	alteracion del ritmo del sueño
+T82	Phrase 5482 5619	alteracion del ritmo del sueño o ingesta de tóxicos así como haber presentado proceso infeccioso intercurrente alguno en los días previos
+T83	CoordItem 5513 5514	o
+T84	OTHER 5515 5533	ingesta de tóxicos
+T85	CoordItem 5534 5542	así como
+T86	DISO 5560 5592	proceso infeccioso intercurrente
+T87	UncertLexMarker 6015 6024	No parece
+T88	Phrase 6025 6157	haber presentado sintomas sugestivos de aura visual , sensitiva ni de otro tipo ni clinica sugestiva de cefalea trigémino-autonómica
+T89	PolItem 6051 6064	sugestivos de
+T90	DISO 6065 6104	aura visual , sensitiva ni de otro tipo
+T91	CoordItem 6089 6091	ni
+T92	CoordItem 6105 6107	ni
+T93	PolItem 6116 6128	sugestiva de
+T94	DISO 6129 6157	cefalea trigémino-autonómica
+T95	NegMorMarker 6265 6279	desorientación
+T96	UncertLexMarker 6329 6335	parece
+T97	Phrase 6336 6399	interferirle en la realización de sus tareas habituales en casa
+T98	UncertLexMarker 6407 6416	no parece
+T99	Phrase 6417 6487	apreciarse un claro carácter progresivo de la sintomatología cognitiva
+T100	PolItem 6431 6436	claro
+T101	DISO 6437 6487	carácter progresivo de la sintomatología cognitiva
+T102	UncertLexMarker 6542 6548	parece
+T103	Phrase 6549 6659	presentar est tipo de episodios en las mismas circunstancias ( menstruación ) desde hace aproxiamdamente 1 año
+T104	DISO 6559 6609	est tipo de episodios en las mismas circunstancias
+T105	NegLexMarker 6669 6674	nunca
+T106	Phrase 6675 6720	habían sido tan incapacitantes como el actual
+T107	DISO 6687 6720	tan incapacitantes como el actual
+T108	NegMorMarker 6810 6822	inespecífico
+T109	NegLexMarker 6837 6842	niega
+T110	Phrase 6843 6897	haber realizado cambios en su ingesta enólica habitual
+T111	OTHER 6859 6897	cambios en su ingesta enólica habitual
+T112	NegMorMarker 7104 7116	inespecifico
+T113	NegSynMarker 7119 7122	sin
+T114	DISO 7123 7144	pérdida de conciencia
+T115	NegLexMarker 7319 7330	retirada de
+T116	SUBS 7331 7338	Sintrom
+T117	NegSynMarker 7494 7497	sin
+T118	Phrase 7498 7538	hallarse causa desencadenante definitiva
+T119	DISO 7507 7538	causa desencadenante definitiva
+T120	UncertLexMarker 7578 7584	parece
+T121	Phrase 7585 7654	haber presentado en este contexto cifras elevadas de tensión arterial
+T122	DISO 7619 7654	cifras elevadas de tensión arterial
+T123	SUBS 7687 7714	medicación antihipertensiva
+T124	NegSynMarker 7727 7729	no
+T125	OTHER 7730 7738	recuerda
+T126	NegSynMarker 7741 7743	No
+T127	Phrase 7744 7773	clinica febril ni documentada
+T128	DISO 7744 7758	clinica febril
+T129	CoordItem 7759 7761	ni
+T130	DISO 7762 7773	documentada
+T131	NegLexMarker 7861 7866	Niega
+T132	DISO 7867 7874	cefalea
+T133	Phrase 7867 7917	cefalea , amnesia del episodio , nauseas o vómitos
+T134	DISO 7877 7897	amnesia del episodio
+T135	DISO 7900 7907	nauseas
+T136	CoordItem 7908 7909	o
+T137	DISO 7910 7917	vómitos
+T138	NegMorMarker 8529 8541	asintomático
+T139	NegSynMarker 8544 8546	no
+T140	Phrase 8547 8567	recuerda lo ocurrido
+T141	NegMorMarker 8689 8703	desorientación
+T142	NegSynMarker 8832 8835	sin
+T143	Phrase 8836 8882	poder salir durante un breve espacio de tiempo
+T144	DISO 8969 8987	episodios de mareo
+T145	NegSynMarker 9034 9036	no
+T146	Phrase 9037 9103	habiendo presentado ninguno en reposo en sedestacion o en decubito
+T147	PolItem 9057 9064	ninguno
+T148	NegMorMarker 9498 9510	inespecífico
+T149	NegSynMarker 9513 9516	sin
+T150	DISO 9517 9538	pérdida de conciencia
+T151	DISO 9607 9629	sensacion de debilidad
+T152	UncertLexMarker 9655 9667	posiblemente
+T153	DISO 9668 9686	algo en la derecha
+T154	NegLexMarker 9939 9944	Niega
+T155	OTHER 9945 9972	consumo de alcohol o drogas
+T156	NegSynMarker 10479 10482	sin
+T157	DISO 10483 10513	focalidad neurológica residual
+T158	UncertLexMarker 10635 10641	parece
+T159	Phrase 10642 10672	presentar amnesia del episodio
+T160	DISO 10652 10672	amnesia del episodio
+T161	NegSynMarker 10687 10689	no
+T162	Phrase 10690 10783	ha presentado dolor torácico , disnea , clinica infecciosa respiratoria ni urinaria ni fiebre
+T163	DISO 10704 10718	dolor torácico
+T164	DISO 10721 10727	disnea
+T165	DISO 10730 10773	clinica infecciosa respiratoria ni urinaria
+T166	CoordItem 10762 10764	ni
+T167	CoordItem 10774 10776	ni
+T168	DISO 10777 10783	fiebre
+T169	NegSynMarker 11105 11107	no
+T170	OTHER 11108 11128	es capaz de precisar
+T171	NegSynMarker 11134 11136	no
+T172	Phrase 11137 11174	presentó deficit neurologico residual
+T173	DISO 11146 11174	deficit neurologico residual
+T174	NegLexMarker 11236 11241	Niega
+T175	OTHER 11242 11266	consumo de otros tóxicos
+T176	NegMorMarker 11466 11478	asintomatica
+T177	NegSynMarker 11496 11498	No
+T178	Phrase 11499 11569	ha presentado movimientos involuntarios anormales ni mordedura lingual
+T179	DISO 11513 11548	movimientos involuntarios anormales
+T180	CoordItem 11549 11551	ni
+T181	DISO 11552 11569	mordedura lingual
+T182	NegSynMarker 11648 11650	No
+T183	Phrase 11651 11768	refiere haber presentado cefalea , desconexión del medio ni ninguna otra clinica neurológica o sistémica acompañantes
+T184	DISO 11676 11683	cefalea
+T185	DISO 11686 11707	desconexión del medio
+T186	CoordItem 11708 11710	ni
+T187	DISO 11711 11768	ninguna otra clinica neurológica o sistémica acompañantes
+T188	PolItem 11711 11718	ninguna
+T189	NegLexMarker 11805 11819	suspension del
+T190	Phrase 11820 11846	tratamiento anticoagulante
+T191	SUBS 11832 11846	anticoagulante
+T192	NegSynMarker 11869 11872	sin
+T193	Phrase 11873 11916	tratamiento anticoagulante ni antiagregante
+T194	SUBS 11885 11899	anticoagulante
+T195	CoordItem 11900 11902	ni
+T196	SUBS 11903 11916	antiagregante
+T197	Phrase 12192 12217	la realización de una CVE
+T198	PROC 12210 12217	una CVE
+T199	NegLexMarker 12224 12231	rechaza
+T200	NegSynMarker 12816 12819	sin
+T201	Phrase 12820 12948	deficit focal neurologico residual , movimentos involuntarios anormales , mordedura lingual ni relajación esfinteriana asociados
+T202	DISO 12820 12854	deficit focal neurologico residual
+T203	DISO 12857 12891	movimentos involuntarios anormales
+T204	DISO 12894 12911	mordedura lingual
+T205	CoordItem 12912 12914	ni
+T206	DISO 12915 12948	relajación esfinteriana asociados
+T207	DISO 13043 13070	movimientos tonico-clinicos
+T208	NegLexMarker 13075 13083	cedieron
+T209	Phrase 13084 13099	espontáneamente
+T210	NegSynMarker 13679 13681	no
+T211	Phrase 13682 13701	especifica cantidad
+T212	NegLexMarker 13776 13785	imposible
+T213	Phrase 13786 13818	aportar más datos de lo sucedido
+T214	UncertLexMarker 14402 14409	posible
+T215	DISO 14410 14455	crisis convulsiva no presenciada por testigos
+T216	NegSynMarker 14428 14430	no
+T217	OTHER 14431 14455	presenciada por testigos
+T218	UncertLexMarker 14714 14720	parece
+T219	DISO 14721 14760	irradiar hasta cerca de la sien derecha
+T220	NegSynMarker 14899 14901	no
+T221	DISO 14902 14994	se modifica con el esfuerzo , los cambios de posición cefálicos ni las maniobras de Valsalva
+T222	CoordItem 14966 14968	ni
+T223	UncertLexMarker 15003 15009	parece
+T224	DISO 15010 15090	empeorar al apoyar la cabeza en la almohada y con ciertos movimientos del cuello
+T225	NegSynMarker 15097 15099	no
+T226	DISO 15100 15161	mejoraba con el diazepan instaurado por su médico de cabecera
+T227	NegSynMarker 15214 15216	no
+T228	Phrase 15217 15432	se acompañaba de náuseas , vómitos , fotosonofobia , ni ninguna otra clínica focal neurológica , salvo sensación de disminución de agudeza visual en ojo derecho , ni de síntomas sugestivos de aura visual o sensitiva
+T229	DISO 15234 15241	náuseas
+T230	DISO 15244 15251	vómitos
+T231	DISO 15254 15267	fotosonofobia
+T232	CoordItem 15270 15272	ni
+T233	DISO 15273 15311	ninguna otra clínica focal neurológica
+T234	PolItem 15273 15280	ninguna
+T235	CoordItem 15380 15382	ni
+T236	DISO 15409 15432	aura visual o sensitiva
+T237	NegMorMarker 15514 15526	desorientada
+T238	NegLexMarker 15623 15635	imposible de
+T239	Phrase 15636 15658	obtener de la paciente
+T240	UncertLexMarker 15755 15767	desconoce si
+T241	Phrase 15768 15786	pudo haber orinado
+T242	OTHER 15779 15786	orinado
+T243	UncertLexMarker 15787 15791	o no
+T244	NegMorMarker 15908 15920	inespecífico
+T245	NegLexMarker 16101 16117	imposibilidad de
+T246	Phrase 16118 16137	manejo domiciliario
+T247	NegLexMarker 16398 16404	impide
+T248	Phrase 16405 16420	la deambulación
+T249	NegLexMarker 16423 16440	En ningun momento
+T250	Phrase 16441 16539	parece haber presentado dolor toracico , disnea o palpitaciones ni foclaidad neurologica asociadas
+T251	DISO 16465 16479	dolor toracico
+T252	DISO 16482 16488	disnea
+T253	DISO 16491 16504	palpitaciones
+T254	CoordItem 16505 16507	ni
+T255	DISO 16508 16539	foclaidad neurologica asociadas
+T256	UncertLexMarker 16662 16673	sospecha de
+T257	DISO 16674 16678	ACVA
+T258	NegMorMarker 16952 16964	inespecífico
+T259	UncertLexMarker 17634 17641	posible
+T260	OTHER 17642 17660	consumo de cocaína
+T261	Phrase 17642 17678	consumo de cocaína en el día de ayer
+T262	NegSynMarker 17877 17880	sin
+T263	PolItem 17881 17888	ninguna
+T264	Phrase 17881 17909	ninguna otra clínica añadida
+T265	DISO 17889 17909	otra clínica añadida
+T266	UncertLexMarker 17996 18005	No parece
+T267	Phrase 18006 18075	haber presentado proceso infeccioso intercurrente en los días previos
+T268	DISO 18023 18075	proceso infeccioso intercurrente en los días previos
+T269	NegLexMarker 18458 18476	incapacitarle para
+T270	Phrase 18477 18493	realizar sus AVD
+T271	DISO 18490 18493	AVD
+T272	UncertLexMarker 18524 18534	no parecia
+T273	DISO 18535 18602	empeorar mucho con el esfuerzo ni los cambios de posición cefálicos
+T274	Phrase 18535 18627	empeorar mucho con el esfuerzo ni los cambios de posición cefálicos pero sí con el estornudo
+T275	CoordItem 18566 18568	ni
+T276	NegSynMarker 18630 18632	no
+T277	DISO 18633 18662	interrumpía el sueño nocturno
+T278	NegSynMarker 18764 18767	sin
+T279	DISO 18768 18775	vómitos
+T280	UncertLexMarker 19216 19222	dudosa
+T281	DISO 19223 19246	perdida de conocimiento
+T282	NegSynMarker 19279 19282	sin
+T283	DISO 19283 19286	TCE
+T284	NegSynMarker 19328 19330	No
+T285	Phrase 19331 19411	refiere presentar cefalea , nauseas ni vómitos ni focalidad neurológica asociada
+T286	DISO 19349 19356	cefalea
+T287	DISO 19359 19366	nauseas
+T288	CoordItem 19367 19369	ni
+T289	DISO 19370 19377	vómitos
+T290	CoordItem 19378 19380	ni
+T291	DISO 19381 19411	focalidad neurológica asociada
+T292	NegSynMarker 19704 19706	No
+T293	DISO 19707 19724	clínica digestiva
+T294	NegSynMarker 19867 19870	sin
+T295	DISO 19871 19892	perdida de conciencia
+T296	NegMorMarker 19905 19917	inespecifico
+T297	NegSynMarker 19918 19921	sin
+T298	DISO 19922 19955	focalidad neurologica acompañante
+T299	NegLexMarker 20049 20054	niega
+T300	Phrase 20055 20127	cualquier otro tipo de clínica focal neurológica o sistémica acompañante
+T301	PolItem 20055 20064	cualquier
+T302	DISO 20065 20127	otro tipo de clínica focal neurológica o sistémica acompañante
+T303	NegLexMarker 20193 20198	Nunca
+T304	DISO 20199 20223	ha perdido la conciencia
+T305	Phrase 20199 20323	ha perdido la conciencia ni ha presentado movimientos involuntarios anormales , mordedura lingual ni relajacion esfinteriana
+T306	CoordItem 20224 20226	ni
+T307	DISO 20241 20276	movimientos involuntarios anormales
+T308	DISO 20279 20296	mordedura lingual
+T309	CoordItem 20297 20299	ni
+T310	DISO 20300 20323	relajacion esfinteriana
+T311	NegSynMarker 20369 20372	sin
+T312	DISO 20373 20401	deficit neurologico asociado
+T313	NegSynMarker 20468 20471	sin
+T314	OTHER 20472 20524	ser capaz de precisar lo que le sucede a la paciente
+T315	Phrase 20472 20561	ser capaz de precisar lo que le sucede a la paciente salvo que lleva dos dias con diarrea
+T316	UncertLexMarker 20721 20729	probable
+T317	DISO 20730 20744	relacion a ITU
+T318	NegSynMarker 20747 20749	no
+T319	OTHER 20750 20761	evidenciada
+T320	NegSynMarker 20776 20778	no
+T321	OTHER 20779 20799	recuerda lo ocurrido
+T322	NegLexMarker 20807 20817	incapaz de
+T323	OTHER 20818 20850	aportar más datos a la anamnesis
+T324	NegLexMarker 20979 20997	imposibilidad para
+T325	DISO 20998 21044	la movilización de las extremidades izquierdas
+T326	NegSynMarker 21142 21144	no
+T327	Phrase 21145 21268	ha presentado movimientos convulsivos , mordedura lingual , relajación de esfinteres ni período de estupor tras el episodio
+T328	DISO 21159 21182	movimientos convulsivos
+T329	DISO 21185 21202	mordedura lingual
+T330	DISO 21205 21229	relajación de esfinteres
+T331	CoordItem 21230 21232	ni
+T332	DISO 21233 21268	período de estupor tras el episodio
+T333	NegSynMarker 21288 21291	sin
+T334	DISO 21292 21322	focalidad neurológica residual
+T335	UncertLexMarker 21482 21494	sin aparente
+T336	DISO 21495 21516	pérdida de conciencia
+T337	NegMorMarker 21864 21876	inespecífico
+T338	NegSynMarker 21934 21936	no
+T339	DISO 21937 21949	controlables
+T340	Phrase 21937 21962	controlables en domicilio
+T341	NegLexMarker 21983 21993	suspendido
+T342	SUBS 21994 22012	la anticoagulación
+T343	Phrase 21994 22110	la anticoagulación en los días previos al haber sido sometido a una biopsia prostatica el pasado dia 11 de Noviembre
+T344	UncertLexMarker 22288 22297	sospechar
+T345	DISO 22298 22311	ACV isquemico
+T346	NegSynMarker 22451 22454	sin
+T347	Phrase 22455 22484	apreciar déficit neurológicos
+T348	DISO 22464 22484	déficit neurológicos
+T349	UncertLexMarker 22735 22742	posible
+T350	DISO 22743 22764	pérdida de conciencia
+T351	UncertLexMarker 23181 23188	posible
+T352	DISO 23189 23212	alteracion del lenguaje
+T353	NegSynMarker 23257 23264	tampoco
+T354	Phrase 23265 23322	refiere clínica sugestiva de cefalea trigémino autonómica
+T355	DISO 23294 23322	cefalea trigémino autonómica
+T356	UncertLexMarker 23592 23599	plantea
+T357	Phrase 23600 23676	el diagnóstico diferencial entre lesión neoplásica y infarto subagudo tardío
+T358	DISO 23633 23650	lesión neoplásica
+T359	CoordItem 23651 23652	y
+T360	DISO 23653 23676	infarto subagudo tardío
+R1	Scope Arg1:T4 Arg2:T5
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T25 Arg2:T26
+R8	Scope Arg1:T30 Arg2:T31
+R9	Scope Arg1:T32 Arg2:T34
+R10	Scope Arg1:T38 Arg2:T39
+R11	Scope Arg1:T40 Arg2:T41
+R12	Scope Arg1:T42 Arg2:T44
+R13	Scope Arg1:T49 Arg2:T50
+R14	Scope Arg1:T52 Arg2:T53
+R15	Scope Arg1:T55 Arg2:T56
+R16	Scope Arg1:T58 Arg2:T59
+R17	Scope Arg1:T63 Arg2:T64
+R18	Scope Arg1:T68 Arg2:T69
+R19	Scope Arg1:T72 Arg2:T73
+R20	Scope Arg1:T70 Arg2:T71
+R21	Scope Arg1:T74 Arg2:T75
+R22	Scope Arg1:T80 Arg2:T82
+R23	Scope Arg1:T87 Arg2:T88
+R24	Scope Arg1:T98 Arg2:T99
+R25	Scope Arg1:T96 Arg2:T97
+R26	Scope Arg1:T105 Arg2:T106
+R27	Scope Arg1:T102 Arg2:T103
+R28	Scope Arg1:T109 Arg2:T110
+R29	Scope Arg1:T115 Arg2:T116
+R30	Scope Arg1:T113 Arg2:T114
+R31	Scope Arg1:T117 Arg2:T118
+R32	Scope Arg1:T120 Arg2:T121
+R33	DiscScope Arg1:T124 Arg2:T125
+R34	DiscScope Arg1:T124 Arg2:T123
+R35	Scope Arg1:T126 Arg2:T127
+R36	Scope Arg1:T131 Arg2:T133
+R37	Scope Arg1:T139 Arg2:T140
+R38	Scope Arg1:T142 Arg2:T143
+R39	DiscScope Arg1:T145 Arg2:T146
+R40	DiscScope Arg1:T145 Arg2:T144
+R41	Scope Arg1:T149 Arg2:T150
+R42	DiscScope Arg1:T152 Arg2:T153
+R43	DiscScope Arg1:T152 Arg2:T151
+R44	Scope Arg1:T154 Arg2:T155
+R45	Scope Arg1:T156 Arg2:T157
+R46	Scope Arg1:T158 Arg2:T159
+R47	Scope Arg1:T161 Arg2:T162
+R48	Scope Arg1:T169 Arg2:T170
+R49	Scope Arg1:T171 Arg2:T172
+R50	Scope Arg1:T174 Arg2:T175
+R51	Scope Arg1:T177 Arg2:T178
+R52	Scope Arg1:T182 Arg2:T183
+R53	Scope Arg1:T189 Arg2:T190
+R54	Scope Arg1:T192 Arg2:T193
+R55	Scope Arg1:T199 Arg2:T197
+R56	Scope Arg1:T200 Arg2:T201
+R57	DiscScope Arg1:T208 Arg2:T209
+R58	DiscScope Arg1:T208 Arg2:T207
+R59	Scope Arg1:T210 Arg2:T211
+R60	Scope Arg1:T212 Arg2:T213
+R61	Scope Arg1:T214 Arg2:T215
+R62	Scope Arg1:T216 Arg2:T217
+R63	Scope Arg1:T227 Arg2:T228
+R64	Scope Arg1:T218 Arg2:T219
+R65	Scope Arg1:T225 Arg2:T226
+R66	Scope Arg1:T220 Arg2:T221
+R67	Scope Arg1:T223 Arg2:T224
+R68	Scope Arg1:T238 Arg2:T239
+R69	DiscMarker Arg1:T240 Arg2:T243
+R70	Scope Arg1:T243 Arg2:T241
+R71	Scope Arg1:T245 Arg2:T246
+R72	Scope Arg1:T247 Arg2:T248
+R73	Scope Arg1:T249 Arg2:T250
+R74	Scope Arg1:T256 Arg2:T257
+R75	Scope Arg1:T259 Arg2:T261
+R76	Scope Arg1:T262 Arg2:T264
+R77	Scope Arg1:T266 Arg2:T267
+R78	Scope Arg1:T278 Arg2:T279
+R79	Scope Arg1:T276 Arg2:T277
+R80	Scope Arg1:T269 Arg2:T270
+R81	Scope Arg1:T272 Arg2:T274
+R82	Scope Arg1:T282 Arg2:T283
+R83	Scope Arg1:T280 Arg2:T281
+R84	Scope Arg1:T284 Arg2:T285
+R85	Scope Arg1:T292 Arg2:T293
+R86	Scope Arg1:T297 Arg2:T298
+R87	Scope Arg1:T294 Arg2:T295
+R88	Scope Arg1:T299 Arg2:T300
+R89	Scope Arg1:T311 Arg2:T312
+R90	Scope Arg1:T303 Arg2:T305
+R91	Scope Arg1:T313 Arg2:T315
+R92	Scope Arg1:T318 Arg2:T319
+R93	Scope Arg1:T316 Arg2:T317
+R94	Scope Arg1:T320 Arg2:T321
+R95	Scope Arg1:T322 Arg2:T323
+R96	Scope Arg1:T324 Arg2:T325
+R97	Scope Arg1:T333 Arg2:T334
+R98	Scope Arg1:T326 Arg2:T327
+R99	Scope Arg1:T335 Arg2:T336
+R100	Scope Arg1:T338 Arg2:T340
+R101	Scope Arg1:T341 Arg2:T343
+R102	Scope Arg1:T346 Arg2:T347
+R103	Scope Arg1:T344 Arg2:T345
+R104	Scope Arg1:T349 Arg2:T350
+R105	Scope Arg1:T351 Arg2:T352
+R106	Scope Arg1:T353 Arg2:T354
+R107	Scope Arg1:T356 Arg2:T357

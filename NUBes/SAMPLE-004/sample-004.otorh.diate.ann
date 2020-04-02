@@ -1,0 +1,93 @@
+T1	UncertLexMarker 54 68	no descartamos
+T2	Phrase 69 144	del todo en este lado izquierdo la existencia de un incipiente colesteatoma
+T3	DISO 118 144	un incipiente colesteatoma
+T4	NegSynMarker 241 244	sin
+T5	Phrase 245 284	evidencia de restricción de la difusión
+T6	DISO 258 284	restricción de la difusión
+T7	UncertLexMarker 287 302	compatibles con
+T8	DISO 303 345	lesiones de encefalopatía vascular crónica
+T9	UncertLexMarker 348 359	Orientación
+T10	Phrase 374 402	Sin hallazgos significativos
+T11	NegSynMarker 374 377	Sin
+T12	DISO 378 402	hallazgos significativos
+T13	NegSynMarker 457 460	sin
+T14	Phrase 461 500	administración de contraste intravenoso
+T15	SUBS 479 500	contraste intravenoso
+T16	NegSynMarker 889 892	sin
+T17	SUBS 893 896	CIV
+T18	NegSynMarker 930 933	Sin
+T19	DISO 934 993	aumento de densidad alrededor de las glándulas submaxilares
+T20	UncertLexMarker 1081 1095	No descartamos
+T21	Phrase 1096 1175	un incipiente colesteatoma izquierdo por las razones definidas en el comentario
+T22	DISO 1096 1132	un incipiente colesteatoma izquierdo
+T23	NegSynMarker 1336 1338	no
+T24	Phrase 1339 1389	provoca cambios erosivos en el muro de alojamiento
+T25	DISO 1347 1389	cambios erosivos en el muro de alojamiento
+T26	NegSynMarker 1402 1404	no
+T27	Phrase 1405 1455	provoca desplazamiento de la cadena de huesecillos
+T28	DISO 1413 1455	desplazamiento de la cadena de huesecillos
+T29	UncertLexMarker 1465 1489	altamente compatible con
+T30	DISO 1490 1524	una otitis media crónica izquierda
+T31	UncertLexMarker 1527 1538	Orientación
+T32	NegSynMarker 1553 1556	Sin
+T33	Phrase 1553 1625	Sin evidencia de lesiones retrococleares radiológicamente significativas
+T34	Phrase 1557 1625	evidencia de lesiones retrococleares radiológicamente significativas
+T35	DISO 1570 1625	lesiones retrococleares radiológicamente significativas
+T36	UncertLexMarker 1755 1766	Orientación
+T37	PolItem 1781 1790	Probables
+T38	Phrase 1781 1880	Probables cambios por otitis media crónica bilateral , más evidentes y severos en el lado izquierdo
+T39	DISO 1791 1833	cambios por otitis media crónica bilateral
+T40	UncertLexMarker 2052 2063	Orientación
+T41	DISO 2078 2123	Adenopatía metastásica infraparotídea derecha
+T42	Phrase 2078 2304	Adenopatía metastásica infraparotídea derecha , con infiltración del músculo esternocleidomastoideo , cutaneo del cuello posterior contactando externamente con la glándula submaxilar ipsilateral y de la parótida del mismo lado
+T43	NegSynMarker 2373 2376	sin
+T44	DISO 2377 2404	alteraciones significativas
+T45	NegSynMarker 2595 2598	sin
+T46	Phrase 2599 2647	evidencia de cambios erosivos a nivel de escudoL
+T47	DISO 2612 2647	cambios erosivos a nivel de escudoL
+T48	DISO 2700 2708	relación
+T49	UncertLexMarker 2709 2717	probable
+T50	DISO 2718 2766	con incipientes cambios por otitis media crónica
+T51	NegSynMarker 2781 2783	No
+T52	Phrase 2784 2869	se aprecian engrosamientos a nivel de nervios estatoacústicos que sugieran neurinomas
+T53	DISO 2796 2869	engrosamientos a nivel de nervios estatoacústicos que sugieran neurinomas
+T54	NegSynMarker 2872 2874	No
+T55	Phrase 2875 2925	se observan otras adenopatías de tamaño patológico
+T56	DISO 2887 2925	otras adenopatías de tamaño patológico
+T57	UncertLexMarker 3062 3076	Compatilbe con
+T58	DISO 3077 3098	Carcinoma epidermoide
+T59	UncertLexMarker 3194 3209	compatibles con
+T60	DISO 3210 3230	leucomalacia crónica
+T61	NegSynMarker 3753 3756	sin
+T62	Phrase 3757 3766	y con CIV
+T63	SUBS 3763 3766	CIV
+T64	NegSynMarker 3853 3856	Sin
+T65	Phrase 3857 3992	evidencia de erosión del muro del alojamiento , de la cortical del conducto semicircular lateral ni del tegmen timpani , bilateralmente
+T66	DISO 3870 3975	erosión del muro del alojamiento , de la cortical del conducto semicircular lateral ni del tegmen timpani
+T67	CoordItem 3954 3956	ni
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T31 Arg2:T33
+R14	Scope Arg1:T32 Arg2:T34
+R15	Scope Arg1:T36 Arg2:T38
+R16	Scope Arg1:T40 Arg2:T42
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T45 Arg2:T46
+R19	DiscScope Arg1:T49 Arg2:T50
+R20	DiscScope Arg1:T49 Arg2:T48
+R21	Scope Arg1:T51 Arg2:T52
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T64 Arg2:T65

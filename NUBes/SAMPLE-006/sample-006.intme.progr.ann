@@ -1,0 +1,286 @@
+T1	UncertLexMarker 381 389	probable
+T2	DISO 390 411	componente aspirativo
+T3	NegLexMarker 728 739	se suspende
+T4	SUBS 740 755	anticoagulación
+T5	UncertLexMarker 961 969	probable
+T6	Phrase 970 1069	que guarde relación con la colelitiasis y colecistitis de la que fué tratada en un ingreso anterior
+T7	DISO 981 1069	relación con la colelitiasis y colecistitis de la que fué tratada en un ingreso anterior
+T8	NegSynMarker 1323 1326	sin
+T9	OTHER 1327 1332	exito
+T10	NegLexMarker 1646 1655	abandonar
+T11	Phrase 1656 1691	definitivamente el hábito tabaquico
+T12	PolItem 1656 1671	definitivamente
+T13	OTHER 1672 1691	el hábito tabaquico
+T14	NegMorMarker 1778 1785	afebril
+T15	NegMorMarker 1788 1800	asintomatica
+T16	NegLexMarker 2124 2133	se retira
+T17	Phrase 2134 2165	el tratamiento con acenocumarol
+T18	SUBS 2153 2165	acenocumarol
+T19	UncertLexMarker 2538 2552	compatible con
+T20	DISO 2553 2575	los datos radiológicos
+T21	NegSynMarker 2998 3000	NO
+T22	DISO 3001 3014	significativa
+T23	NegSynMarker 3017 3020	sin
+T24	DISO 3021 3063	signos indirectos de cardiopatia isquemica
+T25	NegMorMarker 3263 3275	asintomático
+T26	NegMorMarker 3278 3285	afebril
+T27	NegSynMarker 4424 4426	no
+T28	OTHER 4427 4439	la indicamos
+T29	UncertLexMarker 4442 4449	Creemos
+T30	Phrase 4450 4490	que no hay buen cumplimiento terapeutico
+T31	NegSynMarker 4454 4456	no
+T32	OTHER 4457 4490	hay buen cumplimiento terapeutico
+T33	PROC 4691 4707	La expectoración
+T34	NegLexMarker 4712 4723	inexistente
+T35	NegSynMarker 4735 4737	no
+T36	Phrase 4738 4771	se pudo conseguir esputo inducido
+T37	PROC 4746 4771	conseguir esputo inducido
+T38	OTHER 4836 4871	La obtención de esputo para cultivo
+T39	NegLexMarker 4876 4885	imposible
+T40	NegSynMarker 4890 4892	no
+T41	OTHER 4893 4915	expectorar la paciente
+T42	Phrase 5091 5134	Los resultados de urocultivo y hemocultivos
+T43	DISO 5109 5119	urocultivo
+T44	DISO 5122 5134	hemocultivos
+T45	NegLexMarker 5142 5151	negativos
+T46	NegSynMarker 5538 5541	sin
+T47	DISO 5542 5548	fiebre
+T48	UncertLexMarker 5551 5559	Pensamos
+T49	Phrase 5560 5626	que en las próximas semanas puede recuperer su autonomia funcional
+T50	OTHER 5594 5626	recuperer su autonomia funcional
+T51	PROC 5849 5873	ultimos controles de SOH
+T52	NegLexMarker 5878 5887	negativos
+T53	UncertLexMarker 6415 6429	compatible con
+T54	DISO 6430 6448	pericarditis aguda
+T55	DISO 6643 6657	fiebre elevada
+T56	NegLexMarker 6683 6687	cede
+T57	NegSynMarker 6898 6901	sin
+T58	DISO 6902 6908	fiebre
+T59	PROC 6957 6981	reactantes inflamatorios
+T60	NegLexMarker 6982 6991	negativos
+T61	UncertLexMarker 7359 7367	probable
+T62	DISO 7368 7427	relacion a los procesos infecciosos y tratamiento esteroide
+T63	NegSynMarker 7685 7687	no
+T64	OTHER 7688 7741	se confirman con los estudios radiologicos realizados
+T65	NegSynMarker 7771 7774	sin
+T66	Phrase 7775 7806	haber hallado causa de la misma
+T67	OTHER 7781 7806	hallado causa de la misma
+T68	PROC 8209 8233	la citologia del liquido
+T69	NegLexMarker 8237 8245	negativa
+T70	UncertLexMarker 8470 8478	Probable
+T71	DISO 8479 8507	arteriopatia en EID asociada
+T72	NegLexMarker 8581 8595	hemos retirado
+T73	Phrase 8596 8675	el tratamiento que la paciente venía siguiendo con Tramadol con buena evolución
+T74	SUBS 8647 8655	Tramadol
+T75	NegSynMarker 8819 8821	no
+T76	Phrase 8822 8851	presentó otras complicaciones
+T77	DISO 8831 8851	otras complicaciones
+T78	UncertLexMarker 8969 8980	sospecha de
+T79	DISO 8981 9009	hipernefroma renal izquierdo
+T80	UncertLexMarker 9014 9021	valorar
+T81	Phrase 9022 9139	la posibilidad remota de pielonefritis dada la afectación difusa del resto del riñón y la clínica febril del paciente
+T82	PolItem 9037 9043	remota
+T83	DISO 9047 9060	pielonefritis
+T84	NegLexMarker 9693 9701	cediendo
+T85	DISO 9702 9711	la fiebre
+T86	DISO 9863 9880	fiebre hasta 38ºC
+T87	UncertLexMarker 9918 9926	creeemos
+T88	DISO 9927 9967	en relacion a la fuerte carga bacilifera
+T89	NegLexMarker 10730 10741	retirada de
+T90	SUBS 10742 10754	acenocumarol
+T91	NegMorMarker 11316 11328	asintomático
+T92	NegSynMarker 11331 11334	sin
+T93	DISO 11335 11350	dolor abdominal
+T94	UncertLexMarker 11400 11414	compatible con
+T95	DISO 11415 11419	SAOS
+T96	DISO 11709 11725	el cuadro febril
+T97	NegLexMarker 11726 11735	ha cedido
+T98	Phrase 11736 11753	en estos momentos
+T99	NegSynMarker 12169 12171	No
+T100	Phrase 12172 12204	realizaremos nuevas exploaciones
+T101	PROC 12185 12204	nuevas exploaciones
+T102	NegSynMarker 12405 12408	sin
+T103	Phrase 12409 12434	signos de sangrado activo
+T104	DISO 12419 12434	sangrado activo
+T105	NegMorMarker 12571 12578	afebril
+T106	NegLexMarker 12761 12775	hemos retirado
+T107	SUBS 12776 12785	enalapril
+T108	Phrase 12776 12803	enalapril de su tratamiento
+T109	NegSynMarker 13248 13250	No
+T110	Phrase 13251 13277	volvió a presentar vómitos
+T111	DISO 13270 13277	vómitos
+T112	NegLexMarker 13924 13935	retirada de
+T113	SUBS 13936 13952	todo nefrotóxico
+T114	NegSynMarker 14052 14054	no
+T115	Phrase 14055 14107	hemos terminado de completar el estudio mediante TAC
+T116	PROC 14104 14107	TAC
+T117	PROC 14122 14147	la sangre oculta en heces
+T118	NegLexMarker 14152 14160	negativa
+T119	UncertLexMarker 14173 14179	parece
+T120	DISO 14180 14204	de origen multifactorial
+T121	NegLexMarker 14265 14274	retiramos
+T122	Phrase 14275 14336	el tratamiento con acenocumarol que el paciente venía tomando
+T123	SUBS 14294 14306	acenocumarol
+T124	NegSynMarker 14432 14434	no
+T125	Phrase 14435 14465	volvió a presentar rectorragia
+T126	DISO 14454 14465	rectorragia
+T127	NegSynMarker 14484 14491	tampoco
+T128	Phrase 14492 14530	se apreciaron alteraciones importantes
+T129	DISO 14506 14530	alteraciones importantes
+T130	NegLexMarker 14723 14731	falta de
+T131	OTHER 14732 14751	ingesta de liquidos
+T132	UncertLexMarker 15063 15071	probable
+T133	DISO 15072 15152	neoformacion pancretica con metastasis hepáticas y adenopatias en tronco celiaco
+T134	NegSynMarker 15526 15529	sin
+T135	Phrase 15530 15549	bloqueo ni sintomas
+T136	DISO 15530 15537	bloqueo
+T137	CoordItem 15538 15540	ni
+T138	DISO 15541 15549	sintomas
+T139	NegLexMarker 15599 15605	impide
+T140	Phrase 15606 15637	de momento añadir B-bloqueantes
+T141	OTHER 15617 15637	añadir B-bloqueantes
+T142	NegSynMarker 15640 15642	No
+T143	DISO 15643 15659	disnea de reposo
+T144	NegSynMarker 15740 15743	sin
+T145	DISO 15744 15750	disnea
+T146	Phrase 15753 15793	Antigeno legionella y neumococo en orina
+T147	PROC 15753 15772	Antigeno legionella
+T148	PROC 15775 15793	neumococo en orina
+T149	NegLexMarker 15801 15810	negativos
+T150	PROC 15824 15850	ecodoppler de extremidades
+T151	NegLexMarker 15863 15871	negativo
+T152	Phrase 15872 15902	para trombosis venosa profunda
+T153	NegSynMarker 17079 17082	sin
+T154	Phrase 17083 17102	signos de celulitis
+T155	DISO 17093 17102	celulitis
+T156	PROC 17142 17173	tomas en ingles y fosas nasales
+T157	NegLexMarker 17183 17192	negativas
+T158	NegSynMarker 17195 17198	sin
+T159	Phrase 17199 17222	tratamiento antibiótico
+T160	SUBS 17211 17222	antibiótico
+T161	UncertLexMarker 17640 17653	Se interpretó
+T162	Phrase 17654 17781	el cuadro de la paciente como de entrada en insuficiencia cardiaca agravado por empeoramiento de su anemia crónica por sangrado
+T163	DISO 17687 17720	entrada en insuficiencia cardiaca
+T164	NegSynMarker 18405 18407	NO
+T165	Phrase 18408 18503	tratamiento rehabilitador del hombro hasta pasados 15 dias a partir de la fecha de este informe
+T166	PROC 18408 18444	tratamiento rehabilitador del hombro
+T167	NegLexMarker 18609 18620	retirada de
+T168	PROC 18621 18644	tratamiento nefrotoxico
+T169	UncertLexMarker 19274 19282	probable
+T170	DISO 19283 19316	relación a la insuficiencia renal
+T171	NegLexMarker 19337 19346	retiramos
+T172	SUBS 19347 19363	dicha medicación
+T173	NegSynMarker 19696 19698	no
+T174	DISO 19699 19726	conocida hasta este ingreso
+T175	NegSynMarker 19996 19999	sin
+T176	DISO 20000 20016	disnea en reposo
+T177	UncertLexMarker 20398 20406	posibles
+T178	OTHER 20407 20426	efectos secundarios
+T179	Phrase 20407 20475	efectos secundarios de una eventual caida u otros riesgos-beneficios
+T180	UncertLexMarker 20810 20825	compatibles con
+T181	DISO 20826 20844	neoplasia gastrica
+T182	UncertLexMarker 20847 20854	Creemos
+T183	Phrase 20855 20978	que es una paciente para limitación del esfuerzo terapéutico de cara a tratamiento tipo ventilacion mecánica y hemodialisis
+T184	OTHER 20866 20978	paciente para limitación del esfuerzo terapéutico de cara a tratamiento tipo ventilacion mecánica y hemodialisis
+T185	NegSynMarker 21355 21357	no
+T186	Phrase 21358 21382	presenta sangrado activo
+T187	DISO 21367 21382	sangrado activo
+T188	UncertLexMarker 21772 21780	probable
+T189	DISO 21781 21827	demencia asociada a su transtorno psiquiátrico
+T190	NegSynMarker 23016 23018	no
+T191	Phrase 23019 23122	presentaba signos meningeos ni datos de encefalopatía hepática ni dolor abdominal ni sangrado digestivo
+T192	DISO 23030 23046	signos meningeos
+T193	CoordItem 23047 23049	ni
+T194	DISO 23059 23081	encefalopatía hepática
+T195	CoordItem 23082 23084	ni
+T196	DISO 23085 23100	dolor abdominal
+T197	CoordItem 23101 23103	ni
+T198	DISO 23104 23122	sangrado digestivo
+T199	NegMorMarker 23322 23329	afebril
+T200	NegLexMarker 24364 24372	retirado
+T201	PROC 24373 24389	los tratamientos
+T202	NegMorMarker 24707 24714	afebril
+T203	NegLexMarker 24722 24733	retirada de
+T204	SUBS 24734 24741	sintrom
+T205	UncertLexMarker 24838 24852	compatible con
+T206	SUBS 24853 24860	exudado
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T34 Arg2:T33
+R15	Scope Arg1:T39 Arg2:T38
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T45 Arg2:T42
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T52 Arg2:T51
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T56 Arg2:T55
+R23	Scope Arg1:T60 Arg2:T59
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T63 Arg2:T64
+R28	Scope Arg1:T69 Arg2:T68
+R29	Scope Arg1:T70 Arg2:T71
+R30	Scope Arg1:T72 Arg2:T73
+R31	Scope Arg1:T75 Arg2:T76
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T78 Arg2:T79
+R34	Scope Arg1:T84 Arg2:T85
+R35	DiscScope Arg1:T87 Arg2:T88
+R36	DiscScope Arg1:T87 Arg2:T86
+R37	Scope Arg1:T89 Arg2:T90
+R38	Scope Arg1:T92 Arg2:T93
+R39	Scope Arg1:T94 Arg2:T95
+R40	DiscScope Arg1:T97 Arg2:T98
+R41	DiscScope Arg1:T97 Arg2:T96
+R42	Scope Arg1:T99 Arg2:T100
+R43	Scope Arg1:T102 Arg2:T103
+R44	Scope Arg1:T106 Arg2:T108
+R45	Scope Arg1:T109 Arg2:T110
+R46	Scope Arg1:T118 Arg2:T117
+R47	Scope Arg1:T114 Arg2:T115
+R48	Scope Arg1:T119 Arg2:T120
+R49	Scope Arg1:T112 Arg2:T113
+R50	Scope Arg1:T121 Arg2:T122
+R51	Scope Arg1:T127 Arg2:T128
+R52	Scope Arg1:T124 Arg2:T125
+R53	Scope Arg1:T130 Arg2:T131
+R54	Scope Arg1:T132 Arg2:T133
+R55	Scope Arg1:T139 Arg2:T140
+R56	Scope Arg1:T134 Arg2:T135
+R57	Scope Arg1:T142 Arg2:T143
+R58	Scope Arg1:T144 Arg2:T145
+R59	Scope Arg1:T149 Arg2:T146
+R60	DiscScope Arg1:T151 Arg2:T150
+R61	DiscScope Arg1:T151 Arg2:T152
+R62	Scope Arg1:T157 Arg2:T156
+R63	Scope Arg1:T153 Arg2:T154
+R64	Scope Arg1:T158 Arg2:T159
+R65	Scope Arg1:T161 Arg2:T162
+R66	Scope Arg1:T164 Arg2:T165
+R67	Scope Arg1:T167 Arg2:T168
+R68	Scope Arg1:T169 Arg2:T170
+R69	Scope Arg1:T171 Arg2:T172
+R70	Scope Arg1:T173 Arg2:T174
+R71	Scope Arg1:T175 Arg2:T176
+R72	Scope Arg1:T177 Arg2:T179
+R73	Scope Arg1:T180 Arg2:T181
+R74	Scope Arg1:T182 Arg2:T183
+R75	Scope Arg1:T185 Arg2:T186
+R76	Scope Arg1:T188 Arg2:T189
+R77	Scope Arg1:T190 Arg2:T191
+R78	Scope Arg1:T200 Arg2:T201
+R79	Scope Arg1:T203 Arg2:T204
+R80	Scope Arg1:T205 Arg2:T206

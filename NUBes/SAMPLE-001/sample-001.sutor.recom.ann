@@ -1,0 +1,3 @@
+T1	NegSynMarker 29 31	NO
+T2	OTHER 32 37	FUMAR
+R1	Scope Arg1:T1 Arg2:T2

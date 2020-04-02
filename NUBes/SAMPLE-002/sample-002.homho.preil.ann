@@ -1,0 +1,126 @@
+T1	NegSynMarker 15 18	sin
+T2	DISO 19 30	incidencias
+T3	NegSynMarker 111 113	No
+T4	Phrase 114 154	se le ha administrado ningún tratamiento
+T5	PolItem 136 142	ningún
+T6	SUBS 143 154	tratamiento
+T7	NegSynMarker 157 159	No
+T8	DISO 160 166	fiebre
+T9	NegSynMarker 167 169	no
+T10	DISO 170 192	clínica constitucional
+T11	NegSynMarker 195 197	no
+T12	DISO 198 221	otros síntomas añadidos
+T13	NegSynMarker 388 390	No
+T14	DISO 391 415	líquido libre peritoneal
+T15	NegLexMarker 971 983	suspendiendo
+T16	Phrase 984 1042	además la Amiodarona por el sindrome intersicial bilateral
+T17	SUBS 991 1004	la Amiodarona
+T18	NegSynMarker 1129 1132	sin
+T19	DISO 1133 1145	leucocitosis
+T20	NegMorMarker 1709 1721	asintomático
+T21	NegSynMarker 1758 1761	sin
+T22	Phrase 1762 1823	dolor torácico ni signos o síntomas de insuficiencia cardíaca
+T23	DISO 1762 1776	dolor torácico
+T24	CoordItem 1777 1779	ni
+T25	DISO 1801 1823	insuficiencia cardíaca
+T26	NegSynMarker 1967 1969	No
+T27	Phrase 1970 2023	se observan hallazgos compatibles con sangrado activo
+T28	DISO 1982 2023	hallazgos compatibles con sangrado activo
+T29	UncertLexMarker 2145 2153	posibles
+T30	DISO 2154 2162	opciones
+T31	NegLexMarker 2237 2248	se descarta
+T32	DISO 2249 2275	hemorragia retroperitoneal
+T33	Phrase 2249 2295	hemorragia retroperitoneal y/o sangrado activo
+T34	CoordItem 2276 2279	y/o
+T35	DISO 2280 2295	sangrado activo
+T36	NegSynMarker 2298 2300	No
+T37	DISO 2301 2331	derrame pleural ni pericárdico
+T38	CoordItem 2317 2319	ni
+T39	NegSynMarker 2334 2336	No
+T40	DISO 2337 2363	sintomatología acompañante
+T41	NegSynMarker 2378 2380	no
+T42	Phrase 2381 2411	refiere sintomatología añadida
+T43	DISO 2389 2411	sintomatología añadida
+T44	NegSynMarker 2583 2585	no
+T45	Phrase 2586 2623	se realizan más pruebas complementari
+T46	PROC 2598 2623	más pruebas complementari
+T47	NegSynMarker 2846 2849	sin
+T48	DISO 2850 2877	alteraciones significativas
+T49	UncertLexMarker 2959 2967	PROBABLE
+T50	DISO 2968 2983	E. BARRET CORTO
+T51	NegSynMarker 3290 3293	sin
+T52	DISO 3294 3301	mejoría
+T53	NegSynMarker 3373 3375	no
+T54	Phrase 3376 3392	sugestiva de ICT
+T55	DISO 3389 3392	ICT
+T56	NegSynMarker 3412 3414	no
+T57	Phrase 3415 3429	presenta dolor
+T58	DISO 3424 3429	dolor
+T59	NegSynMarker 3444 3447	sin
+T60	DISO 3448 3455	cambios
+T61	NegSynMarker 3832 3834	No
+T62	DISO 3835 3925	adenopatías retroperitoneales , mesentéricas , pélvicas ni inguinales de tamaño patológico
+T63	CoordItem 3891 3893	ni
+T64	NegSynMarker 3948 3951	sin
+T65	DISO 3952 3968	nuevos episodios
+T66	UncertLexMarker 4048 4056	posibles
+T67	DISO 4057 4075	causas de sangrado
+T68	DISO 4076 4100	una complicación postCNG
+T69	UncertSynMarker 4101 4102	o
+T70	DISO 4103 4136	una patología de origen digestivo
+T71	NegSynMarker 4666 4669	sin
+T72	DISO 4670 4681	incidencias
+T73	NegLexMarker 4810 4820	desestiman
+T74	Phrase 4821 4861	actulamente la realización de endoscopia
+T75	PROC 4851 4861	endoscopia
+T76	NegSynMarker 4999 5001	No
+T77	DISO 5002 5058	clínica digestiva , respiratoria ni cardíaca acompañante
+T78	CoordItem 5035 5037	ni
+T79	NegLexMarker 5241 5251	suspendido
+T80	Phrase 5252 5289	dicho tratamiento con buena respuesta
+T81	NegSynMarker 5454 5457	sin
+T82	Phrase 5458 5514	repercución hemodinámica ni intensificación de la anemia
+T83	DISO 5458 5482	repercución hemodinámica
+T84	CoordItem 5483 5485	ni
+T85	DISO 5486 5514	intensificación de la anemia
+T86	UncertLexMarker 5563 5571	PROBABLE
+T87	DISO 5572 5599	POLIPOSIS GLANDULAR FUNDICA
+T88	PROC 5992 6010	el cultivo dérmico
+T89	NegLexMarker 6011 6019	negativo
+T90	NegSynMarker 6039 6042	sin
+T91	DISO 6043 6070	alteraciones significativas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T33
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T59 Arg2:T60
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T64 Arg2:T65
+R25	DiscScope Arg1:T69 Arg2:T70
+R26	DiscScope Arg1:T69 Arg2:T68
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T71 Arg2:T72
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T79 Arg2:T80
+R32	Scope Arg1:T86 Arg2:T87
+R33	Scope Arg1:T81 Arg2:T82
+R34	Scope Arg1:T89 Arg2:T88
+R35	Scope Arg1:T90 Arg2:T91

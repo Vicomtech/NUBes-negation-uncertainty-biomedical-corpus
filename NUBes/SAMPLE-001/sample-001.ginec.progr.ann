@@ -1,0 +1,38 @@
+T1	Phrase 171 210	urocultivo por sd miccional que resulta
+T2	PROC 171 198	urocultivo por sd miccional
+T3	NegLexMarker 211 219	negativo
+T4	NegSynMarker 319 321	No
+T5	Phrase 322 357	se visualiza imagen renal izquierda
+T6	OTHER 335 357	imagen renal izquierda
+T7	NegSynMarker 400 403	sin
+T8	DISO 404 418	complicaciones
+T9	UncertLexMarker 465 473	probable
+T10	Phrase 474 525	relacion a edema pumonar por sobrecarga de liquidos
+T11	DISO 485 525	edema pumonar por sobrecarga de liquidos
+T12	NegSynMarker 558 560	no
+T13	Phrase 561 580	precisa tratamiento
+T14	PROC 569 580	tratamiento
+T15	NegSynMarker 921 924	sin
+T16	DISO 925 931	anemia
+T17	UncertLexMarker 1019 1027	Probable
+T18	DISO 1028 1043	íleo paralítico
+T19	NegSynMarker 1348 1350	No
+T20	Phrase 1351 1388	ha vuelo a presentar sangrado vaginal
+T21	DISO 1372 1388	sangrado vaginal
+T22	NegSynMarker 1425 1428	sin
+T23	DISO 1429 1435	disnea
+T24	NegSynMarker 1826 1828	NO
+T25	DISO 1829 1845	dolor espontaneo
+T26	NegSynMarker 1846 1848	No
+T27	DISO 1849 1882	dolor a lapalpacion en epigastrio
+R1	Scope Arg1:T3 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T24 Arg2:T25

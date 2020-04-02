@@ -1,0 +1,3 @@
+T1	NegSynMarker 757 760	sin
+T2	DISO 761 796	objetivarse un vaso arterial activo
+R1	Scope Arg1:T1 Arg2:T2

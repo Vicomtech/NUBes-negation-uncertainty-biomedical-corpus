@@ -1,0 +1,113 @@
+T1	UncertLexMarker 47 57	Se planteo
+T2	PROC 58 72	turbinoplastia
+T3	NegSynMarker 98 100	no
+T4	DISO 101 116	cefalea matinal
+T5	NegSynMarker 119 121	No
+T6	OTHER 122 139	tolera la maquina
+T7	UncertLexMarker 147 161	compatible con
+T8	DISO 162 172	adenopatia
+T9	NegSynMarker 204 207	sin
+T10	DISO 208 237	mejoría funcional ni estética
+T11	CoordItem 226 228	ni
+T12	UncertLexMarker 286 293	valorar
+T13	DISO 294 313	adenoamigdalectomia
+T14	NegSynMarker 704 706	No
+T15	DISO 707 715	disfonia
+T16	NegSynMarker 718 720	no
+T17	DISO 721 727	disnea
+T18	NegSynMarker 967 969	no
+T19	DISO 970 978	alergias
+T20	NegSynMarker 980 982	no
+T21	DISO 983 991	hiposmia
+T22	NegSynMarker 1051 1053	No
+T23	DISO 1054 1065	amigdalitis
+T24	NegSynMarker 1068 1070	no
+T25	DISO 1071 1077	otitis
+T26	NegSynMarker 1080 1082	no
+T27	DISO 1083 1099	apneas nocturnas
+T28	NegSynMarker 1300 1302	No
+T29	DISO 1303 1316	odinodisfagia
+T30	NegSynMarker 1319 1321	no
+T31	DISO 1322 1328	disnea
+T32	NegMorMarker 1669 1682	Insuficiencia
+T33	NegSynMarker 1899 1901	no
+T34	Phrase 1902 1933	tiene problemas para pronunciar
+T35	DISO 1908 1933	problemas para pronunciar
+T36	NegSynMarker 1977 1979	No
+T37	DISO 1980 1993	odinodisfagia
+T38	NegSynMarker 1996 1998	no
+T39	DISO 1999 2005	disnea
+T40	NegMorMarker 2093 2103	Ex-fumador
+T41	UncertLexMarker 2209 2223	compatible con
+T42	DISO 2224 2254	enfermedad por arañazo de gato
+T43	UncertLexMarker 2315 2322	valorar
+T44	PROC 2323 2353	resección del frenillo lingual
+T45	NegSynMarker 2397 2399	No
+T46	OTHER 2400 2423	criterios de malignidad
+T47	NegSynMarker 2466 2468	no
+T48	Phrase 2469 2484	conoce alergias
+T49	DISO 2476 2484	alergias
+T50	NegSynMarker 2553 2555	No
+T51	DISO 2556 2560	asma
+T52	NegSynMarker 2642 2644	No
+T53	DISO 2645 2668	antecedentes de alergia
+T54	NegSynMarker 2743 2745	No
+T55	Phrase 2746 2778	tiene dificultades en la escuela
+T56	NegSynMarker 2921 2923	No
+T57	DISO 2924 2935	picor nasal
+T58	NegSynMarker 2938 2940	no
+T59	DISO 2941 2951	estornudos
+T60	NegSynMarker 2954 2956	no
+T61	DISO 2957 2966	epistaxis
+T62	NegSynMarker 3163 3165	No
+T63	DISO 3166 3191	amigdalitis de repetición
+T64	NegSynMarker 3194 3196	no
+T65	DISO 3197 3203	apneas
+T66	NegSynMarker 3206 3208	no
+T67	DISO 3209 3212	IRN
+T68	NegSynMarker 3466 3468	No
+T69	DISO 3469 3487	patología catarral
+T70	NegSynMarker 3490 3492	no
+T71	DISO 3493 3503	bronquitis
+T72	NegSynMarker 3506 3508	no
+T73	DISO 3509 3516	pirosis
+T74	NegSynMarker 3732 3734	no
+T75	PROC 3735 3743	se opero
+T76	UncertLexMarker 4064 4071	valorar
+T77	DISO 4072 4091	adenoamigdalectomia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T22 Arg2:T23
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T28 Arg2:T29
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T36 Arg2:T37
+R19	Scope Arg1:T41 Arg2:T42
+R20	Scope Arg1:T43 Arg2:T44
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T47 Arg2:T48
+R23	Scope Arg1:T50 Arg2:T51
+R24	Scope Arg1:T52 Arg2:T53
+R25	Scope Arg1:T54 Arg2:T55
+R26	Scope Arg1:T58 Arg2:T59
+R27	Scope Arg1:T56 Arg2:T57
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T64 Arg2:T65
+R30	Scope Arg1:T62 Arg2:T63
+R31	Scope Arg1:T66 Arg2:T67
+R32	Scope Arg1:T70 Arg2:T71
+R33	Scope Arg1:T68 Arg2:T69
+R34	Scope Arg1:T72 Arg2:T73
+R35	Scope Arg1:T74 Arg2:T75
+R36	Scope Arg1:T76 Arg2:T77

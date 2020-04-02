@@ -1,0 +1,117 @@
+T1	NegSynMarker 793 811	ninguna de las dos
+T2	OTHER 812 842	resulta completamente efectiva
+T3	NegSynMarker 1236 1239	sin
+T4	Phrase 1240 1269	observarse zonas obstructivas
+T5	DISO 1251 1269	zonas obstructivas
+T6	UncertLexMarker 1272 1278	podría
+T7	Phrase 1279 1309	tratarse de un dolicomegacolon
+T8	DISO 1294 1309	dolicomegacolon
+T9	NegSynMarker 1368 1371	sin
+T10	DISO 1372 1377	dolor
+T11	NegSynMarker 1481 1484	Sin
+T12	Phrase 1485 1529	observarse adenopatías pélvicas o inguinales
+T13	DISO 1496 1529	adenopatías pélvicas o inguinales
+T14	NegSynMarker 1603 1606	sin
+T15	Phrase 1607 1641	que se evidencien lesiones focales
+T16	DISO 1625 1641	lesiones focales
+T17	NegSynMarker 1749 1752	sin
+T18	Phrase 1753 1780	datos de IC en este momento
+T19	OTHER 1753 1764	datos de IC
+T20	NegSynMarker 2155 2157	no
+T21	Phrase 2158 2186	visto en TAC previo del 2020
+T22	OTHER 2158 2177	visto en TAC previo
+T23	UncertLexMarker 2265 2276	sospecha de
+T24	DISO 2277 2292	evolución aguda
+T25	NegSynMarker 2363 2366	sin
+T26	DISO 2367 2379	alteraciones
+T27	NegSynMarker 3137 3140	sin
+T28	Phrase 3141 3184	la administración de contraste por vía oral
+T29	SUBS 3162 3184	contraste por vía oral
+T30	NegSynMarker 3206 3209	sin
+T31	SUBS 3210 3231	contraste intravenoso
+T32	NegSynMarker 3528 3530	no
+T33	Phrase 3531 3558	se captan flujos vasculares
+T34	DISO 3541 3558	flujos vasculares
+T35	UncertLexMarker 3561 3567	podría
+T36	Phrase 3568 3639	estar en relación con las placas ateromatosas y/o importantes estenosis
+T37	DISO 3590 3613	las placas ateromatosas
+T38	CoordItem 3614 3617	y/o
+T39	DISO 3630 3639	estenosis
+T40	NegSynMarker 4003 4006	Sin
+T41	SUBS 4007 4023	líquido ascítico
+T42	NegSynMarker 4240 4242	no
+T43	Phrase 4243 4290	precisa de Tratamiento Hospitalario a Domicilio
+T44	OTHER 4254 4290	Tratamiento Hospitalario a Domicilio
+T45	NegSynMarker 4326 4328	No
+T46	Phrase 4329 4398	refieren cambios en cuanto a sensibilidad y capacidad motora habitual
+T47	DISO 4338 4398	cambios en cuanto a sensibilidad y capacidad motora habitual
+T48	NegSynMarker 4465 4467	no
+T49	OTHER 4468 4548	consideramos al paciente candidato a ingreso en nuestro servicio en este momento
+T50	NegSynMarker 4900 4902	no
+T51	OTHER 4903 4927	se veía en el TAC previo
+T52	Phrase 4903 4941	se veía en el TAC previo de 20-11-2020
+T53	UncertLexMarker 4948 4954	podría
+T54	Phrase 4955 5006	estar en relación con fractura-plastamiento benigna
+T55	DISO 4977 5006	fractura-plastamiento benigna
+T56	UncertLexMarker 5019 5030	sospecha de
+T57	DISO 5031 5046	evolución aguda
+T58	NegSynMarker 5088 5091	sin
+T59	Phrase 5092 5124	hallazgos de estenosis del canal
+T60	DISO 5105 5124	estenosis del canal
+T61	UncertLexMarker 5190 5200	improbable
+T62	DISO 5201 5204	neo
+T63	NegSynMarker 5271 5274	Sin
+T64	DISO 5275 5320	adenopatías retroperitoneales ni mesentéricas
+T65	CoordItem 5305 5307	ni
+T66	NegSynMarker 5788 5790	no
+T67	DISO 5791 5801	controlado
+T68	NegLexMarker 5842 5852	Suspendida
+T69	SUBS 5853 5863	metformina
+T70	NegSynMarker 6189 6191	No
+T71	DISO 6192 6220	dolor específico en zona T11
+T72	UncertLexMarker 6284 6290	podría
+T73	OTHER 6291 6297	ayudar
+T74	UncertLexMarker 6528 6541	Probablemente
+T75	Phrase 6542 6629	se trate de Fractura aguda/Subaguda T11 asociado a cambios degenerativos dorso-lumbares
+T76	DISO 6554 6581	Fractura aguda/Subaguda T11
+T77	UncertLexMarker 6649 6657	Probable
+T78	DISO 6658 6673	dolicomegacolon
+T79	NegSynMarker 6966 6969	Sin
+T80	Phrase 6970 7027	evidencia de derrames pleurales ni de derrame pericárdico
+T81	DISO 6983 7001	derrames pleurales
+T82	CoordItem 7002 7004	ni
+T83	DISO 7008 7027	derrame pericárdico
+T84	UncertLexMarker 7289 7295	podría
+T85	OTHER 7296 7302	ayudar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T42 Arg2:T43
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T48 Arg2:T49
+R19	Scope Arg1:T50 Arg2:T52
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T58 Arg2:T59
+R22	Scope Arg1:T53 Arg2:T54
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T70 Arg2:T71
+R28	Scope Arg1:T72 Arg2:T73
+R29	Scope Arg1:T74 Arg2:T75
+R30	Scope Arg1:T77 Arg2:T78
+R31	Scope Arg1:T79 Arg2:T80
+R32	Scope Arg1:T84 Arg2:T85

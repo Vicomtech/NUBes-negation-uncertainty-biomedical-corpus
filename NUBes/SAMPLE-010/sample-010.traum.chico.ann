@@ -1,0 +1,6 @@
+T1	NegSynMarker 327 330	sin
+T2	DISO 331 351	compromiso radicular
+T3	NegLexMarker 530 546	desaparicion del
+T4	DISO 547 553	quiste
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

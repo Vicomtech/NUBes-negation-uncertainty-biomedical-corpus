@@ -1,0 +1,75 @@
+T1	NegSynMarker 79 81	no
+T2	DISO 82 91	corregida
+T3	NegLexMarker 132 142	se retiran
+T4	OTHER 143 165	drenajes mediastínicos
+T5	NegSynMarker 166 169	sin
+T6	DISO 170 181	incidencias
+T7	NegMorMarker 269 276	afebril
+T8	NegSynMarker 312 315	sin
+T9	DISO 316 321	dolor
+T10	NegLexMarker 1227 1232	Niega
+T11	DISO 1233 1236	DPN
+T12	Phrase 1233 1245	DPN y edemas
+T13	CoordItem 1237 1238	y
+T14	DISO 1239 1245	edemas
+T15	NegMorMarker 1526 1533	afebril
+T16	NegSynMarker 1574 1576	no
+T17	DISO 1577 1633	es capaz de subir más de un piso de escaleras por fatiga
+T18	UncertLexMarker 2198 2208	sin claras
+T19	DISO 2209 2216	melenas
+T20	Phrase 2321 2388	Embolismos e infartos secundarios cerebrales , esplénicos y renales
+T21	DISO 2321 2331	Embolismos
+T22	CoordItem 2332 2333	e
+T23	DISO 2334 2388	infartos secundarios cerebrales , esplénicos y renales
+T24	CoordItem 2379 2380	y
+T25	UncertLexMarker 2391 2400	A valorar
+T26	NegLexMarker 2460 2465	Niega
+T27	DISO 2466 2473	síncope
+T28	Phrase 2466 2486	síncope y hemoptisis
+T29	CoordItem 2474 2475	y
+T30	DISO 2476 2486	hemoptisis
+T31	NegSynMarker 2518 2521	sin
+T32	SUBS 2522 2529	Clexane
+T33	UncertLexMarker 2532 2545	Aparentemente
+T34	Phrase 2546 2560	tiene ortopnea
+T35	DISO 2552 2560	ortopnea
+T36	NegMorMarker 2980 2991	irresecable
+T37	NegLexMarker 3200 3211	Ablación de
+T38	OTHER 3212 3220	prótesis
+T39	NegSynMarker 4126 4129	sin
+T40	DISO 4130 4141	incidencias
+T41	NegMorMarker 4777 4788	irresecable
+T42	NegSynMarker 4993 4996	sin
+T43	DISO 4997 5011	complicaciones
+T44	NegLexMarker 5014 5019	Niega
+T45	DISO 5020 5041	rigideces articulares
+T46	PROC 5180 5185	HER 2
+T47	NegLexMarker 5186 5194	NEGATIVO
+T48	NegLexMarker 5977 5986	suspendió
+T49	SUBS 5987 5997	la morfina
+T50	SUBS 6188 6195	morfina
+T51	Phrase 6188 6223	morfina y corticoides a dosis altas
+T52	CoordItem 6196 6197	y
+T53	SUBS 6198 6209	corticoides
+T54	NegLexMarker 6237 6254	se han suspendido
+T55	NegSynMarker 6531 6534	sin
+T56	DISO 6535 6544	hallazgos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T12
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T25 Arg2:T20
+R9	Scope Arg1:T26 Arg2:T28
+R10	Scope Arg1:T31 Arg2:T32
+R11	Scope Arg1:T33 Arg2:T34
+R12	Scope Arg1:T37 Arg2:T38
+R13	Scope Arg1:T39 Arg2:T40
+R14	Scope Arg1:T42 Arg2:T43
+R15	Scope Arg1:T44 Arg2:T45
+R16	Scope Arg1:T47 Arg2:T46
+R17	Scope Arg1:T48 Arg2:T49
+R18	Scope Arg1:T54 Arg2:T51
+R19	Scope Arg1:T55 Arg2:T56

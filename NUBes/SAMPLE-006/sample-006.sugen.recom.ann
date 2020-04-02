@@ -1,0 +1,3 @@
+T1	NegLexMarker 1354 1363	Suspender
+T2	SUBS 1364 1379	glibenclamida 5
+R1	Scope Arg1:T1 Arg2:T2

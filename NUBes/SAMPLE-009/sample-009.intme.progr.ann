@@ -1,0 +1,191 @@
+T1	NegSynMarker 846 848	no
+T2	DISO 849 860	evidenciado
+T3	Phrase 849 906	evidenciado en radiografías de estudios previos recientes
+T4	NegLexMarker 1073 1084	retirada de
+T5	SUBS 1085 1107	medicación nefrotóxica
+T6	NegSynMarker 1269 1272	sin
+T7	DISO 1273 1297	alteraciones secundarias
+T8	NegLexMarker 1474 1483	se retiró
+T9	Phrase 1484 1568	previamente tratamiento con acenocumarol para volverlo a reintroducir posteriormente
+T10	SUBS 1512 1524	acenocumarol
+T11	NegLexMarker 2532 2542	descartada
+T12	Phrase 2543 2634	mediante ecografia transesofagica la existencia de una endocarditis como causa de la fiebre
+T13	DISO 2594 2634	una endocarditis como causa de la fiebre
+T14	NegSynMarker 2808 2811	sin
+T15	Phrase 2812 2835	tratamiento antibiotico
+T16	SUBS 2824 2835	antibiotico
+T17	UncertLexMarker 2969 2976	Creemos
+T18	Phrase 2977 3060	que desde este punto de vista debe ser valorado por psiquiatria a nivel ambulatorio
+T19	OTHER 3007 3060	debe ser valorado por psiquiatria a nivel ambulatorio
+T20	UncertLexMarker 3334 3342	sospecha
+T21	Phrase 3343 3369	inicial de absceo hepático
+T22	DISO 3354 3369	absceo hepático
+T23	NegLexMarker 3604 3615	se suspende
+T24	Phrase 3616 3641	tratamiento antiagregante
+T25	SUBS 3628 3641	antiagregante
+T26	NegSynMarker 3700 3703	sin
+T27	SUBS 3704 3715	tratamiento
+T28	Phrase 3854 3880	histología y microbiología
+T29	PROC 3854 3864	histología
+T30	CoordItem 3865 3866	y
+T31	PROC 3867 3880	microbiología
+T32	NegLexMarker 3881 3890	negativas
+T33	NegSynMarker 3963 3965	no
+T34	PROC 3966 3982	realizar pruebas
+T35	NegSynMarker 3985 3987	no
+T36	OTHER 3988 4032	condiciones para biopsia transbronquial-EBUS
+T37	NegSynMarker 4555 4557	no
+T38	Phrase 4558 4596	siendo candidato a intubación mecánica
+T39	OTHER 4565 4596	candidato a intubación mecánica
+T40	UncertLexMarker 4877 4885	no clara
+T41	DISO 4886 4918	lesión sugestiva de endocarditis
+T42	PolItem 4893 4905	sugestiva de
+T43	NegSynMarker 6956 6958	no
+T44	Phrase 6959 7012	se apreciaron signos de ictus agudo en la neuroimagen
+T45	DISO 6983 7012	ictus agudo en la neuroimagen
+T46	NegSynMarker 7024 7026	no
+T47	Phrase 7027 7075	tenemos uso y manejo en este tipo de terapeutica
+T48	NegSynMarker 7146 7148	no
+T49	Phrase 7149 7198	creemos que sea un candidato a " bomba " insulina
+T50	OTHER 7168 7198	candidato a " bomba " insulina
+T51	NegLexMarker 7334 7338	cede
+T52	DISO 7339 7348	la fiebre
+T53	NegSynMarker 7771 7774	sin
+T54	DISO 7775 7779	foco
+T55	NegLexMarker 7793 7804	suspendemos
+T56	SUBS 7805 7845	los farmacos con accion alfa-bloqueantes
+T57	NegLexMarker 7932 7941	Se retira
+T58	NegLexMarker 7950 7958	falta de
+T59	OTHER 7959 7970	efectividad
+T60	NegSynMarker 7974 7976	no
+T61	Phrase 7977 7994	obtenerse drenaje
+T62	PROC 7987 7994	drenaje
+T63	UncertLexMarker 8107 8121	compatible con
+T64	DISO 8122 8130	neumonia
+T65	NegSynMarker 8299 8302	sin
+T66	DISO 8303 8315	fiebre > 38º
+T67	NegMorMarker 8646 8653	afebril
+T68	NegSynMarker 8910 8912	no
+T69	Phrase 8913 8999	hemos conseguido nunca que pueda aportar un cuadernillo con los niveles de dextrometer
+T70	PolItem 8930 8935	nunca
+T71	NegSynMarker 9110 9112	No
+T72	Phrase 9113 9187	presentó descompensación en relación a estenosis aortica severa que padece
+T73	DISO 9122 9187	descompensación en relación a estenosis aortica severa que padece
+T74	NegLexMarker 9654 9665	retirada de
+T75	SUBS 9666 9678	nefrotóxicos
+T76	NegSynMarker 9849 9852	sin
+T77	DISO 9853 9873	otras complicaciones
+T78	NegSynMarker 10042 10045	sin
+T79	DISO 10046 10055	problemas
+T80	NegLexMarker 10398 10407	Retiramos
+T81	SUBS 10408 10421	levofloxacino
+T82	PROC 10675 10685	urocultivo
+T83	NegLexMarker 10698 10706	negativo
+T84	UncertLexMarker 11248 11259	sospecha de
+T85	DISO 11260 11282	infección respiratoria
+T86	PROC 11547 11577	Los resultados de los cultivos
+T87	NegLexMarker 11587 11596	negativos
+T88	NegLexMarker 11599 11608	Se retiró
+T89	SUBS 11609 11624	esta medicación
+T90	NegSynMarker 12587 12590	sin
+T91	UncertLexMarker 12933 12948	compatibles con
+T92	DISO 12949 12988	neoplasia pleural maligna de alto grado
+T93	NegSynMarker 13038 13040	no
+T94	OTHER 13041 13075	cumple las indicaciones dietéticas
+T95	NegSynMarker 13273 13275	no
+T96	Phrase 13276 13303	mostraron patologias agudas
+T97	DISO 13286 13303	patologias agudas
+T98	NegSynMarker 13341 13343	no
+T99	Phrase 13344 13392	muestra alteraciones de significación patológica
+T100	DISO 13352 13392	alteraciones de significación patológica
+T101	PROC 13413 13423	serologías
+T102	NegLexMarker 13437 13446	negativas
+T103	UncertLexMarker 13806 13814	sospecha
+T104	Phrase 13815 13884	diagnóstica es que la alteración sea secundaria al proceso infeccioso
+T105	DISO 13834 13884	la alteración sea secundaria al proceso infeccioso
+T106	NegSynMarker 14080 14083	sin
+T107	DISO 14084 14094	dificultad
+T108	NegSynMarker 14493 14495	no
+T109	Phrase 14496 14541	se realizan mas exploraciones complementarias
+T110	PROC 14508 14541	mas exploraciones complementarias
+T111	NegSynMarker 14659 14662	sin
+T112	DISO 14663 14669	disnea
+T113	UncertLexMarker 14807 14819	sugestivo de
+T114	DISO 14820 14871	gastroenteritis aguda con deshidratación secundaria
+T115	PROC 15144 15167	El estudio cardiologico
+T116	NegLexMarker 15171 15179	negativo
+T117	Phrase 15180 15220	para otras causas de origen cardiogénico
+T118	UncertLexMarker 15579 15590	sospecha de
+T119	DISO 15591 15600	neoplasia
+T120	NegSynMarker 15755 15758	sin
+T121	DISO 15759 15792	cambios eléctricos ni enzimáticos
+T122	CoordItem 15778 15780	ni
+T123	NegSynMarker 15911 15914	sin
+T124	Phrase 15915 15967	que hayamos hallado causas claras que la justifiquen
+T125	DISO 15935 15967	causas claras que la justifiquen
+T126	UncertLexMarker 16635 16649	compatible con
+T127	DISO 16650 16666	infarto subagudo
+T128	UncertLexMarker 16886 16894	probable
+T129	DISO 16895 16908	fusobacterium
+T130	PROC 17098 17124	tres pares de hemocultivos
+T131	NegLexMarker 17141 17150	negativos
+T132	NegLexMarker 17375 17384	Retiramos
+T133	SUBS 17385 17397	acenocumarol
+T134	Phrase 17385 17472	acenocumarol a raíz de los hematomas que la paciente presentaba en la cadera tras caida
+T135	UncertLexMarker 17832 17849	muy probablemente
+T136	DISO 17850 17895	por infección con componente broncoaspirativo
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T32 Arg2:T28
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T48 Arg2:T49
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T65 Arg2:T66
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T71 Arg2:T72
+R28	Scope Arg1:T74 Arg2:T75
+R29	Scope Arg1:T76 Arg2:T77
+R30	Scope Arg1:T78 Arg2:T79
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T83 Arg2:T82
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T87 Arg2:T86
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T91 Arg2:T92
+R37	Scope Arg1:T93 Arg2:T94
+R38	Scope Arg1:T95 Arg2:T96
+R39	Scope Arg1:T102 Arg2:T101
+R40	Scope Arg1:T98 Arg2:T99
+R41	Scope Arg1:T103 Arg2:T104
+R42	Scope Arg1:T106 Arg2:T107
+R43	Scope Arg1:T108 Arg2:T109
+R44	Scope Arg1:T111 Arg2:T112
+R45	Scope Arg1:T113 Arg2:T114
+R46	DiscScope Arg1:T116 Arg2:T117
+R47	DiscScope Arg1:T116 Arg2:T115
+R48	Scope Arg1:T118 Arg2:T119
+R49	Scope Arg1:T120 Arg2:T121
+R50	Scope Arg1:T123 Arg2:T124
+R51	Scope Arg1:T126 Arg2:T127
+R52	Scope Arg1:T128 Arg2:T129
+R53	Scope Arg1:T131 Arg2:T130
+R54	Scope Arg1:T132 Arg2:T134
+R55	Scope Arg1:T135 Arg2:T136

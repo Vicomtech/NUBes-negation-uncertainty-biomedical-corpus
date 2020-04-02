@@ -1,0 +1,6 @@
+T1	NegLexMarker 1815 1822	Retirar
+T2	OTHER 1823 1829	grapas
+T3	NegLexMarker 2822 2828	quitar
+T4	OTHER 2829 2835	grapas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

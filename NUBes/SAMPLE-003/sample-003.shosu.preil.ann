@@ -1,0 +1,87 @@
+T1	UncertLexMarker 179 187	probable
+T2	DISO 188 211	relación con edema óseo
+T3	UncertLexMarker 328 335	posible
+T4	DISO 336 362	componente SIADH por dolor
+T5	NegSynMarker 544 546	No
+T6	Phrase 547 575	se objetivó causa especifica
+T7	DISO 559 575	causa especifica
+T8	Phrase 771 797	biopsia ósea con resultado
+T9	PROC 771 783	biopsia ósea
+T10	NegLexMarker 798 806	negativo
+T11	Phrase 807 828	para células malignas
+T12	UncertLexMarker 863 873	Al parecer
+T13	Phrase 874 908	marcha inestable que precisa ayuda
+T14	DISO 874 890	marcha inestable
+T15	UncertLexMarker 1164 1172	Probable
+T16	DISO 1173 1198	síndrome oglivie resuelto
+T17	NegSynMarker 1599 1602	sin
+T18	DISO 1603 1617	complicaciones
+T19	NegSynMarker 1725 1728	Sin
+T20	Phrase 1729 1756	dolor en reposo actualmente
+T21	DISO 1729 1744	dolor en reposo
+T22	UncertLexMarker 1819 1833	compatible con
+T23	DISO 1834 1846	hipernefroma
+T24	UncertLexMarker 2082 2090	probable
+T25	DISO 2091 2118	relacion a caida accidental
+T26	UncertLexMarker 3610 3618	probable
+T27	DISO 3619 3635	transtorno humor
+T28	NegLexMarker 3963 3975	se desestima
+T29	PROC 3976 3994	biopsia prostática
+T30	NegSynMarker 4427 4430	sin
+T31	OTHER 4431 4454	romper la otra cortical
+T32	NegLexMarker 4737 4747	Suspendida
+T33	SUBS 4748 4781	la anticoagulación a dosis plenas
+T34	UncertLexMarker 4899 4906	parecen
+T35	DISO 4907 4920	inespecificas
+T36	NegSynMarker 5029 5032	sin
+T37	Phrase 5033 5095	que hayamos podido demostrar la línea de fractura a este nivel
+T38	OTHER 5052 5095	demostrar la línea de fractura a este nivel
+T39	NegSynMarker 5337 5339	no
+T40	DISO 5340 5349	cementada
+T41	UncertLexMarker 5612 5623	sospecha de
+T42	DISO 5624 5640	infección tardía
+T43	NegSynMarker 6055 6058	sin
+T44	DISO 6059 6068	hallazgos
+T45	NegSynMarker 6165 6168	sin
+T46	DISO 6169 6204	desplazamiento en ala sacra derecha
+T47	Phrase 6571 6620	tratamiento antiagregante con adiro ( actualmente
+T48	SUBS 6583 6606	antiagregante con adiro
+T49	NegLexMarker 6621 6631	suspendido
+T50	NegSynMarker 7282 7285	sin
+T51	Phrase 7286 7320	evidencia de mielopatía instaurada
+T52	DISO 7299 7320	mielopatía instaurada
+T53	UncertLexMarker 7323 7332	Sin claro
+T54	DISO 7333 7379	compromisomo neurológico ni motor ni sensitivo
+T55	CoordItem 7358 7360	ni
+T56	CoordItem 7367 7369	ni
+T57	NegSynMarker 7478 7480	no
+T58	DISO 7481 7492	obstructivo
+T59	NegSynMarker 7571 7574	sin
+T60	DISO 7575 7590	otros hallazgos
+T61	NegMorMarker 8589 8602	inestabilidad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	DiscScope Arg1:T10 Arg2:T8
+R5	DiscScope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T36 Arg2:T37
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T41 Arg2:T42
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T43 Arg2:T44
+R22	Scope Arg1:T49 Arg2:T47
+R23	Scope Arg1:T50 Arg2:T51
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T53 Arg2:T54
+R26	Scope Arg1:T59 Arg2:T60

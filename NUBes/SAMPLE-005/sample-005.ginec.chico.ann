@@ -1,0 +1,27 @@
+T1	NegSynMarker 293 295	no
+T2	DISO 296 303	cefalea
+T3	NegSynMarker 306 308	no
+T4	DISO 309 319	odinofagia
+T5	NegSynMarker 322 324	no
+T6	DISO 325 328	tos
+T7	Phrase 325 345	tos ni expectoracion
+T8	CoordItem 329 331	ni
+T9	DISO 332 345	expectoracion
+T10	NegSynMarker 348 350	no
+T11	DISO 351 365	dolor torácico
+T12	NegSynMarker 366 368	No
+T13	DISO 369 376	nauseas
+T14	Phrase 369 387	nauseas ni vómitos
+T15	CoordItem 377 379	ni
+T16	DISO 380 387	vómitos
+T17	NegSynMarker 443 445	no
+T18	Phrase 446 479	clínica miccional ni dolor lumbar
+T19	DISO 446 463	clínica miccional
+T20	CoordItem 464 466	ni
+T21	DISO 467 479	dolor lumbar
+R1	Scope Arg1:T12 Arg2:T14
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T17 Arg2:T18
+R5	Scope Arg1:T3 Arg2:T4
+R6	Scope Arg1:T5 Arg2:T7

@@ -1,0 +1,521 @@
+T1	NegSynMarker 38 41	sin
+T2	DISO 42 53	incidencias
+T3	NegSynMarker 218 220	no
+T4	DISO 221 235	volvió a subir
+T5	NegSynMarker 238 240	No
+T6	DISO 241 261	hipotensión arterial
+T7	NegSynMarker 295 297	No
+T8	Phrase 298 330	recuerda episodio previo similar
+T9	NegSynMarker 411 413	no
+T10	Phrase 414 442	ha vuelto a realizar micción
+T11	OTHER 435 442	micción
+T12	UncertLexMarker 782 789	posible
+T13	DISO 790 802	código ictus
+T14	NegLexMarker 829 841	se le retiro
+T15	SUBS 842 857	anticoagulacion
+T16	NegSynMarker 890 892	No
+T17	Phrase 893 970	se observa punto de punción venoso complicado ni con signos de sobreinfección
+T18	DISO 904 970	punto de punción venoso complicado ni con signos de sobreinfección
+T19	CoordItem 939 941	ni
+T20	UncertLexMarker 1054 1057	sin
+T21	Phrase 1058 1078	palpar cordón venoso
+T22	BODY 1065 1078	cordón venoso
+T23	UncertLexMarker 1079 1084	claro
+T24	NegLexMarker 1184 1195	retirándose
+T25	OTHER 1196 1210	SUMP izquierdo
+T26	NegSynMarker 1374 1376	no
+T27	DISO 1377 1407	se modifica con la respiración
+T28	NegSynMarker 1692 1694	no
+T29	PROC 1695 1710	se ha realizado
+T30	NegSynMarker 2341 2344	sin
+T31	DISO 2345 2361	edema en piernas
+T32	NegSynMarker 2364 2366	no
+T33	DISO 2367 2373	disnea
+T34	NegLexMarker 2376 2381	niega
+T35	Phrase 2382 2419	síntomas urinarios , mareos , o dolor
+T36	DISO 2382 2400	síntomas urinarios
+T37	DISO 2403 2409	mareos
+T38	CoordItem 2412 2413	o
+T39	DISO 2414 2419	dolor
+T40	NegSynMarker 2422 2425	sin
+T41	DISO 2426 2445	otra sintomatología
+T42	NegSynMarker 2739 2742	sin
+T43	DISO 2743 2757	complicaciones
+T44	NegSynMarker 2899 2902	sin
+T45	DISO 2903 2911	coágulos
+T46	NegSynMarker 2914 2917	sin
+T47	DISO 2918 2935	clínica adicional
+T48	NegSynMarker 3595 3597	no
+T49	Phrase 3598 3648	se administra tratamiento por haber pasado 72horas
+T50	SUBS 3612 3623	tratamiento
+T51	NegSynMarker 3651 3653	No
+T52	DISO 3654 3678	clínica gastrointestinal
+T53	NegLexMarker 3914 3921	Retirar
+T54	Phrase 3922 4028	por parte del servicio de Hospitalización a Domicilio el material de sutura y posteriormente sonda vesical
+T55	OTHER 3976 3997	el material de sutura
+T56	OTHER 4015 4028	sonda vesical
+T57	NegMorMarker 4063 4070	afebril
+T58	DISO 4214 4225	Las náuseas
+T59	NegLexMarker 4226 4236	han cedido
+T60	NegSynMarker 4311 4313	no
+T61	Phrase 4314 4354	presenta alteración del ritmo intestinal
+T62	DISO 4323 4354	alteración del ritmo intestinal
+T63	NegSynMarker 4821 4824	sin
+T64	DISO 4825 4832	vómitos
+T65	UncertLexMarker 4990 5003	impresiona de
+T66	DISO 5004 5021	reacción alérgica
+T67	UncertLexMarker 5282 5299	interpretado como
+T68	DISO 5300 5364	infección respiratoria con condensación y fallo cardiaco derecho
+T69	NegSynMarker 5792 5794	no
+T70	DISO 5795 5817	respuesta a diuréticos
+T71	NegMorMarker 6105 6117	asintomático
+T72	NegSynMarker 6406 6409	sin
+T73	Phrase 6410 6446	objetivarse causa ni sangrado activo
+T74	DISO 6422 6427	causa
+T75	CoordItem 6428 6430	ni
+T76	DISO 6431 6446	sangrado activo
+T77	UncertLexMarker 6608 6618	se plantea
+T78	PROC 6619 6630	toracotomía
+T79	Phrase 6619 6697	toracotomía para separación de esófago de árbol bronquial de manera programada
+T80	PROC 7120 7131	HEMOCULTIVO
+T81	NegLexMarker 7134 7143	negativos
+T82	NegSynMarker 7167 7169	No
+T83	Phrase 7170 7208	ha presentado fiebre en ningún momento
+T84	DISO 7184 7190	fiebre
+T85	PolItem 7194 7200	ningún
+T86	NegSynMarker 7211 7213	No
+T87	Phrase 7214 7244	realiza complicaciones médicas
+T88	DISO 7222 7244	complicaciones médicas
+T89	NegSynMarker 7564 7566	no
+T90	Phrase 7567 7594	se ha hablado de pronóstico
+T91	NegSynMarker 8048 8051	sin
+T92	DISO 8052 8075	antecedentes de interés
+T93	UncertLexMarker 8102 8113	sospecha de
+T94	DISO 8114 8130	Celulitis de EID
+T95	NegSynMarker 8607 8609	no
+T96	DISO 8610 8623	contabilizada
+T97	UncertLexMarker 8644 8650	parece
+T98	Phrase 8651 8666	que orina menos
+T99	OTHER 8655 8666	orina menos
+T100	NegLexMarker 9057 9073	le ha suspendido
+T101	OTHER 9074 9086	la lactancia
+T102	PROC 9294 9322	TAC con PAAF de la colección
+T103	NegLexMarker 9325 9333	negativa
+T104	NegLexMarker 9364 9372	finalizó
+T105	Phrase 9373 9434	tratamiento antibiótico con cipro y tobramicina el 9 de abril
+T106	SUBS 9401 9406	cipro
+T107	CoordItem 9407 9408	y
+T108	SUBS 9409 9420	tobramicina
+T109	NegSynMarker 9517 9519	No
+T110	DISO 9520 9536	alivio del dolor
+T111	NegSynMarker 10116 10118	no
+T112	DISO 10119 10128	purulenta
+T113	DISO 10428 10449	Dolor en cavidad oral
+T114	NegLexMarker 10472 10487	la desaparición
+T115	UncertLexMarker 10503 10520	interpretado como
+T116	DISO 10521 10553	enfermedad neoplasica diseminada
+T117	UncertLexMarker 10556 10568	planteándose
+T118	SUBS 10569 10617	tratamiento destinado a paliación exclusivamente
+T119	NegSynMarker 10745 10748	sin
+T120	Phrase 10749 10757	mal olor
+T121	NegSynMarker 11325 11328	sin
+T122	DISO 11329 11352	una evolución favorable
+T123	UncertLexMarker 11371 11382	sospecha de
+T124	DISO 11383 11415	infección de prótesis de rodilla
+T125	NegSynMarker 11889 11891	no
+T126	Phrase 11892 11907	sale a la calle
+T127	NegSynMarker 12062 12064	No
+T128	DISO 12065 12082	síndrome urinario
+T129	NegSynMarker 12775 12777	No
+T130	Phrase 12778 12801	presenta dolor torácico
+T131	DISO 12787 12801	dolor torácico
+T132	NegSynMarker 12804 12806	no
+T133	DISO 12807 12813	disnea
+T134	UncertLexMarker 13819 13827	probable
+T135	DISO 13828 13844	origen isquémico
+T136	NegSynMarker 14148 14151	sin
+T137	SUBS 14152 14170	restos patológicos
+T138	NegSynMarker 14255 14257	no
+T139	OTHER 14258 14278	ingreso hospitalario
+T140	NegSynMarker 14474 14477	sin
+T141	DISO 14478 14490	gran mejoría
+T142	UncertLexMarker 14652 14666	posibilidad de
+T143	DISO 14667 14683	broncoaspiración
+T144	UncertLexMarker 14871 14882	sospecha de
+T145	DISO 14883 14918	tromboflebitis secundario a cateter
+T146	NegSynMarker 14951 14953	no
+T147	Phrase 14954 14975	se aprecia Leucopenia
+T148	DISO 14965 14975	Leucopenia
+T149	UncertLexMarker 14976 14990	aparentando de
+T150	OTHER 14991 15019	buena situación Inmunológica
+T151	NegSynMarker 15063 15065	no
+T152	Phrase 15066 15102	realizar más pruebas complementarias
+T153	PROC 15075 15102	más pruebas complementarias
+T154	NegSynMarker 15292 15295	sin
+T155	DISO 15296 15322	complicaciones quirúrgicas
+T156	NegMorMarker 15459 15466	afebril
+T157	NegSynMarker 15469 15472	sin
+T158	DISO 15473 15478	dolor
+T159	NegSynMarker 15700 15702	no
+T160	OTHER 15703 15728	es susceptible de punción
+T161	NegSynMarker 15736 15738	no
+T162	DISO 15739 15759	justifica la clínica
+T163	NegSynMarker 15879 15882	sin
+T164	DISO 15883 15907	mantener el ortostatismo
+T165	DISO 16244 16253	senilidad
+T166	UncertLexMarker 16254 16256	¿?
+T167	NegMorMarker 16447 16459	asintomático
+T168	PROC 16952 16959	tinción
+T169	NegLexMarker 16960 16968	negativa
+T170	NegSynMarker 17009 17011	no
+T171	DISO 17012 17034	responde a hierro oral
+T172	DISO 17797 17805	relación
+T173	UncertLexMarker 17806 17813	posible
+T174	DISO 17814 17824	a dilución
+T175	NegSynMarker 17966 17968	no
+T176	DISO 17969 17987	es estable en cadd
+T177	NegSynMarker 18284 18286	No
+T178	SUBS 18287 18299	deposiciones
+T179	Phrase 18287 18321	deposiciones desde hace una semana
+T180	NegLexMarker 18631 18648	se han descartado
+T181	Phrase 18649 18662	signos de tvp
+T182	DISO 18659 18662	tvp
+T183	UncertLexMarker 18686 18701	compatibles con
+T184	DISO 18702 18711	celulitis
+T185	UncertLexMarker 19016 19030	compatible con
+T186	DISO 19031 19053	sintomatología urémica
+T187	NegSynMarker 19171 19173	no
+T188	Phrase 19174 19252	refiere disnea , tos , expectoración , disuria ni otra sintomatología urinaria
+T189	DISO 19182 19188	disnea
+T190	DISO 19191 19194	tos
+T191	DISO 19197 19210	expectoración
+T192	DISO 19213 19220	disuria
+T193	CoordItem 19221 19223	ni
+T194	DISO 19224 19252	otra sintomatología urinaria
+T195	UncertLexMarker 19304 19315	sospecha de
+T196	DISO 19316 19337	Sd mieloproliferativo
+T197	DISO 19693 19699	disnea
+T198	NegSynMarker 19714 19716	no
+T199	Phrase 19717 19745	de reposo ni ortopnea ni DPN
+T200	DISO 19717 19726	de reposo
+T201	CoordItem 19727 19729	ni
+T202	DISO 19730 19738	ortopnea
+T203	CoordItem 19739 19741	ni
+T204	DISO 19742 19745	DPN
+T205	NegLexMarker 19865 19876	Se descartó
+T206	Phrase 19877 19890	en su día tto
+T207	PROC 19887 19890	tto
+T208	NegSynMarker 20517 20520	sin
+T209	DISO 20521 20529	coágulos
+T210	NegSynMarker 20937 20939	no
+T211	Phrase 20940 20974	se acompañan de cortejo vegetativo
+T212	DISO 20956 20974	cortejo vegetativo
+T213	UncertLexMarker 21069 21077	No claro
+T214	Phrase 21078 21119	si el paciente es conocedor de enfermedad
+T215	NegSynMarker 21122 21124	No
+T216	Phrase 21125 21154	han podido sacar hemocultivos
+T217	PROC 21142 21154	hemocultivos
+T218	PROC 21233 21241	cultivos
+T219	NegLexMarker 21242 21251	negativos
+T220	NegSynMarker 21407 21410	sin
+T221	DISO 21411 21420	problemas
+T222	NegSynMarker 22502 22505	sin
+T223	PROC 22506 22518	termometrear
+T224	NegSynMarker 23206 23208	no
+T225	Phrase 23209 23258	presenta factores ni prácticas de riesgo asociado
+T226	DISO 23218 23258	factores ni prácticas de riesgo asociado
+T227	CoordItem 23227 23229	ni
+T228	PROC 23983 24022	estudio para hemorragia oculta en heces
+T229	NegLexMarker 24023 24031	negativo
+T230	NegLexMarker 24034 24046	se desestima
+T231	Phrase 24047 24073	estudio colono , TAC , etc
+T232	PROC 24047 24061	estudio colono
+T233	PROC 24064 24067	TAC
+T234	NegMorMarker 24274 24281	afebril
+T235	NegSynMarker 24284 24287	sin
+T236	DISO 24288 24293	dolor
+T237	NegSynMarker 25139 25141	no
+T238	DISO 25142 25177	repercusión funcional de la válvula
+T239	UncertLexMarker 25310 25318	probable
+T240	DISO 25319 25373	abceso crónico subvalvular por Cardiobacterium hominis
+T241	NegLexMarker 25399 25414	desaparición de
+T242	DISO 25415 25424	la fiebre
+T243	NegLexMarker 25480 25489	se retira
+T244	OTHER 25490 25509	punción suprapúbica
+T245	DISO 26493 26524	dolores abdominales ocasionales
+T246	NegLexMarker 26529 26539	han cedido
+T247	Phrase 26540 26553	con analgesia
+T248	NegSynMarker 26556 26558	no
+T249	NegSynMarker 26894 26896	no
+T250	Phrase 26897 26940	continuar estudio ni tratamiento quirúrgico
+T251	PROC 26907 26914	estudio
+T252	CoordItem 26915 26917	ni
+T253	PROC 26918 26940	tratamiento quirúrgico
+T254	NegSynMarker 27600 27603	sin
+T255	DISO 27604 27611	vómitos
+T256	NegSynMarker 27957 27959	No
+T257	DISO 27960 27982	clínica genitourinaria
+T258	NegSynMarker 27983 27985	No
+T259	DISO 27986 28021	clínica gastrointestinal ni cutánea
+T260	CoordItem 28011 28013	ni
+T261	NegSynMarker 28081 28084	sin
+T262	Phrase 28085 28106	que presentara fiebre
+T263	DISO 28100 28106	fiebre
+T264	NegSynMarker 28118 28120	no
+T265	Phrase 28121 28145	se hicieron hemocultivos
+T266	PROC 28133 28145	hemocultivos
+T267	NegSynMarker 28170 28172	No
+T268	Phrase 28173 28198	han apreciado hemorragias
+T269	DISO 28187 28198	hemorragias
+T270	NegLexMarker 28346 28357	descartando
+T271	SUBS 28358 28376	distintas opciones
+T272	NegSynMarker 28694 28697	sin
+T273	DISO 28698 28731	variación respecto a días previos
+T274	NegLexMarker 29254 29267	descartándose
+T275	DISO 29268 29286	retención urinaria
+T276	Phrase 29268 29318	retención urinaria y/o componente de hidronefrosis
+T277	CoordItem 29287 29290	y/o
+T278	DISO 29305 29318	hidronefrosis
+T279	NegSynMarker 29697 29699	no
+T280	DISO 29700 29709	irradiado
+T281	NegSynMarker 29746 29748	no
+T282	DISO 29749 29781	mejoría sintomática del paciente
+T283	NegMorMarker 29906 29918	inconsciente
+T284	UncertLexMarker 30732 30739	posible
+T285	Phrase 30740 30768	cuadro de retención urinaria
+T286	DISO 30750 30768	retención urinaria
+T287	NegLexMarker 30835 30843	retirada
+T288	OTHER 30844 30852	la sonda
+T289	NegLexMarker 31065 31074	Se retira
+T290	OTHER 31075 31080	stent
+T291	Phrase 31075 31091	stent en 08/2011
+T292	NegSynMarker 31979 31981	no
+T293	DISO 31982 31998	sensación febril
+T294	NegLexMarker 32578 32583	Niega
+T295	DISO 32584 32603	otra sintomatología
+T296	NegLexMarker 32606 32611	niega
+T297	DISO 32612 32615	tos
+T298	NegLexMarker 32618 32623	niega
+T299	DISO 32624 32630	fiebre
+T300	NegSynMarker 32824 32827	sin
+T301	DISO 32828 32842	cambios en ECG
+T302	Phrase 32828 32867	cambios en ECG ni alteracion enzimatica
+T303	CoordItem 32843 32845	ni
+T304	DISO 32846 32867	alteracion enzimatica
+T305	NegSynMarker 32895 32898	sin
+T306	Phrase 32899 32927	datos de isquemia reversible
+T307	DISO 32908 32927	isquemia reversible
+T308	UncertLexMarker 33125 33139	compatible con
+T309	DISO 33140 33158	ca. quístico renal
+T310	NegLexMarker 33287 33292	Nunca
+T311	Phrase 33293 33328	se le ha realizado una paracentesis
+T312	PROC 33312 33328	una paracentesis
+T313	NegSynMarker 33331 33338	tampoco
+T314	Phrase 33339 33356	en H. Alto Jardín
+T315	NegLexMarker 33626 33631	Niega
+T316	DISO 33632 33646	dolor torácico
+T317	NegSynMarker 33697 33699	No
+T318	DISO 33700 33730	clínica miccional ni digestiva
+T319	CoordItem 33718 33720	ni
+T320	NegSynMarker 33905 33908	sin
+T321	DISO 33909 33937	mejoría de la sintomatología
+T322	NegMorMarker 34013 34025	asintomático
+T323	NegMorMarker 34028 34035	afebril
+T324	NegSynMarker 34213 34215	No
+T325	DISO 34216 34240	temperatura termometrada
+T326	NegSynMarker 34248 34250	no
+T327	Phrase 34251 34279	refiere sensación distérmica
+T328	DISO 34259 34279	sensación distérmica
+T329	NegSynMarker 34594 34596	no
+T330	OTHER 34597 34610	ha consultado
+T331	UncertLexMarker 34699 34711	sugestiva de
+T332	DISO 34712 34721	infección
+T333	NegMorMarker 35381 35388	afebril
+T334	NegLexMarker 35510 35515	Niega
+T335	DISO 35516 35547	otra sintomatología acompañante
+T336	NegSynMarker 35565 35568	sin
+T337	DISO 35569 35580	incidencias
+T338	NegSynMarker 35881 35883	no
+T339	DISO 35884 35896	termometrada
+T340	UncertLexMarker 36338 36341	sin
+T341	DISO 36342 36357	foco infeccioso
+T342	UncertLexMarker 36358 36366	aparente
+T343	NegSynMarker 36367 36369	ni
+T344	DISO 36370 36378	tiritona
+T345	UncertLexMarker 36596 36603	posible
+T346	DISO 36604 36635	relación a neuropatía diabética
+T347	PROC 37190 37218	Ag de Legionella y Neumococo
+T348	NegLexMarker 37219 37228	negativos
+T349	Phrase 37229 37237	en orina
+T350	NegSynMarker 37240 37242	No
+T351	Phrase 37243 37284	naúseas , ni vómitos , ni dolor abdominal
+T352	DISO 37243 37250	naúseas
+T353	CoordItem 37253 37255	ni
+T354	DISO 37256 37263	vómitos
+T355	CoordItem 37266 37268	ni
+T356	DISO 37269 37284	dolor abdominal
+T357	NegLexMarker 37562 37572	le retiran
+T358	OTHER 37573 37578	stent
+T359	PROC 37678 37688	UROCULTIVO
+T360	NegLexMarker 37691 37699	negativo
+T361	NegMorMarker 37852 37859	afebril
+T362	UncertLexMarker 38162 38170	probable
+T363	DISO 38171 38199	relacion a demencia cortical
+T364	NegSynMarker 38740 38743	sin
+T365	DISO 38744 38750	fiebre
+T366	NegSynMarker 38753 38756	sin
+T367	DISO 38757 38762	dolor
+T368	NegSynMarker 38811 38814	sin
+T369	Phrase 38815 38834	signos de infección
+T370	DISO 38825 38834	infección
+T371	NegSynMarker 38837 38840	sin
+T372	DISO 38841 38862	hematoma perilesional
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T12 Arg2:T13
+R8	DiscMarker Arg1:T20 Arg2:T23
+R9	Scope Arg1:T16 Arg2:T17
+R10	Scope Arg1:T23 Arg2:T21
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T51 Arg2:T52
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T53 Arg2:T54
+R24	Scope Arg1:T59 Arg2:T58
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T72 Arg2:T73
+R31	Scope Arg1:T77 Arg2:T79
+R32	Scope Arg1:T81 Arg2:T80
+R33	Scope Arg1:T82 Arg2:T83
+R34	Scope Arg1:T86 Arg2:T87
+R35	Scope Arg1:T89 Arg2:T90
+R36	Scope Arg1:T91 Arg2:T92
+R37	Scope Arg1:T93 Arg2:T94
+R38	Scope Arg1:T95 Arg2:T96
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T100 Arg2:T101
+R41	Scope Arg1:T104 Arg2:T105
+R42	Scope Arg1:T103 Arg2:T102
+R43	Scope Arg1:T109 Arg2:T110
+R44	Scope Arg1:T111 Arg2:T112
+R45	Scope Arg1:T114 Arg2:T113
+R46	Scope Arg1:T117 Arg2:T118
+R47	Scope Arg1:T115 Arg2:T116
+R48	Scope Arg1:T119 Arg2:T120
+R49	Scope Arg1:T123 Arg2:T124
+R50	Scope Arg1:T121 Arg2:T122
+R51	Scope Arg1:T125 Arg2:T126
+R52	Scope Arg1:T127 Arg2:T128
+R53	Scope Arg1:T132 Arg2:T133
+R54	Scope Arg1:T129 Arg2:T130
+R55	Scope Arg1:T134 Arg2:T135
+R56	Scope Arg1:T136 Arg2:T137
+R57	Scope Arg1:T138 Arg2:T139
+R58	Scope Arg1:T140 Arg2:T141
+R59	Scope Arg1:T142 Arg2:T143
+R60	Scope Arg1:T144 Arg2:T145
+R61	Scope Arg1:T149 Arg2:T150
+R62	Scope Arg1:T146 Arg2:T147
+R63	Scope Arg1:T151 Arg2:T152
+R64	Scope Arg1:T154 Arg2:T155
+R65	Scope Arg1:T157 Arg2:T158
+R66	Scope Arg1:T161 Arg2:T162
+R67	Scope Arg1:T159 Arg2:T160
+R68	Scope Arg1:T163 Arg2:T164
+R69	Scope Arg1:T166 Arg2:T165
+R70	Scope Arg1:T169 Arg2:T168
+R71	Scope Arg1:T170 Arg2:T171
+R72	DiscScope Arg1:T173 Arg2:T172
+R73	DiscScope Arg1:T173 Arg2:T174
+R74	Scope Arg1:T175 Arg2:T176
+R75	Scope Arg1:T177 Arg2:T179
+R76	Scope Arg1:T180 Arg2:T181
+R77	Scope Arg1:T183 Arg2:T184
+R78	Scope Arg1:T185 Arg2:T186
+R79	Scope Arg1:T187 Arg2:T188
+R80	Scope Arg1:T195 Arg2:T196
+R81	DiscScope Arg1:T198 Arg2:T199
+R82	DiscScope Arg1:T198 Arg2:T197
+R83	Scope Arg1:T205 Arg2:T206
+R84	Scope Arg1:T208 Arg2:T209
+R85	Scope Arg1:T210 Arg2:T211
+R86	Scope Arg1:T213 Arg2:T214
+R87	Scope Arg1:T215 Arg2:T216
+R88	Scope Arg1:T219 Arg2:T218
+R89	Scope Arg1:T220 Arg2:T221
+R90	Scope Arg1:T222 Arg2:T223
+R91	Scope Arg1:T224 Arg2:T225
+R92	Scope Arg1:T230 Arg2:T231
+R93	Scope Arg1:T229 Arg2:T228
+R94	Scope Arg1:T235 Arg2:T236
+R95	Scope Arg1:T237 Arg2:T238
+R96	Scope Arg1:T239 Arg2:T240
+R97	Scope Arg1:T241 Arg2:T242
+R98	Scope Arg1:T243 Arg2:T244
+R99	DiscScope Arg1:T246 Arg2:T247
+R100	DiscScope Arg1:T246 Arg2:T245
+R101	Scope Arg1:T249 Arg2:T250
+R102	Scope Arg1:T254 Arg2:T255
+R103	Scope Arg1:T256 Arg2:T257
+R104	Scope Arg1:T261 Arg2:T262
+R105	Scope Arg1:T264 Arg2:T265
+R106	Scope Arg1:T258 Arg2:T259
+R107	Scope Arg1:T267 Arg2:T268
+R108	Scope Arg1:T270 Arg2:T271
+R109	Scope Arg1:T272 Arg2:T273
+R110	Scope Arg1:T274 Arg2:T276
+R111	Scope Arg1:T279 Arg2:T280
+R112	Scope Arg1:T281 Arg2:T282
+R113	Scope Arg1:T284 Arg2:T285
+R114	Scope Arg1:T287 Arg2:T288
+R115	Scope Arg1:T289 Arg2:T291
+R116	Scope Arg1:T292 Arg2:T293
+R117	Scope Arg1:T294 Arg2:T295
+R118	Scope Arg1:T298 Arg2:T299
+R119	Scope Arg1:T296 Arg2:T297
+R120	Scope Arg1:T300 Arg2:T302
+R121	Scope Arg1:T305 Arg2:T306
+R122	Scope Arg1:T308 Arg2:T309
+R123	Scope Arg1:T310 Arg2:T311
+R124	DiscScope Arg1:T313 Arg2:T314
+R125	DiscScope Arg1:T313 Arg2:T312
+R126	Scope Arg1:T315 Arg2:T316
+R127	Scope Arg1:T317 Arg2:T318
+R128	Scope Arg1:T320 Arg2:T321
+R129	Scope Arg1:T324 Arg2:T325
+R130	Scope Arg1:T326 Arg2:T327
+R131	Scope Arg1:T331 Arg2:T332
+R132	Scope Arg1:T329 Arg2:T330
+R133	Scope Arg1:T334 Arg2:T335
+R134	Scope Arg1:T336 Arg2:T337
+R135	Scope Arg1:T338 Arg2:T339
+R136	Scope Arg1:T343 Arg2:T344
+R137	Scope Arg1:T342 Arg2:T341
+R138	DiscMarker Arg1:T340 Arg2:T342
+R139	Scope Arg1:T345 Arg2:T346
+R140	DiscScope Arg1:T348 Arg2:T349
+R141	DiscScope Arg1:T348 Arg2:T347
+R142	Scope Arg1:T350 Arg2:T351
+R143	Scope Arg1:T357 Arg2:T358
+R144	Scope Arg1:T360 Arg2:T359
+R145	Scope Arg1:T362 Arg2:T363
+R146	Scope Arg1:T366 Arg2:T367
+R147	Scope Arg1:T364 Arg2:T365
+R148	Scope Arg1:T371 Arg2:T372
+R149	Scope Arg1:T368 Arg2:T369

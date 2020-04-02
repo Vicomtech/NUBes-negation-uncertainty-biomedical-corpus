@@ -1,0 +1,113 @@
+T1	NegSynMarker 0 2	No
+T2	OTHER 3 24	recuerdan traumatismo
+T3	UncertLexMarker 158 169	sospecha de
+T4	DISO 170 183	colico biliar
+T5	UncertLexMarker 245 255	Al parecer
+T6	Phrase 256 292	estos días refiere vómitos hemáticos
+T7	DISO 275 292	vómitos hemáticos
+T8	NegMorMarker 295 302	Afebril
+T9	NegSynMarker 443 445	no
+T10	Phrase 446 511	clinica de infeccion urinaria o clinico de infeccion respiratorio
+T11	DISO 457 475	infeccion urinaria
+T12	CoordItem 476 477	o
+T13	DISO 489 511	infeccion respiratorio
+T14	NegSynMarker 567 570	sin
+T15	DISO 571 578	vómitos
+T16	NegSynMarker 1057 1060	sin
+T17	DISO 1061 1076	dolor abdominal
+T18	UncertLexMarker 1257 1267	al parecer
+T19	DISO 1268 1294	cognitivamente buen estado
+T20	NegSynMarker 1596 1599	sin
+T21	Phrase 1600 1604	aire
+T22	NegMorMarker 1911 1923	asintomático
+T23	NegSynMarker 2036 2038	No
+T24	OTHER 2039 2054	tolerancia oral
+T25	NegMorMarker 2057 2064	Afebril
+T26	UncertLexMarker 2745 2757	Desconocemos
+T27	DISO 2758 2768	su clínica
+T28	NegSynMarker 2774 2776	no
+T29	Phrase 2777 2785	colabora
+T30	NegSynMarker 3133 3135	No
+T31	DISO 3136 3151	fiebre asociada
+T32	Phrase 3136 3169	fiebre asociada en ningún momento
+T33	PolItem 3155 3161	ningún
+T34	NegSynMarker 3478 3481	sin
+T35	DISO 3482 3503	productos patológicos
+T36	NegSynMarker 3622 3624	no
+T37	OTHER 3625 3636	historiable
+T38	Phrase 3625 3649	historiable por demencia
+T39	NegSynMarker 3652 3654	No
+T40	DISO 3655 3662	vomitos
+T41	NegSynMarker 3681 3683	no
+T42	DISO 3684 3701	clinica miccional
+T43	NegSynMarker 3842 3844	No
+T44	Phrase 3845 3900	clinica de infeccion respiratoria ni infeccion urinaria
+T45	DISO 3856 3878	infeccion respiratoria
+T46	CoordItem 3879 3881	ni
+T47	DISO 3882 3900	infeccion urinaria
+T48	NegSynMarker 4213 4216	sin
+T49	DISO 4217 4228	iiradiacion
+T50	NegSynMarker 4231 4234	sin
+T51	DISO 4235 4241	nauses
+T52	Phrase 4235 4277	nauses ni vómitos nji cortejo veegtetativo
+T53	CoordItem 4242 4244	ni
+T54	DISO 4245 4252	vómitos
+T55	CoordItem 4253 4256	nji
+T56	DISO 4257 4277	cortejo veegtetativo
+T57	NegSynMarker 4278 4280	No
+T58	Phrase 4281 4337	refiere disnea , dolor torácico , palpitaciones ni mareo
+T59	DISO 4289 4295	disnea
+T60	DISO 4298 4312	dolor torácico
+T61	DISO 4315 4328	palpitaciones
+T62	CoordItem 4329 4331	ni
+T63	DISO 4332 4337	mareo
+T64	NegSynMarker 4338 4340	No
+T65	DISO 4341 4348	náuseas
+T66	Phrase 4341 4359	náuseas ni vómitos
+T67	CoordItem 4349 4351	ni
+T68	DISO 4352 4359	vómitos
+T69	NegSynMarker 4435 4437	no
+T70	DISO 4438 4455	clínica miccional
+T71	NegSynMarker 4673 4675	no
+T72	DISO 4676 4686	deposición
+T73	UncertLexMarker 4689 4699	Al parecer
+T74	Phrase 4702 4756	esta mañana se lo encuentran en el baño , tras sincope
+T75	NegSynMarker 4775 4777	no
+T76	DISO 4778 4785	vomitos
+T77	Phrase 4778 4815	vomitos ni pirosis ni dolor abdominal
+T78	CoordItem 4786 4788	ni
+T79	DISO 4789 4796	pirosis
+T80	CoordItem 4797 4799	ni
+T81	DISO 4800 4815	dolor abdominal
+T82	NegMorMarker 5083 5090	afebril
+T83	NegSynMarker 5092 5094	no
+T84	DISO 5095 5102	vomitos
+T85	NegSynMarker 5290 5293	sin
+T86	DISO 5294 5325	productos patológicos asociados
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T30 Arg2:T32
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T36 Arg2:T38
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T50 Arg2:T52
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T64 Arg2:T66
+R21	Scope Arg1:T57 Arg2:T58
+R22	Scope Arg1:T69 Arg2:T70
+R23	Scope Arg1:T71 Arg2:T72
+R24	Scope Arg1:T73 Arg2:T74
+R25	Scope Arg1:T75 Arg2:T77
+R26	Scope Arg1:T83 Arg2:T84
+R27	Scope Arg1:T85 Arg2:T86

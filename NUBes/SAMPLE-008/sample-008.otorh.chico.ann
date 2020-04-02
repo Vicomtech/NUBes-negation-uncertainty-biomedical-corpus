@@ -1,0 +1,3 @@
+T1	NegSynMarker 1125 1127	no
+T2	Phrase 1128 1133	beber
+R1	Scope Arg1:T1 Arg2:T2

@@ -1,0 +1,109 @@
+T1	NegLexMarker 166 174	suspendo
+T2	SUBS 175 188	la amiodarona
+T3	NegLexMarker 305 314	suspender
+T4	SUBS 315 333	la anticoagulacion
+T5	NegLexMarker 797 806	suspender
+T6	SUBS 807 821	el clopidogrel
+T7	NegSynMarker 822 825	sin
+T8	DISO 826 835	problemas
+T9	UncertLexMarker 977 991	compatible con
+T10	DISO 992 1014	área de nefritis focal
+T11	NegSynMarker 1319 1322	sin
+T12	Phrase 1323 1348	litiasis ni hidronefrosis
+T13	DISO 1323 1331	litiasis
+T14	CoordItem 1332 1334	ni
+T15	DISO 1335 1348	hidronefrosis
+T16	NegSynMarker 1430 1433	Sin
+T17	DISO 1434 1473	alteraciones patológicas significativas
+T18	NegLexMarker 1597 1605	negativa
+T19	PROC 1606 1631	litiasis renal o ureteral
+T20	NegSynMarker 1753 1756	sin
+T21	Phrase 1757 1803	llegar a objetivar uréter ni nivel obstructivo
+T22	DISO 1766 1803	objetivar uréter ni nivel obstructivo
+T23	CoordItem 1783 1785	ni
+T24	NegSynMarker 2027 2030	sin
+T25	DISO 2031 2055	dilatación de vía biliar
+T26	UncertLexMarker 2235 2249	compatible con
+T27	DISO 2250 2285	pequeña rotura calicial obstructiva
+T28	NegSynMarker 2443 2446	sin
+T29	Phrase 2447 2481	evidencia de imagen de obstrucción
+T30	DISO 2460 2481	imagen de obstrucción
+T31	UncertLexMarker 2697 2709	sugestivo de
+T32	Phrase 2710 2792	corresponder a una gran hipertrofia prostática con sangrado intravesical coagulado
+T33	DISO 2729 2792	gran hipertrofia prostática con sangrado intravesical coagulado
+T34	NegSynMarker 2832 2835	sin
+T35	DISO 2836 2845	hallazgos
+T36	PROC 4107 4118	tratamiento
+T37	NegLexMarker 4123 4134	interrumpió
+T38	Phrase 4135 4160	por el problema urológico
+T39	NegMorMarker 4403 4404	i
+T40	UncertLexMarker 4460 4475	compatibles con
+T41	DISO 4476 4502	calcificaciones vasculares
+T42	UncertLexMarker 4521 4536	compatibles con
+T43	DISO 4537 4576	pielonefritis aguda del riñón izquierdo
+T44	UncertLexMarker 4577 4590	sin descartar
+T45	Phrase 4591 4631	de forma completa una etiología vascular
+T46	DISO 4609 4631	una etiología vascular
+T47	NegSynMarker 4796 4798	no
+T48	DISO 4799 4811	obstructivas
+T49	UncertLexMarker 4825 4837	sugestiva de
+T50	DISO 4838 4857	pielonefritis focal
+T51	Phrase 4838 4888	pielonefritis focal en polo superior riñón derecho
+T52	UncertLexMarker 5095 5108	sugestivas de
+T53	DISO 5109 5149	cambios postquirúrgicos por tumorectomía
+T54	UncertLexMarker 5185 5193	probable
+T55	DISO 5194 5233	espondilolisis a nivel de ambas láminas
+T56	UncertLexMarker 5621 5629	Probable
+T57	DISO 5630 5686	nefritis bacteriana en polo superior del riñón izquierdo
+T58	NegSynMarker 5730 5733	sin
+T59	Phrase 5734 5773	apreciar imagenes sospechosas tumorales
+T60	DISO 5743 5773	imagenes sospechosas tumorales
+T61	UncertLexMarker 5776 5787	No descarto
+T62	Phrase 5788 5848	neoplasia vesical que recomendamos estudiar endoscópicamente
+T63	DISO 5788 5805	neoplasia vesical
+T64	UncertLexMarker 5986 5994	Probable
+T65	DISO 5995 6004	sedimento
+T66	Phrase 5995 6058	sedimento y/o restos hemáticos en posición declive de la vejiga
+T67	CoordItem 6005 6008	y/o
+T68	DISO 6009 6025	restos hemáticos
+T69	NegSynMarker 6458 6460	No
+T70	Phrase 6461 6498	se observa cuadro oclusivo intestinal
+T71	DISO 6472 6498	cuadro oclusivo intestinal
+T72	NegSynMarker 6787 6789	no
+T73	DISO 6790 6801	obstructiva
+T74	UncertLexMarker 6894 6907	sospechosa de
+T75	DISO 6908 6967	Neoformación de 5 cm de baja densidad adyacente a la vejiga
+T76	UncertLexMarker 6970 6977	valorar
+T77	Phrase 6978 7017	posibilidades que existiera previamente
+T78	PolItem 6978 6991	posibilidades
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	DiscScope Arg1:T37 Arg2:T38
+R16	DiscScope Arg1:T37 Arg2:T36
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T49 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T56 Arg2:T57
+R25	Scope Arg1:T58 Arg2:T59
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T64 Arg2:T66
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T72 Arg2:T73
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77

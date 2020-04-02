@@ -1,0 +1,43 @@
+T1	UncertLexMarker 1592 1599	valorar
+T2	PolItem 1600 1607	posible
+T3	Phrase 1600 1619	posible transfusión
+T4	PROC 1608 1619	transfusión
+T5	NegLexMarker 1977 1988	retirada de
+T6	OTHER 1989 2002	Infusor de QT
+T7	Phrase 1989 2031	Infusor de QT según protocolo hospitalaria
+T8	NegLexMarker 2614 2625	retirada de
+T9	OTHER 2626 2639	Infusor de QT
+T10	NegLexMarker 3226 3237	retirada de
+T11	OTHER 3238 3251	Infusor de QT
+T12	NegLexMarker 3469 3480	retirada de
+T13	OTHER 3481 3503	Infusor Quimioterápico
+T14	NegSynMarker 3983 3986	sin
+T15	Phrase 3987 4041	antencedente traumatico , ni de haber estado en reposo
+T16	DISO 3987 4010	antencedente traumatico
+T17	CoordItem 4013 4015	ni
+T18	DISO 4016 4041	de haber estado en reposo
+T19	NegSynMarker 4042 4044	No
+T20	DISO 4045 4064	fiebre termometrada
+T21	NegSynMarker 4065 4067	No
+T22	DISO 4068 4074	disnea
+T23	NegSynMarker 4077 4079	no
+T24	DISO 4080 4094	dolor torácico
+T25	NegLexMarker 4114 4125	retirada de
+T26	OTHER 4126 4133	infusor
+T27	NegLexMarker 4297 4308	retirada de
+T28	OTHER 4309 4322	infusor de QT
+T29	NegSynMarker 4793 4796	sin
+T30	PolItem 4797 4804	ninguna
+T31	DISO 4797 4826	ninguna mejoría de la clínica
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T5 Arg2:T7
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T19 Arg2:T20
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T29 Arg2:T31

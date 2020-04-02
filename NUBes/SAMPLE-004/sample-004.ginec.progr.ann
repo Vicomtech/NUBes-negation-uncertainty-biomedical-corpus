@@ -1,0 +1,7 @@
+T1	NegSynMarker 27 30	sin
+T2	DISO 31 42	incidencias
+T3	UncertLexMarker 217 223	parece
+T4	Phrase 224 257	tratarse de un trayecto fistuloso
+T5	DISO 236 257	un trayecto fistuloso
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

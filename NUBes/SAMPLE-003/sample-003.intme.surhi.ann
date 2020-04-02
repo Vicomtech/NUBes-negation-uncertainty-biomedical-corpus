@@ -1,0 +1,7 @@
+T1	NegMorMarker 5 18	inestabilidad
+T2	NegSynMarker 1756 1758	No
+T3	OTHER 1759 1778	implantes pleurales
+T4	NegSynMarker 2120 2122	No
+T5	DISO 2123 2138	derrame pleural
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5

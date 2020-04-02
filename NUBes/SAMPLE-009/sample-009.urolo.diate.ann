@@ -1,0 +1,35 @@
+T1	NegSynMarker 109 112	sin
+T2	DISO 113 122	hallazgos
+T3	UncertLexMarker 561 569	Probable
+T4	DISO 570 612	vejiga de esfuerzo con divertículo vesical
+T5	NegSynMarker 1001 1004	sin
+T6	DISO 1005 1025	obstrucción completa
+T7	NegSynMarker 1465 1467	No
+T8	Phrase 1468 1516	se observan cambios displásicos ni de malignidad
+T9	DISO 1480 1516	cambios displásicos ni de malignidad
+T10	CoordItem 1500 1502	ni
+T11	UncertLexMarker 1722 1730	Probable
+T12	DISO 1731 1765	ureterolitiasis distal calcificada
+T13	UncertLexMarker 2198 2209	Sospecha de
+T14	DISO 2210 2258	pequeñas imágenes de litiasis renales izquierdas
+T15	NegMorMarker 2350 2362	inespecifica
+T16	UncertLexMarker 2561 2574	probablemente
+T17	DISO 2575 2583	residual
+T18	NegSynMarker 2823 2826	Sin
+T19	DISO 2827 2836	hallazgos
+T20	NegSynMarker 2865 2867	no
+T21	DISO 2868 2879	obstructiva
+T22	NegSynMarker 3071 3074	Sin
+T23	Phrase 3075 3114	evidencia de dilatación de vía urinaria
+T24	DISO 3088 3114	dilatación de vía urinaria
+T25	NegMorMarker 3580 3592	asintomático
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23

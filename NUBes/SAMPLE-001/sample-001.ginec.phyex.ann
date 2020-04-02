@@ -1,0 +1,31 @@
+T1	NegSynMarker 97 99	No
+T2	DISO 100 102	IY
+T3	NegSynMarker 115 118	sin
+T4	DISO 119 125	soplos
+T5	NegSynMarker 242 244	No
+T6	DISO 245 261	abdomen en tabla
+T7	NegSynMarker 300 302	NO
+T8	DISO 303 308	masas
+T9	NegSynMarker 460 462	no
+T10	Phrase 463 486	edemas ni singos de tvp
+T11	DISO 463 469	edemas
+T12	CoordItem 470 472	ni
+T13	DISO 483 486	tvp
+T14	NegSynMarker 574 576	No
+T15	DISO 577 598	focalidad neurologica
+T16	NegSynMarker 655 657	No
+T17	Phrase 658 689	signos de irritacion peritoneal
+T18	DISO 668 689	irritacion peritoneal
+T19	SUBS 787 798	eritrocitos
+T20	NegLexMarker 801 802	-
+T21	NegSynMarker 857 860	sin
+T22	DISO 861 894	alteraciones ne la repolarizacion
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T20 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22

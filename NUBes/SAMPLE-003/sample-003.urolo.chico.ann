@@ -1,0 +1,3 @@
+T1	NegLexMarker 90 101	Retirada de
+T2	OTHER 102 118	cateter ureteral
+R1	Scope Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	NegLexMarker 2391 2400	suspender
+T2	NegLexMarker 3087 3094	Retirar
+T3	OTHER 3095 3101	puntos
+T4	Phrase 3095 3133	puntos a los 7 dias de la intervención
+R1	Scope Arg1:T2 Arg2:T4

@@ -1,0 +1,3 @@
+T1	UncertLexMarker 1038 1051	probablemente
+T2	DISO 1052 1059	benigna
+R1	Scope Arg1:T1 Arg2:T2

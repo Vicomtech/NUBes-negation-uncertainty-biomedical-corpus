@@ -1,0 +1,15 @@
+T1	UncertLexMarker 242 248	parece
+T2	DISO 249 255	normal
+T3	NegSynMarker 387 389	no
+T4	OTHER 390 410	se deja tomar la PIO
+T5	NegSynMarker 1410 1412	no
+T6	DISO 1413 1421	excavada
+T7	NegSynMarker 1543 1545	no
+T8	DISO 1546 1553	excavaa
+T9	NegSynMarker 1706 1709	sin
+T10	DISO 1710 1722	alteraciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10

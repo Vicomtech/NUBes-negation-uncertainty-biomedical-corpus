@@ -1,0 +1,12 @@
+T1	NegSynMarker 120 123	sin
+T2	DISO 124 136	incidenacias
+T3	NegSynMarker 292 295	sin
+T4	DISO 296 307	incidencias
+T5	NegLexMarker 308 319	Se suspende
+T6	PROC 320 346	la intervención quirurgica
+T7	NegSynMarker 456 459	sin
+T8	DISO 460 471	incidenicas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8

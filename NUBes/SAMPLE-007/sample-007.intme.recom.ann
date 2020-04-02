@@ -1,0 +1,3 @@
+T1	UncertLexMarker 221 229	posibles
+T2	DISO 230 239	sangrados
+R1	Scope Arg1:T1 Arg2:T2

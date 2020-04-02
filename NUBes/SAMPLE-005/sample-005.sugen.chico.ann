@@ -1,0 +1,105 @@
+T1	NegSynMarker 91 93	no
+T2	DISO 94 107	puede caminar
+T3	NegSynMarker 167 169	No
+T4	Phrase 170 197	ha realizado deposición hoy
+T5	OTHER 183 193	deposición
+T6	NegSynMarker 225 227	no
+T7	DISO 228 235	anuseas
+T8	NegSynMarker 238 240	no
+T9	DISO 241 248	vomtiso
+T10	NegSynMarker 341 344	sin
+T11	DISO 345 354	retención
+T12	NegSynMarker 824 826	no
+T13	Phrase 827 858	han llegado a determinar origen
+T14	OTHER 841 858	determinar origen
+T15	NegSynMarker 1120 1122	no
+T16	Phrase 1123 1132	come nada
+T17	NegSynMarker 1400 1402	No
+T18	DISO 1403 1410	coluria
+T19	NegSynMarker 1668 1671	sin
+T20	DISO 1672 1689	mejoria del dolor
+T21	NegSynMarker 1924 1926	no
+T22	DISO 1927 1940	sanguinolento
+T23	NegSynMarker 2089 2091	no
+T24	DISO 2092 2107	dolor abdominal
+T25	NegSynMarker 2346 2348	no
+T26	Phrase 2349 2379	gastropatía , ni estreñimiento
+T27	DISO 2349 2360	gastropatía
+T28	CoordItem 2363 2365	ni
+T29	DISO 2366 2379	estreñimiento
+T30	NegLexMarker 2606 2614	falta de
+T31	Phrase 2615 2619	aire
+T32	NegSynMarker 2837 2839	No
+T33	Phrase 2840 2882	sudoración ni perfil bacteriémico asociado
+T34	DISO 2840 2850	sudoración
+T35	CoordItem 2851 2853	ni
+T36	DISO 2854 2882	perfil bacteriémico asociado
+T37	UncertLexMarker 2885 2893	No calra
+T38	DISO 2894 2909	hernia palpable
+T39	NegSynMarker 2925 2927	No
+T40	Phrase 2928 2956	dolor abdominal , ni vomitos
+T41	DISO 2928 2943	dolor abdominal
+T42	CoordItem 2946 2948	ni
+T43	DISO 2949 2956	vomitos
+T44	NegSynMarker 3255 3257	no
+T45	DISO 3258 3273	dolor abdominal
+T46	NegSynMarker 3276 3278	no
+T47	DISO 3279 3284	mareo
+T48	NegSynMarker 3422 3425	sin
+T49	DISO 3426 3432	fiebre
+T50	Phrase 3426 3459	fiebre , disnea ni dolor torácico
+T51	DISO 3435 3441	disnea
+T52	CoordItem 3442 3444	ni
+T53	DISO 3445 3459	dolor torácico
+T54	NegMorMarker 3657 3669	inespecficas
+T55	NegMorMarker 3844 3851	Afebril
+T56	UncertLexMarker 3853 3861	no clara
+T57	Phrase 3862 3891	clinica de infeccion urinaria
+T58	DISO 3873 3891	infeccion urinaria
+T59	NegSynMarker 4575 4578	sin
+T60	DISO 4579 4586	náuseas
+T61	Phrase 4579 4616	náuseas , vómitos ni fiebre asociadas
+T62	DISO 4589 4596	vómitos
+T63	CoordItem 4597 4599	ni
+T64	DISO 4600 4606	fiebre
+T65	UncertLexMarker 4619 4621	No
+T66	Phrase 4622 4629	refiere
+T67	UncertLexMarker 4630 4635	claro
+T68	DISO 4636 4651	dolor abdominal
+T69	DISO 5009 5020	fecaloideos
+T70	UncertLexMarker 5021 5023	??
+T71	NegSynMarker 5323 5325	No
+T72	OTHER 5326 5342	toma de fármacos
+T73	NegSynMarker 5540 5542	No
+T74	DISO 5543 5582	clínica ORL , respiratoria ni miccional
+T75	CoordItem 5570 5572	ni
+T76	NegSynMarker 5585 5587	No
+T77	DISO 5588 5609	clinica de bajo gasto
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T48 Arg2:T50
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T59 Arg2:T61
+R22	DiscScope Arg1:T67 Arg2:T68
+R23	DiscScope Arg1:T67 Arg2:T66
+R24	DiscMarker Arg1:T65 Arg2:T67
+R25	Scope Arg1:T70 Arg2:T69
+R26	Scope Arg1:T71 Arg2:T72
+R27	Scope Arg1:T73 Arg2:T74
+R28	Scope Arg1:T76 Arg2:T77

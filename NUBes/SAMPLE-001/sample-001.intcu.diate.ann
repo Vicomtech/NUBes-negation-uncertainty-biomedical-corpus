@@ -1,0 +1,32 @@
+T1	NegSynMarker 132 134	no
+T2	Phrase 135 203	tolera ni los cambios posturales ni el decúbito supino adecuadamente
+T3	CoordItem 142 144	ni
+T4	DISO 145 167	los cambios posturales
+T5	CoordItem 168 170	ni
+T6	DISO 171 189	el decúbito supino
+T7	NegSynMarker 206 208	No
+T8	Phrase 209 325	se identifican no obstante signos ecográficos directos o indirectos de TVP a nivel femoral o poplíteo bilateralmente
+T9	DISO 236 325	signos ecográficos directos o indirectos de TVP a nivel femoral o poplíteo bilateralmente
+T10	UncertLexMarker 498 501	Sin
+T11	DISO 502 525	alteraciones pulmonares
+T12	UncertLexMarker 526 535	aparentes
+T13	NegSynMarker 629 632	Sin
+T14	DISO 633 659	cambios respecto a previas
+T15	NegSynMarker 679 682	Sin
+T16	Phrase 683 724	evidencia de TVP femoropoplítea bilateral
+T17	DISO 696 724	TVP femoropoplítea bilateral
+T18	NegSynMarker 727 729	No
+T19	DISO 730 738	derrames
+T20	Phrase 730 766	derrames ni signos de redistribución
+T21	CoordItem 739 741	ni
+T22	DISO 752 766	redistribución
+T23	UncertLexMarker 792 803	Sospecha de
+T24	DISO 804 823	micosis orofaringea
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T12 Arg2:T11
+R4	DiscMarker Arg1:T10 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T18 Arg2:T20
+R8	Scope Arg1:T23 Arg2:T24

@@ -1,0 +1,188 @@
+T1	NegSynMarker 168 170	no
+T2	Phrase 171 193	se evidencio neoplasia
+T3	DISO 184 193	neoplasia
+T4	UncertLexMarker 204 215	sospecha de
+T5	DISO 216 246	AIT/ACVA hemisferico izquierdo
+T6	DISO 300 307	infarto
+T7	UncertLexMarker 308 321	probablemente
+T8	DISO 322 340	de corta evolución
+T9	UncertLexMarker 584 590	parece
+T10	Phrase 591 641	evidente una falta de autocuidados en su domicilio
+T11	NegLexMarker 604 612	falta de
+T12	OTHER 613 625	autocuidados
+T13	NegSynMarker 721 724	sin
+T14	OTHER 725 735	dificultad
+T15	NegLexMarker 838 846	falta de
+T16	Phrase 847 859	autocuidados
+T17	NegLexMarker 912 928	Hemos suspendido
+T18	SUBS 929 942	el fluconazol
+T19	Phrase 929 955	el fluconazol y citalopran
+T20	CoordItem 943 944	y
+T21	SUBS 945 955	citalopran
+T22	UncertLexMarker 1121 1132	indicios de
+T23	DISO 1133 1181	inicio de deterioro cognitivo de orígen vascular
+T24	NegSynMarker 1346 1349	sin
+T25	Phrase 1350 1401	presencia de masas ni lesiones ocupantes de espacio
+T26	DISO 1363 1368	masas
+T27	CoordItem 1369 1371	ni
+T28	DISO 1372 1401	lesiones ocupantes de espacio
+T29	UncertLexMarker 1550 1555	puede
+T30	Phrase 1556 1823	deberse a una semianquilosis de defensa postural bien de relajación por el absceso de psoas izquierdo o como mecanismo de defensa de esa espondilodiscitis lumbar L2-L3 con estenosis importante de canal o de simple protección del flexo doloroso de su rodilla izquierda
+T31	DISO 1566 1604	una semianquilosis de defensa postural
+T32	CoordItem 1605 1609	bien
+T33	DISO 1610 1657	de relajación por el absceso de psoas izquierdo
+T34	CoordItem 1658 1659	o
+T35	DISO 1660 1757	como mecanismo de defensa de esa espondilodiscitis lumbar L2-L3 con estenosis importante de canal
+T36	CoordItem 1758 1759	o
+T37	DISO 1760 1823	de simple protección del flexo doloroso de su rodilla izquierda
+T38	UncertLexMarker 1871 1879	probable
+T39	DISO 1880 1904	relación a osteoartrosis
+T40	UncertLexMarker 2123 2129	parece
+T41	Phrase 2130 2216	evidente hasta la fecha la imposibilidad de realizar autocuidados sola en su domicilio
+T42	NegLexMarker 2157 2173	imposibilidad de
+T43	OTHER 2174 2200	realizar autocuidados sola
+T44	NegSynMarker 2563 2565	no
+T45	Phrase 2566 2619	indicándose en este momento tratamiento quimoterapico
+T46	PROC 2594 2619	tratamiento quimoterapico
+T47	NegLexMarker 2768 2777	retiramos
+T48	SUBS 2778 2788	quetiapina
+T49	NegSynMarker 2808 2810	no
+T50	Phrase 2811 2867	presentaba fracturas a nivel extremidad inferior derecha
+T51	DISO 2822 2867	fracturas a nivel extremidad inferior derecha
+T52	NegSynMarker 2933 2935	no
+T53	Phrase 2936 2960	ha referido dolor lumbar
+T54	DISO 2948 2960	dolor lumbar
+T55	PROC 3370 3394	ultimo control de esputo
+T56	NegLexMarker 3395 3403	negativo
+T57	Phrase 3440 3573	múltiples pequeños infartos lacunares agudos , córtico-subcorticales , frontoparietales derechos , en territorio de ACM de dicho lado
+T58	DISO 3440 3536	múltiples pequeños infartos lacunares agudos , córtico-subcorticales , frontoparietales derechos
+T59	UncertLexMarker 3578 3591	justificarian
+T60	Phrase 3592 3602	la clinica
+T61	NegLexMarker 3901 3909	negación
+T62	PolItem 3910 3918	absoluta
+T63	Phrase 3910 3964	absoluta a la ayuda externa de cara a un mejor cuidado
+T64	NegSynMarker 4053 4055	no
+T65	DISO 4056 4095	responde a tratamiento con metronidazol
+T66	UncertLexMarker 4581 4590	potencial
+T67	DISO 4591 4632	inestabilidad en la función renal e iones
+T68	NegSynMarker 4929 4932	sin
+T69	Phrase 4933 4965	signos de insuficiencia cardiaca
+T70	DISO 4943 4965	insuficiencia cardiaca
+T71	NegSynMarker 5587 5589	no
+T72	DISO 5590 5644	justificarían su bloqueo en flexión y rotación interna
+T73	NegLexMarker 5971 5980	suspender
+T74	OTHER 5981 5987	la RHB
+T75	NegSynMarker 6133 6136	sin
+T76	Phrase 6137 6155	signos de sangrado
+T77	DISO 6147 6155	sangrado
+T78	PROC 6158 6184	hemorragia oculta en heces
+T79	NegLexMarker 6185 6194	negativas
+T80	NegSynMarker 6830 6833	sin
+T81	DISO 6834 6842	disfagia
+T82	UncertLexMarker 7742 7749	valorar
+T83	Phrase 7750 7856	si se puede beneficiar de algún procedimiento intermedio ( transfusión o ciclo de antibiotico parenteral )
+T84	PROC 7776 7806	algún procedimiento intermedio
+T85	NegSynMarker 8483 8486	sin
+T86	Phrase 8487 8553	mostrar en el momento del alta sintomatología de origen cerebelosa
+T87	DISO 8518 8553	sintomatología de origen cerebelosa
+T88	NegSynMarker 8599 8602	sin
+T89	DISO 8603 8610	clinica
+T90	NegLexMarker 8932 8940	falta de
+T91	Phrase 8941 8952	autocuidado
+T92	NegSynMarker 9331 9334	sin
+T93	DISO 9335 9340	dolor
+T94	SUBS 9619 9638	ciprofloxacino oral
+T95	NegLexMarker 9643 9654	se suspende
+T96	NegSynMarker 9717 9719	no
+T97	DISO 9720 9734	celula pequeña
+T98	UncertLexMarker 9735 9742	posible
+T99	BODY 9743 9749	pulmón
+T100	NegSynMarker 9851 9853	no
+T101	DISO 9854 9862	recidiva
+T102	NegLexMarker 10025 10034	suspender
+T103	OTHER 10035 10049	el tratamiento
+T104	Phrase 10035 10103	el tratamiento por dolor , mala tolerancia y complicaciones diversas
+T105	UncertLexMarker 10809 10817	probable
+T106	DISO 10818 10832	relación a ITU
+T107	NegSynMarker 10891 10893	NO
+T108	PROC 10894 10929	tratar dichas infecciones urinarias
+T109	NegSynMarker 11546 11548	no
+T110	Phrase 11549 11573	se realiza retratamiento
+T111	PROC 11560 11573	retratamiento
+T112	NegSynMarker 11576 11579	sin
+T113	DISO 11580 11600	sintomas infecciosos
+T114	UncertLexMarker 11912 11915	sin
+T115	DISO 11916 11922	signos
+T116	UncertLexMarker 11923 11929	claros
+T117	DISO 11930 11947	de isquemia aguda
+T118	NegLexMarker 12599 12614	se le suspendió
+T119	Phrase 12615 12699	en los días previos el tratamiento con Sintrom tras valorar elevado riesgo de caídas
+T120	SUBS 12654 12661	Sintrom
+T121	NegLexMarker 13061 13070	retirados
+T122	SUBS 13071 13085	los diuréticos
+T123	NegSynMarker 13187 13189	No
+T124	Phrase 13190 13228	pareció apreciarse déficit motor en EE
+T125	DISO 13209 13228	déficit motor en EE
+T126	UncertLexMarker 13538 13544	parece
+T127	Phrase 13545 13666	haber presentado con el tratamiento rehabilitador , mejoria de su equilibrio y de la deambulacion con la ayuda de andador
+T128	DISO 13597 13666	mejoria de su equilibrio y de la deambulacion con la ayuda de andador
+T129	NegSynMarker 13803 13805	no
+T130	Phrase 13806 13834	evidenció datos de estenosis
+T131	DISO 13825 13834	estenosis
+T132	UncertLexMarker 13901 13911	sugiriendo
+T133	Phrase 13912 13958	todo ello un alto riesgo de embolismo cardiaco
+T134	DISO 13922 13958	un alto riesgo de embolismo cardiaco
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T7 Arg2:T6
+R4	DiscScope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T19
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T38 Arg2:T39
+R14	Scope Arg1:T42 Arg2:T43
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T52 Arg2:T53
+R20	Scope Arg1:T56 Arg2:T55
+R21	DiscScope Arg1:T59 Arg2:T57
+R22	DiscScope Arg1:T59 Arg2:T60
+R23	Scope Arg1:T61 Arg2:T63
+R24	Scope Arg1:T64 Arg2:T65
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T71 Arg2:T72
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T75 Arg2:T76
+R30	Scope Arg1:T79 Arg2:T78
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T82 Arg2:T83
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T88 Arg2:T89
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T92 Arg2:T93
+R37	Scope Arg1:T95 Arg2:T94
+R38	Scope Arg1:T100 Arg2:T101
+R39	Scope Arg1:T98 Arg2:T99
+R40	Scope Arg1:T96 Arg2:T97
+R41	Scope Arg1:T102 Arg2:T104
+R42	Scope Arg1:T107 Arg2:T108
+R43	Scope Arg1:T105 Arg2:T106
+R44	Scope Arg1:T109 Arg2:T110
+R45	Scope Arg1:T112 Arg2:T113
+R46	DiscScope Arg1:T116 Arg2:T115
+R47	DiscMarker Arg1:T114 Arg2:T116
+R48	DiscScope Arg1:T116 Arg2:T117
+R49	Scope Arg1:T118 Arg2:T119
+R50	Scope Arg1:T121 Arg2:T122
+R51	Scope Arg1:T123 Arg2:T124
+R52	Scope Arg1:T126 Arg2:T127
+R53	Scope Arg1:T129 Arg2:T130
+R54	Scope Arg1:T132 Arg2:T133

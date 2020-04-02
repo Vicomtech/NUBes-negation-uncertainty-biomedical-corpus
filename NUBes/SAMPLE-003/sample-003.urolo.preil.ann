@@ -1,0 +1,39 @@
+T1	UncertLexMarker 28 39	sospecha de
+T2	DISO 40 43	GEA
+T3	NegSynMarker 82 85	Sin
+T4	OTHER 86 113	historia urológica conocida
+T5	NegLexMarker 208 216	cediendo
+T6	DISO 217 228	las náuseas
+T7	Phrase 217 242	las náuseas con Primperam
+T8	NegSynMarker 313 315	no
+T9	DISO 316 333	clínic amiccional
+T10	NegSynMarker 420 422	No
+T11	Phrase 423 450	recuerda Ecografias previas
+T12	PROC 432 450	Ecografias previas
+T13	NegSynMarker 804 806	no
+T14	DISO 807 826	goteo postmiccional
+T15	NegSynMarker 861 863	no
+T16	DISO 864 871	escozor
+T17	NegSynMarker 1397 1399	no
+T18	DISO 1400 1406	fiebre
+T19	NegSynMarker 1453 1455	no
+T20	DISO 1456 1462	disnea
+T21	NegSynMarker 1465 1467	no
+T22	DISO 1468 1482	dolor toràcico
+T23	NegSynMarker 1483 1485	No
+T24	DISO 1486 1493	vòmitos
+T25	NegLexMarker 2634 2642	suprimió
+T26	SUBS 2643 2653	el Avidart
+T27	Phrase 2643 2669	el Avidart al sentarle mal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T25 Arg2:T27

@@ -1,0 +1,28 @@
+T1	NegSynMarker 1054 1057	sin
+T2	DISO 1058 1068	dificultad
+T3	UncertLexMarker 1220 1227	valorar
+T4	PROC 1228 1250	tratamiento quirúrgico
+T5	SUBS 2015 2041	toda la medicación sedante
+T6	NegLexMarker 2042 2050	retirada
+T7	NegLexMarker 2073 2081	falta de
+T8	OTHER 2082 2089	ingesta
+T9	NegSynMarker 2348 2350	no
+T10	Phrase 2351 2364	refiere dolor
+T11	DISO 2359 2364	dolor
+T12	NegSynMarker 2442 2445	sin
+T13	Phrase 2446 2453	ninguna
+T14	NegSynMarker 3222 3224	no
+T15	OTHER 3225 3243	respondió al mismo
+T16	UncertLexMarker 3298 3305	posible
+T17	DISO 3306 3354	complicación embólica de su proceso cardiológico
+T18	NegSynMarker 3761 3764	sin
+T19	DISO 3765 3770	edema
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T5
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T18 Arg2:T19

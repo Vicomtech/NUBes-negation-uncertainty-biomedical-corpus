@@ -1,0 +1,161 @@
+T1	NegMorMarker 181 193	asintomatica
+T2	UncertLexMarker 472 480	probable
+T3	DISO 481 484	ITU
+T4	NegSynMarker 781 783	no
+T5	DISO 784 808	controlado con analgesia
+T6	UncertLexMarker 979 992	sospechosa de
+T7	DISO 993 1005	hipernefroma
+T8	NegMorMarker 1394 1406	asintomática
+T9	NegSynMarker 1627 1630	sin
+T10	DISO 1631 1652	hallazgos patologicos
+T11	DISO 1854 1867	pielonefritis
+T12	UncertLexMarker 1868 1870	??
+T13	DISO 1873 1888	cólicos renales
+T14	UncertLexMarker 1889 1891	??
+T15	UncertLexMarker 2132 2141	no parece
+T16	DISO 2142 2197	asociarse a adenopatías regionales de tamaño patológico
+T17	NegSynMarker 2200 2202	no
+T18	Phrase 2203 2290	observándose tampoco adenopatías de tamaño patológico retroperitoneales ni mesentéricas
+T19	PolItem 2216 2223	tampoco
+T20	DISO 2224 2290	adenopatías de tamaño patológico retroperitoneales ni mesentéricas
+T21	CoordItem 2275 2277	ni
+T22	NegSynMarker 2293 2295	No
+T23	Phrase 2296 2364	clínica febril , naúseas , vómitos ni cambios en el ritmo intestinal
+T24	DISO 2296 2310	clínica febril
+T25	DISO 2313 2320	naúseas
+T26	DISO 2323 2330	vómitos
+T27	CoordItem 2331 2333	ni
+T28	DISO 2334 2364	cambios en el ritmo intestinal
+T29	PROC 2485 2505	biopsias de prostata
+T30	NegLexMarker 2508 2516	negativa
+T31	Phrase 2517 2527	para tumor
+T32	OTHER 2544 2560	sondaje urinario
+T33	NegLexMarker 2563 2572	imposible
+T34	UncertLexMarker 3149 3159	Se plantea
+T35	PROC 3160 3169	nueva RTU
+T36	NegMorMarker 3322 3334	asintomático
+T37	SUBS 3383 3396	Atorvastatina
+T38	UncertLexMarker 3397 3399	??
+T39	NegSynMarker 3400 3402	No
+T40	DISO 3403 3410	vómitos
+T41	NegSynMarker 3412 3414	no
+T42	DISO 3415 3443	lumbalgia mayor del habitual
+T43	NegSynMarker 3620 3622	No
+T44	Phrase 3623 3642	ITU desde hace años
+T45	DISO 3623 3626	ITU
+T46	NegSynMarker 4172 4174	no
+T47	DISO 4175 4186	polaquiuria
+T48	NegSynMarker 4189 4191	no
+T49	DISO 4192 4199	disuria
+T50	NegSynMarker 4202 4204	no
+T51	DISO 4205 4217	dolor lumbar
+T52	Phrase 4205 4240	dolor lumbar ni fiebre termometrada
+T53	CoordItem 4218 4220	ni
+T54	DISO 4221 4240	fiebre termometrada
+T55	NegSynMarker 4259 4261	No
+T56	DISO 4262 4273	metrorragia
+T57	NegSynMarker 4274 4276	No
+T58	DISO 4277 4283	disnea
+T59	NegSynMarker 4286 4288	no
+T60	DISO 4289 4294	mareo
+T61	NegSynMarker 4297 4299	no
+T62	DISO 4300 4315	dolor abdomianl
+T63	NegSynMarker 4316 4318	No
+T64	Phrase 4319 4351	sangrado en otras localizaciones
+T65	DISO 4319 4327	sangrado
+T66	UncertLexMarker 4371 4395	altamente compatible con
+T67	DISO 4396 4411	un hipernefroma
+T68	NegSynMarker 4412 4414	no
+T69	OTHER 4415 4456	llega a contactar con el paquete vascular
+T70	NegLexMarker 4558 4569	Desapareció
+T71	DISO 4570 4586	la incontinencia
+T72	NegSynMarker 5535 5537	NO
+T73	Phrase 5538 5599	SE OBSERVA INFILTRACION DE LA REPRESENTACION DE CAPA MUSCULAR
+T74	DISO 5549 5599	INFILTRACION DE LA REPRESENTACION DE CAPA MUSCULAR
+T75	NegSynMarker 6158 6160	No
+T76	Phrase 6161 6208	refiere episodios previos de retención urinaria
+T77	DISO 6169 6208	episodios previos de retención urinaria
+T78	NegLexMarker 6211 6216	nunca
+T79	Phrase 6217 6275	ha precisado sondaje aunque lleva tiempo orinando muy fino
+T80	OTHER 6230 6237	sondaje
+T81	NegSynMarker 6447 6450	sin
+T82	OTHER 6451 6461	resultados
+T83	NegSynMarker 7366 7368	No
+T84	DISO 7369 7383	dolor torácico
+T85	Phrase 7369 7400	dolor torácico ni palpitaciones
+T86	CoordItem 7384 7386	ni
+T87	DISO 7387 7400	palpitaciones
+T88	UncertLexMarker 7526 7529	sin
+T89	DISO 7530 7535	causa
+T90	UncertLexMarker 7536 7544	aparente
+T91	NegSynMarker 7738 7740	No
+T92	DISO 7741 7747	fiebre
+T93	NegSynMarker 7750 7752	no
+T94	DISO 7753 7760	disuria
+T95	NegSynMarker 7763 7765	no
+T96	DISO 7766 7777	polaquiuria
+T97	NegSynMarker 7780 7782	no
+T98	DISO 7783 7816	alteracion en el ritmo intestinal
+T99	NegSynMarker 8227 8229	no
+T100	DISO 8230 8242	termometrada
+T101	NegSynMarker 8477 8480	sin
+T102	Phrase 8481 8544	apreciarse patología ginecológica , traumatológica ni urológica
+T103	DISO 8492 8544	patología ginecológica , traumatológica ni urológica
+T104	CoordItem 8532 8534	ni
+T105	NegLexMarker 8725 8741	imposibilidad de
+T106	OTHER 8742 8749	micción
+T107	NegSynMarker 8840 8842	No
+T108	DISO 8843 8849	fiebre
+T109	Phrase 8843 8874	fiebre ni otra clínica asociada
+T110	CoordItem 8850 8852	ni
+T111	DISO 8853 8874	otra clínica asociada
+T112	UncertLexMarker 9046 9059	sospechosa de
+T113	DISO 9060 9077	neoplasia vesical
+T114	NegSynMarker 9078 9080	No
+T115	Phrase 9081 9129	ha presentado clínica miccional los días previos
+T116	DISO 9095 9112	clínica miccional
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T14 Arg2:T13
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T22 Arg2:T23
+R10	DiscScope Arg1:T30 Arg2:T31
+R11	DiscScope Arg1:T30 Arg2:T29
+R12	Scope Arg1:T33 Arg2:T32
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T38 Arg2:T37
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T57 Arg2:T58
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T55 Arg2:T56
+R21	Scope Arg1:T61 Arg2:T62
+R22	Scope Arg1:T63 Arg2:T64
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T48 Arg2:T49
+R25	Scope Arg1:T50 Arg2:T52
+R26	Scope Arg1:T66 Arg2:T67
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T72 Arg2:T73
+R30	Scope Arg1:T75 Arg2:T76
+R31	Scope Arg1:T78 Arg2:T79
+R32	Scope Arg1:T81 Arg2:T82
+R33	Scope Arg1:T83 Arg2:T85
+R34	Scope Arg1:T90 Arg2:T89
+R35	DiscMarker Arg1:T88 Arg2:T90
+R36	Scope Arg1:T91 Arg2:T92
+R37	Scope Arg1:T95 Arg2:T96
+R38	Scope Arg1:T93 Arg2:T94
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T99 Arg2:T100
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T105 Arg2:T106
+R43	Scope Arg1:T107 Arg2:T109
+R44	Scope Arg1:T114 Arg2:T115
+R45	Scope Arg1:T112 Arg2:T113

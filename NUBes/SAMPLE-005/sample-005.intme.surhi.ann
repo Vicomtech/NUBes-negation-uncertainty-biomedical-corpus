@@ -1,0 +1,3 @@
+T1	NegSynMarker 43 45	NO
+T2	DISO 46 58	ESPECIFICADA
+R1	Scope Arg1:T1 Arg2:T2

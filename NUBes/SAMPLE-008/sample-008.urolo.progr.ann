@@ -1,0 +1,93 @@
+T1	Phrase 179 184	fecha
+T2	UncertLexMarker 185 193	probable
+T3	Phrase 194 209	17 de Noviembre
+T4	NegLexMarker 320 330	Descartada
+T5	DISO 331 348	Apendicitis aguda
+T6	NegLexMarker 359 375	imposibilidad de
+T7	Phrase 376 416	colocacion de sonda vesical en Urgencias
+T8	PROC 376 403	colocacion de sonda vesical
+T9	NegSynMarker 613 616	sin
+T10	DISO 617 623	filiar
+T11	NegSynMarker 663 666	sin
+T12	DISO 667 673	filiar
+T13	NegLexMarker 684 695	retirada de
+T14	OTHER 696 704	la sonda
+T15	UncertLexMarker 926 936	se plantea
+T16	PROC 937 959	tratamiento quirúrgico
+T17	NegLexMarker 1063 1067	cede
+T18	DISO 1068 1080	la hematuria
+T19	NegLexMarker 1090 1098	retirada
+T20	OTHER 1099 1107	la sonda
+T21	NegLexMarker 1196 1204	se anula
+T22	PROC 1205 1220	la intervención
+T23	NegSynMarker 1313 1315	no
+T24	Phrase 1316 1353	tomando ya el sintrom , desde ese día
+T25	SUBS 1330 1337	sintrom
+T26	NegLexMarker 1359 1368	retirarle
+T27	OTHER 1369 1377	la sonda
+T28	SUBS 1437 1451	Ciprofloxacino
+T29	NegLexMarker 1454 1466	se suspendio
+T30	Phrase 1467 1487	por cuadro diarreico
+T31	NegLexMarker 1498 1509	retirada de
+T32	OTHER 1510 1526	la sonda vesical
+T33	NegSynMarker 1551 1553	No
+T34	Phrase 1554 1591	ha vuelto a presentar cuadro doloroso
+T35	DISO 1576 1591	cuadro doloroso
+T36	NegSynMarker 1594 1596	No
+T37	Phrase 1597 1631	ha vuelto a presentar dolor severo
+T38	DISO 1619 1631	dolor severo
+T39	Phrase 1762 1767	Fecha
+T40	UncertLexMarker 1768 1776	probable
+T41	Phrase 1777 1810	de intervención el día 21 de Mayo
+T42	NegSynMarker 1856 1858	no
+T43	Phrase 1859 1896	volviendo a presentar cuadro doloroso
+T44	DISO 1881 1896	cuadro doloroso
+T45	NegLexMarker 2173 2189	imposibilidad de
+T46	PROC 2190 2197	sondaje
+T47	NegSynMarker 2324 2327	sin
+T48	DISO 2328 2337	problemas
+T49	NegSynMarker 2932 2935	sin
+T50	DISO 2936 2958	significado patológico
+T51	NegLexMarker 3081 3089	Retirada
+T52	Phrase 3090 3109	nuevamente la sonda
+T53	OTHER 3101 3109	la sonda
+T54	NegSynMarker 3118 3121	sin
+T55	DISO 3122 3131	problemas
+T56	OTHER 3159 3167	la talla
+T57	NegSynMarker 3202 3205	sin
+T58	DISO 3206 3216	dificultad
+T59	NegLexMarker 3230 3239	se retira
+T60	NegLexMarker 3490 3498	cediendo
+T61	DISO 3499 3517	el cuadro doloroso
+T62	NegLexMarker 3590 3599	imposible
+T63	DISO 3600 3628	por estenosis severa uretral
+R1	DiscScope Arg1:T2 Arg2:T3
+R2	DiscScope Arg1:T2 Arg2:T1
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T9 Arg2:T10
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T21 Arg2:T22
+R13	Scope Arg1:T26 Arg2:T27
+R14	DiscScope Arg1:T29 Arg2:T30
+R15	DiscScope Arg1:T29 Arg2:T28
+R16	Scope Arg1:T31 Arg2:T32
+R17	Scope Arg1:T33 Arg2:T34
+R18	Scope Arg1:T36 Arg2:T37
+R19	DiscScope Arg1:T40 Arg2:T41
+R20	DiscScope Arg1:T40 Arg2:T39
+R21	Scope Arg1:T42 Arg2:T43
+R22	Scope Arg1:T45 Arg2:T46
+R23	Scope Arg1:T47 Arg2:T48
+R24	Scope Arg1:T49 Arg2:T50
+R25	Scope Arg1:T51 Arg2:T52
+R26	Scope Arg1:T54 Arg2:T55
+R27	Scope Arg1:T59 Arg2:T56
+R28	Scope Arg1:T57 Arg2:T58
+R29	Scope Arg1:T60 Arg2:T61
+R30	Scope Arg1:T62 Arg2:T63

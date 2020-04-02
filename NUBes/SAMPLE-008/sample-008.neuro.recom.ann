@@ -1,0 +1,12 @@
+T1	NegLexMarker 1454 1464	Suspendera
+T2	Phrase 1465 1505	la aplicacion del parche de Rivastigmina
+T3	SUBS 1483 1505	parche de Rivastigmina
+T4	NegLexMarker 1693 1703	Suspenderá
+T5	Phrase 1704 1791	la toma de Sintrom hasta acudir a consultas externas de Neurologia en la fecha indicada
+T6	SUBS 1715 1722	Sintrom
+T7	UncertLexMarker 3662 3671	A valorar
+T8	Phrase 3672 3734	por su medico la reintroduccion de Irbesartan 300/HCTZ 12,5 mg
+T9	OTHER 3686 3734	la reintroduccion de Irbesartan 300/HCTZ 12,5 mg
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8

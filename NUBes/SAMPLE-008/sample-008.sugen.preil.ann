@@ -1,0 +1,72 @@
+T1	NegSynMarker 268 270	no
+T2	DISO 271 297	relacionado con la ingesta
+T3	NegSynMarker 304 306	no
+T4	DISO 307 342	le ha impedido hacer su vida normal
+T5	NegSynMarker 551 554	sin
+T6	DISO 555 575	residuos patològicos
+T7	NegSynMarker 766 768	No
+T8	Phrase 769 796	clínica miccional ni fiebre
+T9	DISO 769 786	clínica miccional
+T10	CoordItem 787 789	ni
+T11	DISO 790 796	fiebre
+T12	NegSynMarker 799 801	No
+T13	Phrase 802 837	ha tomado analgesia por este motivo
+T14	SUBS 812 821	analgesia
+T15	NegSynMarker 1173 1176	sin
+T16	DISO 1177 1192	patologia aguda
+T17	NegSynMarker 1441 1443	No
+T18	DISO 1444 1450	fiebre
+T19	NegSynMarker 1453 1455	no
+T20	DISO 1456 1476	clinica respiratoria
+T21	Phrase 1456 1498	clinica respiratoria ni sindrome miccional
+T22	CoordItem 1477 1479	ni
+T23	DISO 1480 1498	sindrome miccional
+T24	NegSynMarker 1860 1863	sin
+T25	DISO 1864 1881	mejoria del dolor
+T26	NegSynMarker 2077 2079	No
+T27	Phrase 2080 2106	fiebre ni clínica urinaria
+T28	DISO 2080 2086	fiebre
+T29	CoordItem 2087 2089	ni
+T30	DISO 2090 2106	clínica urinaria
+T31	NegSynMarker 2125 2128	sin
+T32	Phrase 2129 2147	nauseas ni vómitos
+T33	DISO 2129 2136	nauseas
+T34	CoordItem 2137 2139	ni
+T35	DISO 2140 2147	vómitos
+T36	UncertLexMarker 2562 2570	sospecha
+T37	Phrase 2571 2598	tras AP de cólicos biliares
+T38	DISO 2582 2598	cólicos biliares
+T39	NegSynMarker 2601 2603	No
+T40	Phrase 2604 2622	náuseas ni vómitos
+T41	DISO 2604 2611	náuseas
+T42	CoordItem 2612 2614	ni
+T43	DISO 2615 2622	vómitos
+T44	NegSynMarker 2625 2627	no
+T45	DISO 2628 2659	alteracion del ritmo intestinal
+T46	NegSynMarker 2899 2901	No
+T47	DISO 2902 2908	disnea
+T48	NegSynMarker 2911 2913	no
+T49	DISO 2914 2919	mareo
+T50	NegSynMarker 2922 2924	no
+T51	DISO 2925 2938	palpitaciones
+T52	NegSynMarker 2941 2943	no
+T53	DISO 2944 2971	otros síntomas acompañantes
+T54	NegMorMarker 3606 3618	asintomática
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T19 Arg2:T21
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T44 Arg2:T45
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T48 Arg2:T49
+R16	Scope Arg1:T46 Arg2:T47
+R17	Scope Arg1:T52 Arg2:T53
+R18	Scope Arg1:T50 Arg2:T51

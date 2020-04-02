@@ -1,0 +1,160 @@
+T1	NegSynMarker 25 27	No
+T2	DISO 28 31	TCE
+T3	NegSynMarker 34 36	no
+T4	DISO 37 60	perdida de conocimiento
+T5	NegLexMarker 75 81	impide
+T6	OTHER 82 97	la deambulacion
+T7	NegSynMarker 112 114	no
+T8	OTHER 115 130	puede acostarse
+T9	NegSynMarker 272 275	sin
+T10	OTHER 276 286	producción
+T11	NegSynMarker 529 532	sin
+T12	DISO 533 538	dolor
+T13	UncertLexMarker 590 601	sospecha de
+T14	DISO 602 641	infeccion a nivel material artroplastia
+T15	NegSynMarker 699 701	No
+T16	Phrase 702 712	refiere AP
+T17	DISO 710 712	AP
+T18	UncertLexMarker 811 818	no sabe
+T19	OTHER 819 837	lo que le infiltró
+T20	PROC 938 940	FR
+T21	NegLexMarker 941 949	negativo
+T22	PROC 952 955	ANA
+T23	NegLexMarker 956 964	negativo
+T24	NegSynMarker 978 980	No
+T25	Phrase 981 996	tiene psoriasis
+T26	DISO 987 996	psoriasis
+T27	NegSynMarker 1047 1050	sin
+T28	DISO 1051 1058	mejoria
+T29	NegSynMarker 1077 1079	No
+T30	OTHER 1080 1085	cruza
+T31	NegSynMarker 1436 1438	No
+T32	DISO 1439 1477	contusiones en extremidades inferiores
+T33	UncertLexMarker 1568 1575	posible
+T34	DISO 1576 1596	artritis de tobillos
+T35	NegSynMarker 1682 1684	No
+T36	DISO 1685 1707	antecedente traumático
+T37	NegSynMarker 2106 2108	No
+T38	DISO 2109 2116	fluctúa
+T39	NegSynMarker 2119 2121	No
+T40	DISO 2122 2138	mejora con AINes
+T41	NegSynMarker 2225 2228	sin
+T42	DISO 2229 2236	mejoría
+T43	NegSynMarker 2615 2617	No
+T44	DISO 2618 2623	dolor
+T45	NegSynMarker 2683 2685	No
+T46	DISO 2686 2708	contusion a otro nivel
+T47	NegSynMarker 2711 2713	No
+T48	DISO 2714 2742	antec traumático reconocible
+T49	NegSynMarker 3155 3157	no
+T50	Phrase 3158 3183	xerostomía ni xeroftalmia
+T51	DISO 3158 3168	xerostomía
+T52	CoordItem 3169 3171	ni
+T53	DISO 3172 3183	xeroftalmia
+T54	NegSynMarker 3184 3186	No
+T55	DISO 3187 3199	aftas orales
+T56	NegSynMarker 3200 3202	No
+T57	DISO 3203 3219	fotosensibilidad
+T58	NegSynMarker 3220 3222	No
+T59	DISO 3223 3230	Raynaud
+T60	NegSynMarker 3493 3495	no
+T61	Phrase 3496 3539	tiene ascensor en su domicilio hace 3 meses
+T62	UncertLexMarker 3694 3703	sin claro
+T63	DISO 3704 3731	derrame articular al inicio
+T64	Phrase 3704 3751	derrame articular al inicio ni eritema o fiebre
+T65	CoordItem 3732 3734	ni
+T66	DISO 3735 3742	eritema
+T67	CoordItem 3743 3744	o
+T68	DISO 3745 3751	fiebre
+T69	NegSynMarker 4239 4241	No
+T70	Phrase 4242 4253	toma AINE.s
+T71	SUBS 4247 4253	AINE.s
+T72	NegSynMarker 4308 4311	sin
+T73	PROC 4312 4315	tto
+T74	NegSynMarker 4374 4376	no
+T75	OTHER 4377 4416	le recuerda a los episodios de artritis
+T76	NegSynMarker 4455 4458	sin
+T77	Phrase 4459 4487	traumatismo , ni mala pisada
+T78	DISO 4459 4470	traumatismo
+T79	CoordItem 4473 4475	ni
+T80	DISO 4476 4487	mala pisada
+T81	NegLexMarker 5008 5014	Niegan
+T82	DISO 5015 5020	mareo
+T83	Phrase 5015 5044	mareo o pérdida de conciencia
+T84	CoordItem 5021 5022	o
+T85	DISO 5023 5044	pérdida de conciencia
+T86	NegSynMarker 5081 5083	No
+T87	DISO 5084 5092	doloroso
+T88	UncertLexMarker 5581 5590	sin clara
+T89	DISO 5591 5598	mejoría
+T90	NegSynMarker 5915 5917	no
+T91	DISO 5918 5958	desapareció totalmente la sintomatología
+T92	NegSynMarker 6089 6091	no
+T93	Phrase 6092 6114	se realizó análisis AP
+T94	PROC 6103 6114	análisis AP
+T95	NegSynMarker 6167 6170	sin
+T96	DISO 6171 6193	antecedente traumático
+T97	NegSynMarker 6529 6532	sin
+T98	DISO 6533 6542	hallazgos
+T99	UncertLexMarker 6545 6551	Parece
+T100	Phrase 6552 6587	que ha crecido en los últimos meses
+T101	DISO 6559 6587	crecido en los últimos meses
+T102	NegSynMarker 6706 6708	No
+T103	DISO 6709 6720	traumatismo
+T104	NegSynMarker 6723 6725	no
+T105	DISO 6726 6732	fallos
+T106	NegSynMarker 6735 6737	no
+T107	Phrase 6738 6763	tumefacción , ni bloqueos
+T108	DISO 6738 6749	tumefacción
+T109	CoordItem 6752 6754	ni
+T110	DISO 6755 6763	bloqueos
+T111	NegSynMarker 6868 6871	sin
+T112	DISO 6872 6879	mejoría
+T113	NegLexMarker 6937 6942	Niega
+T114	DISO 6943 6963	traumatismos previos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T21 Arg2:T20
+R12	Scope Arg1:T23 Arg2:T22
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T39 Arg2:T40
+R20	Scope Arg1:T41 Arg2:T42
+R21	Scope Arg1:T43 Arg2:T44
+R22	Scope Arg1:T45 Arg2:T46
+R23	Scope Arg1:T47 Arg2:T48
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T49 Arg2:T50
+R26	Scope Arg1:T58 Arg2:T59
+R27	Scope Arg1:T56 Arg2:T57
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T62 Arg2:T64
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T72 Arg2:T73
+R32	Scope Arg1:T74 Arg2:T75
+R33	Scope Arg1:T76 Arg2:T77
+R34	Scope Arg1:T81 Arg2:T83
+R35	Scope Arg1:T86 Arg2:T87
+R36	Scope Arg1:T88 Arg2:T89
+R37	Scope Arg1:T90 Arg2:T91
+R38	Scope Arg1:T92 Arg2:T93
+R39	Scope Arg1:T95 Arg2:T96
+R40	Scope Arg1:T97 Arg2:T98
+R41	Scope Arg1:T99 Arg2:T100
+R42	Scope Arg1:T104 Arg2:T105
+R43	Scope Arg1:T102 Arg2:T103
+R44	Scope Arg1:T106 Arg2:T107
+R45	Scope Arg1:T111 Arg2:T112
+R46	Scope Arg1:T113 Arg2:T114

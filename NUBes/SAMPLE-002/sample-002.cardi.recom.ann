@@ -1,0 +1,3 @@
+T1	SUBS 1231 1243	Simbastatina
+T2	NegLexMarker 1244 1254	SUSPENDIDA
+R1	Scope Arg1:T2 Arg2:T1

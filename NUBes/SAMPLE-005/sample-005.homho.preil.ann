@@ -1,0 +1,295 @@
+T1	NegLexMarker 94 98	Nula
+T2	DISO 99 106	mejoría
+T3	NegSynMarker 300 303	sin
+T4	DISO 304 313	focalidad
+T5	NegSynMarker 316 319	sin
+T6	OTHER 320 350	elevación de la procalcitonina
+T7	UncertLexMarker 353 366	probablemente
+T8	DISO 367 374	tumoral
+T9	NegSynMarker 743 745	no
+T10	DISO 746 757	fermentador
+T11	NegLexMarker 1327 1334	retirar
+T12	Phrase 1335 1346	3 tornillos
+T13	OTHER 1337 1346	tornillos
+T14	NegSynMarker 1845 1847	no
+T15	Phrase 1848 1882	se evidencia enfermedad neoplásica
+T16	DISO 1861 1882	enfermedad neoplásica
+T17	NegLexMarker 2106 2112	Niegan
+T18	DISO 2113 2144	otra sintomatología acompañante
+T19	NegSynMarker 2366 2368	No
+T20	Phrase 2369 2428	clínica febril , catarral , dolor torácico ni palpitaciones
+T21	DISO 2369 2394	clínica febril , catarral
+T22	DISO 2397 2411	dolor torácico
+T23	CoordItem 2412 2414	ni
+T24	DISO 2415 2428	palpitaciones
+T25	NegSynMarker 2564 2567	sin
+T26	Phrase 2568 2606	tos ni secreciones ni disnea de reposo
+T27	DISO 2568 2571	tos
+T28	CoordItem 2572 2574	ni
+T29	DISO 2575 2586	secreciones
+T30	CoordItem 2587 2589	ni
+T31	DISO 2590 2606	disnea de reposo
+T32	NegSynMarker 2752 2754	No
+T33	Phrase 2755 2787	oliguria ni síntomas miccionales
+T34	DISO 2755 2763	oliguria
+T35	CoordItem 2764 2766	ni
+T36	DISO 2767 2787	síntomas miccionales
+T37	NegSynMarker 2790 2792	no
+T38	DISO 2793 2814	edematización de EEII
+T39	UncertLexMarker 3314 3324	asumir que
+T40	Phrase 3325 3339	está infectada
+T41	DISO 3330 3339	infectada
+T42	NegSynMarker 3701 3703	no
+T43	Phrase 3704 3736	evidencian patología a ese nivel
+T44	DISO 3715 3736	patología a ese nivel
+T45	UncertLexMarker 3794 3802	probable
+T46	DISO 3803 3838	relacion con Insuficiencia cardiaca
+T47	NegSynMarker 3979 3982	sin
+T48	DISO 3983 3990	síncope
+T49	NegSynMarker 4048 4050	no
+T50	DISO 4051 4060	irradiado
+T51	NegSynMarker 4067 4069	no
+T52	DISO 4070 4103	aumenta claramente con la ingesta
+T53	NegSynMarker 4446 4448	no
+T54	Phrase 4449 4489	se realizan mas estudios complementarios
+T55	PROC 4461 4489	mas estudios complementarios
+T56	NegSynMarker 4715 4717	no
+T57	Phrase 4718 4742	es capaz de caminar solo
+T58	OTHER 4721 4742	capaz de caminar solo
+T59	NegSynMarker 4882 4884	no
+T60	Phrase 4885 4901	es satisfactoria
+T61	OTHER 4888 4901	satisfactoria
+T62	NegMorMarker 5098 5110	asintomática
+T63	NegSynMarker 5125 5127	No
+T64	Phrase 5128 5172	ha tomado más tratamiento que el antibiótico
+T65	OTHER 5138 5172	más tratamiento que el antibiótico
+T66	NegLexMarker 5173 5178	Niega
+T67	Phrase 5179 5208	tos , disnea , dolor torácico
+T68	DISO 5179 5182	tos
+T69	DISO 5185 5191	disnea
+T70	DISO 5194 5208	dolor torácico
+T71	NegSynMarker 5209 5212	Sin
+T72	DISO 5213 5234	otra clínica asociada
+T73	NegSynMarker 5371 5373	no
+T74	Phrase 5374 5385	es efectivo
+T75	OTHER 5377 5385	efectivo
+T76	UncertLexMarker 5496 5504	no claro
+T77	DISO 5505 5520	nivel sensitivo
+T78	NegSynMarker 5903 5905	No
+T79	DISO 5906 5939	clínica infecciosa a ningún nivel
+T80	PolItem 5927 5933	ningún
+T81	UncertLexMarker 5997 6007	al parecer
+T82	Phrase 6008 6047	presenta intolerancia la CPAP por fugas
+T83	DISO 6017 6047	intolerancia la CPAP por fugas
+T84	NegMorMarker 6665 6672	afebril
+T85	UncertLexMarker 6683 6696	Se interpreta
+T86	Phrase 6697 6856	el cuadro como malestar general y molestias digestivas en posible relación a depleción por diuréticos con insuficiencia renal crónica agudizada e hipopotasemia
+T87	DISO 6712 6728	malestar general
+T88	CoordItem 6729 6730	y
+T89	DISO 6731 6751	molestias digestivas
+T90	UncertLexMarker 6755 6762	posible
+T91	DISO 6763 6798	relación a depleción por diuréticos
+T92	NegSynMarker 7150 7153	sin
+T93	DISO 7154 7161	mejorar
+T94	UncertLexMarker 7211 7219	no claro
+T95	DISO 7220 7225	angor
+T96	UncertLexMarker 7361 7368	posible
+T97	DISO 7369 7384	brote sensitivo
+T98	PROC 7676 7690	estos cultivos
+T99	NegLexMarker 7698 7707	negativos
+T100	NegSynMarker 7963 7966	Sin
+T101	DISO 7967 7985	cortejo vegetativo
+T102	UncertLexMarker 8339 8347	pudieran
+T103	Phrase 8348 8387	tener relación con la fiebre presentada
+T104	DISO 8354 8387	relación con la fiebre presentada
+T105	UncertLexMarker 8415 8429	compatible con
+T106	DISO 8430 8451	sarcoma de alto grado
+T107	NegSynMarker 8661 8664	sin
+T108	DISO 8665 8683	fórmula infecciosa
+T109	NegSynMarker 8778 8780	no
+T110	Phrase 8781 8805	ha vuelto a tener fiebre
+T111	DISO 8799 8805	fiebre
+T112	NegSynMarker 8928 8931	sin
+T113	DISO 8932 8937	dolor
+T114	NegSynMarker 9011 9013	no
+T115	Phrase 9014 9067	puede coordinar el movimiento de los brazos y la mano
+T116	OTHER 9020 9067	coordinar el movimiento de los brazos y la mano
+T117	NegSynMarker 9141 9143	No
+T118	PROC 9144 9153	le retiró
+T119	NegSynMarker 9177 9179	no
+T120	DISO 9180 9194	ha consolidado
+T121	NegSynMarker 9250 9253	sin
+T122	DISO 9254 9279	complicaciones inmediatas
+T123	NegSynMarker 9436 9439	sin
+T124	DISO 9440 9466	mejoría con hidratación iv
+T125	NegLexMarker 9876 9894	Imposibilidad para
+T126	OTHER 9895 9904	la marcha
+T127	NegSynMarker 10083 10085	no
+T128	DISO 10086 10095	resecable
+T129	NegSynMarker 10406 10408	No
+T130	DISO 10409 10422	déficit motor
+T131	NegSynMarker 10702 10705	sin
+T132	DISO 10706 10753	mas posibilidades que tratamiento farmacologico
+T133	NegSynMarker 10797 10800	sin
+T134	Phrase 10801 10830	signos de isquemia miocardica
+T135	DISO 10811 10830	isquemia miocardica
+T136	NegSynMarker 10867 10869	no
+T137	Phrase 10870 10905	le ponen todo el parche de transtec
+T138	SUBS 10879 10905	todo el parche de transtec
+T139	NegSynMarker 11283 11286	sin
+T140	DISO 11287 11292	dolor
+T141	NegSynMarker 11300 11302	no
+T142	OTHER 11303 11310	lo toma
+T143	Phrase 11303 11335	lo toma por consejo cardiológico
+T144	NegMorMarker 11428 11440	desorientado
+T145	NegSynMarker 11602 11604	no
+T146	Phrase 11605 11669	es susceptible de RCP ni de ingreso hospitalario ni en urgencias
+T147	OTHER 11608 11669	susceptible de RCP ni de ingreso hospitalario ni en urgencias
+T148	CoordItem 11627 11629	ni
+T149	CoordItem 11654 11656	ni
+T150	UncertLexMarker 11782 11790	probable
+T151	DISO 11791 11813	infeccion respiratoria
+T152	UncertLexMarker 11933 11946	aparentemente
+T153	DISO 11947 11958	blanquecina
+T154	NegSynMarker 12680 12682	No
+T155	Phrase 12683 12701	náuseas ni vómitos
+T156	DISO 12683 12690	náuseas
+T157	CoordItem 12691 12693	ni
+T158	DISO 12694 12701	vómitos
+T159	NegSynMarker 12728 12730	No
+T160	Phrase 12731 12804	clínica febril , dolor torácico , palpitaciones ni cambios en la diuresis
+T161	DISO 12731 12745	clínica febril
+T162	DISO 12748 12762	dolor torácico
+T163	DISO 12765 12778	palpitaciones
+T164	CoordItem 12779 12781	ni
+T165	DISO 12782 12804	cambios en la diuresis
+T166	NegSynMarker 12807 12809	No
+T167	Phrase 12810 12830	fiebre ni supuración
+T168	DISO 12810 12816	fiebre
+T169	CoordItem 12817 12819	ni
+T170	DISO 12820 12830	supuración
+T171	UncertLexMarker 13907 13915	Probable
+T172	DISO 13916 13929	brote medular
+T173	NegLexMarker 14290 14302	se desestima
+T174	Phrase 14303 14315	continuar QT
+T175	PROC 14313 14315	QT
+T176	NegSynMarker 14710 14713	sin
+T177	DISO 14714 14745	mejoría radiológica de la misma
+T178	NegSynMarker 14905 14907	No
+T179	Phrase 14908 14936	ha presentado dolor toracico
+T180	DISO 14922 14936	dolor toracico
+T181	NegSynMarker 14939 14941	No
+T182	DISO 14942 14959	clínica digestiva
+T183	UncertLexMarker 15100 15109	sin clara
+T184	Phrase 15110 15135	evidencia de Endocarditis
+T185	DISO 15123 15135	Endocarditis
+T186	UncertLexMarker 15173 15183	sin claras
+T187	DISO 15184 15196	vegetaciones
+T188	NegLexMarker 15384 15389	Niega
+T189	Phrase 15390 15457	antecedentes personales ni tratamiento habitual hasta este episodio
+T190	DISO 15390 15413	antecedentes personales
+T191	CoordItem 15414 15416	ni
+T192	PROC 15417 15437	tratamiento habitual
+T193	NegLexMarker 15673 15686	suspensión de
+T194	SUBS 15687 15690	ATB
+T195	NegLexMarker 15897 15908	ausencia de
+T196	DISO 15909 15948	mejoría del cuadro con antibiótico oral
+T197	NegLexMarker 15986 15991	Niega
+T198	Phrase 15992 16010	náuseas ni vómitos
+T199	DISO 15992 15999	náuseas
+T200	CoordItem 16000 16002	ni
+T201	DISO 16003 16010	vómitos
+T202	NegSynMarker 16028 16031	sin
+T203	DISO 16032 16041	respuesta
+T204	NegLexMarker 16226 16237	ausencia de
+T205	DISO 16238 16256	mejoría del cuadro
+T206	NegLexMarker 16293 16305	Se desestima
+T207	PROC 16306 16323	tto progestágenos
+T208	NegSynMarker 16562 16564	no
+T209	DISO 16565 16576	fermentador
+T210	NegSynMarker 16786 16789	sin
+T211	DISO 16790 16801	incidencias
+T212	NegSynMarker 17031 17033	no
+T213	OTHER 17034 17079	acudir en lo posible a urgencias o reingresos
+T214	NegSynMarker 17331 17333	No
+T215	DISO 17334 17340	fiebre
+T216	Phrase 17334 17365	fiebre ni otra clínica asociada
+T217	CoordItem 17341 17343	ni
+T218	DISO 17344 17365	otra clínica asociada
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T3 Arg2:T4
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T37 Arg2:T38
+R13	Scope Arg1:T39 Arg2:T40
+R14	Scope Arg1:T42 Arg2:T43
+R15	Scope Arg1:T45 Arg2:T46
+R16	Scope Arg1:T49 Arg2:T50
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T51 Arg2:T52
+R19	Scope Arg1:T53 Arg2:T54
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T71 Arg2:T72
+R23	Scope Arg1:T66 Arg2:T67
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T73 Arg2:T74
+R26	Scope Arg1:T76 Arg2:T77
+R27	Scope Arg1:T78 Arg2:T79
+R28	Scope Arg1:T81 Arg2:T82
+R29	Scope Arg1:T90 Arg2:T91
+R30	Scope Arg1:T85 Arg2:T86
+R31	Scope Arg1:T92 Arg2:T93
+R32	Scope Arg1:T94 Arg2:T95
+R33	Scope Arg1:T96 Arg2:T97
+R34	Scope Arg1:T99 Arg2:T98
+R35	Scope Arg1:T100 Arg2:T101
+R36	Scope Arg1:T102 Arg2:T103
+R37	Scope Arg1:T105 Arg2:T106
+R38	Scope Arg1:T107 Arg2:T108
+R39	Scope Arg1:T109 Arg2:T110
+R40	Scope Arg1:T112 Arg2:T113
+R41	Scope Arg1:T114 Arg2:T115
+R42	Scope Arg1:T119 Arg2:T120
+R43	Scope Arg1:T117 Arg2:T118
+R44	Scope Arg1:T121 Arg2:T122
+R45	Scope Arg1:T123 Arg2:T124
+R46	Scope Arg1:T125 Arg2:T126
+R47	Scope Arg1:T127 Arg2:T128
+R48	Scope Arg1:T129 Arg2:T130
+R49	Scope Arg1:T131 Arg2:T132
+R50	Scope Arg1:T133 Arg2:T134
+R51	Scope Arg1:T136 Arg2:T137
+R52	Scope Arg1:T139 Arg2:T140
+R53	Scope Arg1:T141 Arg2:T143
+R54	Scope Arg1:T145 Arg2:T146
+R55	Scope Arg1:T150 Arg2:T151
+R56	Scope Arg1:T152 Arg2:T153
+R57	Scope Arg1:T154 Arg2:T155
+R58	Scope Arg1:T159 Arg2:T160
+R59	Scope Arg1:T166 Arg2:T167
+R60	Scope Arg1:T171 Arg2:T172
+R61	Scope Arg1:T173 Arg2:T174
+R62	Scope Arg1:T176 Arg2:T177
+R63	Scope Arg1:T178 Arg2:T179
+R64	Scope Arg1:T181 Arg2:T182
+R65	Scope Arg1:T186 Arg2:T187
+R66	Scope Arg1:T183 Arg2:T184
+R67	Scope Arg1:T188 Arg2:T189
+R68	Scope Arg1:T193 Arg2:T194
+R69	Scope Arg1:T195 Arg2:T196
+R70	Scope Arg1:T197 Arg2:T198
+R71	Scope Arg1:T202 Arg2:T203
+R72	Scope Arg1:T204 Arg2:T205
+R73	Scope Arg1:T206 Arg2:T207
+R74	Scope Arg1:T208 Arg2:T209
+R75	Scope Arg1:T210 Arg2:T211
+R76	Scope Arg1:T212 Arg2:T213
+R77	Scope Arg1:T214 Arg2:T216

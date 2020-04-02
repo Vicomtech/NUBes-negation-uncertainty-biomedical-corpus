@@ -1,0 +1,22 @@
+T1	NegSynMarker 441 443	no
+T2	Phrase 444 462	imagenes de polipo
+T3	DISO 456 462	polipo
+T4	NegSynMarker 789 792	sin
+T5	DISO 793 804	incidencias
+T6	NegSynMarker 2221 2224	sin
+T7	DISO 2225 2249	hallazgos significativos
+T8	NegLexMarker 2346 2355	Se retira
+T9	OTHER 2356 2362	el DIU
+T10	NegSynMarker 2363 2366	sin
+T11	DISO 2367 2377	dificultad
+T12	NegSynMarker 2506 2509	sin
+T13	DISO 2510 2522	alteraciones
+T14	NegSynMarker 2651 2653	no
+T15	OTHER 2654 2665	concluyente
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15

@@ -1,0 +1,19 @@
+T1	UncertLexMarker 24 33	sin clara
+T2	Phrase 34 56	evidencia de trombosis
+T3	DISO 47 56	trombosis
+T4	NegSynMarker 270 273	Sin
+T5	DISO 274 298	hallazgos significativos
+T6	NegSynMarker 921 924	Sin
+T7	DISO 925 949	hallazgos significativos
+T8	NegSynMarker 983 985	no
+T9	DISO 986 999	cardiomegalia
+T10	NegSynMarker 1002 1004	no
+T11	DISO 1005 1039	pinzamiento de senos costofrénicos
+T12	UncertLexMarker 1409 1423	compatible con
+T13	DISO 1424 1432	neumonía
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T12 Arg2:T13

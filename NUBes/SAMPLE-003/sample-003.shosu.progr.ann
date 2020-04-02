@@ -1,0 +1,274 @@
+T1	UncertLexMarker 464 471	valorar
+T2	PROC 472 497	tratamiento rehabilitador
+T3	NegLexMarker 653 657	nula
+T4	OTHER 658 667	actividad
+T5	NegLexMarker 930 938	falta de
+T6	DISO 939 955	control postural
+T7	NegSynMarker 1183 1186	sin
+T8	OTHER 1187 1197	dificultad
+T9	NegSynMarker 1601 1604	sin
+T10	Phrase 1605 1653	evidencia de infección bacteriana hasta la fecha
+T11	DISO 1618 1653	infección bacteriana hasta la fecha
+T12	NegSynMarker 2133 2135	no
+T13	Phrase 2136 2229	permite realizar una bipedestación activa sin bloqueo de la rodilla y tronco por otra persona
+T14	DISO 2157 2177	bipedestación activa
+T15	NegSynMarker 2178 2181	sin
+T16	OTHER 2182 2229	bloqueo de la rodilla y tronco por otra persona
+T17	NegSynMarker 2772 2775	sin
+T18	DISO 2776 2809	cardiopatia estructural relevante
+T19	UncertLexMarker 2889 2901	sugestiva de
+T20	DISO 2902 2929	espondilodicitis infecciosa
+T21	NegSynMarker 3085 3088	sin
+T22	Phrase 3089 3109	referir dolor lumbar
+T23	DISO 3097 3109	dolor lumbar
+T24	NegSynMarker 4276 4278	No
+T25	Phrase 4279 4343	tiene dificultad con dicha extremidad para el manejo del andador
+T26	DISO 4285 4316	dificultad con dicha extremidad
+T27	NegLexMarker 4568 4579	suspendemos
+T28	PROC 4580 4611	su tratamiento antihipertensivo
+T29	NegLexMarker 4892 4899	retirar
+T30	SUBS 4900 4911	risperidona
+T31	NegMorMarker 5192 5204	inespecifico
+T32	NegSynMarker 5232 5235	sin
+T33	Phrase 5236 5262	signos de lesión isquémica
+T34	DISO 5246 5262	lesión isquémica
+T35	PROC 5265 5266	T
+T36	NegLexMarker 5267 5275	negativa
+T37	PROC 5276 5292	en cara inferior
+T38	NegSynMarker 5297 5300	sin
+T39	DISO 5301 5324	elevación de troponinas
+T40	NegSynMarker 5350 5352	no
+T41	Phrase 5353 5384	mostraba disfunción segmentaria
+T42	DISO 5362 5384	disfunción segmentaria
+T43	NegSynMarker 5463 5465	No
+T44	Phrase 5466 5512	presenta dolor a la moilización de cadera izda
+T45	DISO 5475 5512	dolor a la moilización de cadera izda
+T46	NegSynMarker 5669 5672	sin
+T47	OTHER 5673 5682	resultado
+T48	UncertLexMarker 6283 6291	no claro
+T49	DISO 6292 6320	deterioro cognitivo cortical
+T50	NegLexMarker 6778 6789	suspendemos
+T51	SUBS 6790 6807	la antiagregación
+T52	UncertLexMarker 6857 6864	valorar
+T53	Phrase 6865 6955	reintroducción de pequeñas dosis de AAS dado su patrón de base de ateroesclerosis cerebral
+T54	SUBS 6883 6904	pequeñas dosis de AAS
+T55	NegSynMarker 7386 7389	sin
+T56	DISO 7390 7395	dolor
+T57	NegMorMarker 7657 7670	inestabilidad
+T58	NegLexMarker 7683 7692	imposible
+T59	DISO 7693 7710	una marcha segura
+T60	NegSynMarker 8197 8200	sin
+T61	PROC 8201 8212	tratamiento
+T62	UncertLexMarker 8332 8339	posible
+T63	OTHER 8340 8345	caida
+T64	NegSynMarker 8361 8364	sin
+T65	DISO 8365 8377	alteraciones
+T66	NegSynMarker 8481 8484	sin
+T67	Phrase 8485 8498	ayuda externa
+T68	NegSynMarker 9305 9307	no
+T69	Phrase 9308 9324	pauta antiequino
+T70	OTHER 9314 9324	antiequino
+T71	NegSynMarker 10248 10250	no
+T72	DISO 10251 10259	dolorosa
+T73	NegSynMarker 10775 10778	sin
+T74	Phrase 10779 10787	problema
+T75	NegSynMarker 10899 10902	sin
+T76	DISO 10903 10911	sintomas
+T77	UncertLexMarker 11153 11166	impresiona de
+T78	DISO 11167 11178	candidiasis
+T79	PROC 11181 11188	cultivo
+T80	NegLexMarker 11189 11197	negativo
+T81	NegSynMarker 11363 11366	sin
+T82	Phrase 11367 11372	ayuda
+T83	DISO 11516 11524	relacion
+T84	UncertLexMarker 11525 11533	probable
+T85	DISO 11534 11554	a infeccion urinaria
+T86	UncertLexMarker 11902 11905	sin
+T87	Phrase 11906 11916	evidenciar
+T88	UncertLexMarker 11917 11922	clara
+T89	DISO 11923 11932	focalidad
+T90	UncertLexMarker 12491 12499	probable
+T91	DISO 12500 12528	relación a aneurisma aórtico
+T92	NegSynMarker 12562 12564	no
+T93	OTHER 12565 12608	candidato a intervención sobre dicha lesión
+T94	NegSynMarker 12613 12615	no
+T95	Phrase 12616 12673	ampliamos estudio con TAC debido a su insuficiencia renal
+T96	PROC 12626 12641	estudio con TAC
+T97	PROC 12704 12732	estudio de hemorragia oculta
+T98	NegLexMarker 12745 12753	negativo
+T99	UncertLexMarker 12949 12959	sin claros
+T100	DISO 12960 12983	hallazgos exploratorios
+T101	NegSynMarker 13270 13273	sin
+T102	DISO 13274 13280	disnea
+T103	NegSynMarker 13358 13361	sin
+T104	Phrase 13362 13397	dolor a la movilización de la misma
+T105	DISO 13362 13367	dolor
+T106	UncertLexMarker 13704 13712	probable
+T107	DISO 13713 13743	relacion a monoartritis gotosa
+T108	UncertLexMarker 13801 13821	alta probabilidad de
+T109	DISO 13822 13834	osteoporosis
+T110	NegSynMarker 14097 14100	sin
+T111	OTHER 14101 14119	accion de farmacos
+T112	UncertLexMarker 14163 14171	aparente
+T113	DISO 14172 14187	buena respuesta
+T114	NegSynMarker 14364 14366	no
+T115	DISO 14367 14423	tolerancia a ortesis con flejes estabilizadora del valgo
+T116	NegSynMarker 14521 14523	no
+T117	Phrase 14524 14547	refiere mayor seguridad
+T118	DISO 14648 14658	repetición
+T119	NegLexMarker 14659 14663	nula
+T120	NegSynMarker 14982 14985	sin
+T121	DISO 14986 14992	disnea
+T122	UncertLexMarker 15263 15270	posible
+T123	DISO 15271 15279	neumonia
+T124	NegSynMarker 15629 15632	sin
+T125	DISO 15633 15643	dificultad
+T126	Phrase 15633 15664	dificultad con ayuda de andador
+T127	UncertLexMarker 16147 16161	compatible con
+T128	DISO 16162 16180	colecistitis aguda
+T129	NegSynMarker 16672 16674	no
+T130	DISO 16675 16686	consolidada
+T131	NegSynMarker 16759 16762	sin
+T132	DISO 16763 16768	dolor
+T133	NegSynMarker 16868 16871	sin
+T134	DISO 16872 16895	alteraciones de interes
+T135	NegSynMarker 16936 16938	no
+T136	DISO 16939 16966	comprende órdenes sencillas
+T137	NegSynMarker 17541 17544	sin
+T138	Phrase 17545 17550	ayuda
+T139	NegSynMarker 17621 17623	no
+T140	OTHER 17624 17645	presentaba al ingreso
+T141	NegSynMarker 17921 17924	sin
+T142	Phrase 17925 17930	ayuda
+T143	NegSynMarker 17953 17956	sin
+T144	Phrase 17957 17970	ayuda externa
+T145	NegSynMarker 18433 18436	sin
+T146	PROC 18437 18465	tratamiento antihipertensivo
+T147	NegSynMarker 18479 18482	sin
+T148	PROC 18483 18494	tratamiento
+T149	NegSynMarker 19301 19303	no
+T150	DISO 19304 19344	dolor a la movilización cadera izquierda
+T151	NegLexMarker 19767 19779	se desestima
+T152	PROC 19780 19805	tratamiento anticogulante
+T153	NegSynMarker 19917 19919	No
+T154	Phrase 19920 19959	ciatalgia cderecha en el momneto actula
+T155	DISO 19920 19938	ciatalgia cderecha
+T156	NegSynMarker 20602 20605	sin
+T157	DISO 20606 20616	dificultad
+T158	NegSynMarker 20974 20976	no
+T159	DISO 20977 20985	deambula
+T160	NegLexMarker 21040 21049	retiradas
+T161	Phrase 21050 21064	agujas post IQ
+T162	OTHER 21050 21056	agujas
+T163	PROC 21109 21117	cultivos
+T164	NegLexMarker 21118 21127	negativos
+T165	NegSynMarker 21465 21467	no
+T166	Phrase 21468 21563	refiere dolor a la movilización de cadera izda intrevenida , ni dolor a nivel de cadera derecha
+T167	DISO 21476 21526	dolor a la movilización de cadera izda intrevenida
+T168	CoordItem 21529 21531	ni
+T169	DISO 21532 21563	dolor a nivel de cadera derecha
+T170	NegSynMarker 21843 21845	no
+T171	Phrase 21846 21875	es capaz de evocar ni repetir
+T172	OTHER 21849 21875	capaz de evocar ni repetir
+T173	CoordItem 21865 21867	ni
+T174	NegSynMarker 22324 22326	no
+T175	Phrase 22327 22365	se espera mayor recuperación funcional
+T176	DISO 22337 22365	mayor recuperación funcional
+T177	NegSynMarker 22380 22382	no
+T178	Phrase 22383 22408	tiene capacidad de marcha
+T179	DISO 22389 22408	capacidad de marcha
+T180	NegSynMarker 22493 22495	no
+T181	Phrase 22496 22578	presenta dolor en zona sacra ni de iliaco ni signos de irritación radicular en EID
+T182	DISO 22505 22537	dolor en zona sacra ni de iliaco
+T183	CoordItem 22525 22527	ni
+T184	CoordItem 22538 22540	ni
+T185	DISO 22551 22578	irritación radicular en EID
+T186	UncertLexMarker 23192 23213	No se puede descartar
+T187	DISO 23214 23238	infeccion plano profundo
+T188	NegSynMarker 24321 24324	sin
+T189	PolItem 24325 24332	ninguna
+T190	Phrase 24325 24343	ninguna dificultad
+T191	DISO 24333 24343	dificultad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	DiscScope Arg1:T36 Arg2:T35
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T40 Arg2:T41
+R18	DiscScope Arg1:T36 Arg2:T37
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T46 Arg2:T47
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T58 Arg2:T59
+R26	Scope Arg1:T60 Arg2:T61
+R27	Scope Arg1:T62 Arg2:T63
+R28	Scope Arg1:T64 Arg2:T65
+R29	Scope Arg1:T66 Arg2:T67
+R30	Scope Arg1:T68 Arg2:T69
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T73 Arg2:T74
+R33	Scope Arg1:T75 Arg2:T76
+R34	Scope Arg1:T80 Arg2:T79
+R35	Scope Arg1:T77 Arg2:T78
+R36	Scope Arg1:T81 Arg2:T82
+R37	DiscScope Arg1:T84 Arg2:T83
+R38	DiscScope Arg1:T84 Arg2:T85
+R39	DiscScope Arg1:T88 Arg2:T87
+R40	DiscMarker Arg1:T86 Arg2:T88
+R41	DiscScope Arg1:T88 Arg2:T89
+R42	Scope Arg1:T90 Arg2:T91
+R43	Scope Arg1:T94 Arg2:T95
+R44	Scope Arg1:T92 Arg2:T93
+R45	Scope Arg1:T98 Arg2:T97
+R46	Scope Arg1:T99 Arg2:T100
+R47	Scope Arg1:T101 Arg2:T102
+R48	Scope Arg1:T103 Arg2:T104
+R49	Scope Arg1:T106 Arg2:T107
+R50	Scope Arg1:T108 Arg2:T109
+R51	Scope Arg1:T112 Arg2:T113
+R52	Scope Arg1:T110 Arg2:T111
+R53	Scope Arg1:T114 Arg2:T115
+R54	Scope Arg1:T116 Arg2:T117
+R55	Scope Arg1:T119 Arg2:T118
+R56	Scope Arg1:T120 Arg2:T121
+R57	Scope Arg1:T122 Arg2:T123
+R58	Scope Arg1:T124 Arg2:T126
+R59	Scope Arg1:T127 Arg2:T128
+R60	Scope Arg1:T131 Arg2:T132
+R61	Scope Arg1:T129 Arg2:T130
+R62	Scope Arg1:T133 Arg2:T134
+R63	Scope Arg1:T135 Arg2:T136
+R64	Scope Arg1:T137 Arg2:T138
+R65	Scope Arg1:T139 Arg2:T140
+R66	Scope Arg1:T141 Arg2:T142
+R67	Scope Arg1:T143 Arg2:T144
+R68	Scope Arg1:T147 Arg2:T148
+R69	Scope Arg1:T145 Arg2:T146
+R70	Scope Arg1:T149 Arg2:T150
+R71	Scope Arg1:T151 Arg2:T152
+R72	Scope Arg1:T153 Arg2:T154
+R73	Scope Arg1:T156 Arg2:T157
+R74	Scope Arg1:T158 Arg2:T159
+R75	Scope Arg1:T160 Arg2:T161
+R76	Scope Arg1:T164 Arg2:T163
+R77	Scope Arg1:T165 Arg2:T166
+R78	Scope Arg1:T170 Arg2:T171
+R79	Scope Arg1:T177 Arg2:T178
+R80	Scope Arg1:T174 Arg2:T175
+R81	Scope Arg1:T180 Arg2:T181
+R82	Scope Arg1:T186 Arg2:T187
+R83	Scope Arg1:T188 Arg2:T190

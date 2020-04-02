@@ -1,0 +1,68 @@
+T1	NegSynMarker 58 60	No
+T2	DISO 61 82	ingurgitación yugular
+T3	NegSynMarker 258 261	sin
+T4	DISO 262 268	soplos
+T5	NegMorMarker 803 815	asintomático
+T6	NegSynMarker 927 930	sin
+T7	DISO 931 942	incidencias
+T8	NegSynMarker 1450 1452	no
+T9	DISO 1453 1485	evolución con tratamiento médico
+T10	UncertLexMarker 1774 1779	podía
+T11	DISO 1780 1838	guardar relación con déficit de absorción de esta vitamina
+T12	UncertLexMarker 1870 1875	puede
+T13	OTHER 1876 1950	guardar relación con el tratamiento con piperacilina/tazobactan instaurado
+T14	NegSynMarker 2253 2256	sin
+T15	DISO 2257 2268	incidencias
+T16	NegSynMarker 2615 2618	sin
+T17	DISO 2619 2639	aumento de la disnea
+T18	NegSynMarker 2642 2645	sin
+T19	DISO 2646 2652	fiebre
+T20	NegSynMarker 2679 2684	salvo
+T21	DISO 2685 2708	algun sibilante aislado
+T22	NegSynMarker 2888 2891	sin
+T23	DISO 2892 2906	complicaciones
+T24	UncertLexMarker 3307 3319	en principio
+T25	DISO 3320 3330	secundario
+T26	NegSynMarker 3360 3362	No
+T27	Phrase 3363 3398	ha presentado síntomas de depresión
+T28	DISO 3377 3398	síntomas de depresión
+T29	NegLexMarker 3413 3427	suspensión del
+T30	SUBS 3428 3441	antidepresivo
+T31	NegSynMarker 3531 3533	no
+T32	Phrase 3534 3558	presenta dolor abdominal
+T33	DISO 3543 3558	dolor abdominal
+T34	NegLexMarker 3634 3638	cede
+T35	Phrase 3639 3667	espontáneamente la ictericia
+T36	DISO 3655 3667	la ictericia
+T37	NegLexMarker 3815 3823	falta de
+T38	DISO 3824 3891	respuesta al tratamiento con aspiración nasogástrica y procinéticos
+T39	NegSynMarker 3944 3947	sin
+T40	Phrase 3948 3973	hallar cuadro obstructivo
+T41	DISO 3955 3973	cuadro obstructivo
+T42	UncertLexMarker 4063 4074	sospecha de
+T43	DISO 4075 4081	bridas
+T44	NegSynMarker 4138 4140	No
+T45	Phrase 4141 4165	taquipneico ni cianotico
+T46	DISO 4141 4152	taquipneico
+T47	CoordItem 4153 4155	ni
+T48	DISO 4156 4165	cianotico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T26 Arg2:T27
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T34 Arg2:T35
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T44 Arg2:T45

@@ -1,0 +1,4 @@
+T1	NegLexMarker 968 977	suspender
+T2	SUBS 1856 1864	Dacortin
+T3	NegLexMarker 1921 1930	suspender
+R1	Scope Arg1:T3 Arg2:T2

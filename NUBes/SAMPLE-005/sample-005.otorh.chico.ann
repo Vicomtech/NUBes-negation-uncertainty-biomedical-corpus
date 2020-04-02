@@ -1,0 +1,16 @@
+T1	NegSynMarker 345 348	sin
+T2	DISO 349 356	cefalea
+T3	NegSynMarker 359 362	sin
+T4	DISO 363 371	acufenos
+T5	NegSynMarker 374 377	sin
+T6	DISO 378 385	otalgia
+T7	NegSynMarker 388 391	sin
+T8	DISO 392 444	perdida de fuerza ni de sensibilidad en extremidades
+T9	CoordItem 410 412	ni
+T10	NegSynMarker 634 636	no
+T11	DISO 637 663	ha remitido sintomatología
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T10 Arg2:T11

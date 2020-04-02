@@ -1,0 +1,213 @@
+T1	NegSynMarker 151 154	sin
+T2	DISO 155 179	relación con el esfuerzo
+T3	NegSynMarker 251 253	No
+T4	DISO 254 274	clínica respiratoria
+T5	Phrase 254 292	clínica respiratoria ni dolor torácico
+T6	CoordItem 275 277	ni
+T7	DISO 278 292	dolor torácico
+T8	NegLexMarker 378 387	descartar
+T9	DISO 388 391	TVP
+T10	NegSynMarker 501 503	No
+T11	Phrase 504 542	fiebre , tos , expectoración ni disnea
+T12	DISO 504 510	fiebre
+T13	DISO 513 516	tos
+T14	DISO 519 532	expectoración
+T15	CoordItem 533 535	ni
+T16	DISO 536 542	disnea
+T17	NegSynMarker 545 547	No
+T18	Phrase 548 569	refiere palpitaciones
+T19	DISO 556 569	palpitaciones
+T20	NegSynMarker 572 574	no
+T21	Phrase 575 593	náuseas ni vómitos
+T22	DISO 575 582	náuseas
+T23	CoordItem 583 585	ni
+T24	DISO 586 593	vómitos
+T25	NegSynMarker 596 598	no
+T26	DISO 599 614	dolor abdominal
+T27	NegMorMarker 1006 1018	asintomático
+T28	NegSynMarker 1281 1283	No
+T29	DISO 1284 1289	mareo
+T30	Phrase 1284 1314	mareo ni pérdida de conciencia
+T31	CoordItem 1290 1292	ni
+T32	DISO 1293 1314	pérdida de conciencia
+T33	NegSynMarker 1395 1397	No
+T34	DISO 1398 1422	nuevos sítomas asociados
+T35	UncertLexMarker 1641 1650	sin clara
+T36	DISO 1651 1666	duroracion fria
+T37	NegSynMarker 1733 1735	No
+T38	Phrase 1736 1775	refiere cambios en hábitos alimenticios
+T39	OTHER 1744 1775	cambios en hábitos alimenticios
+T40	UncertLexMarker 1869 1877	probable
+T41	DISO 1878 1893	etiología viral
+T42	NegSynMarker 2021 2023	No
+T43	DISO 2024 2040	pérdida ponderal
+T44	NegSynMarker 2195 2197	No
+T45	DISO 2198 2215	clínica miccional
+T46	Phrase 2198 2235	clínica miccional , ni edemas en EEII
+T47	CoordItem 2218 2220	ni
+T48	DISO 2221 2235	edemas en EEII
+T49	NegSynMarker 2263 2265	no
+T50	DISO 2266 2292	ha perdido el conocimiento
+T51	Phrase 2577 2604	TSH reciente ( programada )
+T52	PROC 2577 2580	TSH
+T53	NegLexMarker 2605 2613	negativa
+T54	NegLexMarker 2709 2716	impiden
+T55	Phrase 2717 2728	dormir bien
+T56	NegSynMarker 2899 2901	No
+T57	Phrase 2902 2940	le han notado transtornos del lenguaje
+T58	DISO 2916 2940	transtornos del lenguaje
+T59	NegSynMarker 3094 3096	No
+T60	DISO 3097 3104	melenas
+T61	NegSynMarker 3107 3109	no
+T62	DISO 3110 3122	rectorragias
+T63	NegSynMarker 3125 3127	no
+T64	DISO 3128 3143	dolor abdominal
+T65	NegSynMarker 3146 3148	no
+T66	DISO 3149 3156	vómitos
+T67	NegSynMarker 3159 3161	No
+T68	DISO 3162 3168	disnea
+T69	NegSynMarker 3171 3173	no
+T70	DISO 3174 3221	clínica digestiva , urinaria ni ORL acompañante
+T71	CoordItem 3203 3205	ni
+T72	NegSynMarker 3224 3226	No
+T73	DISO 3227 3233	disnea
+T74	NegSynMarker 3236 3238	no
+T75	Phrase 3239 3270	dolor torácico ni palpitaciones
+T76	DISO 3239 3253	dolor torácico
+T77	CoordItem 3254 3256	ni
+T78	DISO 3257 3270	palpitaciones
+T79	NegSynMarker 3530 3532	no
+T80	OTHER 3533 3567	puede expulsar en los últimos días
+T81	NegSynMarker 3570 3573	sin
+T82	DISO 3574 3580	fiebre
+T83	NegSynMarker 3658 3660	No
+T84	DISO 3661 3678	déficits visuales
+T85	NegSynMarker 3681 3683	No
+T86	Phrase 3684 3748	refiere días previos , clínica de infeccion respiratoira , mareo
+T87	DISO 3718 3740	infeccion respiratoira
+T88	DISO 3743 3748	mareo
+T89	NegSynMarker 3751 3753	no
+T90	DISO 3754 3773	fiebre termometrada
+T91	NegSynMarker 3776 3778	No
+T92	DISO 3779 3793	dolor toracico
+T93	NegSynMarker 3796 3798	no
+T94	DISO 3799 3805	disnea
+T95	NegSynMarker 3808 3810	no
+T96	DISO 3811 3826	dolor abdominal
+T97	NegSynMarker 4093 4095	no
+T98	Phrase 4096 4119	se realizaron controles
+T99	PROC 4110 4119	controles
+T100	NegSynMarker 4293 4295	No
+T101	Phrase 4296 4323	pérdida de peso ni anorexia
+T102	DISO 4296 4311	pérdida de peso
+T103	CoordItem 4312 4314	ni
+T104	DISO 4315 4323	anorexia
+T105	NegSynMarker 4326 4328	No
+T106	DISO 4329 4336	nauseas
+T107	NegSynMarker 4339 4341	no
+T108	DISO 4342 4349	vomitos
+T109	NegSynMarker 4352 4354	no
+T110	DISO 4355 4374	otra sintomatologia
+T111	NegSynMarker 4427 4429	no
+T112	OTHER 4430 4437	expulsa
+T113	NegSynMarker 4440 4442	no
+T114	DISO 4443 4457	dolor torácico
+T115	NegLexMarker 4623 4628	Niega
+T116	DISO 4629 4638	hematuria
+T117	Phrase 4629 4699	hematuria , rectorragias , melenas , sangrado de encías o metrorragias
+T118	DISO 4641 4653	rectorragias
+T119	DISO 4656 4663	melenas
+T120	DISO 4666 4684	sangrado de encías
+T121	CoordItem 4685 4686	o
+T122	DISO 4687 4699	metrorragias
+T123	NegSynMarker 4729 4731	No
+T124	OTHER 4732 4769	toma resto de su tratamiento habitual
+T125	NegMorMarker 5020 5032	asintomatico
+T126	NegSynMarker 5754 5757	sin
+T127	DISO 5758 5777	otra sintomatología
+T128	NegSynMarker 5780 5782	No
+T129	Phrase 5783 5811	cefalea , naúseas ni vómitos
+T130	DISO 5783 5790	cefalea
+T131	DISO 5793 5800	naúseas
+T132	CoordItem 5801 5803	ni
+T133	DISO 5804 5811	vómitos
+T134	NegMorMarker 6113 6125	desorientado
+T135	NegSynMarker 6208 6210	No
+T136	DISO 6211 6242	sangrados por otra localización
+T137	NegSynMarker 6277 6280	sin
+T138	DISO 6281 6290	hematuria
+T139	Phrase 6281 6301	hematuria ni disuria
+T140	CoordItem 6291 6293	ni
+T141	DISO 6294 6301	disuria
+T142	NegSynMarker 6542 6544	No
+T143	OTHER 6545 6563	recuerda prodromos
+T144	NegLexMarker 6762 6767	Niega
+T145	Phrase 6768 6809	toma de AINEs en las últimas tres semanas
+T146	SUBS 6776 6781	AINEs
+T147	NegSynMarker 6972 6975	sin
+T148	DISO 6976 6990	dolor torácico
+T149	NegSynMarker 6993 6995	No
+T150	Phrase 6996 7045	desviaciones faciales ni transtornos del lenguaje
+T151	DISO 6996 7017	desviaciones faciales
+T152	CoordItem 7018 7020	ni
+T153	DISO 7021 7045	transtornos del lenguaje
+T154	Phrase 7060 7083	Espironolactona y Boi-K
+T155	SUBS 7060 7075	Espironolactona
+T156	CoordItem 7076 7077	y
+T157	SUBS 7078 7083	Boi-K
+T158	NegSynMarker 7107 7109	no
+T159	Phrase 7110 7137	ha tomado por una confusión
+T160	OTHER 7110 7119	ha tomado
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T17 Arg2:T18
+R6	Scope Arg1:T20 Arg2:T21
+R7	Scope Arg1:T25 Arg2:T26
+R8	Scope Arg1:T28 Arg2:T30
+R9	Scope Arg1:T33 Arg2:T34
+R10	Scope Arg1:T35 Arg2:T36
+R11	Scope Arg1:T37 Arg2:T38
+R12	Scope Arg1:T40 Arg2:T41
+R13	Scope Arg1:T42 Arg2:T43
+R14	Scope Arg1:T44 Arg2:T46
+R15	Scope Arg1:T49 Arg2:T50
+R16	Scope Arg1:T53 Arg2:T51
+R17	Scope Arg1:T54 Arg2:T55
+R18	Scope Arg1:T56 Arg2:T57
+R19	Scope Arg1:T59 Arg2:T60
+R20	Scope Arg1:T61 Arg2:T62
+R21	Scope Arg1:T65 Arg2:T66
+R22	Scope Arg1:T63 Arg2:T64
+R23	Scope Arg1:T67 Arg2:T68
+R24	Scope Arg1:T69 Arg2:T70
+R25	Scope Arg1:T72 Arg2:T73
+R26	Scope Arg1:T74 Arg2:T75
+R27	Scope Arg1:T81 Arg2:T82
+R28	Scope Arg1:T79 Arg2:T80
+R29	Scope Arg1:T83 Arg2:T84
+R30	Scope Arg1:T85 Arg2:T86
+R31	Scope Arg1:T89 Arg2:T90
+R32	Scope Arg1:T91 Arg2:T92
+R33	Scope Arg1:T93 Arg2:T94
+R34	Scope Arg1:T95 Arg2:T96
+R35	Scope Arg1:T97 Arg2:T98
+R36	Scope Arg1:T100 Arg2:T101
+R37	Scope Arg1:T107 Arg2:T108
+R38	Scope Arg1:T109 Arg2:T110
+R39	Scope Arg1:T105 Arg2:T106
+R40	Scope Arg1:T113 Arg2:T114
+R41	Scope Arg1:T111 Arg2:T112
+R42	Scope Arg1:T115 Arg2:T117
+R43	Scope Arg1:T123 Arg2:T124
+R44	Scope Arg1:T126 Arg2:T127
+R45	Scope Arg1:T128 Arg2:T129
+R46	Scope Arg1:T135 Arg2:T136
+R47	Scope Arg1:T137 Arg2:T139
+R48	Scope Arg1:T142 Arg2:T143
+R49	Scope Arg1:T144 Arg2:T145
+R50	Scope Arg1:T147 Arg2:T148
+R51	Scope Arg1:T149 Arg2:T150
+R52	DiscScope Arg1:T158 Arg2:T159
+R53	DiscScope Arg1:T158 Arg2:T154

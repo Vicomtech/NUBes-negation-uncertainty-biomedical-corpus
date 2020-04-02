@@ -1,0 +1,250 @@
+T1	UncertLexMarker 211 225	compatible con
+T2	DISO 226 235	neoplasia
+T3	NegSynMarker 308 310	no
+T4	DISO 311 321	complicada
+T5	NegSynMarker 491 493	No
+T6	DISO 494 496	IY
+T7	UncertLexMarker 922 928	podría
+T8	Phrase 929 964	tratarse del líquido de los lavados
+T9	SUBS 942 964	líquido de los lavados
+T10	PROC 1197 1203	Murphy
+T11	NegLexMarker 1204 1212	negativo
+T12	NegSynMarker 1215 1217	No
+T13	Phrase 1218 1254	se ha objetivado patología vesicular
+T14	DISO 1235 1254	patología vesicular
+T15	UncertLexMarker 1642 1648	parece
+T16	DISO 1649 1699	estar en contacto con la colección de mayor tamaño
+T17	NegSynMarker 2123 2125	no
+T18	Phrase 2126 2161	impresonsa de irritación peritoneal
+T19	DISO 2140 2161	irritación peritoneal
+T20	NegSynMarker 2385 2388	sin
+T21	OTHER 2389 2402	valor clínico
+T22	NegSynMarker 2716 2718	No
+T23	DISO 2719 2726	naúseas
+T24	NegSynMarker 2729 2731	no
+T25	DISO 2732 2739	vómitos
+T26	NegSynMarker 3483 3486	Sin
+T27	DISO 3487 3493	edemas
+T28	UncertLexMarker 3676 3682	podría
+T29	Phrase 3683 3738	estar en relación con pequeño infiltrado parenquimatoso
+T30	DISO 3692 3738	relación con pequeño infiltrado parenquimatoso
+T31	UncertLexMarker 4197 4205	probable
+T32	DISO 4206 4222	caracter crónico
+T33	NegSynMarker 4482 4484	no
+T34	DISO 4485 4495	complicada
+T35	NegSynMarker 4544 4547	sin
+T36	Phrase 4548 4621	existir lesiones activas a pesar del claro deterioro motor de la paciente
+T37	DISO 4556 4572	lesiones activas
+T38	NegLexMarker 5441 5453	retirada del
+T39	OTHER 5454 5481	catéter de drenaje pig-tail
+T40	NegSynMarker 5723 5725	no
+T41	DISO 5726 5732	edemas
+T42	Phrase 5726 5749	edemas ni signos de TVP
+T43	CoordItem 5733 5735	ni
+T44	DISO 5746 5749	TVP
+T45	NegSynMarker 6027 6029	no
+T46	DISO 6030 6056	otros ruidos sobreañadidos
+T47	NegSynMarker 6134 6137	sin
+T48	DISO 6138 6167	focalidad motora ni sensitiva
+T49	CoordItem 6155 6157	ni
+T50	NegSynMarker 6543 6546	sin
+T51	DISO 6547 6556	hallazgos
+T52	NegSynMarker 6792 6794	No
+T53	Phrase 6795 6841	hay evidencia de derrame pleural o pericárdico
+T54	DISO 6812 6841	derrame pleural o pericárdico
+T55	NegSynMarker 7051 7054	Sin
+T56	Phrase 7055 7078	evidencia de esteatosis
+T57	DISO 7068 7078	esteatosis
+T58	NegSynMarker 7250 7252	no
+T59	Phrase 7253 7291	se objetivaron lesiones activas en RMN
+T60	DISO 7268 7291	lesiones activas en RMN
+T61	PROC 7715 7723	Blumberg
+T62	NegLexMarker 7724 7732	negativo
+T63	UncertLexMarker 7740 7754	Compatible con
+T64	DISO 7755 7779	carcinoma neuroendocrino
+T65	NegLexMarker 8217 8226	Se retira
+T66	SUBS 8227 8235	sedación
+T67	NegSynMarker 8385 8387	no
+T68	Phrase 8388 8499	existencia de actividad lesional en RMN craneal a pesar de la evidente afectación en la exploración neurológica
+T69	DISO 8402 8435	actividad lesional en RMN craneal
+T70	NegMorMarker 8839 8846	afebril
+T71	NegSynMarker 8891 8893	no
+T72	DISO 8894 8900	afasia
+T73	Phrase 8894 8912	afasia ni disfasia
+T74	CoordItem 8901 8903	ni
+T75	DISO 8904 8912	disfasia
+T76	UncertLexMarker 8948 8951	sin
+T77	DISO 8952 8959	déficit
+T78	UncertLexMarker 8960 8968	aparente
+T79	NegLexMarker 9361 9372	retirada de
+T80	SUBS 9373 9384	vasoactivas
+T81	NegSynMarker 9415 9418	sin
+T82	DISO 9419 9444	incidencia significativas
+T83	NegSynMarker 9906 9909	sin
+T84	DISO 9910 9919	hallazgos
+T85	NegSynMarker 10232 10235	sin
+T86	DISO 10236 10266	complicaciones postquirúrgicas
+T87	UncertLexMarker 10380 10393	sugestivos de
+T88	Phrase 10394 10460	estar en relación con una diverticulitis sigmoidea , no complicada
+T89	DISO 10403 10460	relación con una diverticulitis sigmoidea , no complicada
+T90	NegSynMarker 10447 10449	no
+T91	DISO 10450 10460	complicada
+T92	NegSynMarker 10506 10509	sin
+T93	DISO 10510 10519	hallazgos
+T94	NegSynMarker 10633 10636	sin
+T95	Phrase 10637 10708	que días más tarde se objetivaran cambios en la exploración neurológica
+T96	DISO 10671 10708	cambios en la exploración neurológica
+T97	NegSynMarker 10938 10940	no
+T98	Phrase 10941 10981	precisa tratamiento topico ni quirurgico
+T99	PROC 10949 10981	tratamiento topico ni quirurgico
+T100	CoordItem 10968 10970	ni
+T101	NegSynMarker 11442 11445	sin
+T102	Phrase 11446 11499	evidencia de lesiones focales ni líquido perihepático
+T103	DISO 11459 11475	lesiones focales
+T104	CoordItem 11476 11478	ni
+T105	SUBS 11479 11499	líquido perihepático
+T106	UncertLexMarker 11667 11681	compatible con
+T107	DISO 11682 11689	absceso
+T108	NegMorMarker 12713 12726	inestabilidad
+T109	NegSynMarker 13085 13087	no
+T110	DISO 13088 13159	ha variado de tamaño de forma significativa respecto a ecografía previa
+T111	NegSynMarker 13373 13375	no
+T112	NegSynMarker 13481 13483	No
+T113	Phrase 13484 13515	signos de irritación peritoneal
+T114	DISO 13494 13515	irritación peritoneal
+T115	NegSynMarker 13518 13520	no
+T116	Phrase 13521 13544	palpo masas ni megalias
+T117	DISO 13527 13532	masas
+T118	CoordItem 13533 13535	ni
+T119	DISO 13536 13544	megalias
+T120	PROC 13929 13939	Urocultivo
+T121	NegLexMarker 13957 13965	negativo
+T122	PROC 14361 14365	ASLO
+T123	NegLexMarker 14366 14374	negativo
+T124	NegSynMarker 14749 14752	sin
+T125	Phrase 14753 14770	defensa ni rebote
+T126	DISO 14753 14760	defensa
+T127	CoordItem 14761 14763	ni
+T128	DISO 14764 14770	rebote
+T129	UncertLexMarker 15476 15490	posibilidad de
+T130	DISO 15491 15508	proceso neumónico
+T131	NegMorMarker 15623 15630	afebril
+T132	NegSynMarker 15633 15636	sin
+T133	DISO 15637 15642	dolor
+T134	NegSynMarker 15680 15683	sin
+T135	DISO 15684 15695	incidencias
+T136	UncertLexMarker 15986 16000	menos probable
+T137	Phrase 16001 16024	se trate de adenopatías
+T138	DISO 16013 16024	adenopatías
+T139	UncertLexMarker 16374 16387	sospechoso de
+T140	DISO 16388 16440	corresponder a un T3 incipientes a 9 mm de la fascia
+T141	NegSynMarker 16566 16569	sin
+T142	DISO 16570 16579	hallazgos
+T143	NegLexMarker 16992 17001	Se retira
+T144	OTHER 17002 17008	HDFVVC
+T145	NegMorMarker 17049 17056	Afebril
+T146	NegSynMarker 17167 17169	No
+T147	DISO 17170 17172	IY
+T148	NegSynMarker 17247 17250	sin
+T149	Phrase 17251 17282	signos de irritación peritoneal
+T150	DISO 17261 17282	irritación peritoneal
+T151	NegSynMarker 17780 17782	no
+T152	Phrase 17783 17803	oigo soplos ni roces
+T153	DISO 17788 17794	soplos
+T154	CoordItem 17795 17797	ni
+T155	DISO 17798 17803	roces
+T156	NegSynMarker 17896 17899	sin
+T157	DISO 17900 17906	clonus
+T158	UncertLexMarker 18164 18176	sospecha del
+T159	DISO 18177 18188	nuevo brote
+T160	UncertLexMarker 18285 18287	No
+T161	Phrase 18288 18291	hay
+T162	UncertLexMarker 18292 18300	aparente
+T163	DISO 18301 18327	alteración de sensibilidad
+T164	UncertLexMarker 18337 18343	dudosa
+T165	DISO 18344 18380	dismetría dedo-naríz o talón-rodilla
+T166	NegSynMarker 18407 18410	sin
+T167	DISO 18411 18417	edemas
+T168	NegSynMarker 19001 19003	No
+T169	Phrase 19004 19039	se ha objetivado patología gástrica
+T170	DISO 19021 19039	patología gástrica
+T171	NegSynMarker 19204 19206	No
+T172	DISO 19207 19216	dismetria
+T173	DISO 19326 19347	buen perfusión distal
+T174	UncertLexMarker 19348 19356	aparente
+T175	NegSynMarker 19565 19568	sin
+T176	Phrase 19569 19604	más signos de irritación peritoneal
+T177	DISO 19583 19604	irritación peritoneal
+T178	NegSynMarker 19657 19660	sin
+T179	OTHER 19661 19693	necesidades de medidas antiedema
+T180	NegMorMarker 19706 19713	afebril
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T40 Arg2:T42
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T62 Arg2:T61
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	DiscMarker Arg1:T76 Arg2:T78
+R30	Scope Arg1:T71 Arg2:T73
+R31	Scope Arg1:T78 Arg2:T77
+R32	Scope Arg1:T79 Arg2:T80
+R33	Scope Arg1:T81 Arg2:T82
+R34	Scope Arg1:T83 Arg2:T84
+R35	Scope Arg1:T85 Arg2:T86
+R36	Scope Arg1:T87 Arg2:T88
+R37	Scope Arg1:T90 Arg2:T91
+R38	Scope Arg1:T92 Arg2:T93
+R39	Scope Arg1:T94 Arg2:T95
+R40	Scope Arg1:T97 Arg2:T98
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T106 Arg2:T107
+R43	Scope Arg1:T109 Arg2:T110
+R44	Scope Arg1:T112 Arg2:T113
+R45	Scope Arg1:T115 Arg2:T116
+R46	Scope Arg1:T121 Arg2:T120
+R47	Scope Arg1:T123 Arg2:T122
+R48	Scope Arg1:T124 Arg2:T125
+R49	Scope Arg1:T129 Arg2:T130
+R50	Scope Arg1:T132 Arg2:T133
+R51	Scope Arg1:T134 Arg2:T135
+R52	Scope Arg1:T136 Arg2:T137
+R53	Scope Arg1:T139 Arg2:T140
+R54	Scope Arg1:T141 Arg2:T142
+R55	Scope Arg1:T143 Arg2:T144
+R56	Scope Arg1:T146 Arg2:T147
+R57	Scope Arg1:T148 Arg2:T149
+R58	Scope Arg1:T151 Arg2:T152
+R59	Scope Arg1:T156 Arg2:T157
+R60	Scope Arg1:T158 Arg2:T159
+R61	DiscMarker Arg1:T160 Arg2:T162
+R62	DiscScope Arg1:T162 Arg2:T163
+R63	DiscScope Arg1:T162 Arg2:T161
+R64	Scope Arg1:T164 Arg2:T165
+R65	Scope Arg1:T166 Arg2:T167
+R66	Scope Arg1:T168 Arg2:T169
+R67	Scope Arg1:T171 Arg2:T172
+R68	Scope Arg1:T174 Arg2:T173
+R69	Scope Arg1:T175 Arg2:T176
+R70	Scope Arg1:T178 Arg2:T179

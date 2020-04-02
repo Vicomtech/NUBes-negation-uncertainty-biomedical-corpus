@@ -1,0 +1,26 @@
+T1	UncertLexMarker 18 31	probablemente
+T2	DISO 32 44	inflamatorio
+T3	NegSynMarker 542 544	No
+T4	Phrase 545 553	sale pus
+T5	SUBS 550 553	pus
+T6	NegSynMarker 573 575	No
+T7	DISO 576 587	hipertrofia
+T8	Phrase 576 598	hipertrofia ni exudado
+T9	CoordItem 588 590	ni
+T10	DISO 591 598	exudado
+T11	NegMorMarker 926 933	Afebril
+T12	UncertLexMarker 935 947	Probablemete
+T13	DISO 948 967	el foco es dentario
+T14	NegSynMarker 1317 1320	sin
+T15	SUBS 1321 1349	secrecion externa espontanea
+T16	NegSynMarker 1519 1521	No
+T17	DISO 1522 1538	placas pultáceas
+T18	NegSynMarker 1988 1990	no
+T19	OTHER 1991 2013	asimetría luz faringea
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T8
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19

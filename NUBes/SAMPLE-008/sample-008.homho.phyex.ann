@@ -1,0 +1,139 @@
+T1	PROC 157 160	PPR
+T2	NegLexMarker 161 169	negativa
+T3	NegSynMarker 177 179	no
+T4	DISO 180 186	edemas
+T5	Phrase 180 200	edemas ni signos TVP
+T6	CoordItem 187 189	ni
+T7	DISO 197 200	TVP
+T8	NegMorMarker 630 637	afebril
+T9	UncertLexMarker 1087 1095	Probable
+T10	DISO 1096 1128	pancreatitis crónica reagudizada
+T11	NegSynMarker 1369 1371	no
+T12	OTHER 1372 1419	viabilidad de nuevas Intervenciones Quirúrgicas
+T13	NegSynMarker 1448 1450	no
+T14	Phrase 1451 1466	ausculto soplos
+T15	DISO 1460 1466	soplos
+T16	NegMorMarker 2196 2203	afebril
+T17	NegSynMarker 2206 2209	sin
+T18	DISO 2210 2215	dolor
+T19	NegSynMarker 2397 2399	no
+T20	DISO 2400 2408	doloroso
+T21	OTHER 2480 2493	Dicho drenaje
+T22	NegLexMarker 2494 2503	se retira
+T23	Phrase 2504 2512	el 30/03
+T24	UncertLexMarker 2798 2806	aparente
+T25	OTHER 2807 2827	correcta disposición
+T26	PROC 3003 3011	Blumberg
+T27	NegLexMarker 3012 3020	negativo
+T28	PROC 3023 3029	murphy
+T29	NegLexMarker 3030 3038	negativo
+T30	NegSynMarker 3252 3254	no
+T31	DISO 3255 3265	distendido
+T32	NegSynMarker 3331 3333	no
+T33	Phrase 3334 3349	disnea ni dolor
+T34	DISO 3334 3340	disnea
+T35	CoordItem 3341 3343	ni
+T36	DISO 3344 3349	dolor
+T37	NegSynMarker 3423 3425	no
+T38	Phrase 3426 3453	masas ni megalias palpables
+T39	DISO 3426 3431	masas
+T40	CoordItem 3432 3434	ni
+T41	DISO 3435 3443	megalias
+T42	NegSynMarker 3456 3458	no
+T43	Phrase 3459 3490	signos de irritación peritoneal
+T44	DISO 3469 3490	irritación peritoneal
+T45	NegSynMarker 3555 3557	No
+T46	DISO 3558 3572	edemas de EEII
+T47	NegSynMarker 4157 4159	no
+T48	DISO 4160 4162	iY
+T49	NegSynMarker 4185 4188	sin
+T50	DISO 4189 4195	soplos
+T51	NegSynMarker 4213 4216	sin
+T52	DISO 4217 4237	rudiso sobreañadidos
+T53	NegSynMarker 4381 4384	sin
+T54	DISO 4385 4421	hallazgos patológicos significativos
+T55	NegSynMarker 4588 4590	no
+T56	DISO 4591 4593	IY
+T57	Phrase 4998 5030	en relación a hepatopatía difusa
+T58	DISO 5012 5030	hepatopatía difusa
+T59	UncertSynMarker 5031 5033	vs
+T60	DISO 5034 5044	esteatosis
+T61	NegLexMarker 5069 5080	ausencia de
+T62	Phrase 5081 5096	familia directa
+T63	NegSynMarker 5161 5163	no
+T64	Phrase 5164 5214	adoptar medidas quirúrgicas drásticas ni agresivas
+T65	PROC 5172 5214	medidas quirúrgicas drásticas ni agresivas
+T66	CoordItem 5202 5204	ni
+T67	NegSynMarker 5254 5256	no
+T68	Phrase 5257 5267	lo permite
+T69	NegSynMarker 5282 5284	no
+T70	NegMorMarker 5587 5594	afebril
+T71	NegSynMarker 5947 5950	sin
+T72	Phrase 5951 5971	signos de esteatosis
+T73	DISO 5961 5971	esteatosis
+T74	PROC 6326 6336	Urocultivo
+T75	NegLexMarker 6339 6347	Negativo
+T76	NegLexMarker 6668 6680	incapaz para
+T77	Phrase 6681 6702	la toma de decisiones
+T78	NegSynMarker 6722 6724	no
+T79	DISO 6725 6730	soplo
+T80	NegSynMarker 7250 7253	sin
+T81	DISO 7254 7263	hallazgos
+T82	NegSynMarker 7302 7304	No
+T83	Phrase 7305 7340	se objetivan imágenes de vegetación
+T84	DISO 7330 7340	vegetación
+T85	NegSynMarker 7654 7656	no
+T86	DISO 7657 7685	evoluciona según lo previsto
+T87	UncertLexMarker 7702 7708	parece
+T88	Phrase 7709 7791	identificarse imágenes aéreas en la misma que podrían estar relación con infección
+T89	DISO 7723 7738	imágenes aéreas
+T90	UncertLexMarker 7755 7762	podrían
+T91	DISO 7763 7791	estar relación con infección
+T92	DISO 7851 7890	una colección necrótica peripancreática
+T93	UncertSynMarker 7891 7897	versus
+T94	DISO 7900 7924	una adenopatía necrosada
+T95	NegSynMarker 7929 7931	No
+T96	NegSynMarker 7962 7965	Sin
+T97	DISO 7966 8002	hallazgos patológicos significativos
+T98	NegSynMarker 8628 8630	no
+T99	DISO 8631 8637	edemas
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T20
+R8	DiscScope Arg1:T22 Arg2:T21
+R9	DiscScope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T29 Arg2:T28
+R12	Scope Arg1:T27 Arg2:T26
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T42 Arg2:T43
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T51 Arg2:T52
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56
+R23	DiscScope Arg1:T59 Arg2:T60
+R24	DiscScope Arg1:T59 Arg2:T57
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T67 Arg2:T68
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T71 Arg2:T72
+R29	Scope Arg1:T75 Arg2:T74
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T78 Arg2:T79
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T82 Arg2:T83
+R34	Scope Arg1:T85 Arg2:T86
+R35	Scope Arg1:T87 Arg2:T88
+R36	Scope Arg1:T90 Arg2:T91
+R37	DiscScope Arg1:T93 Arg2:T94
+R38	DiscScope Arg1:T93 Arg2:T92
+R39	Scope Arg1:T96 Arg2:T97
+R40	Scope Arg1:T98 Arg2:T99

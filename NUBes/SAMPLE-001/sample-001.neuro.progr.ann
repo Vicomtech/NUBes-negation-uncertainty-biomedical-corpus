@@ -1,0 +1,116 @@
+T1	UncertLexMarker 414 422	probable
+T2	DISO 423 440	infarto de tronco
+T3	NegSynMarker 995 998	sin
+T4	DISO 999 1020	patología neurológica
+T5	Phrase 999 1038	patología neurológica que lo justifique
+T6	NegSynMarker 1496 1499	sin
+T7	Phrase 1500 1505	exito
+T8	UncertLexMarker 1758 1765	posible
+T9	DISO 1766 1776	vasculitis
+T10	UncertLexMarker 1854 1861	posible
+T11	OTHER 1862 1895	relación con la infección por VIH
+T12	UncertLexMarker 1900 1908	pudieran
+T13	OTHER 1909 1955	explicar , en parte la alteración de la marcha
+T14	NegSynMarker 2161 2163	no
+T15	Phrase 2164 2210	mostró signos de afectación cardiaca isquémica
+T16	DISO 2181 2210	afectación cardiaca isquémica
+T17	UncertLexMarker 2373 2380	sugiere
+T18	Phrase 2381 2493	la posibilidad de que el paciente presente clínica inicial del complejo demencia-SIDA a pesar del contaje de CD4
+T19	PolItem 2381 2402	la posibilidad de que
+T20	DISO 2424 2466	clínica inicial del complejo demencia-SIDA
+T21	NegSynMarker 2660 2662	no
+T22	DISO 2663 2672	irradiado
+T23	NegSynMarker 2675 2678	sin
+T24	DISO 2679 2697	clinica vegetativa
+T25	Phrase 2679 2709	clinica vegetativa acompañante
+T26	UncertLexMarker 2779 2791	sugestivo de
+T27	DISO 2792 2799	SCACEST
+T28	UncertLexMarker 2954 2960	parece
+T29	Phrase 2961 3005	haber experimentado una muy discreta mejoría
+T30	DISO 2981 3005	una muy discreta mejoría
+T31	UncertLexMarker 3657 3664	posible
+T32	Phrase 3665 3707	relación a complejo demencia sida probable
+T33	DISO 3676 3698	complejo demencia sida
+T34	PolItem 3699 3707	probable
+T35	NegSynMarker 4040 4042	No
+T36	Phrase 4043 4058	se obtienen ROC
+T37	DISO 4055 4058	ROC
+T38	NegLexMarker 4142 4155	ha descartado
+T39	Phrase 4156 4202	la presencia de lesiones de aspecto neoplásico
+T40	DISO 4172 4202	lesiones de aspecto neoplásico
+T41	NegSynMarker 4614 4616	no
+T42	DISO 4617 4624	respira
+T43	UncertLexMarker 4672 4682	sugiriendo
+T44	DISO 4693 4712	deterioro cognitivo
+T45	UncertLexMarker 4749 4757	apoyaría
+T46	Phrase 4758 4811	la idea de complejo demencia-sida probable incipiente
+T47	DISO 4769 4791	complejo demencia-sida
+T48	PolItem 4792 4800	probable
+T49	NegLexMarker 4826 4843	en ningún momento
+T50	Phrase 4844 4918	refirió disnea , dolor torácico , ni ninguna otra clínica sugestiva de TEP
+T51	DISO 4852 4858	disnea
+T52	DISO 4861 4875	dolor torácico
+T53	CoordItem 4878 4880	ni
+T54	PolItem 4881 4893	ninguna otra
+T55	DISO 4915 4918	TEP
+T56	UncertLexMarker 5722 5735	probablemente
+T57	DISO 5736 5758	de caracter dilucional
+T58	UncertLexMarker 5851 5858	posible
+T59	DISO 5859 5873	nuevo sangrado
+T60	UncertLexMarker 5874 5875	?
+T61	NegSynMarker 6237 6239	no
+T62	Phrase 6240 6341	se objetivó lesión del parénquima cerebral ni del estuche óseo en relación con el traumatismo sufrido
+T63	DISO 6252 6302	lesión del parénquima cerebral ni del estuche óseo
+T64	CoordItem 6283 6285	ni
+T65	NegLexMarker 6494 6502	descartó
+T66	Phrase 6503 6551	la presencia de lesión obstructiva a dicho nivel
+T67	DISO 6519 6537	lesión obstructiva
+T68	NegSynMarker 6652 6654	no
+T69	OTHER 6655 6687	informada por parte del paciente
+T70	NegLexMarker 6902 6913	retirada de
+T71	SUBS 6914 6918	IECA
+T72	UncertLexMarker 7124 7135	sospecha de
+T73	Phrase 7136 7150	un posible TEP
+T74	PolItem 7139 7146	posible
+T75	DISO 7147 7150	TEP
+T76	NegSynMarker 7551 7553	No
+T77	DISO 7554 7607	responde a estimulos verbales , tactiles ni dolorosos
+T78	CoordItem 7595 7597	ni
+T79	UncertLexMarker 7683 7690	valorar
+T80	Phrase 7691 7739	la reinstauración del tratamiento anticoagulante
+T81	SUBS 7725 7739	anticoagulante
+T82	NegSynMarker 8252 8254	no
+T83	OTHER 8255 8275	dispongo de informes
+T84	PROC 8314 8338	los marcadores tumorales
+T85	NegLexMarker 8361 8370	negativos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T25
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T56 Arg2:T57
+R21	DiscMarker Arg1:T58 Arg2:T60
+R22	Scope Arg1:T60 Arg2:T59
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T65 Arg2:T66
+R25	Scope Arg1:T70 Arg2:T71
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T72 Arg2:T73
+R28	Scope Arg1:T76 Arg2:T77
+R29	Scope Arg1:T79 Arg2:T80
+R30	Scope Arg1:T82 Arg2:T83
+R31	Scope Arg1:T85 Arg2:T84

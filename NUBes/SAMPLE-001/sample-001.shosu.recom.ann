@@ -1,0 +1,3 @@
+T1	SUBS 874 883	Glicazida
+T2	NegLexMarker 906 914	suspende
+R1	Scope Arg1:T2 Arg2:T1

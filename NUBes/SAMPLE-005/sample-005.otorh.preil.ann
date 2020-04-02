@@ -1,0 +1,9 @@
+T1	NegSynMarker 16 18	No
+T2	DISO 19 27	acufenos
+T3	Phrase 95 106	Actualmente
+T4	NegSynMarker 107 109	no
+T5	NegSynMarker 112 115	Sin
+T6	DISO 116 150	antecedentes otologicos de interes
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6

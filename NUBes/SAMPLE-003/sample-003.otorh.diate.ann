@@ -1,0 +1,135 @@
+T1	NegSynMarker 46 49	sin
+T2	Phrase 50 59	y con CIV
+T3	SUBS 56 59	CIV
+T4	UncertLexMarker 62 73	Orientación
+T5	Phrase 88 226	Hallazgos sugestivos de mucocele maxilar izquierdo con comportamiento erosivo , con afectación que ha aumentado respecto a estudio de 2011
+T6	PolItem 98 111	sugestivos de
+T7	DISO 112 165	mucocele maxilar izquierdo con comportamiento erosivo
+T8	UncertLexMarker 320 331	Orientación
+T9	DISO 346 395	Hematoma cérvico-mediastínico postpunción estable
+T10	NegSynMarker 685 688	sin
+T11	Phrase 689 710	administración de CIV
+T12	SUBS 707 710	CIV
+T13	NegSynMarker 713 716	Sin
+T14	OTHER 717 750	imágenes de abscesos submaxilares
+T15	NegSynMarker 850 853	sin
+T16	DISO 854 881	alteraciones significativas
+T17	NegSynMarker 1191 1194	sin
+T18	DISO 1195 1203	necrosis
+T19	NegSynMarker 1616 1619	sin
+T20	Phrase 1620 1694	observarse crecimiento respecto a la exploración realizada hace unas horas
+T21	DISO 1631 1694	crecimiento respecto a la exploración realizada hace unas horas
+T22	UncertLexMarker 1697 1708	Orientación
+T23	DISO 1723 1812	Cambios post infección o post quirúrgicos subcutáneos en región facial anterior izquierda
+T24	DISO 2219 2227	relación
+T25	UncertLexMarker 2228 2236	probable
+T26	DISO 2237 2292	a cambios post-infección o post-quirúrgicos a ese nivel
+T27	NegSynMarker 2497 2500	sin
+T28	OTHER 2501 2527	imágenes líquidas internas
+T29	Phrase 2501 2551	imágenes líquidas internas ni captación periférica
+T30	CoordItem 2528 2530	ni
+T31	OTHER 2531 2551	captación periférica
+T32	NegSynMarker 2554 2556	no
+T33	Phrase 2557 2586	presenta criterios de absceso
+T34	OTHER 2566 2586	criterios de absceso
+T35	UncertLexMarker 2589 2595	parece
+T36	Phrase 2596 2627	más en relación con parotiditis
+T37	DISO 2603 2627	relación con parotiditis
+T38	NegSynMarker 2778 2781	sin
+T39	SUBS 2782 2785	CIV
+T40	NegSynMarker 2803 2806	sin
+T41	SUBS 2813 2816	CIV
+T42	NegSynMarker 2975 2978	sin
+T43	DISO 2979 2991	alteraciones
+T44	NegSynMarker 3046 3049	sin
+T45	DISO 3050 3086	hallazgos sospechosos en la vecindad
+T46	NegSynMarker 3110 3113	sin
+T47	PROC 3114 3134	maniobra de fonación
+T48	NegLexMarker 3137 3143	Evitar
+T49	Phrase 3144 3151	alcohol
+T50	NegSynMarker 3275 3277	No
+T51	Phrase 3278 3335	se objetivan alteraciones morfológicas ni densitométricas
+T52	DISO 3291 3335	alteraciones morfológicas ni densitométricas
+T53	CoordItem 3317 3319	ni
+T54	NegSynMarker 3415 3417	no
+T55	Phrase 3418 3469	presentan morfología de absceso en esta exploración
+T56	DISO 3428 3469	morfología de absceso en esta exploración
+T57	NegSynMarker 3722 3725	sin
+T58	OTHER 3726 3771	delimitar masas tras la administración de CIV
+T59	NegSynMarker 3883 3886	sin
+T60	DISO 3887 3921	criterios de hipertrofia adenoidea
+T61	UncertLexMarker 3991 3999	probable
+T62	DISO 4000 4030	hematoma en la región cervical
+T63	Phrase 4000 4112	hematoma en la región cervical desde la región inffrahioidea hacia el mediastino , a nivel de la vena innominada
+T64	UncertLexMarker 4115 4126	Orientación
+T65	DISO 4141 4144	HTA
+T66	UncertLexMarker 4147 4158	Orientación
+T67	Phrase 4173 4264	Aumento de tamaño de la glándula parótida derecha sobre todo a nivel de la cola pancreática
+T68	DISO 4173 4222	Aumento de tamaño de la glándula parótida derecha
+T69	NegSynMarker 4305 4307	no
+T70	OTHER 4308 4362	se logra diferenciar de la glándula ninguna estructura
+T71	UncertLexMarker 4374 4380	parece
+T72	Phrase 4381 4473	más en relación con hallazgos de parotiditis inferior que no con el flemón de partes blandas
+T73	DISO 4388 4434	relación con hallazgos de parotiditis inferior
+T74	NegSynMarker 4439 4441	no
+T75	DISO 4442 4473	con el flemón de partes blandas
+T76	NegSynMarker 4693 4696	sin
+T77	Phrase 4697 4700	sal
+T78	NegSynMarker 4723 4726	Sin
+T79	DISO 4727 4759	adenopatías de tamaño patológico
+T80	NegSynMarker 4916 4919	sin
+T81	Phrase 4920 4923	sal
+T82	UncertLexMarker 5071 5083	sugestiva de
+T83	DISO 5084 5092	mucocele
+T84	NegSynMarker 5355 5358	sin
+T85	DISO 5359 5386	alteraciones bilateralmente
+T86	NegSynMarker 5417 5420	sin
+T87	SUBS 5421 5424	CIV
+T88	NegSynMarker 5533 5536	sin
+T89	DISO 5537 5571	criterios de hipertrofia adenoidea
+T90	NegSynMarker 5636 5639	sin
+T91	Phrase 5640 5684	objetivarse masas u otros hallazgos en cavum
+T92	DISO 5652 5657	masas
+T93	CoordItem 5658 5659	u
+T94	DISO 5660 5684	otros hallazgos en cavum
+T95	NegSynMarker 5880 5883	sin
+T96	DISO 5884 5896	alteraciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T22 Arg2:T23
+R10	DiscScope Arg1:T25 Arg2:T24
+R11	DiscScope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T35 Arg2:T36
+R13	Scope Arg1:T27 Arg2:T29
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T61 Arg2:T63
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T69 Arg2:T70
+R28	Scope Arg1:T71 Arg2:T72
+R29	Scope Arg1:T66 Arg2:T67
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T80 Arg2:T81
+R34	Scope Arg1:T82 Arg2:T83
+R35	Scope Arg1:T84 Arg2:T85
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T90 Arg2:T91
+R38	Scope Arg1:T88 Arg2:T89
+R39	Scope Arg1:T95 Arg2:T96

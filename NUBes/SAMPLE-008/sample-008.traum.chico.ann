@@ -1,0 +1,20 @@
+T1	NegSynMarker 268 270	no
+T2	DISO 271 288	control del dolor
+T3	NegMorMarker 523 530	afebril
+T4	NegSynMarker 549 551	No
+T5	DISO 552 571	traumatismo inicial
+T6	NegLexMarker 678 683	Niega
+T7	Phrase 684 752	clinica de infeccion respiratoria , ni clinica de infeccion urinaria
+T8	DISO 695 717	infeccion respiratoria
+T9	CoordItem 720 722	ni
+T10	DISO 734 752	infeccion urinaria
+T11	NegSynMarker 929 931	No
+T12	Phrase 932 945	ha desayunado
+T13	NegSynMarker 948 950	no
+T14	OTHER 951 985	ha tomado medicación antidiabetica
+T15	Phrase 951 1000	ha tomado medicación antidiabetica de esta mañana
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T13 Arg2:T15
+R5	Scope Arg1:T11 Arg2:T12

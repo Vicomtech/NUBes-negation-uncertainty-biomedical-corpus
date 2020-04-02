@@ -1,0 +1,17 @@
+T1	NegSynMarker 142 144	no
+T2	OTHER 145 153	conocida
+T3	NegSynMarker 863 865	no
+T4	Phrase 866 905	proceso respiratorio ni fiebre ortopnea
+T5	DISO 866 886	proceso respiratorio
+T6	CoordItem 887 889	ni
+T7	DISO 890 905	fiebre ortopnea
+T8	NegSynMarker 1540 1542	no
+T9	DISO 1543 1550	cefalea
+T10	NegSynMarker 1551 1553	no
+T11	DISO 1554 1581	dolor torácico ni abdominal
+T12	CoordItem 1569 1571	ni
+T13	NegMorMarker 2097 2110	inespecificos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T8 Arg2:T9

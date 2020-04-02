@@ -1,0 +1,331 @@
+T1	NegSynMarker 37 39	no
+T2	DISO 40 60	ruidos sobreañadidos
+T3	NegSynMarker 202 205	sin
+T4	DISO 206 233	alteraciones significativas
+T5	NegLexMarker 560 569	Retiramos
+T6	OTHER 570 578	via PICC
+T7	NegMorMarker 844 851	afebril
+T8	DISO 874 890	cefalea residual
+T9	NegLexMarker 895 899	cede
+T10	Phrase 900 920	a analgesia habitual
+T11	NegSynMarker 960 963	sin
+T12	DISO 964 973	focalidad
+T13	NegMorMarker 1375 1389	desorientación
+T14	PROC 1998 2008	Urocultivo
+T15	NegLexMarker 2021 2029	negativo
+T16	PROC 2032 2044	Coprocultivo
+T17	NegLexMarker 2057 2065	negativo
+T18	NegSynMarker 2087 2089	no
+T19	DISO 2090 2096	edemas
+T20	NegSynMarker 2097 2099	no
+T21	Phrase 2100 2113	signos de tvp
+T22	DISO 2110 2113	tvp
+T23	NegMorMarker 2307 2314	afebril
+T24	NegSynMarker 2317 2319	no
+T25	Phrase 2320 2334	presenta dolor
+T26	DISO 2329 2334	dolor
+T27	NegSynMarker 3416 3419	sin
+T28	Phrase 3420 3446	poder determinar el origen
+T29	DISO 3426 3446	determinar el origen
+T30	NegSynMarker 3451 3453	no
+T31	Phrase 3454 3501	estar indicado realizacion de pruebas agresivas
+T32	PROC 3484 3501	pruebas agresivas
+T33	UncertLexMarker 3504 3517	probablemente
+T34	BODY 3518 3524	vejiga
+T35	NegSynMarker 3853 3855	no
+T36	DISO 3856 3862	edemas
+T37	NegSynMarker 3870 3872	no
+T38	DISO 3873 3879	edemas
+T39	NegSynMarker 3920 3922	no
+T40	Phrase 3923 3951	quiere morir en su domicilio
+T41	NegSynMarker 4372 4375	sin
+T42	DISO 4376 4387	incidencias
+T43	Phrase 4593 4614	morfina y corticoides
+T44	SUBS 4593 4600	morfina
+T45	CoordItem 4601 4602	y
+T46	SUBS 4603 4614	corticoides
+T47	NegLexMarker 4626 4636	suspensión
+T48	UncertLexMarker 4750 4761	sospecha de
+T49	DISO 4762 4784	infección respiratoria
+T50	NegLexMarker 4999 5007	Retrirar
+T51	OTHER 5008 5011	ATB
+T52	UncertLexMarker 5614 5622	probable
+T53	DISO 5623 5635	colonización
+T54	NegSynMarker 5855 5857	no
+T55	DISO 5858 5884	otros ruidos sobreañadidos
+T56	NegMorMarker 6229 6236	afebril
+T57	NegSynMarker 6255 6258	sin
+T58	DISO 6259 6264	dolor
+T59	NegSynMarker 6546 6548	no
+T60	Phrase 6549 6582	se ha vuelto a levantar de lacama
+T61	NegSynMarker 6609 6611	no
+T62	Phrase 6612 6623	oigo soplos
+T63	DISO 6617 6623	soplos
+T64	PROC 6626 6635	Rotavirus
+T65	NegLexMarker 6636 6644	negativo
+T66	NegSynMarker 6873 6876	sin
+T67	DISO 6877 6897	hallazgos reseñables
+T68	PROC 6949 6954	ameba
+T69	NegLexMarker 6955 6963	negativo
+T70	NegSynMarker 7003 7005	no
+T71	Phrase 7006 7054	estaría indicado continuar más tiempo con ATB/EV
+T72	SUBS 7048 7054	ATB/EV
+T73	NegLexMarker 7068 7080	retirada del
+T74	NegSynMarker 7241 7244	sin
+T75	Phrase 7245 7288	crepitantes ni ruidos patológicos asociados
+T76	DISO 7245 7256	crepitantes
+T77	CoordItem 7257 7259	ni
+T78	DISO 7260 7288	ruidos patológicos asociados
+T79	NegSynMarker 7304 7307	sin
+T80	OTHER 7308 7313	sonda
+T81	NegMorMarker 7391 7403	asintomática
+T82	NegMorMarker 7406 7413	afebril
+T83	NegSynMarker 7615 7618	sin
+T84	DISO 7619 7625	fiebre
+T85	Phrase 7619 7660	fiebre ni otra sintomatología acompañante
+T86	CoordItem 7626 7628	ni
+T87	DISO 7629 7660	otra sintomatología acompañante
+T88	NegSynMarker 7663 7665	No
+T89	Phrase 7666 7711	presenta tampoco otra sintomatología asociada
+T90	PolItem 7675 7682	tampoco
+T91	DISO 7683 7711	otra sintomatología asociada
+T92	NegSynMarker 7849 7852	sin
+T93	DISO 7853 7864	incidencias
+T94	NegMorMarker 7889 7896	afebril
+T95	NegMorMarker 7925 7937	asintomática
+T96	NegSynMarker 8158 8160	no
+T97	Phrase 8161 8176	presenta edemas
+T98	DISO 8170 8176	edemas
+T99	NegSynMarker 8235 8237	No
+T100	DISO 8238 8245	ascitis
+T101	NegSynMarker 8405 8408	sin
+T102	DISO 8409 8479	alteraciones significativas en analítica de control respecto a previos
+T103	NegSynMarker 9245 9248	sin
+T104	DISO 9249 9256	clínica
+T105	UncertLexMarker 9334 9345	sospecha de
+T106	DISO 9346 9368	nuevo inicio de sepsis
+T107	NegMorMarker 9581 9588	afebril
+T108	NegSynMarker 9642 9645	sin
+T109	DISO 9646 9675	clínica organotópica asociada
+T110	NegSynMarker 9704 9706	no
+T111	Phrase 9707 9751	ha precisado buscapina por dolor suprapúbico
+T112	SUBS 9720 9729	buscapina
+T113	NegSynMarker 9754 9756	no
+T114	Phrase 9757 9808	ha presentado fiebre ni nuevo episodio de retención
+T115	DISO 9771 9777	fiebre
+T116	CoordItem 9778 9780	ni
+T117	DISO 9781 9808	nuevo episodio de retención
+T118	NegMorMarker 10021 10028	afebril
+T119	NegMorMarker 10529 10541	asintomático
+T120	NegMorMarker 10544 10551	afebril
+T121	NegSynMarker 10554 10556	No
+T122	Phrase 10557 10596	encontramos otro foco que lo justifique
+T123	DISO 10569 10596	otro foco que lo justifique
+T124	NegMorMarker 10734 10741	afebril
+T125	NegSynMarker 10744 10747	sin
+T126	DISO 10748 10754	disnea
+T127	NegSynMarker 10961 10963	no
+T128	OTHER 10964 10984	interfiere con sueño
+T129	NegSynMarker 11124 11126	No
+T130	Phrase 11127 11205	hay incidencias reseñables durante el tiempo que permanece en nuestro servicio
+T131	DISO 11131 11153	incidencias reseñables
+T132	NegLexMarker 11336 11345	Retiramos
+T133	PROC 11346 11354	via PICC
+T134	PROC 11788 11800	Hemocultivos
+T135	NegLexMarker 11820 11829	negativos
+T136	NegLexMarker 11930 11941	ha retirado
+T137	Phrase 11942 11971	el tratamiento de Metotrexate
+T138	SUBS 11960 11971	Metotrexate
+T139	SUBS 12191 12235	Furosemida 60mg/24h/ev en perfusión contínua
+T140	NegLexMarker 12242 12251	se retiró
+T141	Phrase 12252 12267	hace una semana
+T142	PROC 12656 12663	cultivo
+T143	NegLexMarker 12664 12672	negativo
+T144	NegSynMarker 12833 12835	no
+T145	Phrase 12836 12854	oigo soplo ni roce
+T146	DISO 12841 12846	soplo
+T147	CoordItem 12847 12849	ni
+T148	DISO 12850 12854	roce
+T149	NegSynMarker 12863 12865	no
+T150	DISO 12866 12897	puntos dolorosos craneofaciales
+T151	PROC 12900 12905	trago
+T152	NegLexMarker 12906 12914	negativo
+T153	NegMorMarker 12932 12939	afebril
+T154	NegSynMarker 13016 13019	sin
+T155	DISO 13020 13059	alteración en relación a las anteriores
+T156	NegMorMarker 13158 13165	afebril
+T157	NegSynMarker 13226 13229	sin
+T158	DISO 13230 13236	disnea
+T159	NegSynMarker 13310 13313	sin
+T160	Phrase 13314 13334	salir ningún coágulo
+T161	PolItem 13320 13326	ningún
+T162	DISO 13320 13334	ningún coágulo
+T163	DISO 13402 13417	estos episodios
+T164	NegLexMarker 13418 13428	han cedido
+T165	NegMorMarker 13827 13834	afebril
+T166	DISO 13846 13870	ligera molestia urinaria
+T167	NegLexMarker 13875 13880	cedió
+T168	Phrase 13881 13896	espontáneamente
+T169	NegLexMarker 13939 13950	se descartó
+T170	DISO 13951 13969	proceso infeccioso
+T171	NegMorMarker 14087 14094	afebril
+T172	DISO 14110 14141	mínima sintomatología digestiva
+T173	Phrase 14110 14186	mínima sintomatología digestiva ( mínimas deposiciones diarreicas ) al incio
+T174	NegLexMarker 14191 14201	desaparece
+T175	Phrase 14202 14216	posteriormente
+T176	NegSynMarker 14455 14458	sin
+T177	Phrase 14459 14491	que precise continuidad de curas
+T178	OTHER 14471 14491	continuidad de curas
+T179	NegMorMarker 15009 15021	asintomático
+T180	NegMorMarker 15024 15031	afebril
+T181	NegLexMarker 15529 15539	Descartado
+T182	Phrase 15540 15577	por el momento tratamiento quirúrgico
+T183	PROC 15555 15577	tratamiento quirúrgico
+T184	NegSynMarker 15922 15925	sin
+T185	DISO 15926 15952	otros ruidos sobreañadidos
+T186	NegMorMarker 16160 16167	afebril
+T187	UncertLexMarker 16456 16470	compatible con
+T188	DISO 16471 16486	hepatocarcinoma
+T189	NegSynMarker 16790 16793	sin
+T190	DISO 16794 16799	masas
+T191	NegSynMarker 16800 16802	no
+T192	Phrase 16803 16852	presenta dolor ni signos de irritación peritoneal
+T193	DISO 16812 16817	dolor
+T194	CoordItem 16818 16820	ni
+T195	DISO 16831 16852	irritación peritoneal
+T196	PROC 17391 17401	Giardia Ag
+T197	NegLexMarker 17402 17410	negativo
+T198	NegSynMarker 18042 18044	no
+T199	DISO 18045 18065	descrita previamente
+T200	UncertLexMarker 18318 18326	probable
+T201	DISO 18327 18357	origen mecánico por sobrecarga
+T202	NegLexMarker 18475 18484	se retira
+T203	OTHER 18485 18493	via PICC
+T204	NegSynMarker 18768 18770	no
+T205	Phrase 18771 18792	presenta leucocitosis
+T206	DISO 18780 18792	leucocitosis
+T207	NegSynMarker 19116 19119	sin
+T208	DISO 19120 19131	incidencias
+T209	NegLexMarker 19426 19436	Se retiran
+T210	OTHER 19437 19447	las grapas
+T211	NegSynMarker 19466 19468	No
+T212	Phrase 19469 19497	ha presentado complicaciones
+T213	DISO 19483 19497	complicaciones
+T214	NegSynMarker 19974 19977	sin
+T215	Phrase 19978 20009	incidencias ni efectos adversos
+T216	DISO 19978 19989	incidencias
+T217	CoordItem 19990 19992	ni
+T218	DISO 19993 20009	efectos adversos
+T219	NegLexMarker 20223 20231	Suspendo
+T220	SUBS 20232 20261	todo el tratamiento oral y sc
+T221	OTHER 20595 20602	infusor
+T222	NegLexMarker 20625 20634	se retira
+T223	NegSynMarker 20635 20638	sin
+T224	DISO 20639 20650	incidencias
+T225	NegLexMarker 20942 20955	se le retiran
+T226	OTHER 20956 20970	los tejadillos
+T227	NegLexMarker 21878 21892	negatividad de
+T228	Phrase 21893 21967	cultivos extraídos en Hospital Isabel Zendal ( urocultivo y hemocultivos )
+T229	PROC 21940 21950	urocultivo
+T230	CoordItem 21951 21952	y
+T231	PROC 21953 21965	hemocultivos
+T232	NegSynMarker 23107 23110	sin
+T233	DISO 23111 23122	incidencias
+T234	Phrase 23111 23149	incidencias ni efectos adversos alguno
+T235	CoordItem 23123 23125	ni
+T236	DISO 23126 23142	efectos adversos
+T237	PolItem 23143 23149	alguno
+T238	NegSynMarker 23152 23154	No
+T239	Phrase 23155 23237	ha presentado sintomatología nauseosa ni de disnea ni de ningún otro tipo asociado
+T240	DISO 23169 23237	sintomatología nauseosa ni de disnea ni de ningún otro tipo asociado
+T241	CoordItem 23193 23195	ni
+T242	CoordItem 23206 23208	ni
+T243	PolItem 23212 23218	ningún
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	DiscScope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T9 Arg2:T8
+R7	Scope Arg1:T15 Arg2:T14
+R8	Scope Arg1:T17 Arg2:T16
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T47 Arg2:T43
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T59 Arg2:T60
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T65 Arg2:T64
+R28	Scope Arg1:T66 Arg2:T67
+R29	Scope Arg1:T73 Arg2:T72
+R30	Scope Arg1:T70 Arg2:T71
+R31	Scope Arg1:T69 Arg2:T68
+R32	Scope Arg1:T74 Arg2:T75
+R33	Scope Arg1:T79 Arg2:T80
+R34	Scope Arg1:T83 Arg2:T85
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T92 Arg2:T93
+R37	Scope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T99 Arg2:T100
+R39	Scope Arg1:T101 Arg2:T102
+R40	Scope Arg1:T103 Arg2:T104
+R41	Scope Arg1:T105 Arg2:T106
+R42	Scope Arg1:T108 Arg2:T109
+R43	Scope Arg1:T110 Arg2:T111
+R44	Scope Arg1:T113 Arg2:T114
+R45	Scope Arg1:T121 Arg2:T122
+R46	Scope Arg1:T127 Arg2:T128
+R47	Scope Arg1:T125 Arg2:T126
+R48	Scope Arg1:T129 Arg2:T130
+R49	Scope Arg1:T132 Arg2:T133
+R50	Scope Arg1:T135 Arg2:T134
+R51	Scope Arg1:T136 Arg2:T137
+R52	DiscScope Arg1:T140 Arg2:T141
+R53	DiscScope Arg1:T140 Arg2:T139
+R54	Scope Arg1:T143 Arg2:T142
+R55	Scope Arg1:T144 Arg2:T145
+R56	Scope Arg1:T149 Arg2:T150
+R57	Scope Arg1:T152 Arg2:T151
+R58	Scope Arg1:T154 Arg2:T155
+R59	Scope Arg1:T157 Arg2:T158
+R60	Scope Arg1:T159 Arg2:T160
+R61	Scope Arg1:T164 Arg2:T163
+R62	Scope Arg1:T169 Arg2:T170
+R63	DiscScope Arg1:T167 Arg2:T168
+R64	DiscScope Arg1:T167 Arg2:T166
+R65	DiscScope Arg1:T174 Arg2:T173
+R66	DiscScope Arg1:T174 Arg2:T175
+R67	Scope Arg1:T176 Arg2:T177
+R68	Scope Arg1:T181 Arg2:T182
+R69	Scope Arg1:T184 Arg2:T185
+R70	Scope Arg1:T187 Arg2:T188
+R71	Scope Arg1:T191 Arg2:T192
+R72	Scope Arg1:T189 Arg2:T190
+R73	Scope Arg1:T197 Arg2:T196
+R74	Scope Arg1:T198 Arg2:T199
+R75	Scope Arg1:T200 Arg2:T201
+R76	Scope Arg1:T202 Arg2:T203
+R77	Scope Arg1:T204 Arg2:T205
+R78	Scope Arg1:T207 Arg2:T208
+R79	Scope Arg1:T209 Arg2:T210
+R80	Scope Arg1:T211 Arg2:T212
+R81	Scope Arg1:T214 Arg2:T215
+R82	Scope Arg1:T219 Arg2:T220
+R83	Scope Arg1:T222 Arg2:T221
+R84	Scope Arg1:T223 Arg2:T224
+R85	Scope Arg1:T225 Arg2:T226
+R86	Scope Arg1:T227 Arg2:T228
+R87	Scope Arg1:T232 Arg2:T234
+R88	Scope Arg1:T238 Arg2:T239

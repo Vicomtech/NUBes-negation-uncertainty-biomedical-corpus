@@ -1,0 +1,20 @@
+T1	NegSynMarker 19 21	no
+T2	Phrase 22 49	vuelve a presentar sangrado
+T3	DISO 41 49	sangrado
+T4	NegLexMarker 187 196	Se retira
+T5	DISO 197 213	taponamiento FNI
+T6	NegSynMarker 216 218	no
+T7	Phrase 219 246	se objetiva sangrado activo
+T8	DISO 231 246	sangrado activo
+T9	NegLexMarker 489 503	desapareciendo
+T10	DISO 504 524	el edema periorbital
+T11	NegLexMarker 559 568	Se retira
+T12	DISO 569 600	el taponamiento anteroposterior
+T13	NegSynMarker 646 649	sin
+T14	DISO 650 657	sangrar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14

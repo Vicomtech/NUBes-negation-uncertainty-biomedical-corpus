@@ -1,0 +1,103 @@
+T1	NegMorMarker 19 31	Asintomático
+T2	NegSynMarker 102 104	no
+T3	Phrase 105 145	se le habia avisado para la intervencion
+T4	UncertLexMarker 478 485	valorar
+T5	Phrase 486 511	realización de litotricia
+T6	PROC 501 511	litotricia
+T7	NegSynMarker 555 557	no
+T8	Phrase 558 585	ha vuelto a presentar dolor
+T9	DISO 580 585	dolor
+T10	NegSynMarker 1157 1159	no
+T11	Phrase 1160 1208	ha vuelto a presentar dolor ni cuadros nauseosos
+T12	DISO 1182 1187	dolor
+T13	CoordItem 1188 1190	ni
+T14	DISO 1191 1208	cuadros nauseosos
+T15	OTHER 1282 1307	sonda vesical de descarga
+T16	NegLexMarker 1310 1319	se retiró
+T17	Phrase 1320 1340	con buenas micciones
+T18	NegSynMarker 1371 1374	sin
+T19	DISO 1375 1384	hallazgos
+T20	NegSynMarker 1650 1653	sin
+T21	DISO 1654 1664	dificultad
+T22	NegLexMarker 1697 1706	ha cedido
+T23	DISO 1707 1719	la hematuria
+T24	NegSynMarker 2355 2357	no
+T25	Phrase 2358 2371	produce dolor
+T26	DISO 2366 2371	dolor
+T27	NegSynMarker 2750 2753	sin
+T28	Phrase 2754 2788	volver a presentar cuadro doloroso
+T29	DISO 2773 2788	cuadro doloroso
+T30	NegLexMarker 3184 3192	Retirada
+T31	OTHER 3193 3201	la sonda
+T32	NegSynMarker 3208 3211	sin
+T33	DISO 3212 3221	problemas
+T34	NegMorMarker 3265 3277	asintomático
+T35	NegMorMarker 3638 3650	asintomática
+T36	DISO 3678 3713	dolor tipo cólico nefrítico derecho
+T37	NegLexMarker 3720 3724	cede
+T38	Phrase 3725 3782	tras tto. con sueros , antiinflamatorios y espasmoliticos
+T39	NegLexMarker 4453 4464	descartando
+T40	DISO 4465 4480	patología aguda
+T41	NegSynMarker 4646 4648	no
+T42	Phrase 4649 4680	ha vuelto a presentar hematuria
+T43	DISO 4671 4680	hematuria
+T44	NegSynMarker 5250 5252	no
+T45	NegLexMarker 5253 5269	haber suspendido
+T46	Phrase 5253 5293	haber suspendido el Sintrom 3 dias antes
+T47	SUBS 5270 5280	el Sintrom
+T48	NegLexMarker 5352 5359	retirar
+T49	OTHER 5360 5368	la sonda
+T50	NegSynMarker 5401 5403	no
+T51	Phrase 5404 5431	ha vuelto a presentar dolor
+T52	DISO 5426 5431	dolor
+T53	NegLexMarker 5471 5482	Retirada de
+T54	OTHER 5483 5505	la sonda vesical orina
+T55	NegSynMarker 5506 5509	sin
+T56	DISO 5510 5520	dificultad
+T57	NegSynMarker 5523 5526	Sin
+T58	DISO 5527 5556	incidencias dignas de mención
+T59	NegSynMarker 5625 5627	no
+T60	Phrase 5628 5659	ha vuelto a presentar hematuria
+T61	DISO 5650 5659	hematuria
+T62	NegLexMarker 5975 5983	cediendo
+T63	Phrase 5984 6012	expontaneamente la hematuria
+T64	DISO 6000 6012	la hematuria
+T65	NegMorMarker 6015 6027	Asintomático
+T66	NegLexMarker 6401 6409	Retirada
+T67	DISO 6410 6432	la sonda vesical orina
+T68	NegSynMarker 6433 6436	sin
+T69	DISO 6437 6446	problemas
+T70	NegLexMarker 6742 6750	cediendo
+T71	DISO 6751 6769	el cuadro doloroso
+T72	NegLexMarker 7029 7041	se suspendió
+T73	SUBS 7042 7056	el Voltaren IM
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T10 Arg2:T11
+R5	DiscScope Arg1:T16 Arg2:T17
+R6	DiscScope Arg1:T16 Arg2:T15
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T30 Arg2:T31
+R14	DiscScope Arg1:T37 Arg2:T36
+R15	DiscScope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T46
+R19	Scope Arg1:T45 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T53 Arg2:T54
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T59 Arg2:T60
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T66 Arg2:T67
+R29	Scope Arg1:T70 Arg2:T71
+R30	Scope Arg1:T72 Arg2:T73

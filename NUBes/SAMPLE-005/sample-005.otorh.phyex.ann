@@ -1,0 +1,36 @@
+T1	NegLexMarker 361 370	se retira
+T2	PROC 371 379	merocell
+T3	SUBS 673 695	tetracaina con algodón
+T4	NegLexMarker 696 702	Retiro
+T5	NegSynMarker 1132 1135	sin
+T6	DISO 1136 1169	alteraciones de la repolarizaciòn
+T7	NegSynMarker 1407 1409	no
+T8	DISO 1410 1428	sangrado posterior
+T9	NegSynMarker 1485 1487	no
+T10	DISO 1488 1494	edemas
+T11	NegSynMarker 1830 1832	no
+T12	DISO 1833 1850	punto de sangrado
+T13	NegSynMarker 2170 2172	no
+T14	DISO 2173 2182	focalidad
+T15	NegSynMarker 2259 2261	No
+T16	DISO 2262 2281	trastorno del habla
+T17	NegLexMarker 2284 2292	Se anula
+T18	PROC 2293 2319	la intervención quirurgica
+T19	NegSynMarker 2635 2637	No
+T20	DISO 2638 2648	dismetrias
+T21	NegSynMarker 2713 2715	No
+T22	DISO 2716 2755	i : y : ritmica con crepitantes gruesos
+T23	NegSynMarker 2764 2766	no
+T24	DISO 2767 2776	dolorosos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T21 Arg2:T22

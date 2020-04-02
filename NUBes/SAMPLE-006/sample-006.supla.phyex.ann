@@ -1,0 +1,21 @@
+T1	NegSynMarker 95 97	no
+T2	DISO 98 110	hipertrofica
+T3	UncertLexMarker 566 579	sugestivos de
+T4	DISO 580 602	metaplasia conjuntival
+T5	UncertLexMarker 697 709	sugestiva de
+T6	DISO 710 725	ca. basocelular
+T7	UncertLexMarker 1242 1256	compatible con
+T8	DISO 1257 1272	ca. basocelular
+T9	UncertLexMarker 1682 1689	posible
+T10	DISO 1690 1705	ca. basocelular
+T11	UncertLexMarker 1869 1883	Compatible con
+T12	DISO 1884 1900	condrodermatitis
+T13	UncertLexMarker 2157 2171	compatible con
+T14	DISO 2172 2175	enf
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14

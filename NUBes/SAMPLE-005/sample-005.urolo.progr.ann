@@ -1,0 +1,58 @@
+T1	NegSynMarker 387 389	no
+T2	Phrase 390 421	ha vuelto a presentar hematuria
+T3	DISO 412 421	hematuria
+T4	OTHER 434 450	la sonda vesical
+T5	NegLexMarker 489 498	retirarán
+T6	UncertLexMarker 1070 1081	sospecha de
+T7	DISO 1082 1099	Neoplasia vesical
+T8	NegLexMarker 1253 1264	Retirada de
+T9	OTHER 1265 1281	la sonda vesical
+T10	NegSynMarker 1350 1352	No
+T11	Phrase 1353 1380	ha vuelto a presentar dolor
+T12	DISO 1375 1380	dolor
+T13	NegLexMarker 1753 1762	ha cedido
+T14	DISO 1763 1771	el dolor
+T15	NegLexMarker 1884 1895	Retirada de
+T16	OTHER 1896 1909	sonda vesical
+T17	NegMorMarker 2316 2328	asintomática
+T18	NegSynMarker 2537 2539	No
+T19	Phrase 2540 2563	se ha objetivado fiebre
+T20	DISO 2557 2563	fiebre
+T21	NegLexMarker 2675 2686	Retirada de
+T22	OTHER 2687 2695	la sonda
+T23	NegLexMarker 2898 2906	retirada
+T24	NegLexMarker 3351 3363	Se le retira
+T25	OTHER 3364 3372	la sonda
+T26	NegSynMarker 3614 3616	No
+T27	DISO 3617 3634	clínica miccional
+T28	NegLexMarker 3893 3904	retirada de
+T29	OTHER 3905 3921	la sonda vesical
+T30	NegSynMarker 3930 3933	sin
+T31	DISO 3934 3943	problemas
+T32	NegSynMarker 3946 3948	no
+T33	Phrase 3949 3983	presentando incontinencia urinaria
+T34	DISO 3961 3983	incontinencia urinaria
+T35	DISO 4352 4381	una insuficiencia renal aguda
+T36	NegLexMarker 4386 4396	desaparece
+T37	Phrase 4397 4415	con el tratamiento
+T38	NegMorMarker 4585 4597	asintomática
+T39	NegSynMarker 4650 4653	sin
+T40	Phrase 4654 4682	volver a presentar hematuria
+T41	DISO 4673 4682	hematuria
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T28 Arg2:T29
+R14	Scope Arg1:T32 Arg2:T33
+R15	DiscScope Arg1:T36 Arg2:T37
+R16	DiscScope Arg1:T36 Arg2:T35
+R17	Scope Arg1:T39 Arg2:T40

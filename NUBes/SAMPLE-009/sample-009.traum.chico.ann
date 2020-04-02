@@ -1,0 +1,12 @@
+T1	UncertLexMarker 165 176	sospecha de
+T2	DISO 177 200	farctura de rama pubica
+T3	NegSynMarker 215 217	no
+T4	Phrase 218 250	realizar pruebas complementarias
+T5	PROC 227 250	pruebas complementarias
+T6	DISO 386 392	Marcha
+T7	NegLexMarker 393 402	imposible
+T8	Phrase 403 447	por dolor a nivel de region inguinal derecha
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	DiscScope Arg1:T7 Arg2:T8
+R4	DiscScope Arg1:T7 Arg2:T6

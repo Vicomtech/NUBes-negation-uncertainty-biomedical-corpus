@@ -1,0 +1,45 @@
+T1	UncertLexMarker 30 38	probable
+T2	DISO 39 90	caracter osteoporótico de unas semanas de evolución
+T3	NegSynMarker 451 453	no
+T4	OTHER 454 459	carga
+T5	Phrase 454 488	carga hasta trascurridas 6 semanas
+T6	NegSynMarker 1206 1209	sin
+T7	DISO 1210 1215	dolor
+T8	NegSynMarker 1674 1677	Sin
+T9	DISO 1678 1709	complicaciones post-operatorias
+T10	UncertLexMarker 1858 1865	posible
+T11	OTHER 1866 1884	ganancia funcional
+T12	UncertLexMarker 2271 2284	impresiona de
+T13	DISO 2285 2306	carcinoma basocelular
+T14	NegSynMarker 3296 3299	sin
+T15	DISO 3300 3311	incidencias
+T16	NegSynMarker 3928 3930	no
+T17	DISO 3931 3949	afectación medular
+T18	NegSynMarker 3972 3975	sin
+T19	DISO 3976 3994	afectación medular
+T20	UncertLexMarker 5396 5404	probable
+T21	DISO 5405 5450	relacion a sindrome de abstinencia alcoholica
+T22	NegSynMarker 5617 5619	no
+T23	DISO 5620 5628	conocida
+T24	NegSynMarker 7133 7136	sin
+T25	Phrase 7137 7145	ascensor
+T26	NegSynMarker 7148 7150	No
+T27	Phrase 7151 7200	ha presentado problemas durante el postoperatorio
+T28	DISO 7165 7200	problemas durante el postoperatorio
+T29	NegSynMarker 7283 7286	sin
+T30	DISO 7287 7301	complicaciones
+T31	Phrase 7287 7318	complicaciones hasta el momento
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T31

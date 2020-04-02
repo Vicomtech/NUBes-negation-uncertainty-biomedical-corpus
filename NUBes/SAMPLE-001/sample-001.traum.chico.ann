@@ -1,0 +1,118 @@
+T1	NegSynMarker 28 31	sin
+T2	DISO 32 38	alivio
+T3	NegSynMarker 180 182	No
+T4	DISO 183 190	cefalea
+T5	Phrase 183 214	cefalea ni focalidad ni vomitos
+T6	CoordItem 191 193	ni
+T7	DISO 194 203	focalidad
+T8	CoordItem 204 206	ni
+T9	DISO 207 214	vomitos
+T10	NegSynMarker 382 384	No
+T11	DISO 385 397	rectorragias
+T12	NegSynMarker 432 435	sin
+T13	DISO 436 443	mejoría
+T14	NegSynMarker 497 499	no
+T15	DISO 500 510	controlado
+T16	NegSynMarker 744 746	No
+T17	DISO 747 770	pérdida de conocimiento
+T18	Phrase 747 813	pérdida de conocimiento ni focalidad neurológica en ningún momento
+T19	CoordItem 771 773	ni
+T20	DISO 774 795	focalidad neurológica
+T21	PolItem 796 813	en ningún momento
+T22	NegSynMarker 816 818	No
+T23	Phrase 819 849	refiere haber estado en reposo
+T24	DISO 827 849	haber estado en reposo
+T25	NegSynMarker 869 872	sin
+T26	Phrase 873 893	apreciarse fracturas
+T27	DISO 884 893	fracturas
+T28	NegSynMarker 1020 1022	no
+T29	DISO 1023 1038	dolor en reposo
+T30	NegSynMarker 1175 1177	No
+T31	DISO 1178 1198	alteracion sensitiva
+T32	NegSynMarker 1246 1248	No
+T33	Phrase 1249 1267	náuseas ni vómitos
+T34	DISO 1249 1256	náuseas
+T35	CoordItem 1257 1259	ni
+T36	DISO 1260 1267	vómitos
+T37	NegSynMarker 1289 1292	sin
+T38	DISO 1293 1316	antecedentes de interés
+T39	NegSynMarker 1425 1427	No
+T40	Phrase 1428 1478	cervicalgia a su llegada ni dorsalgia ni lumbalgia
+T41	DISO 1428 1439	cervicalgia
+T42	CoordItem 1453 1455	ni
+T43	DISO 1456 1465	dorsalgia
+T44	CoordItem 1466 1468	ni
+T45	DISO 1469 1478	lumbalgia
+T46	NegSynMarker 1513 1515	no
+T47	Phrase 1516 1543	dolor torácico ni abdominal
+T48	DISO 1516 1530	dolor torácico
+T49	CoordItem 1531 1533	ni
+T50	DISO 1534 1543	abdominal
+T51	DISO 1561 1573	dolor lumbar
+T52	NegLexMarker 1577 1586	ha cedido
+T53	NegLexMarker 1656 1662	impide
+T54	DISO 1663 1678	la deambulación
+T55	Phrase 1663 1705	la deambulación e incluso la bipedestación
+T56	CoordItem 1679 1680	e
+T57	DISO 1689 1705	la bipedestación
+T58	NegSynMarker 1786 1788	no
+T59	Phrase 1789 1813	haber continuado con tto
+T60	OTHER 1810 1813	tto
+T61	NegSynMarker 2185 2187	No
+T62	DISO 2188 2199	trauamtismo
+T63	NegSynMarker 2497 2499	no
+T64	DISO 2500 2525	recuerda bien lo ocurrido
+T65	NegSynMarker 2589 2591	No
+T66	DISO 2592 2624	pérdida de control de esfinteres
+T67	NegLexMarker 2743 2752	descartan
+T68	DISO 2753 2762	fracturas
+T69	NegSynMarker 2869 2871	No
+T70	DISO 2872 2881	focalidad
+T71	NegSynMarker 2884 2886	No
+T72	Phrase 2887 2917	tto con anticonceptivos orales
+T73	SUBS 2895 2917	anticonceptivos orales
+T74	NegSynMarker 2920 2922	no
+T75	Phrase 2923 2936	viajes largos
+T76	NegSynMarker 2983 2985	No
+T77	DISO 2986 2992	herida
+T78	NegLexMarker 3217 3230	imposibildiad
+T79	Phrase 3231 3254	de extension de 1º dedo
+T80	DISO 3234 3254	extension de 1º dedo
+T81	NegSynMarker 3344 3347	sin
+T82	DISO 3348 3376	sensacion de giro de objetos
+T83	NegSynMarker 3379 3382	sin
+T84	DISO 3383 3389	disnea
+T85	NegSynMarker 3392 3395	sin
+T86	DISO 3396 3410	dolor torácico
+T87	NegSynMarker 3413 3416	sin
+T88	DISO 3417 3430	palpitaciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T18
+R7	Scope Arg1:T22 Arg2:T23
+R8	Scope Arg1:T25 Arg2:T26
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T30 Arg2:T31
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T37 Arg2:T38
+R13	Scope Arg1:T46 Arg2:T47
+R14	Scope Arg1:T39 Arg2:T40
+R15	Scope Arg1:T52 Arg2:T51
+R16	Scope Arg1:T53 Arg2:T55
+R17	Scope Arg1:T58 Arg2:T59
+R18	Scope Arg1:T61 Arg2:T62
+R19	Scope Arg1:T63 Arg2:T64
+R20	Scope Arg1:T65 Arg2:T66
+R21	Scope Arg1:T67 Arg2:T68
+R22	Scope Arg1:T69 Arg2:T70
+R23	Scope Arg1:T71 Arg2:T72
+R24	Scope Arg1:T74 Arg2:T75
+R25	Scope Arg1:T76 Arg2:T77
+R26	Scope Arg1:T78 Arg2:T79
+R27	Scope Arg1:T87 Arg2:T88
+R28	Scope Arg1:T85 Arg2:T86
+R29	Scope Arg1:T81 Arg2:T82
+R30	Scope Arg1:T83 Arg2:T84

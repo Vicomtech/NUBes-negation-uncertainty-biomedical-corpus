@@ -1,0 +1,88 @@
+T1	UncertLexMarker 300 311	sospecha de
+T2	DISO 312 351	infeccion precoz de artroplastia cadera
+T3	NegSynMarker 526 529	sin
+T4	PROC 530 560	tratamiento antibiotico previo
+T5	NegSynMarker 991 994	sin
+T6	Phrase 995 1014	signos de infección
+T7	DISO 1005 1014	infección
+T8	NegSynMarker 1278 1281	sin
+T9	DISO 1282 1290	sintomas
+T10	NegMorMarker 1445 1452	afebril
+T11	NegSynMarker 1455 1458	sin
+T12	DISO 1459 1496	hallazgos de significación patológica
+T13	NegSynMarker 1648 1651	sin
+T14	Phrase 1652 1673	escalofrío o tiritona
+T15	DISO 1652 1662	escalofrío
+T16	CoordItem 1663 1664	o
+T17	DISO 1665 1673	tiritona
+T18	NegSynMarker 1676 1683	tampoco
+T19	Phrase 1684 1744	ninguna otra clínica acompañante a la anamnesis por aparatos
+T20	PolItem 1684 1691	ninguna
+T21	DISO 1692 1744	otra clínica acompañante a la anamnesis por aparatos
+T22	NegSynMarker 1747 1749	no
+T23	DISO 1750 1771	datos epidemiológicos
+T24	NegLexMarker 1992 2001	se retira
+T25	PROC 2002 2012	el drenaje
+T26	Phrase 2002 2023	el drenaje a las 48 h
+T27	NegSynMarker 2798 2801	sin
+T28	DISO 2802 2813	incidencias
+T29	NegSynMarker 2999 3002	sin
+T30	Phrase 3003 3028	evidencia de condensacion
+T31	DISO 3016 3028	condensacion
+T32	PROC 3031 3041	urocultivo
+T33	NegLexMarker 3042 3050	negativo
+T34	PROC 3053 3065	hemocultivos
+T35	Phrase 3053 3082	hemocultivos ( hasta la fecha
+T36	NegLexMarker 3083 3092	negativos
+T37	Phrase 3097 3155	Todas las muestras de liquido exudado y muestras tisulares
+T38	PROC 3103 3134	las muestras de liquido exudado
+T39	PROC 3137 3155	muestras tisulares
+T40	NegLexMarker 3156 3165	negativas
+T41	NegSynMarker 3471 3473	no
+T42	DISO 3474 3482	mecánico
+T43	NegLexMarker 3655 3666	retirada de
+T44	SUBS 3667 3677	cefazolina
+T45	UncertLexMarker 3682 3689	posible
+T46	DISO 3690 3705	cuadro alérgico
+T47	NegSynMarker 3720 3722	no
+T48	Phrase 3723 3733	toma AINEs
+T49	SUBS 3728 3733	AINEs
+T50	OTHER 4086 4104	puntos quirurgicos
+T51	NegLexMarker 4105 4114	retirados
+T52	NegMorMarker 4228 4240	asintomatico
+T53	NegSynMarker 4241 4243	NO
+T54	Phrase 4244 4294	exudado ni signos infecciosos evidentes en rodilla
+T55	SUBS 4244 4251	exudado
+T56	CoordItem 4252 4254	ni
+T57	DISO 4255 4283	signos infecciosos evidentes
+T58	NegSynMarker 4524 4531	Tampoco
+T59	Phrase 4532 4643	se encuentran datos patológicos significativos en la radiografía de tórax , el estudio analítico y el sedimento
+T60	DISO 4546 4578	datos patológicos significativos
+T61	NegLexMarker 4778 4789	se suspende
+T62	PROC 4790 4792	IQ
+T63	Phrase 4790 4824	IQ hasta total cierre de la úlcera
+T64	PROC 5261 5286	Cultivos intraoperatorios
+T65	NegLexMarker 5287 5296	negativos
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T24 Arg2:T26
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T36 Arg2:T35
+R12	Scope Arg1:T33 Arg2:T32
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T40 Arg2:T37
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T45 Arg2:T46
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T51 Arg2:T50
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T58 Arg2:T59
+R22	Scope Arg1:T61 Arg2:T63
+R23	Scope Arg1:T65 Arg2:T64

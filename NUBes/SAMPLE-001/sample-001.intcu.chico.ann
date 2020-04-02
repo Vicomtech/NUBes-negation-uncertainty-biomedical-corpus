@@ -1,0 +1,54 @@
+T1	NegLexMarker 240 248	falta de
+T2	Phrase 249 253	aire
+T3	NegSynMarker 313 315	no
+T4	DISO 316 322	fiebre
+T5	NegSynMarker 325 327	no
+T6	DISO 328 333	mareo
+T7	Phrase 328 344	mareo ni cortejo
+T8	CoordItem 334 336	ni
+T9	DISO 337 344	cortejo
+T10	NegSynMarker 378 381	sin
+T11	PROC 382 385	tto
+T12	NegSynMarker 1292 1295	sin
+T13	DISO 1296 1331	antecedentes patológicos de interés
+T14	NegSynMarker 2173 2175	No
+T15	DISO 2176 2189	palpitaciones
+T16	Phrase 2176 2242	palpitaciones , clinica febril , catarral ni pitidos respiratorios
+T17	DISO 2192 2217	clinica febril , catarral
+T18	CoordItem 2218 2220	ni
+T19	DISO 2221 2242	pitidos respiratorios
+T20	NegSynMarker 2424 2426	No
+T21	Phrase 2427 2473	clínica digestiva , micional ni edemas en Eeii
+T22	DISO 2427 2455	clínica digestiva , micional
+T23	CoordItem 2456 2458	ni
+T24	DISO 2459 2473	edemas en Eeii
+T25	NegLexMarker 2476 2481	Niega
+T26	DISO 2482 2488	disnea
+T27	Phrase 2482 2530	disnea , dolor abdominal u otra clínica asociada
+T28	DISO 2491 2506	dolor abdominal
+T29	CoordItem 2507 2508	u
+T30	DISO 2509 2530	otra clínica asociada
+T31	NegSynMarker 2575 2577	No
+T32	DISO 2578 2592	clinica febril
+T33	Phrase 2578 2626	clinica febril ni cambios en el ritmo intestinal
+T34	CoordItem 2593 2595	ni
+T35	DISO 2596 2626	cambios en el ritmo intestinal
+T36	UncertLexMarker 2734 2745	Sospecha de
+T37	Phrase 2746 2813	angor de esfuerzo de reciente comienzo de unos 15 dias de evolución
+T38	DISO 2746 2763	angor de esfuerzo
+T39	NegSynMarker 2836 2839	sin
+T40	DISO 2840 2855	A.p. de interés
+T41	UncertLexMarker 3069 3075	dudoso
+T42	DISO 3076 3092	Dpn con ortopnea
+R1	Scope Arg1:T5 Arg2:T7
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T1 Arg2:T2
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T16
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T25 Arg2:T27
+R9	Scope Arg1:T31 Arg2:T33
+R10	Scope Arg1:T36 Arg2:T37
+R11	Scope Arg1:T41 Arg2:T42
+R12	Scope Arg1:T39 Arg2:T40

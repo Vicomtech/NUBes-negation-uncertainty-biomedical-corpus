@@ -1,0 +1,44 @@
+T1	NegSynMarker 114 116	No
+T2	Phrase 117 143	se ha encontrado neoplasia
+T3	DISO 134 143	neoplasia
+T4	UncertLexMarker 255 268	probablemente
+T5	Phrase 271 289	sea postquirúrgica
+T6	OTHER 275 289	postquirúrgica
+T7	SUBS 804 824	anticoagulacion oral
+T8	NegLexMarker 825 835	suspendida
+T9	UncertLexMarker 1138 1151	impresionando
+T10	Phrase 1152 1212	durante los primeros dias de celulitis en dicha localización
+T11	DISO 1181 1190	celulitis
+T12	PROC 1450 1462	los cultivos
+T13	NegLexMarker 1463 1472	negativos
+T14	Phrase 1473 1492	en la artrocentesis
+T15	Phrase 1542 1610	los marcadores inmunológicos y los cristales en el liquido articular
+T16	PROC 1542 1570	los marcadores inmunológicos
+T17	PROC 1573 1610	los cristales en el liquido articular
+T18	NegLexMarker 1620 1629	negativos
+T19	NegSynMarker 2425 2428	sin
+T20	DISO 2429 2436	derrame
+T21	Phrase 4646 4677	en ambos casos los hemocultivos
+T22	PROC 4661 4677	los hemocultivos
+T23	NegLexMarker 4687 4696	negativos
+T24	Phrase 5265 5291	Episodio de ciatalgia dcha
+T25	DISO 5277 5291	ciatalgia dcha
+T26	NegLexMarker 5296 5300	cede
+T27	Phrase 5301 5320	con tto sintomatico
+T28	UncertLexMarker 5635 5648	aparentemente
+T29	OTHER 5649 5656	estable
+T30	NegSynMarker 5685 5687	no
+T31	OTHER 5688 5712	de carga a la extremidad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T7
+R4	DiscScope Arg1:T13 Arg2:T14
+R5	DiscScope Arg1:T13 Arg2:T12
+R6	Scope Arg1:T9 Arg2:T10
+R7	Scope Arg1:T18 Arg2:T15
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T23 Arg2:T21
+R10	DiscScope Arg1:T26 Arg2:T27
+R11	DiscScope Arg1:T26 Arg2:T24
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T28 Arg2:T29

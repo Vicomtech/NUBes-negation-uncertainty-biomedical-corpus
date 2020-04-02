@@ -1,0 +1,92 @@
+T1	NegSynMarker 430 432	no
+T2	Phrase 433 464	volviendo a presentar hematuria
+T3	DISO 455 464	hematuria
+T4	NegSynMarker 655 657	no
+T5	Phrase 658 679	se aprecian patologia
+T6	DISO 670 679	patologia
+T7	UncertLexMarker 767 774	valorar
+T8	Phrase 775 814	negativizacion de la infeccion urinaria
+T9	NegLexMarker 775 792	negativizacion de
+T10	DISO 793 814	la infeccion urinaria
+T11	NegSynMarker 955 957	no
+T12	Phrase 958 989	ha vuelto a presentar hematuria
+T13	DISO 980 989	hematuria
+T14	PROC 1342 1353	Hemocultivo
+T15	NegLexMarker 1363 1371	negativo
+T16	UncertLexMarker 1491 1502	sospecha de
+T17	DISO 1503 1524	embarazo extrauterino
+T18	NegLexMarker 1527 1535	Retirada
+T19	OTHER 1536 1552	la sonda vesical
+T20	NegSynMarker 1559 1562	sin
+T21	DISO 1563 1572	problemas
+T22	NegLexMarker 1602 1611	retirarle
+T23	OTHER 1612 1620	la sonda
+T24	NegMorMarker 1751 1763	asintomático
+T25	NegLexMarker 2053 2062	ha cedido
+T26	DISO 2063 2075	la hematuria
+T27	NegLexMarker 2223 2236	suspension de
+T28	SUBS 2237 2251	antiagregacion
+T29	NegSynMarker 2422 2425	sin
+T30	DISO 2426 2433	clinica
+T31	NegSynMarker 2566 2569	sin
+T32	Phrase 2570 2610	signos de decompensación en este momento
+T33	DISO 2580 2594	decompensación
+T34	NegSynMarker 2726 2729	sin
+T35	DISO 2730 2739	patologia
+T36	DISO 3241 3276	Cuadro diarreico por Ciprofloxacino
+T37	NegLexMarker 3283 3288	cedió
+T38	Phrase 3289 3316	al cambiar a Ceftriaxona EV
+T39	DISO 3790 3804	fiebre elevada
+T40	NegLexMarker 3832 3836	cede
+T41	Phrase 3837 3864	con tratamiento antibiótico
+T42	NegLexMarker 3867 3875	Retirada
+T43	OTHER 3876 3892	la sonda vesical
+T44	NegSynMarker 3901 3904	sin
+T45	DISO 3905 3914	problemas
+T46	UncertLexMarker 4011 4022	sospecha de
+T47	DISO 4023 4039	colico nefritico
+T48	NegSynMarker 4096 4098	no
+T49	Phrase 4099 4130	ha vuelto a presentar hematuria
+T50	DISO 4121 4130	hematuria
+T51	UncertLexMarker 4133 4141	Probable
+T52	DISO 4142 4170	expulsión de alguna arenilla
+T53	NegSynMarker 4490 4492	no
+T54	Phrase 4493 4524	ha vuelto a presentar hematuria
+T55	DISO 4515 4524	hematuria
+T56	NegLexMarker 4557 4573	imposibilidad de
+T57	PROC 4574 4581	sondaje
+T58	NegLexMarker 4655 4666	se suspende
+T59	SUBS 4667 4671	IECA
+T60	Phrase 4667 4694	IECA y diuretico de momento
+T61	CoordItem 4672 4673	y
+T62	SUBS 4674 4683	diuretico
+T63	NegLexMarker 4863 4871	cediendo
+T64	DISO 4872 4890	el cuadro doloroso
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T15 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T34 Arg2:T35
+R16	DiscScope Arg1:T37 Arg2:T36
+R17	DiscScope Arg1:T37 Arg2:T38
+R18	DiscScope Arg1:T40 Arg2:T39
+R19	DiscScope Arg1:T40 Arg2:T41
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T42 Arg2:T43
+R22	Scope Arg1:T46 Arg2:T47
+R23	Scope Arg1:T48 Arg2:T49
+R24	Scope Arg1:T51 Arg2:T52
+R25	Scope Arg1:T53 Arg2:T54
+R26	Scope Arg1:T56 Arg2:T57
+R27	Scope Arg1:T58 Arg2:T60
+R28	Scope Arg1:T63 Arg2:T64

@@ -1,0 +1,137 @@
+T1	UncertLexMarker 747 748	¿
+T2	DISO 749 760	hidatidicos
+T3	UncertLexMarker 761 762	?
+T4	NegLexMarker 1060 1068	cediendo
+T5	DISO 1069 1083	sintomatologia
+T6	NegSynMarker 1528 1531	sin
+T7	DISO 1532 1549	otras incidencias
+T8	NegSynMarker 1623 1626	sin
+T9	DISO 1627 1657	respuesta a estímulos verbales
+T10	NegSynMarker 1713 1715	No
+T11	Phrase 1716 1744	evidencia de sangrado activo
+T12	DISO 1729 1744	sangrado activo
+T13	DISO 1765 1802	dolor torácico opresivo retroesternal
+T14	NegSynMarker 1805 1807	no
+T15	DISO 1808 1817	irradiado
+T16	NegLexMarker 1885 1894	ha cedido
+T17	NegLexMarker 1949 1955	pierde
+T18	DISO 1956 1971	el conocimiento
+T19	NegLexMarker 2427 2438	ausencia de
+T20	DISO 2439 2451	evisceración
+T21	UncertLexMarker 2587 2590	sin
+T22	DISO 2591 2609	objetivar lesiones
+T23	UncertLexMarker 2610 2619	aparentes
+T24	Phrase 2620 2653	responsables de dicha perforación
+T25	NegSynMarker 2656 2659	sin
+T26	Phrase 2660 2698	signos de isquemia ni cuerpos extraños
+T27	DISO 2670 2678	isquemia
+T28	CoordItem 2679 2681	ni
+T29	DISO 2682 2698	cuerpos extraños
+T30	NegSynMarker 3515 3517	no
+T31	OTHER 3518 3549	actitud quirúrgica más agresiva
+T32	DISO 3787 3817	episodios de opresión torácica
+T33	NegLexMarker 3880 3886	cedían
+T34	Phrase 3887 3900	con el reposo
+T35	NegSynMarker 4147 4149	no
+T36	DISO 4150 4159	irradiado
+T37	NegSynMarker 4160 4163	sin
+T38	DISO 4164 4189	sintomatología vegetativa
+T39	NegSynMarker 4192 4195	sin
+T40	DISO 4196 4220	cambios en EKG realizado
+T41	NegSynMarker 5051 5053	NO
+T42	Phrase 5054 5148	objetivando alteraciones motilidad , ni derrame pericárdico , ni imagenes de disección aórtica
+T43	DISO 5066 5088	alteraciones motilidad
+T44	CoordItem 5091 5093	ni
+T45	DISO 5094 5113	derrame pericárdico
+T46	CoordItem 5116 5118	ni
+T47	DISO 5131 5148	disección aórtica
+T48	NegSynMarker 5183 5186	sin
+T49	DISO 5187 5212	cambios en sintomatología
+T50	NegSynMarker 5252 5255	sin
+T51	DISO 5256 5263	cambios
+T52	NegSynMarker 5320 5323	sin
+T53	DISO 5324 5353	causa obstructiva determinada
+T54	NegSynMarker 5640 5642	no
+T55	Phrase 5643 5673	se objetivan cambios en el EKG
+T56	DISO 5656 5673	cambios en el EKG
+T57	UncertLexMarker 5965 5969	duda
+T58	Phrase 5970 6022	si TV o TSV muy aberrado por BCRI ya conocido previo
+T59	DISO 5973 5975	TV
+T60	DISO 5978 5981	TSV
+T61	UncertLexMarker 6157 6165	probable
+T62	DISO 6166 6197	bradicardia extrema por hipoxia
+T63	NegSynMarker 6202 6204	No
+T64	DISO 6205 6231	déficit sensitivo ni motor
+T65	CoordItem 6223 6225	ni
+T66	NegLexMarker 6511 6522	descartando
+T67	DISO 6523 6547	aneurisma aorta torácica
+T68	UncertLexMarker 6575 6576	¿
+T69	Phrase 6577 6590	posos de cafe
+T70	UncertLexMarker 6591 6592	?
+T71	NegSynMarker 6810 6812	no
+T72	Phrase 6813 6834	objetivando patología
+T73	DISO 6825 6834	patología
+T74	UncertLexMarker 6984 6991	posible
+T75	DISO 6992 7017	origen de aorta abdominal
+T76	NegSynMarker 7830 7832	No
+T77	Phrase 7833 7901	refiere otras comorbilidades ni factores de riesgo coronario mayores
+T78	DISO 7841 7861	otras comorbilidades
+T79	CoordItem 7862 7864	ni
+T80	DISO 7865 7901	factores de riesgo coronario mayores
+T81	NegSynMarker 8516 8518	no
+T82	DISO 8519 8528	irradiada
+T83	NegSynMarker 8618 8620	no
+T84	DISO 8621 8650	tolerar adecuadamente la cPAP
+T85	NegMorMarker 9075 9087	inconsciente
+T86	NegSynMarker 9273 9276	sin
+T87	DISO 9277 9298	pérdida de conciencia
+T88	NegSynMarker 9580 9582	No
+T89	DISO 9583 9637	clínica febril , respiratoria , digestiva ni miccional
+T90	CoordItem 9625 9627	ni
+T91	NegSynMarker 9702 9704	No
+T92	OTHER 9705 9735	ingesta habitual de medicacion
+T93	NegLexMarker 9810 9824	desapareciendo
+T94	DISO 9825 9833	el dolor
+T95	NegSynMarker 9834 9837	sin
+T96	OTHER 9838 9856	modificarse el ECG
+R1	DiscMarker Arg1:T1 Arg2:T3
+R2	Scope Arg1:T3 Arg2:T2
+R3	Scope Arg1:T4 Arg2:T5
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T13
+R9	Scope Arg1:T17 Arg2:T18
+R10	DiscMarker Arg1:T21 Arg2:T23
+R11	Scope Arg1:T19 Arg2:T20
+R12	DiscScope Arg1:T23 Arg2:T22
+R13	Scope Arg1:T25 Arg2:T26
+R14	DiscScope Arg1:T23 Arg2:T24
+R15	Scope Arg1:T30 Arg2:T31
+R16	DiscScope Arg1:T33 Arg2:T32
+R17	DiscScope Arg1:T33 Arg2:T34
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T37 Arg2:T38
+R20	Scope Arg1:T35 Arg2:T36
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T41 Arg2:T42
+R24	Scope Arg1:T52 Arg2:T53
+R25	Scope Arg1:T54 Arg2:T55
+R26	Scope Arg1:T57 Arg2:T58
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T63 Arg2:T64
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T70 Arg2:T69
+R31	Scope Arg1:T66 Arg2:T67
+R32	Scope Arg1:T74 Arg2:T75
+R33	DiscMarker Arg1:T68 Arg2:T70
+R34	Scope Arg1:T76 Arg2:T77
+R35	Scope Arg1:T83 Arg2:T84
+R36	Scope Arg1:T81 Arg2:T82
+R37	Scope Arg1:T86 Arg2:T87
+R38	Scope Arg1:T88 Arg2:T89
+R39	Scope Arg1:T91 Arg2:T92
+R40	Scope Arg1:T95 Arg2:T96
+R41	Scope Arg1:T93 Arg2:T94

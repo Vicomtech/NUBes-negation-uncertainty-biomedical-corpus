@@ -1,0 +1,6 @@
+T1	NegLexMarker 320 331	Retirada de
+T2	OTHER 332 353	Laringoscopio directo
+T3	Phrase 332 372	Laringoscopio directo y protector dental
+T4	CoordItem 354 355	y
+T5	OTHER 356 372	protector dental
+R1	Scope Arg1:T1 Arg2:T3

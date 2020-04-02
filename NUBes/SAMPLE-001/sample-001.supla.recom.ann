@@ -1,0 +1,15 @@
+T1	NegSynMarker 512 514	No
+T2	DISO 515 527	deambulación
+T3	NegSynMarker 1167 1174	excepto
+T4	Phrase 1175 1195	aspirina o derivados
+T5	SUBS 1175 1183	aspirina
+T6	CoordItem 1184 1185	o
+T7	SUBS 1186 1195	derivados
+T8	NegSynMarker 1355 1357	No
+T9	DISO 1358 1384	tocar vendaje de la pierna
+T10	NegLexMarker 1570 1579	SUSPENDER
+T11	SUBS 1580 1592	ACENOCUMAROL
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11

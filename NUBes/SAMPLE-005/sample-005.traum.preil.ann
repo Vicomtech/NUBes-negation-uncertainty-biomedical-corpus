@@ -1,0 +1,66 @@
+T1	NegSynMarker 544 546	No
+T2	OTHER 547 567	ha tomado medicación
+T3	NegSynMarker 940 942	no
+T4	DISO 943 978	cede con tramadol + dexametasona im
+T5	NegLexMarker 1315 1321	impide
+T6	OTHER 1322 1328	dormir
+T7	NegSynMarker 1583 1586	sin
+T8	DISO 1587 1596	hallazgos
+T9	NegLexMarker 1695 1711	incapacidad para
+T10	DISO 1712 1732	la flexión del mismo
+T11	NegSynMarker 1943 1945	No
+T12	Phrase 1946 1973	está correctamente vacunado
+T13	DISO 1951 1973	correctamente vacunado
+T14	NegSynMarker 2111 2114	sin
+T15	DISO 2115 2122	mejoría
+T16	NegSynMarker 2214 2217	sin
+T17	DISO 2218 2246	afectación de muro posterior
+T18	NegSynMarker 2249 2252	sin
+T19	DISO 2253 2283	obliteración de canal raquídeo
+T20	UncertLexMarker 2347 2354	posible
+T21	DISO 2355 2388	anomalía de transición lumbosacra
+T22	NegLexMarker 2681 2692	se descarta
+T23	PROC 2693 2695	IQ
+T24	NegSynMarker 3250 3253	Sin
+T25	DISO 3254 3301	hallazgos significativos a nivel intraabdominal
+T26	NegSynMarker 3304 3306	No
+T27	Phrase 3307 3339	ha presentado luxación de cadera
+T28	DISO 3321 3339	luxación de cadera
+T29	NegSynMarker 3353 3355	No
+T30	DISO 3356 3379	perdida de conocimiento
+T31	NegSynMarker 3382 3384	no
+T32	DISO 3385 3388	TCE
+T33	NegSynMarker 3390 3392	no
+T34	DISO 3393 3408	dolor abdominal
+T35	PROC 3626 3686	múltiples tratamientos rehabilitadores con resultado parcial
+T36	NegLexMarker 3719 3731	suspenderlos
+T37	NegSynMarker 4051 4053	No
+T38	Phrase 4054 4071	precisa analgesia
+T39	SUBS 4062 4071	analgesia
+T40	NegSynMarker 4397 4400	sin
+T41	DISO 4401 4408	interés
+T42	NegSynMarker 4462 4464	No
+T43	OTHER 4465 4492	parestesias ni hipoestesias
+T44	DISO 4465 4476	parestesias
+T45	CoordItem 4477 4479	ni
+T46	DISO 4480 4492	hipoestesias
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T29 Arg2:T30
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T36 Arg2:T35
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T40 Arg2:T41
+R20	Scope Arg1:T42 Arg2:T43

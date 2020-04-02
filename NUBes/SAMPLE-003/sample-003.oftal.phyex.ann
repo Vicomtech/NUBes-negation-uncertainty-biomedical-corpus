@@ -1,0 +1,12 @@
+T1	UncertLexMarker 351 356	no se
+T2	Phrase 357 375	si acierta a mirar
+T3	NegSynMarker 459 461	no
+T4	DISO 462 470	rubeosis
+T5	NegSynMarker 533 535	no
+T6	Phrase 536 552	se deja ver bien
+T7	UncertLexMarker 555 561	parede
+T8	Phrase 562 577	que menos laser
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T7 Arg2:T8

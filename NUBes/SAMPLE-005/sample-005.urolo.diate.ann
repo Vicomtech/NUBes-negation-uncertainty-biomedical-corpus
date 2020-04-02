@@ -1,0 +1,72 @@
+T1	DISO 166 177	HEMORRAGICO
+T2	UncertLexMarker 178 179	?
+T3	UncertLexMarker 750 756	parece
+T4	Phrase 757 800	estar situado en posición de ovario derecho
+T5	DISO 771 800	en posición de ovario derecho
+T6	UncertLexMarker 803 810	posible
+T7	DISO 811 832	quiste endometriósico
+T8	UncertLexMarker 835 854	sin poder descartar
+T9	DISO 855 874	otras posibilidades
+T10	UncertLexMarker 877 887	Pienso que
+T11	DISO 888 942	toda la sintomatologia está relacionada con el embrazo
+T12	NegSynMarker 1105 1107	No
+T13	Phrase 1108 1157	se observa dilatación de sistemas pielocaliciales
+T14	DISO 1119 1157	dilatación de sistemas pielocaliciales
+T15	DISO 1160 1172	ENDOMETRIOMA
+T16	UncertLexMarker 1173 1174	?
+T17	NegSynMarker 1469 1471	no
+T18	DISO 1472 1483	obstructiva
+T19	NegSynMarker 1486 1488	No
+T20	Phrase 1489 1533	se aprecian litiasis renales , ni ureterales
+T21	DISO 1501 1533	litiasis renales , ni ureterales
+T22	CoordItem 1520 1522	ni
+T23	UncertLexMarker 1536 1549	Sospechoso de
+T24	DISO 1550 1562	neoformación
+T25	UncertLexMarker 1717 1732	compatibles con
+T26	DISO 1733 1741	coágulos
+T27	UncertLexMarker 1742 1761	sin poder descartar
+T28	DISO 1762 1772	otra causa
+T29	NegSynMarker 1809 1812	sin
+T30	DISO 1813 1837	hallazgos significativos
+T31	UncertLexMarker 2078 2091	probablemente
+T32	DISO 2092 2106	endometriósico
+T33	DISO 2239 2245	origen
+T34	UncertLexMarker 2246 2257	desconocido
+T35	NegSynMarker 2730 2733	sin
+T36	DISO 2734 2763	imágenes ocupantes de espacio
+T37	NegSynMarker 2801 2803	no
+T38	DISO 2804 2891	desciende el suelo de la misma por debajo del reborde inferior de la sínfisis del pubis
+T39	NegSynMarker 2894 2897	sin
+T40	Phrase 2898 2920	criterios de cistocele
+T41	DISO 2911 2920	cistocele
+T42	NegSynMarker 2923 2926	sin
+T43	SUBS 2927 2948	residuo postmiccional
+T44	NegSynMarker 3076 3079	sin
+T45	Phrase 3080 3111	signos de irritación peritoneal
+T46	DISO 3090 3111	irritación peritoneal
+T47	UncertLexMarker 3271 3278	posible
+T48	DISO 3279 3299	vesicula gestacional
+T49	UncertLexMarker 3300 3307	POSIBLE
+T50	DISO 3308 3343	GESTACION INCIPIENTE O EXTRAUTERINO
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T34 Arg2:T33
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T39 Arg2:T40
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T47 Arg2:T48

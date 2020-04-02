@@ -1,0 +1,85 @@
+T1	PROC 719 738	control ag en heces
+T2	NegLexMarker 739 747	negativo
+T3	NegSynMarker 844 847	sin
+T4	DISO 848 872	clinica de hipoperfusión
+T5	UncertLexMarker 1412 1420	sospecha
+T6	DISO 1421 1439	broncoapsiraciones
+T7	NegSynMarker 1595 1598	sin
+T8	DISO 1599 1622	antecedentes de interes
+T9	UncertLexMarker 1694 1701	posible
+T10	DISO 1702 1736	fractura en la zona subtrocanterea
+T11	DISO 1936 1956	ACVA aterotrombótico
+T12	UncertLexMarker 1957 1965	probable
+T13	UncertLexMarker 2641 2652	sospecha de
+T14	DISO 2653 2674	polimialgia reumática
+T15	NegSynMarker 2968 2970	no
+T16	Phrase 2971 2982	fue posible
+T17	NegMorMarker 3012 3026	desorientación
+T18	NegSynMarker 3658 3660	No
+T19	SUBS 3661 3683	medicacion nefrotóxica
+T20	OTHER 4044 4055	una actitud
+T21	UncertLexMarker 4060 4066	parece
+T22	OTHER 4067 4085	de no querer saber
+T23	NegSynMarker 4070 4072	no
+T24	OTHER 4073 4085	querer saber
+T25	NegSynMarker 4583 4585	no
+T26	Phrase 4586 4603	se evidencian LOE
+T27	DISO 4600 4603	LOE
+T28	UncertLexMarker 4883 4891	probable
+T29	DISO 4892 4925	deterioro cognitivo ya instaurado
+T30	NegSynMarker 5556 5558	no
+T31	DISO 5559 5571	evolucionada
+T32	UncertLexMarker 5987 5998	se sospecha
+T33	DISO 5999 6032	demencia asociada a parkinsomismo
+T34	UncertLexMarker 6097 6108	sospecha de
+T35	DISO 6109 6119	neo pulmon
+T36	NegSynMarker 6122 6124	no
+T37	OTHER 6125 6149	confirmacion histologica
+T38	NegLexMarker 6401 6413	se desestima
+T39	PROC 6414 6431	pruebas invasivas
+T40	NegLexMarker 6524 6536	se desestimó
+T41	PROC 6537 6585	intervención quirúrgica sobre lesiones descritas
+T42	UncertLexMarker 7166 7175	revalorar
+T43	PROC 7176 7218	infusión continua de furosemida parenteral
+T44	NegSynMarker 7805 7808	sin
+T45	Phrase 7809 7817	ascensor
+T46	UncertLexMarker 9070 9082	posiblemente
+T47	DISO 9083 9095	respiratoria
+T48	UncertLexMarker 9182 9195	probablemente
+T49	OTHER 9196 9249	en seguimiento por nefrologia de Hospital 14 de abril
+T50	UncertLexMarker 11441 11452	sospecha de
+T51	DISO 11453 11466	parkinsonismo
+T52	UncertLexMarker 11503 11511	no clara
+T53	DISO 11512 11519	mejoria
+T54	UncertLexMarker 11910 11921	sospecha de
+T55	DISO 11922 11948	ractura rama isquiopubiana
+T56	NegSynMarker 11953 11955	no
+T57	OTHER 11956 11983	se confirma en la evolucion
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	DiscScope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	DiscScope Arg1:T21 Arg2:T20
+R13	Scope Arg1:T25 Arg2:T26
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T32 Arg2:T33
+R17	Scope Arg1:T36 Arg2:T37
+R18	Scope Arg1:T34 Arg2:T35
+R19	Scope Arg1:T38 Arg2:T39
+R20	Scope Arg1:T40 Arg2:T41
+R21	Scope Arg1:T42 Arg2:T43
+R22	Scope Arg1:T44 Arg2:T45
+R23	Scope Arg1:T46 Arg2:T47
+R24	Scope Arg1:T48 Arg2:T49
+R25	Scope Arg1:T52 Arg2:T53
+R26	Scope Arg1:T50 Arg2:T51
+R27	Scope Arg1:T56 Arg2:T57
+R28	Scope Arg1:T54 Arg2:T55

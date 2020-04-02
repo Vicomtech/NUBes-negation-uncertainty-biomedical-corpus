@@ -1,0 +1,77 @@
+T1	NegSynMarker 17 20	sin
+T2	DISO 21 43	antecedente de interés
+T3	UncertLexMarker 167 181	compatible con
+T4	DISO 182 198	parotiditis izda
+T5	NegSynMarker 230 232	No
+T6	DISO 233 285	perdida de fuerza ni de sensibilidad en extremdiades
+T7	CoordItem 251 253	ni
+T8	NegMorMarker 345 358	inestabilidad
+T9	NegSynMarker 361 363	No
+T10	Phrase 364 391	refiere fiebre termoemtrada
+T11	DISO 372 391	fiebre termoemtrada
+T12	UncertLexMarker 737 744	no sabe
+T13	Phrase 745 767	si se tragó una espina
+T14	NegSynMarker 770 772	no
+T15	DISO 773 787	dolor torácico
+T16	NegSynMarker 790 792	No
+T17	DISO 793 799	fiebre
+T18	Phrase 793 823	fiebre ni sensación distermica
+T19	CoordItem 800 802	ni
+T20	DISO 803 823	sensación distermica
+T21	DISO 1014 1027	los episodios
+T22	NegLexMarker 1069 1074	ceden
+T23	Phrase 1075 1090	con Dogmatil im
+T24	UncertLexMarker 1220 1223	sin
+T25	DISO 1224 1231	mejoria
+T26	UncertLexMarker 1232 1237	clara
+T27	NegSynMarker 1286 1288	No
+T28	Phrase 1289 1327	cefalea ni otros sintomas acompañantes
+T29	DISO 1289 1296	cefalea
+T30	CoordItem 1297 1299	ni
+T31	DISO 1300 1327	otros sintomas acompañantes
+T32	NegSynMarker 1349 1351	no
+T33	DISO 1352 1359	otorrea
+T34	NegSynMarker 1441 1443	No
+T35	Phrase 1444 1469	cefalea ni otra focalidad
+T36	DISO 1444 1451	cefalea
+T37	CoordItem 1452 1454	ni
+T38	DISO 1455 1469	otra focalidad
+T39	NegSynMarker 1627 1630	sin
+T40	DISO 1631 1646	tolerancia oral
+T41	NegSynMarker 1648 1650	no
+T42	DISO 1651 1656	mareo
+T43	Phrase 1651 1688	mareo ni vómitos en decubito y reposo
+T44	CoordItem 1657 1659	ni
+T45	DISO 1660 1667	vómitos
+T46	NegMorMarker 1736 1749	inestabilidad
+T47	NegSynMarker 1763 1765	No
+T48	DISO 1766 1773	cefalea
+T49	NegSynMarker 1775 1777	no
+T50	DISO 1778 1794	clínica auditiva
+T51	NegSynMarker 1796 1798	no
+T52	Phrase 1799 1822	antecedentes de vertigo
+T53	DISO 1815 1822	vertigo
+T54	NegMorMarker 1829 1841	asintomático
+T55	UncertLexMarker 2062 2070	probable
+T56	Phrase 2071 2094	de Meniére oido derecho
+T57	DISO 2074 2094	Meniére oido derecho
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T18
+R8	DiscScope Arg1:T22 Arg2:T21
+R9	DiscScope Arg1:T22 Arg2:T23
+R10	DiscMarker Arg1:T24 Arg2:T26
+R11	Scope Arg1:T26 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T41 Arg2:T43
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T49 Arg2:T50
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T55 Arg2:T56

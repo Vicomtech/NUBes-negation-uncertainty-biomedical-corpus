@@ -1,0 +1,149 @@
+T1	UncertLexMarker 109 122	probablemente
+T2	DISO 123 141	a nivel peritoneal
+T3	NegLexMarker 438 450	Se desestima
+T4	PROC 451 486	la colocación de sonda nasogástrica
+T5	Phrase 451 501	la colocación de sonda nasogástrica - gastrostomia
+T6	PROC 489 501	gastrostomia
+T7	NegSynMarker 628 631	sin
+T8	SUBS 632 641	fentanilo
+T9	NegSynMarker 843 845	No
+T10	Phrase 846 909	refiere dolor en cadera izda ni a la movilización ni a la carga
+T11	DISO 854 909	dolor en cadera izda ni a la movilización ni a la carga
+T12	CoordItem 875 877	ni
+T13	CoordItem 896 898	ni
+T14	NegSynMarker 980 983	sin
+T15	DISO 984 994	dificultad
+T16	NegSynMarker 1210 1212	No
+T17	Phrase 1213 1245	ha presentado retención de orina
+T18	DISO 1227 1245	retención de orina
+T19	NegSynMarker 1267 1270	sin
+T20	OTHER 1271 1283	aspiraciones
+T21	NegSynMarker 1491 1493	no
+T22	Phrase 1494 1508	presenta dolor
+T23	DISO 1503 1508	dolor
+T24	NegSynMarker 1746 1749	sin
+T25	Phrase 1750 1763	referir dolor
+T26	DISO 1758 1763	dolor
+T27	NegSynMarker 1977 1979	no
+T28	DISO 1980 2008	controlable mediante ortesis
+T29	NegSynMarker 2137 2139	no
+T30	Phrase 2140 2182	presenta dolor a la movilización de cadera
+T31	DISO 2149 2182	dolor a la movilización de cadera
+T32	NegSynMarker 2480 2482	no
+T33	OTHER 2483 2511	está incapacitada legalmente
+T34	PROC 3163 3184	urocultivo de control
+T35	NegLexMarker 3185 3193	negativo
+T36	UncertLexMarker 3570 3578	probable
+T37	DISO 3579 3600	neoformación pulmonar
+T38	NegSynMarker 3603 3606	sin
+T39	OTHER 3607 3631	confirmación histológica
+T40	NegLexMarker 3636 3651	se desestimaron
+T41	PROC 3652 3673	mas pruebas invasivas
+T42	NegSynMarker 3883 3885	no
+T43	Phrase 3886 3944	precisando de tratamiento rehabilitador dirigido en centro
+T44	PROC 3900 3944	tratamiento rehabilitador dirigido en centro
+T45	NegSynMarker 4084 4087	sin
+T46	DISO 4088 4093	dolor
+T47	NegSynMarker 4113 4115	no
+T48	Phrase 4116 4155	se realizan más pruebas complementarias
+T49	PROC 4128 4155	más pruebas complementarias
+T50	NegSynMarker 4453 4456	sin
+T51	Phrase 4457 4475	ninguna dificultad
+T52	PolItem 4457 4464	ninguna
+T53	DISO 4465 4475	dificultad
+T54	NegSynMarker 4598 4600	no
+T55	DISO 4601 4609	dolorosa
+T56	NegSynMarker 4642 4645	sin
+T57	DISO 4646 4656	dificultad
+T58	NegSynMarker 4797 4799	no
+T59	DISO 4800 4808	conocida
+T60	NegSynMarker 4999 5001	no
+T61	Phrase 5002 5046	presenta dolor a nivel de cadera intervenida
+T62	DISO 5011 5046	dolor a nivel de cadera intervenida
+T63	NegSynMarker 5415 5417	No
+T64	OTHER 5418 5461	reconoce la situación de fragilidad extrema
+T65	NegSynMarker 5570 5573	Sin
+T66	DISO 5574 5619	dolor en reposo y en situación de sedestación
+T67	NegSynMarker 5622 5624	no
+T68	Phrase 5625 5658	ha precisado analgesia de rescate
+T69	SUBS 5638 5658	analgesia de rescate
+T70	NegLexMarker 5821 5833	se desestima
+T71	PROC 5834 5889	tratamiento profilactico de embolismo cardiaco conocida
+T72	NegLexMarker 6890 6900	descartada
+T73	DISO 6901 6904	TVP
+T74	Phrase 6901 6925	TVP mediante Eco-Doppler
+T75	NegSynMarker 7108 7111	sin
+T76	Phrase 7112 7142	signos de infeccion bacteriana
+T77	DISO 7122 7142	infeccion bacteriana
+T78	NegSynMarker 7178 7181	sin
+T79	DISO 7182 7195	broncoespasmo
+T80	NegSynMarker 7480 7482	no
+T81	Phrase 7483 7557	ha presentado angor ni disnea en las semanas posteriores a la intervención
+T82	DISO 7497 7502	angor
+T83	CoordItem 7503 7505	ni
+T84	DISO 7506 7512	disnea
+T85	NegSynMarker 7695 7697	no
+T86	Phrase 7698 7756	es candidata a pruebas invasivas o intervencion quirurgica
+T87	OTHER 7701 7756	candidata a pruebas invasivas o intervencion quirurgica
+T88	NegSynMarker 7950 7952	no
+T89	OTHER 7953 7964	intervenida
+T90	NegSynMarker 8390 8393	sin
+T91	DISO 8394 8404	dificultad
+T92	NegLexMarker 8413 8421	retirado
+T93	SUBS 8422 8431	analgesia
+T94	NegSynMarker 9350 9353	sin
+T95	DISO 9354 9364	dificultad
+T96	NegLexMarker 9566 9577	suspendemos
+T97	Phrase 9578 9604	el tratamiento con deanxit
+T98	SUBS 9597 9604	deanxit
+T99	PROC 9763 9793	seriacion de enzimas cardíacas
+T100	NegLexMarker 9794 9802	negativa
+T101	NegSynMarker 9820 9823	sin
+T102	Phrase 9824 9866	signos indirectos de cardiopatia isquemica
+T103	DISO 9845 9866	cardiopatia isquemica
+T104	NegSynMarker 9974 9977	sin
+T105	DISO 9978 9998	signos inflamatorios
+T106	NegSynMarker 10990 10993	sin
+T107	DISO 10994 10999	dolor
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T35 Arg2:T34
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T54 Arg2:T55
+R22	Scope Arg1:T56 Arg2:T57
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T67 Arg2:T68
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T72 Arg2:T74
+R30	Scope Arg1:T78 Arg2:T79
+R31	Scope Arg1:T75 Arg2:T76
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T88 Arg2:T89
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T92 Arg2:T93
+R37	Scope Arg1:T94 Arg2:T95
+R38	Scope Arg1:T96 Arg2:T97
+R39	Scope Arg1:T101 Arg2:T102
+R40	Scope Arg1:T100 Arg2:T99
+R41	Scope Arg1:T104 Arg2:T105
+R42	Scope Arg1:T106 Arg2:T107

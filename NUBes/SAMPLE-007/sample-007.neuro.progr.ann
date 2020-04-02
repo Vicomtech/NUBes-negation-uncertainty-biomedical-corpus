@@ -1,0 +1,351 @@
+T1	NegSynMarker 692 694	no
+T2	Phrase 695 784	se ha apreciado patología neurologica estructural aguda alguna que justificase la clínica
+T3	DISO 711 784	patología neurologica estructural aguda alguna que justificase la clínica
+T4	Phrase 1338 1375	sendas determinaciones de Troponina T
+T5	PROC 1364 1375	Troponina T
+T6	NegLexMarker 1376 1385	negativas
+T7	NegSynMarker 1392 1395	sin
+T8	Phrase 1396 1454	evidencia de hallazgos sugestivos de cardiopatia isquemica
+T9	DISO 1433 1454	cardiopatia isquemica
+T10	UncertLexMarker 1461 1468	parecía
+T11	DISO 1469 1515	reproducirse con la presion en region esternal
+T12	UncertLexMarker 1525 1534	sugeriría
+T13	DISO 1535 1563	un origen mecanico del mismo
+T14	NegLexMarker 1688 1696	falta de
+T15	OTHER 1697 1703	aporte
+T16	UncertLexMarker 2116 2124	pudieran
+T17	Phrase 2125 2189	tener un origen multifactorial , secundario a HTA mal controlada
+T18	DISO 2131 2189	un origen multifactorial , secundario a HTA mal controlada
+T19	UncertLexMarker 2192 2199	posible
+T20	OTHER 2200 2261	efecto adverso de uso combinado de omeprazol y benzodiazepina
+T21	NegSynMarker 2725 2727	no
+T22	Phrase 2728 2767	ha mostrado alteraciones significativas
+T23	DISO 2740 2767	alteraciones significativas
+T24	NegSynMarker 2849 2851	no
+T25	Phrase 2852 2928	ha mostrado ninguna lesión vascular cerebral aguda que justifique la clínica
+T26	PolItem 2864 2871	ninguna
+T27	DISO 2872 2928	lesión vascular cerebral aguda que justifique la clínica
+T28	UncertLexMarker 3081 3088	posible
+T29	DISO 3089 3107	origen yatrogenico
+T30	UncertLexMarker 3177 3190	probablemente
+T31	DISO 3191 3198	cronica
+T32	UncertLexMarker 3203 3210	posible
+T33	DISO 3211 3230	nefroangiosclerosis
+T34	Phrase 3359 3392	episodio de vómitos inespecificos
+T35	DISO 3371 3378	vómitos
+T36	NegMorMarker 3379 3392	inespecificos
+T37	NegLexMarker 3397 3405	cedieron
+T38	Phrase 3406 3419	con Ondastrom
+T39	UncertLexMarker 3615 3627	sugestiva de
+T40	DISO 3628 3710	un infarto isquemico en territorio de ACP Izqda de probable origen aterotrombotico
+T41	PolItem 3679 3687	probable
+T42	DISO 3688 3710	origen aterotrombotico
+T43	NegSynMarker 3720 3722	no
+T44	Phrase 3723 3793	se han apreciado fuentes emboligenas de origen cardiaco o de otro foco
+T45	DISO 3740 3793	fuentes emboligenas de origen cardiaco o de otro foco
+T46	UncertLexMarker 3907 3914	podrian
+T47	Phrase 3915 4017	justificarse en relacion a una hipoventilacion 2ª a su obesidad y a una posible agudizacion de su EPOC
+T48	DISO 3931 4017	relacion a una hipoventilacion 2ª a su obesidad y a una posible agudizacion de su EPOC
+T49	CoordItem 3979 3980	y
+T50	PolItem 3987 3994	posible
+T51	UncertLexMarker 4433 4450	muy probablemente
+T52	DISO 4451 4496	en relacion a una insuficiencia renal cronica
+T53	UncertLexMarker 4962 4968	parece
+T54	Phrase 4969 4988	haberse normalizado
+T55	OTHER 4977 4988	normalizado
+T56	UncertLexMarker 5058 5065	valorar
+T57	Phrase 5066 5113	la introduccion de tratamiento antihipertensivo
+T58	SUBS 5085 5113	tratamiento antihipertensivo
+T59	NegMorMarker 5595 5607	asintomática
+T60	UncertLexMarker 5873 5886	sugestivas de
+T61	Phrase 5887 6086	infartos de evolución aguda o subaguda en territorios de arteria cerebral posterior izquierda y en región de cápsula interna izquierda , congruentes con la clinica y de probable origen cardioembólico
+T62	DISO 5887 5925	infartos de evolución aguda o subaguda
+T63	UncertLexMarker 6056 6064	probable
+T64	DISO 6065 6086	origen cardioembólico
+T65	NegLexMarker 6282 6296	han descartado
+T66	Phrase 6299 6445	desde el punto de vista neurológico , la presencia de lesión estructural del parénquima cerebral o del estuche óseo en relación con el traumatismo
+T67	DISO 6353 6445	lesión estructural del parénquima cerebral o del estuche óseo en relación con el traumatismo
+T68	UncertLexMarker 6610 6617	posible
+T69	DISO 6618 6735	que el uso conjunto de Omeprazol y una benzodiazepina ( Lorazepam ) pueda jugar tambien un papel en la sintomatologia
+T70	NegLexMarker 6768 6781	suspensión de
+T71	SUBS 6782 6793	esta ultima
+T72	UncertLexMarker 6836 6843	posible
+T73	Phrase 6844 6910	también que un componente funcional contribuya a la sintomatologia
+T74	DISO 6852 6910	que un componente funcional contribuya a la sintomatologia
+T75	NegSynMarker 7469 7471	no
+T76	Phrase 7472 7492	termina de funcionar
+T77	OTHER 7483 7492	funcionar
+T78	UncertLexMarker 7514 7526	sugestivo de
+T79	DISO 7527 7558	gran infarto silviano izquierdo
+T80	UncertLexMarker 7860 7868	probable
+T81	DISO 7869 7887	mecanismo embólico
+T82	UncertLexMarker 7890 7900	no creemos
+T83	OTHER 7901 7952	indicado el tratamiento anticoagulante en este caso
+T84	NegSynMarker 8338 8340	No
+T85	Phrase 8341 8406	ha vuelto a presentar más episodios de emision de sangre por boca
+T86	DISO 8380 8406	emision de sangre por boca
+T87	UncertLexMarker 8496 8508	justificaría
+T88	DISO 8509 8528	la clinica mecánica
+T89	Phrase 8509 8555	la clinica mecánica presentada por la paciente
+T90	NegSynMarker 8973 8975	no
+T91	Phrase 8976 9072	han mostrado lesiones hemorrágicas intracraneales ni del estuche óseo en relación al traumatismo
+T92	DISO 8989 9072	lesiones hemorrágicas intracraneales ni del estuche óseo en relación al traumatismo
+T93	CoordItem 9026 9028	ni
+T94	NegSynMarker 9257 9259	No
+T95	Phrase 9260 9288	se ha objetivado anemizacion
+T96	DISO 9277 9288	anemizacion
+T97	NegSynMarker 9389 9396	tampoco
+T98	Phrase 9397 9455	mostrador hallazgos sugestivos de estenosis significativas
+T99	DISO 9431 9455	estenosis significativas
+T100	NegSynMarker 9476 9478	no
+T101	Phrase 9479 9522	ha demostrado fuentes de embolismo cardiaco
+T102	DISO 9493 9522	fuentes de embolismo cardiaco
+T103	NegMorMarker 9575 9587	asintomática
+T104	NegLexMarker 10140 10149	imposible
+T105	OTHER 10150 10200	control con la medicación hasta ahora administrada
+T106	NegSynMarker 10402 10404	no
+T107	Phrase 10405 10591	han mostrado , desde el punto de vista de la neuroimagen , presencia de lesiones intracraneales de tipo parenquimatoso de caracter agudo ni del estuche óseo en relacion al trauma craneal
+T108	DISO 10477 10591	lesiones intracraneales de tipo parenquimatoso de caracter agudo ni del estuche óseo en relacion al trauma craneal
+T109	CoordItem 10542 10544	ni
+T110	NegMorMarker 10649 10661	asintomatico
+T111	NegLexMarker 11332 11341	suspender
+T112	Phrase 11342 11371	el tratamiento con Metformina
+T113	SUBS 11361 11371	Metformina
+T114	UncertLexMarker 11467 11481	por determinar
+T115	Phrase 11482 11631	en la próxima visita al cardiólogo la realización de cardioversión eléctrica o continuar con tratamiento farmacológico para el control de su arritmia
+T116	PROC 11535 11558	cardioversión eléctrica
+T117	OTHER 11561 11600	continuar con tratamiento farmacológico
+T118	NegSynMarker 11723 11725	no
+T119	Phrase 11726 11797	se han apreciado dato alguno de focalidad neurologica en ningún momento
+T120	PolItem 11748 11754	alguno
+T121	DISO 11758 11779	focalidad neurologica
+T122	PolItem 11783 11789	ningún
+T123	UncertLexMarker 12041 12047	dudoso
+T124	DISO 12048 12093	episodio sincopal previo de origen no filiado
+T125	NegSynMarker 12083 12085	no
+T126	DISO 12086 12093	filiado
+T127	UncertLexMarker 12532 12545	probablemente
+T128	DISO 12546 12556	hipertenso
+T129	UncertLexMarker 12718 12726	probable
+T130	DISO 12727 12749	origen aterotrombotico
+T131	NegMorMarker 13074 13086	asintomatico
+T132	NegSynMarker 13087 13090	sin
+T133	DISO 13091 13136	repetición del episodio que motivó el ingreso
+T134	UncertLexMarker 13399 13410	sospecha de
+T135	Phrase 13411 13423	posible ACVA
+T136	PolItem 13411 13418	posible
+T137	DISO 13419 13423	ACVA
+T138	NegLexMarker 13502 13516	suspensión del
+T139	Phrase 13517 13569	tratamiento con Sintrom durante algo más de 72 horas
+T140	SUBS 13533 13540	Sintrom
+T141	NegSynMarker 14015 14017	No
+T142	Phrase 14018 14080	ha presentado cefalea ni náuseas ni vómitos durante el ingreso
+T143	DISO 14032 14039	cefalea
+T144	CoordItem 14040 14042	ni
+T145	DISO 14043 14050	náuseas
+T146	CoordItem 14051 14053	ni
+T147	DISO 14054 14061	vómitos
+T148	NegSynMarker 14184 14191	tampoco
+T149	Phrase 14192 14285	ha arrojado datos patologocs en relacion a esclarecer el origen de un posible cuadro sincopal
+T150	DISO 14204 14285	datos patologocs en relacion a esclarecer el origen de un posible cuadro sincopal
+T151	UncertLexMarker 14262 14269	posible
+T152	DISO 14270 14285	cuadro sincopal
+T153	NegSynMarker 14318 14321	sin
+T154	DISO 14322 14345	antecedentes de interés
+T155	DISO 14427 14435	comicial
+T156	UncertSynMarker 14436 14438	vs
+T157	DISO 14439 14447	sincopal
+T158	NegSynMarker 14469 14471	no
+T159	DISO 14472 14479	filiado
+T160	NegSynMarker 14542 14545	sin
+T161	Phrase 14546 14605	repetir nuevos episodios similares al que motivó su ingreso
+T162	DISO 14554 14605	nuevos episodios similares al que motivó su ingreso
+T163	NegSynMarker 14827 14830	sin
+T164	DISO 14831 14840	pródromos
+T165	NegSynMarker 14887 14890	sin
+T166	DISO 14891 14915	relajación de esfínteres
+T167	NegMorMarker 15277 15289	incoherentes
+T168	UncertLexMarker 15406 15414	parecían
+T169	Phrase 15415 15449	orientar hace una posible demencia
+T170	PolItem 15433 15440	posible
+T171	DISO 15441 15449	demencia
+T172	UncertLexMarker 15468 15475	parecía
+T173	Phrase 15476 15525	haber pasado de forma inadvertida a sus allegados
+T174	NegLexMarker 15558 15572	suspension del
+T175	SUBS 15573 15580	Sintrom
+T176	NegSynMarker 15803 15805	no
+T177	Phrase 15806 15853	ha vuelto a presentar más episodios convulsivos
+T178	DISO 15828 15853	más episodios convulsivos
+T179	NegMorMarker 15909 15921	asintomatico
+T180	UncertLexMarker 16068 16077	sin clara
+T181	DISO 16078 16104	fluctuacion a la palpacion
+T182	NegLexMarker 16813 16825	Se suspendió
+T183	Phrase 16826 16871	al ingreso el tratamiento con anticoagulantes
+T184	SUBS 16856 16871	anticoagulantes
+T185	NegSynMarker 17073 17076	sin
+T186	DISO 17077 17093	deficit residual
+T187	NegSynMarker 17235 17238	sin
+T188	Phrase 17239 17280	evidencia de pérdidas de origen digestivo
+T189	DISO 17252 17280	pérdidas de origen digestivo
+T190	NegLexMarker 17572 17585	descartandose
+T191	Phrase 17586 17663	la presencia de lesiones en el parénquima cerebral sí como en el estuche óseo
+T192	DISO 17602 17663	lesiones en el parénquima cerebral sí como en el estuche óseo
+T193	NegMorMarker 17721 17733	asintomática
+T194	UncertLexMarker 17736 17744	pudiendo
+T195	Phrase 17745 17819	ser esta , en nuestra opinion , la causa que justificase el cuadro clinico
+T196	DISO 17777 17819	la causa que justificase el cuadro clinico
+T197	NegLexMarker 17999 18013	han descartado
+T198	Phrase 18014 18117	la presencia de lesiones estructurales intracraneales o del estuche óseo en relacion con el traumatismo
+T199	DISO 18030 18117	lesiones estructurales intracraneales o del estuche óseo en relacion con el traumatismo
+T200	UncertLexMarker 18284 18290	dudoso
+T201	DISO 18291 18298	control
+T202	UncertLexMarker 18408 18416	probable
+T203	DISO 18417 18439	origen aterotrombotico
+T204	UncertLexMarker 18532 18542	improbable
+T205	DISO 18543 18570	el mecanismo cardioembólico
+T206	Phrase 18543 18599	el mecanismo cardioembólico a pesar del contexto de ACFA
+T207	UncertLexMarker 18948 18955	posible
+T208	DISO 18956 18975	factor precipitante
+T209	NegLexMarker 18983 18992	descartar
+T210	Phrase 18993 19031	por TAC la presencia de una hemorragia
+T211	DISO 19021 19031	hemorragia
+T212	NegSynMarker 19302 19305	sin
+T213	DISO 19306 19327	focalidad neurológica
+T214	UncertLexMarker 19812 19824	pensamos que
+T215	Phrase 19825 19895	el origen de la sintomatología pudiera radicar en un problema mecánico
+T216	PolItem 19856 19863	pudiera
+T217	DISO 19864 19895	radicar en un problema mecánico
+T218	NegLexMarker 20217 20231	han descartado
+T219	Phrase 20232 20334	la presencia de lesiones hemorragicas intracraneales o del estuche óseo en relación con el traumatismo
+T220	DISO 20248 20334	lesiones hemorragicas intracraneales o del estuche óseo en relación con el traumatismo
+T221	NegSynMarker 20431 20433	no
+T222	Phrase 20434 20480	necesidad de más exploraciones complementarias
+T223	PROC 20447 20480	más exploraciones complementarias
+T224	NegSynMarker 20705 20707	no
+T225	OTHER 20708 20755	se podia realizar a traves de atencion primaria
+T226	UncertLexMarker 20760 20769	no parece
+T227	OTHER 20770 20797	funcionar de forma efectiva
+T228	UncertLexMarker 21480 21487	pudiera
+T229	DISO 21488 21516	justificar la sintomatología
+T230	NegSynMarker 21637 21640	sin
+T231	DISO 21641 21669	manifestación clínica alguna
+T232	PolItem 21663 21669	alguna
+T233	UncertLexMarker 21964 21987	cabía la posibilidad de
+T234	DISO 21988 22073	un ACVA en territorio de arteria cerebral anterior izquierda como causa de la clínica
+T235	NegMorMarker 22131 22143	asintomática
+T236	NegSynMarker 22144 22147	sin
+T237	Phrase 22148 22231	volver a presentar nuevos episodios similares al que motivó su ingreso hospitalario
+T238	DISO 22167 22231	nuevos episodios similares al que motivó su ingreso hospitalario
+T239	NegLexMarker 22514 22528	han descartado
+T240	Phrase 22529 22585	la presencia de un ACVA como origen de la sintomatologia
+T241	DISO 22545 22585	un ACVA como origen de la sintomatologia
+T242	NegSynMarker 22747 22750	sin
+T243	Phrase 22751 22788	hallarse causa neurologica del cuadro
+T244	DISO 22760 22788	causa neurologica del cuadro
+T245	PROC 22848 22860	coprocultivo
+T246	NegLexMarker 22861 22869	negativo
+T247	UncertLexMarker 23185 23197	posiblemente
+T248	DISO 23198 23220	secundaria a la úlcera
+T249	NegMorMarker 23441 23453	asintomático
+T250	UncertLexMarker 23535 23543	pudieran
+T251	Phrase 23544 23627	justificar al menos en parte , en nuestra opinion , el cuadro de mareo inespecifico
+T252	OTHER 23544 23554	justificar
+T253	NegSynMarker 23774 23776	no
+T254	Phrase 23777 23835	efectuamos ninguna modificación en su tratamiento habitual
+T255	PolItem 23788 23795	ninguna
+T256	OTHER 23796 23835	modificación en su tratamiento habitual
+T257	NegSynMarker 24965 24967	no
+T258	Phrase 24968 25060	han arrojado datos patologicos desde el punto de vista del TAC toracico y del ecocardiograma
+T259	DISO 24981 25060	datos patologicos desde el punto de vista del TAC toracico y del ecocardiograma
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T4
+R3	Scope Arg1:T12 Arg2:T13
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T30 Arg2:T31
+R14	DiscScope Arg1:T37 Arg2:T38
+R15	DiscScope Arg1:T37 Arg2:T34
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T63 Arg2:T64
+R24	Scope Arg1:T65 Arg2:T66
+R25	Scope Arg1:T72 Arg2:T73
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T70 Arg2:T71
+R28	Scope Arg1:T75 Arg2:T76
+R29	Scope Arg1:T78 Arg2:T79
+R30	Scope Arg1:T82 Arg2:T83
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T84 Arg2:T85
+R33	Scope Arg1:T87 Arg2:T89
+R34	Scope Arg1:T90 Arg2:T91
+R35	Scope Arg1:T94 Arg2:T95
+R36	Scope Arg1:T97 Arg2:T98
+R37	Scope Arg1:T100 Arg2:T101
+R38	Scope Arg1:T104 Arg2:T105
+R39	Scope Arg1:T106 Arg2:T107
+R40	Scope Arg1:T111 Arg2:T112
+R41	Scope Arg1:T114 Arg2:T115
+R42	Scope Arg1:T118 Arg2:T119
+R43	Scope Arg1:T123 Arg2:T124
+R44	Scope Arg1:T125 Arg2:T126
+R45	Scope Arg1:T127 Arg2:T128
+R46	Scope Arg1:T129 Arg2:T130
+R47	Scope Arg1:T132 Arg2:T133
+R48	Scope Arg1:T134 Arg2:T135
+R49	Scope Arg1:T138 Arg2:T139
+R50	Scope Arg1:T141 Arg2:T142
+R51	Scope Arg1:T151 Arg2:T152
+R52	Scope Arg1:T148 Arg2:T149
+R53	Scope Arg1:T158 Arg2:T159
+R54	DiscScope Arg1:T156 Arg2:T155
+R55	DiscScope Arg1:T156 Arg2:T157
+R56	Scope Arg1:T153 Arg2:T154
+R57	Scope Arg1:T160 Arg2:T161
+R58	Scope Arg1:T163 Arg2:T164
+R59	Scope Arg1:T165 Arg2:T166
+R60	Scope Arg1:T168 Arg2:T169
+R61	Scope Arg1:T172 Arg2:T173
+R62	Scope Arg1:T174 Arg2:T175
+R63	Scope Arg1:T176 Arg2:T177
+R64	Scope Arg1:T180 Arg2:T181
+R65	Scope Arg1:T182 Arg2:T183
+R66	Scope Arg1:T185 Arg2:T186
+R67	Scope Arg1:T187 Arg2:T188
+R68	Scope Arg1:T190 Arg2:T191
+R69	Scope Arg1:T194 Arg2:T195
+R70	Scope Arg1:T197 Arg2:T198
+R71	Scope Arg1:T200 Arg2:T201
+R72	Scope Arg1:T204 Arg2:T206
+R73	Scope Arg1:T202 Arg2:T203
+R74	Scope Arg1:T207 Arg2:T208
+R75	Scope Arg1:T209 Arg2:T210
+R76	Scope Arg1:T212 Arg2:T213
+R77	Scope Arg1:T214 Arg2:T215
+R78	Scope Arg1:T218 Arg2:T219
+R79	Scope Arg1:T221 Arg2:T222
+R80	Scope Arg1:T226 Arg2:T227
+R81	Scope Arg1:T224 Arg2:T225
+R82	Scope Arg1:T230 Arg2:T231
+R83	Scope Arg1:T228 Arg2:T229
+R84	Scope Arg1:T233 Arg2:T234
+R85	Scope Arg1:T236 Arg2:T237
+R86	Scope Arg1:T239 Arg2:T240
+R87	Scope Arg1:T242 Arg2:T243
+R88	Scope Arg1:T246 Arg2:T245
+R89	Scope Arg1:T247 Arg2:T248
+R90	Scope Arg1:T250 Arg2:T251
+R91	Scope Arg1:T253 Arg2:T254
+R92	Scope Arg1:T257 Arg2:T258

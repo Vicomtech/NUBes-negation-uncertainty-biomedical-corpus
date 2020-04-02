@@ -1,0 +1,77 @@
+T1	NegSynMarker 31 34	sin
+T2	Phrase 35 75	y con supresión grasa y difusión axiales
+T3	DISO 41 56	supresión grasa
+T4	CoordItem 57 58	y
+T5	DISO 59 75	difusión axiales
+T6	NegSynMarker 273 276	sin
+T7	SUBS 277 310	contraste oral en estudio urgente
+T8	UncertLexMarker 488 502	compatible con
+T9	DISO 503 518	su pseudoquiste
+T10	UncertLexMarker 1028 1035	sugiere
+T11	DISO 1036 1067	cambios inflamatorios reactivos
+T12	NegSynMarker 1068 1070	No
+T13	Phrase 1071 1164	evidencia de complicaciones vasculares ni hallazgos que sugieran infección de las colecciones
+T14	DISO 1084 1109	complicaciones vasculares
+T15	CoordItem 1110 1112	ni
+T16	DISO 1113 1164	hallazgos que sugieran infección de las colecciones
+T17	UncertLexMarker 1167 1178	Orientación
+T18	Phrase 1193 1249	Hallazgos de seudoquiste tabicado a nivel del saco menor
+T19	DISO 1206 1249	seudoquiste tabicado a nivel del saco menor
+T20	NegLexMarker 1507 1519	desaparecido
+T21	DISO 1520 1589	los cambios inflamatorios de la grasa peritoneal del flanco izquierdo
+T22	NegLexMarker 1663 1678	ha desaparecido
+T23	SUBS 1679 1697	el líquido pélvico
+T24	UncertLexMarker 1700 1711	Orientación
+T25	DISO 1726 1865	Cambios inflamatorios en grasa peritoneal en flanco izquierdo , con engrosamiento de fascia lateroconal izquierda y líquido libre en pelvis
+T26	NegSynMarker 1878 1880	no
+T27	OTHER 1881 1910	presentes en el estudi previo
+T28	UncertLexMarker 1913 1924	Orientación
+T29	DISO 1939 1956	Vía biliar normal
+T30	NegSynMarker 2177 2179	No
+T31	Phrase 2180 2207	evidencia de neumoperitoneo
+T32	DISO 2193 2207	neumoperitoneo
+T33	NegSynMarker 2579 2582	sin
+T34	DISO 2583 2617	dilatación del conducto de Wirsung
+T35	UncertLexMarker 2701 2709	probable
+T36	DISO 2710 2727	atrofia del mismo
+T37	UncertLexMarker 3241 3249	probable
+T38	DISO 3250 3261	seudoquiste
+T39	UncertLexMarker 3264 3265	¿
+T40	Phrase 3266 3291	Episodio de reagudización
+T41	DISO 3278 3291	reagudización
+T42	UncertLexMarker 3292 3293	?
+T43	NegSynMarker 3302 3305	sin
+T44	DISO 3306 3313	cambios
+T45	UncertLexMarker 3539 3551	sugestivo de
+T46	DISO 3552 3583	cambios inflamatorios reactivos
+T47	NegLexMarker 3706 3717	ausencia de
+T48	DISO 3718 3737	intensidad de señal
+T49	UncertLexMarker 3751 3766	compatibles con
+T50	DISO 3767 3780	microlitiasis
+T51	UncertLexMarker 3934 3947	sugestivas de
+T52	DISO 3948 3974	pseudoquistes en formación
+T53	NegSynMarker 3985 3988	sin
+T54	DISO 3989 4044	variaciones con respecto a control previo de 16/10/2008
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T8 Arg2:T9
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T22 Arg2:T23
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T42 Arg2:T40
+R17	DiscMarker Arg1:T39 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T51 Arg2:T52
+R23	Scope Arg1:T53 Arg2:T54

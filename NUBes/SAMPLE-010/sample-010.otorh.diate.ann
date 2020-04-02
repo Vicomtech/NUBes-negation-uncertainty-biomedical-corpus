@@ -1,0 +1,13 @@
+T1	NegSynMarker 11 14	Sin
+T2	DISO 15 52	hallazgos de significación patológica
+T3	NegSynMarker 185 188	sin
+T4	Phrase 189 242	que presente criterios quísticos a nivel tomográficos
+T5	DISO 202 242	criterios quísticos a nivel tomográficos
+T6	NegSynMarker 295 298	sin
+T7	PROC 299 315	captación de CIV
+T8	UncertLexMarker 370 378	probable
+T9	DISO 379 399	quiste de Thornwaldt
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T6 Arg2:T7

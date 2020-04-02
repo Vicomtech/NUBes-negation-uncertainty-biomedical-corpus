@@ -1,0 +1,120 @@
+T1	UncertLexMarker 175 185	Impresiona
+T2	Phrase 186 280	el cuadro de bradipsiquia secundaria fundamentalmente al bajo gasto por insuficiencia cardíaca
+T3	DISO 199 222	bradipsiquia secundaria
+T4	NegMorMarker 326 338	asintomatica
+T5	NegSynMarker 791 793	no
+T6	Phrase 794 836	muestra grandes cambios respecto a previos
+T7	DISO 802 836	grandes cambios respecto a previos
+T8	NegLexMarker 1020 1031	suspendidos
+T9	SUBS 1032 1046	los diureticos
+T10	PROC 1254 1288	minima elevacion del punto J en V3
+T11	Phrase 1315 1325	en previos
+T12	NegLexMarker 1329 1337	negativa
+T13	NegMorMarker 1927 1939	asintomático
+T14	NegSynMarker 2148 2151	sin
+T15	DISO 2152 2181	que permita distinguir soplos
+T16	NegMorMarker 2349 2361	asintomática
+T17	NegMorMarker 2484 2496	asintomático
+T18	NegSynMarker 2557 2560	sin
+T19	DISO 2561 2591	alteraciones isquemicas agudas
+T20	NegSynMarker 2620 2623	sin
+T21	DISO 2624 2658	cambios con respecto a los previos
+T22	NegSynMarker 2938 2940	No
+T23	Phrase 2941 2987	existen síntomas de encafalopatía hipercápnica
+T24	DISO 2949 2987	síntomas de encafalopatía hipercápnica
+T25	NegSynMarker 3234 3236	No
+T26	Phrase 3237 3269	clinica de dolor toracico tipico
+T27	DISO 3248 3269	dolor toracico tipico
+T28	NegSynMarker 3272 3274	no
+T29	DISO 3275 3302	cortejo vegetativo asociado
+T30	UncertLexMarker 4116 4122	dudosa
+T31	DISO 4123 4132	Oliguiria
+T32	NegMorMarker 4380 4392	asintomática
+T33	NegMorMarker 4444 4451	afebril
+T34	NegMorMarker 4454 4466	asintomática
+T35	NegSynMarker 4584 4586	No
+T36	DISO 4587 4595	disneico
+T37	NegSynMarker 4598 4600	no
+T38	DISO 4601 4622	ingurgitación yugular
+T39	NegMorMarker 4719 4731	asintomatico
+T40	UncertLexMarker 5004 5017	sugestivas de
+T41	DISO 5018 5048	celulitis en la pierna derecha
+T42	NegSynMarker 5160 5163	sin
+T43	Phrase 5164 5220	observarse patología aguda articular o de partes blandas
+T44	DISO 5175 5220	patología aguda articular o de partes blandas
+T45	DISO 5223 5232	el origen
+T46	UncertLexMarker 5237 5245	probable
+T47	DISO 5249 5269	vascular y artrósico
+T48	NegMorMarker 5455 5467	asintomática
+T49	NegLexMarker 5722 5733	desaparecen
+T50	DISO 5734 5746	los síntomas
+T51	UncertLexMarker 5833 5854	no se puede descartar
+T52	DISO 5855 5889	una bronquitis aguda sobreagregada
+T53	UncertLexMarker 6269 6276	sugiere
+T54	DISO 6277 6304	control de la función renal
+T55	UncertLexMarker 6456 6461	puede
+T56	DISO 6462 6508	estar en relación con el tratamiento diurético
+T57	NegSynMarker 6897 6900	sin
+T58	DISO 6901 6928	alteraciones significativas
+T59	NegMorMarker 7148 7160	desorientada
+T60	NegSynMarker 7163 7166	sin
+T61	Phrase 7167 7199	signos de insuficiencia cardiaca
+T62	DISO 7177 7199	insuficiencia cardiaca
+T63	NegMorMarker 7390 7402	asintomático
+T64	NegSynMarker 8097 8100	sin
+T65	DISO 8101 8117	particularidades
+T66	NegSynMarker 8152 8154	No
+T67	DISO 8155 8191	flapping como síntoma de hipercapnia
+T68	UncertLexMarker 8350 8355	Puede
+T69	Phrase 8356 8408	haber componente infeccioso acompañante por urinario
+T70	DISO 8362 8395	componente infeccioso acompañante
+T71	NegSynMarker 8800 8802	no
+T72	Phrase 8803 8840	llega a desaparecer en ningun momento
+T73	DISO 8811 8822	desaparecer
+T74	PolItem 8826 8832	ningun
+T75	NegSynMarker 8880 8882	No
+T76	OTHER 8883 8912	cambios significativos en ECG
+T77	NegMorMarker 9567 9579	asintomática
+T78	NegSynMarker 9720 9723	Sin
+T79	DISO 9724 9747	alergias medicamentosas
+T80	NegMorMarker 10078 10090	asintomática
+T81	NegSynMarker 10690 10692	no
+T82	DISO 10693 10704	obstructiva
+T83	UncertLexMarker 10798 10811	probablemente
+T84	DISO 10812 10881	por un infeccion con origen en multiples focos cutaneos de ambos MMII
+T85	NegMorMarker 10896 10908	asintomática
+T86	NegLexMarker 11207 11220	contraindican
+T87	Phrase 11221 11247	los deportes mas que leves
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T8 Arg2:T9
+R4	DiscScope Arg1:T12 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T11
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T37 Arg2:T38
+R15	DiscScope Arg1:T46 Arg2:T47
+R16	DiscScope Arg1:T46 Arg2:T45
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T64 Arg2:T65
+R26	Scope Arg1:T66 Arg2:T67
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T71 Arg2:T72
+R29	Scope Arg1:T75 Arg2:T76
+R30	Scope Arg1:T78 Arg2:T79
+R31	Scope Arg1:T81 Arg2:T82
+R32	Scope Arg1:T83 Arg2:T84
+R33	Scope Arg1:T86 Arg2:T87

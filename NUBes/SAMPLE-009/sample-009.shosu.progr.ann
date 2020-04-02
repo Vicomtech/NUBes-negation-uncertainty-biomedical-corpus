@@ -1,0 +1,134 @@
+T1	UncertLexMarker 56 64	no clara
+T2	DISO 65 73	neumonia
+T3	UncertLexMarker 236 243	valorar
+T4	NegLexMarker 244 252	retirada
+T5	Phrase 244 302	retirada y antiagregación debido a hematurias recidivantes
+T6	CoordItem 253 254	y
+T7	SUBS 255 269	antiagregación
+T8	NegSynMarker 405 408	sin
+T9	Phrase 409 428	signos de infección
+T10	DISO 419 428	infección
+T11	NegSynMarker 433 435	No
+T12	Phrase 436 468	presenta dolor en cadera derecha
+T13	DISO 445 468	dolor en cadera derecha
+T14	NegMorMarker 722 735	inestabilidad
+T15	NegSynMarker 902 905	sin
+T16	DISO 906 916	dificultad
+T17	UncertLexMarker 1225 1232	posible
+T18	DISO 1233 1250	microaspiraciones
+T19	NegSynMarker 1640 1643	sin
+T20	DISO 1644 1650	disnea
+T21	Phrase 1644 1668	disnea ni dolor torácico
+T22	CoordItem 1651 1653	ni
+T23	DISO 1654 1668	dolor torácico
+T24	NegSynMarker 2723 2726	sin
+T25	Phrase 2727 2783	que se observara patologia aguda a nivel gastroesofágico
+T26	DISO 2744 2783	patologia aguda a nivel gastroesofágico
+T27	NegLexMarker 3459 3475	imposibilidad de
+T28	OTHER 3476 3493	ingerir alimentos
+T29	UncertLexMarker 3774 3785	se sospecha
+T30	DISO 3786 3808	foco infeccioso oculto
+T31	NegSynMarker 3881 3884	sin
+T32	SUBS 3885 3909	tratamiento antitiroideo
+T33	NegSynMarker 4224 4227	sin
+T34	Phrase 4228 4241	ayuda externa
+T35	NegLexMarker 4454 4458	csin
+T36	DISO 4459 4469	dificultad
+T37	Phrase 4459 4502	dificultad con ayuda de 2 bastones ingleses
+T38	NegSynMarker 5013 5016	sin
+T39	DISO 5017 5036	sintomas sistemicos
+T40	NegSynMarker 5849 5852	sin
+T41	DISO 5853 5891	otros signos de reinfección bacteriana
+T42	NegMorMarker 6039 6052	inestabilidad
+T43	NegSynMarker 6139 6142	sin
+T44	Phrase 6143 6186	dificultad con ayuda de 2 bastones ingleses
+T45	DISO 6143 6153	dificultad
+T46	NegSynMarker 6287 6290	sin
+T47	DISO 6291 6301	dificultad
+T48	NegLexMarker 6590 6600	suspendido
+T49	Phrase 6601 6621	de momento losaratan
+T50	SUBS 6612 6621	losaratan
+T51	UncertLexMarker 6682 6689	valorar
+T52	OTHER 6690 6714	reiniciar el tratamiento
+T53	UncertLexMarker 6784 6794	sin claros
+T54	Phrase 6795 6835	criterios de agudización en este momento
+T55	OTHER 6795 6819	criterios de agudización
+T56	NegSynMarker 7270 7272	no
+T57	DISO 7273 7294	es capaz de deambular
+T58	NegSynMarker 7656 7659	sin
+T59	DISO 7660 7670	dificultad
+T60	NegSynMarker 8400 8403	sin
+T61	Phrase 8404 8434	tratamiento anticogulante oral
+T62	SUBS 8416 8434	anticogulante oral
+T63	NegSynMarker 8690 8693	sin
+T64	Phrase 8694 8708	edema ni calor
+T65	DISO 8694 8699	edema
+T66	CoordItem 8700 8702	ni
+T67	DISO 8703 8708	calor
+T68	NegMorMarker 8861 8874	inestabilidad
+T69	UncertLexMarker 9294 9302	posibles
+T70	DISO 9303 9319	metástasis óseas
+T71	Phrase 9303 9343	metástasis óseas en hemipelvis izquierda
+T72	NegSynMarker 9418 9421	sin
+T73	Phrase 9422 9427	ayuda
+T74	NegLexMarker 9510 9528	imposibilidad para
+T75	OTHER 9529 9541	la deglución
+T76	DISO 9638 9662	disnea con un componente
+T77	UncertLexMarker 9758 9770	posiblemente
+T78	Phrase 9771 9791	tambien respiratorio
+T79	DISO 9779 9791	respiratorio
+T80	UncertLexMarker 9796 9803	posible
+T81	DISO 9804 9841	broncoaspiración con esputo purulento
+T82	SUBS 10110 10131	heparina profiláctica
+T83	NegLexMarker 10156 10166	suspendida
+T84	NegSynMarker 10765 10767	no
+T85	OTHER 10768 10806	le permite mantener sedestación en 90º
+T86	UncertLexMarker 11468 11476	probable
+T87	DISO 11477 11492	neoplasia renal
+T88	UncertLexMarker 11498 11506	probable
+T89	Phrase 11507 11554	metástasis patológica en tercio distal de femur
+T90	DISO 11507 11528	metástasis patológica
+T91	UncertLexMarker 11700 11707	posible
+T92	PROC 11708 11720	intervencion
+T93	NegSynMarker 11848 11851	sin
+T94	DISO 11852 11862	dificultad
+T95	NegSynMarker 11865 11867	no
+T96	Phrase 11868 11881	refiere dolor
+T97	DISO 11876 11881	dolor
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T21
+R8	Scope Arg1:T24 Arg2:T25
+R9	Scope Arg1:T27 Arg2:T28
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T35 Arg2:T37
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T48 Arg2:T49
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T58 Arg2:T59
+R23	Scope Arg1:T60 Arg2:T61
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T69 Arg2:T71
+R26	Scope Arg1:T72 Arg2:T73
+R27	Scope Arg1:T74 Arg2:T75
+R28	DiscScope Arg1:T77 Arg2:T78
+R29	DiscScope Arg1:T77 Arg2:T76
+R30	Scope Arg1:T80 Arg2:T81
+R31	Scope Arg1:T83 Arg2:T82
+R32	Scope Arg1:T84 Arg2:T85
+R33	Scope Arg1:T88 Arg2:T89
+R34	Scope Arg1:T86 Arg2:T87
+R35	Scope Arg1:T91 Arg2:T92
+R36	Scope Arg1:T95 Arg2:T96
+R37	Scope Arg1:T93 Arg2:T94

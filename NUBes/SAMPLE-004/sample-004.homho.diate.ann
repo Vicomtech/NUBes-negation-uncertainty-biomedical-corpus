@@ -1,0 +1,49 @@
+T1	NegSynMarker 17 19	No
+T2	Phrase 20 61	derrames pleurales ni derrame pericárdico
+T3	DISO 20 38	derrames pleurales
+T4	CoordItem 39 41	ni
+T5	DISO 42 61	derrame pericárdico
+T6	NegSynMarker 119 121	No
+T7	Phrase 122 172	observamos colecciones o abscesos en la actualidad
+T8	DISO 133 144	colecciones
+T9	CoordItem 145 146	o
+T10	DISO 147 155	abscesos
+T11	NegSynMarker 198 201	Sin
+T12	DISO 202 223	hallazgos patológicos
+T13	NegSynMarker 226 229	Sin
+T14	Phrase 230 269	evidencia de TVP en el presente estudio
+T15	DISO 243 246	TVP
+T16	NegSynMarker 835 838	Sin
+T17	Phrase 839 883	signos de TVP en extremidad inferior derecha
+T18	DISO 849 883	TVP en extremidad inferior derecha
+T19	NegSynMarker 1049 1051	No
+T20	Phrase 1052 1072	aprecio condensación
+T21	DISO 1060 1072	condensación
+T22	NegSynMarker 1731 1734	sin
+T23	Phrase 1735 1778	criterios de tromboflebitis ni de celulitis
+T24	DISO 1748 1762	tromboflebitis
+T25	CoordItem 1763 1765	ni
+T26	DISO 1769 1778	celulitis
+T27	UncertLexMarker 1783 1790	valorar
+T28	DISO 1791 1799	flebitis
+T29	NegSynMarker 2539 2542	Sin
+T30	Phrase 2543 2587	signos de TVP en extremidad inferior derecha
+T31	DISO 2553 2587	TVP en extremidad inferior derecha
+T32	NegSynMarker 2630 2633	sin
+T33	DISO 2634 2646	alteraciones
+T34	UncertLexMarker 2817 2830	aparentemente
+T35	OTHER 2831 2856	a cicatriz de laparotomía
+T36	NegSynMarker 2941 2944	Sin
+T37	DISO 2945 2966	hallazgos patológicos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T11 Arg2:T12
+R4	Scope Arg1:T13 Arg2:T14
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T19 Arg2:T20
+R7	Scope Arg1:T22 Arg2:T23
+R8	Scope Arg1:T27 Arg2:T28
+R9	Scope Arg1:T29 Arg2:T30
+R10	Scope Arg1:T32 Arg2:T33
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T36 Arg2:T37

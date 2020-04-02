@@ -1,0 +1,3 @@
+T1	UncertLexMarker 115 122	posible
+T2	DISO 123 134	inflamacion
+R1	Scope Arg1:T1 Arg2:T2

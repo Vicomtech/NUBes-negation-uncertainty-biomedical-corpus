@@ -1,0 +1,3 @@
+T1	NegSynMarker 55 58	sin
+T2	DISO 59 73	complicaciones
+R1	Scope Arg1:T1 Arg2:T2

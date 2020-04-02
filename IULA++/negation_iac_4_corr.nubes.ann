@@ -1,0 +1,685 @@
+T1	NegMorMarker 2990 3002	asintomática
+T2	NegMorMarker 3030 3037	afebril
+T3	NegMorMarker 9385 9397	asintomático
+T4	NegMorMarker 10600 10607	afebril
+T5	NegMorMarker 12297 12304	afebril
+T6	NegMorMarker 18452 18459	afebril
+T7	NegMorMarker 20764 20771	afebril
+T8	NegMorMarker 20825 20832	afebril
+T9	NegMorMarker 25249 25256	afebril
+T10	NegMorMarker 26884 26891	afebril
+T11	NegMorMarker 30761 30768	afebril
+T12	NegMorMarker 33449 33456	afebril
+T13	NegMorMarker 41660 41667	afebril
+T14	NegMorMarker 42273 42280	afebril
+T15	NegMorMarker 42855 42862	afebril
+T16	NegMorMarker 42966 42973	afebril
+T17	NegSynMarker 361 363	no
+T18	NegSynMarker 488 491	sin
+T19	NegSynMarker 882 884	no
+T20	NegSynMarker 1892 1894	no
+T21	NegSynMarker 2447 2449	No
+T22	UncertLexMarker 2730 2751	no se puede descartar
+T23	NegSynMarker 3449 3452	sin
+T24	NegSynMarker 3792 3795	sin
+T26	NegSynMarker 4617 4619	no
+T27	NegSynMarker 5579 5582	sin
+T28	NegSynMarker 5992 5995	sin
+T30	NegSynMarker 6112 6114	no
+T31	NegSynMarker 6367 6369	no
+T32	NegSynMarker 6403 6405	no
+T33	NegSynMarker 6595 6597	no
+T34	NegSynMarker 7809 7812	Sin
+T35	NegSynMarker 7903 7905	no
+T36	NegSynMarker 8224 8227	sin
+T37	NegSynMarker 8582 8584	no
+T38	NegSynMarker 8774 8776	no
+T39	NegSynMarker 8842 8845	sin
+T40	NegLexMarker 9082 9093	ausencia de
+T41	NegSynMarker 9277 9280	sin
+T42	NegSynMarker 9436 9439	sin
+T43	NegSynMarker 9631 9634	sin
+T44	NegSynMarker 10214 10217	sin
+T45	NegSynMarker 10304 10307	sin
+T46	NegSynMarker 10377 10379	no
+T47	NegSynMarker 10948 10951	sin
+T48	NegSynMarker 11382 11385	sin
+T49	NegSynMarker 11977 11980	sin
+T50	NegSynMarker 12241 12244	sin
+T51	NegSynMarker 12334 12337	sin
+T52	NegSynMarker 12722 12724	no
+T53	NegSynMarker 12995 12998	sin
+T54	NegSynMarker 13425 13427	no
+T55	NegSynMarker 14346 14349	sin
+T56	NegSynMarker 14788 14790	no
+T59	NegSynMarker 17486 17489	sin
+T60	NegSynMarker 17597 17600	sin
+T61	NegSynMarker 17819 17821	no
+T62	NegSynMarker 18010 18013	sin
+T63	NegSynMarker 18251 18253	no
+T64	NegSynMarker 18665 18667	no
+T66	NegSynMarker 19083 19085	no
+T67	NegSynMarker 19207 19209	no
+T68	NegSynMarker 19223 19226	sin
+T69	NegSynMarker 19475 19478	SIN
+T70	NegSynMarker 21755 21757	no
+T71	NegSynMarker 22365 22376	se descarta
+T72	NegSynMarker 24985 24987	no
+T73	UncertLexMarker 25025 25027	no
+T74	UncertLexMarker 25075 25078	sin
+T75	NegSynMarker 25100 25103	sin
+T76	NegSynMarker 25709 25711	no
+T77	NegSynMarker 26830 26832	no
+T78	NegSynMarker 27853 27855	no
+T79	NegSynMarker 28365 28368	sin
+T80	NegSynMarker 28794 28797	sin
+T81	NegSynMarker 28966 28969	sin
+T82	NegSynMarker 29067 29078	ausencia de
+T83	NegSynMarker 29307 29309	no
+T84	NegSynMarker 29528 29530	no
+T85	NegSynMarker 30008 30011	sin
+T86	NegSynMarker 30074 30076	no
+T87	NegSynMarker 30172 30175	sin
+T88	NegSynMarker 30549 30551	no
+T89	NegSynMarker 30603 30606	sin
+T90	NegSynMarker 30869 30872	sin
+T91	NegSynMarker 31310 31313	sin
+T92	NegSynMarker 31612 31615	sin
+T93	NegSynMarker 32195 32197	no
+T94	NegSynMarker 32698 32701	sin
+T95	NegSynMarker 33007 33010	sin
+T96	NegSynMarker 33095 33098	sin
+T97	NegSynMarker 33140 33143	sin
+T98	NegSynMarker 34258 34261	sin
+T99	NegSynMarker 34380 34383	sin
+T100	NegSynMarker 34603 34605	no
+T101	NegSynMarker 34658 34660	no
+T102	NegSynMarker 34714 34716	no
+T103	NegSynMarker 34914 34917	sin
+T104	NegSynMarker 35933 35935	No
+T105	NegSynMarker 36292 36295	sin
+T106	NegSynMarker 36457 36460	sin
+T107	NegSynMarker 37516 37519	sin
+T108	NegSynMarker 37557 37559	no
+T109	NegSynMarker 38085 38088	sin
+T110	NegSynMarker 39388 39391	sin
+T112	NegSynMarker 39692 39695	sin
+T114	NegSynMarker 40279 40282	sin
+T115	NegSynMarker 40348 40350	no
+T116	NegSynMarker 40530 40532	no
+T117	NegSynMarker 40670 40673	sin
+T118	NegSynMarker 40918 40921	sin
+T119	NegSynMarker 41393 41396	sin
+T120	UncertLexMarker 41819 41821	no
+T121	NegSynMarker 42299 42302	sin
+T122	NegSynMarker 42572 42575	sin
+T123	NegSynMarker 42891 42894	sin
+T124	NegSynMarker 43220 43222	No
+T125	NegSynMarker 43449 43451	no
+T126	NegSynMarker 43933 43936	Sin
+T127	NegSynMarker 44265 44268	sin
+T128	NegSynMarker 44285 44288	sin
+T129	NegSynMarker 44382 44385	sin
+T130	NegLexMarker 44819 44830	ausencia de
+T131	NegSynMarker 45230 45232	no
+T132	NegLexMarker 46271 46282	ausencia de
+T133	NegSynMarker 46739 46742	sin
+T134	NegSynMarker 46763 46765	no
+T135	NegSynMarker 47069 47071	no
+T136	NegSynMarker 47106 47109	sin
+T137	NegSynMarker 47540 47543	sin
+T138	NegSynMarker 47564 47566	no
+T140	CoordItem 518 520	ni
+T141	CoordItem 2468 2470	ni
+T142	CoordItem 4648 4650	ni
+T143	CoordItem 17523 17525	ni
+T144	CoordItem 28981 28983	ni
+T145	CoordItem 30086 30088	ni
+T146	CoordItem 32710 32712	ni
+T148	CoordItem 40943 40945	ni
+T150	NegLexMarker 26045 26053	negativo
+T151	NegLexMarker 26330 26338	negativa
+T153	NegLexMarker 27584 27592	negativo
+T154	NegLexMarker 27767 27776	negativos
+T155	NegLexMarker 30064 30072	negativo
+T156	NegLexMarker 31826 31835	negativas
+T157	NegLexMarker 33673 33682	negativos
+T158	NegLexMarker 38975 38984	negativas
+T159	NegLexMarker 40388 40397	negativos
+T160	NegLexMarker 40802 40811	negativas
+T161	NegLexMarker 42763 42772	negativos
+T162	NegLexMarker 43713 43722	negativos
+T163	UncertLexMarker 1057 1066	probables
+T164	UncertLexMarker 6969 6977	probable
+T165	PolItem 9134 9141	posible
+T166	UncertLexMarker 10987 10999	sugestiva de
+T167	PolItem 12597 12605	probable
+T168	UncertLexMarker 13238 13251	probablemente
+T169	PolItem 16178 16185	posible
+T170	UncertLexMarker 17240 17248	probable
+T171	UncertLexMarker 18077 18091	compatible con
+T172	UncertLexMarker 18918 18926	probable
+T173	UncertLexMarker 21003 21011	probable
+T174	UncertLexMarker 22293 22300	sugiere
+T175	UncertLexMarker 22839 22850	SOSPECHA DE
+T176	UncertLexMarker 23680 23694	compatible con
+T177	UncertLexMarker 23759 23766	posible
+T178	UncertLexMarker 24545 24559	compatible con
+T179	UncertLexMarker 27230 27239	potencial
+T180	UncertLexMarker 27713 27719	dudosa
+T181	UncertLexMarker 28931 28944	probablemente
+T183	UncertLexMarker 31922 31936	compatible con
+T184	UncertLexMarker 32487 32501	compatible con
+T185	UncertLexMarker 36814 36828	compatible con
+T186	UncertLexMarker 37958 37965	posible
+T187	PolItem 47681 47689	probable
+T188	UncertLexMarker 48133 48145	sugestiva de
+T189	DISO 16202 16215	placa aórtica
+T190	Phrase 16174 16215	una posible relación con la placa aórtica
+T191	DISO 377 385	déficits
+T192	Phrase 364 385	se objetivan déficits
+R2	Scope Arg1:T17 Arg2:T192	
+T193	DISO 492 517	oftalmoparesias evidentes
+T194	DISO 521 563	alteraciones en maniobras de fatigabilidad
+T195	Phrase 492 563	oftalmoparesias evidentes ni alteraciones en maniobras de fatigabilidad
+R3	Scope Arg1:T18 Arg2:T195	
+T196	DISO 885 915	motores acompañantes en el Off
+R4	Scope Arg1:T19 Arg2:T196	
+T197	DISO 1067 1157	depósitos de sustancias paramagnéticas en porciones mediales de ambos núcleos lenticulares
+T198	DISO 1160 1201	enfermedad de pequeño vaso protuberancial
+T199	Phrase 1067 1201	depósitos de sustancias paramagnéticas en porciones mediales de ambos núcleos lenticulares y enfermedad de pequeño vaso protuberancial
+R5	Scope Arg1:T163 Arg2:T199	
+T200	DISO 1904 1943	sintomatología añadida a la ya conocida
+T201	Phrase 1895 1943	presenta sintomatología añadida a la ya conocida
+T202	DISO 2450 2467	síntoma de disnea
+T203	DISO 2471 2485	dolor torácico
+T204	Phrase 2450 2485	síntoma de disnea ni dolor torácico
+R6	Scope Arg1:T21 Arg2:T204	
+T205	DISO 2752 2792	la etiología epiléptica de los episodios
+R7	Scope Arg1:T22 Arg2:T205	
+T206	DISO 3453 3480	alteraciones significativas
+R8	Scope Arg1:T23 Arg2:T206	
+T207	DISO 3796 3807	incidencias
+R9	Scope Arg1:T24 Arg2:T207	
+T25	UncertLexMarker 4120 4129	sin claro
+T208	DISO 4130 4145	foco infeccioso
+R10	Scope Arg1:T25 Arg2:T208	
+T209	DISO 4628 4681	lesiones isquémicas ni hemorrágicas agudas o crónicas
+T210	Phrase 4620 4681	muestra lesiones isquémicas ni hemorrágicas agudas o crónicas
+T211	DISO 5583 5595	alteraciones
+R11	Scope Arg1:T27 Arg2:T211	
+T212	DISO 5996 6019	alteraciones relevantes
+R12	Scope Arg1:T28 Arg2:T212	
+T29	UncertLexMarker 6063 6073	sin claros
+T213	DISO 6074 6085	infiltrados
+R13	Scope Arg1:T29 Arg2:T213	
+T214	DISO 6129 6171	recanalización de la fístula dural tratada
+T215	Phrase 6115 6171	se identifica recanalización de la fístula dural tratada
+R14	Scope Arg1:T30 Arg2:T215	
+T216	DISO 6378 6390	alteraciones
+T217	Phrase 6370 6390	muestra alteraciones
+R15	Scope Arg1:T31 Arg2:T217	
+T218	DISO 6410 6446	presencia de actividad epileptiforme
+T219	Phrase 6406 6446	hay presencia de actividad epileptiforme
+R16	Scope Arg1:T32 Arg2:T219	
+T220	DISO 6606 6618	alteraciones
+T221	Phrase 6598 6618	muestra alteraciones
+R17	Scope Arg1:T33 Arg2:T221	
+T222	DISO 6978 7002	etiología cardioembólica
+R18	Scope Arg1:T164 Arg2:T222	
+T223	DISO 7813 7830	otras incidencias
+R19	Scope Arg1:T34 Arg2:T223	
+T224	DISO 7926 7963	focalidad neurológica mayor inmediata
+T225	PolItem 7918 7925	ninguna
+T226	Phrase 7906 7963	objetivando ninguna focalidad neurológica mayor inmediata
+R20	Scope Arg1:T35 Arg2:T226	
+T227	DISO 8228 8251	alteraciones relevantes
+R21	Scope Arg1:T36 Arg2:T227	
+T228	DISO 8585 8606	presenta alteraciones
+R22	Scope Arg1:T37 Arg2:T228	
+T229	Phrase 8777 8829	han permitido filiar la etiología del cuadro clínico
+R23	Scope Arg1:T38 Arg2:T229	
+T230	DISO 8846 8865	alteraciones agudas
+R24	Scope Arg1:T39 Arg2:T230	
+T231	DISO 9142 9159	crisis epiléptica
+T232	DISO 9094 9105	vasoespasmo
+R26	Scope Arg1:T40 Arg2:T232	
+T233	DISO 9281 9308	alteraciones significativas
+R27	Scope Arg1:T41 Arg2:T233	
+T234	DISO 9440 9455	lesiones agudas
+R28	Scope Arg1:T42 Arg2:T234	
+T235	DISO 9635 9640	apoyo
+R29	Scope Arg1:T43 Arg2:T235	
+T236	DISO 10230 10239	estenosis
+T237	Phrase 10218 10239	condicionar estenosis
+R30	Scope Arg1:T44 Arg2:T237	
+T238	DISO 10308 10332	alteraciones destacables
+R31	Scope Arg1:T45 Arg2:T238	
+T239	DISO 10388 10417	lesiones agudas en parenquima
+T240	Phrase 10380 10417	muestra lesiones agudas en parenquima
+R32	Scope Arg1:T46 Arg2:T240	
+T241	DISO 10952 10960	vértigos
+R33	Scope Arg1:T47 Arg2:T241	
+T242	DISO 11000 11051	síndrome hemisférico izquierdo parcial ( NIHSS 8 ).
+R34	Scope Arg1:T166 Arg2:T242	
+T243	DISO 11386 11420	lesión establecida por neuroimagen
+R35	Scope Arg1:T48 Arg2:T243	
+T244	Phrase 11981 12015	presencia de focalidad neurológica
+R36	Scope Arg1:T49 Arg2:T244	
+T245	DISO 12245 12257	alteraciones
+R37	Scope Arg1:T50 Arg2:T245	
+T246	DISO 12338 12352	complicaciones
+R38	Scope Arg1:T51 Arg2:T246	
+T247	DISO 12606 12628	endocarditis marántica
+T248	DISO 12733 12760	alteraciones significativas
+T249	Phrase 12725 12760	muestra alteraciones significativas
+R40	Scope Arg1:T52 Arg2:T249	
+T250	DISO 12999 13011	leucocitosis
+R41	Scope Arg1:T53 Arg2:T250	
+T251	DISO 13252 13267	de pequeño vaso
+R42	Scope Arg1:T168 Arg2:T251	
+T252	DISO 13437 13461	signos de isquemia aguda
+T253	DISO 13464 13472	sangrado
+T254	Phrase 13428 13472	objetiva signos de isquemia aguda o sangrado
+R43	Scope Arg1:T54 Arg2:T254	
+T255	CoordItem 13462 13463	o
+T256	UncertLexMarker 13889 13904	compatibles con
+T257	DISO 13905 13986	un proceso distónico de la extremidad superior izquierda y más leve de la derecha
+R44	Scope Arg1:T256 Arg2:T257	
+T258	DISO 14350 14362	alteraciones
+R45	Scope Arg1:T55 Arg2:T258	
+T259	DISO 14799 14840	lesiones isquémicas o hemorrágicas agudas
+T260	Phrase 14791 14840	muestra lesiones isquémicas o hemorrágicas agudas
+R46	Scope Arg1:T56 Arg2:T260	
+T57	DISO 17249 17271	etiología hipertensiva
+R47	Scope Arg1:T170 Arg2:T57	
+T58	DISO 17490 17522	pérdida de contacto con el medio
+T261	DISO 17526 17547	movimientos anormales
+T262	Phrase 17490 17547	pérdida de contacto con el medio ni movimientos anormales
+R48	Scope Arg1:T59 Arg2:T262	
+T263	DISO 17601 17621	amnesia del episodio
+R49	Scope Arg1:T60 Arg2:T263	
+T264	DISO 17822 17845	obedece órdenes simples
+R50	Scope Arg1:T61 Arg2:T264	
+T265	DISO 18014 18039	contaminación ventricular
+T266	NegSynMarker 16851 16853	NO
+T267	DISO 16854 16861	MOTORAS
+R51	Scope Arg1:T266 Arg2:T267	
+T268	DISO 18092 18152	aneurisma de arteria comunicante posterior derecha ( ACoP ).
+T269	DISO 18254 18320	congruente con lesión de la vía piramidal en extremidades derechas
+R52	Scope Arg1:T63 Arg2:T269	
+T270	DISO 18676 18700	progresión de la fístula
+T271	Phrase 18668 18700	muestra progresión de la fístula
+R53	Scope Arg1:T64 Arg2:T271	
+T272	DISO 18927 18946	etiología isquémica
+R54	Scope Arg1:T172 Arg2:T272	
+T65	UncertLexMarker 18948 18967	sin poder descartar
+T274	DISO 18968 19031	origen hemodinámico desencadenado por fármacos beta bloqueantes
+R55	Scope Arg1:T65 Arg2:T274	
+T275	DISO 19094 19106	alteraciones
+T276	Phrase 19086 19106	muestra alteraciones
+R56	Scope Arg1:T66 Arg2:T276	
+T277	DISO 19210 19220	complicada
+R57	Scope Arg1:T67 Arg2:T277	
+T278	DISO 19227 19234	trombos
+T279	Phrase 19227 19251	trombos en su superficie
+R58	Scope Arg1:T68 Arg2:T279	
+T280	DISO 19479 19483	FOCO
+R59	Scope Arg1:T69 Arg2:T280	
+T281	DISO 21012 21031	etiología isquémica
+R60	Scope Arg1:T173 Arg2:T281	
+T282	DISO 21758 21764	motora
+R61	Scope Arg1:T70 Arg2:T282	
+T283	DISO 22301 22353	el diagnóstico de calambre del escribiente distónico
+R62	Scope Arg1:T174 Arg2:T283	
+T284	DISO 22377 22403	patología grave subyacente
+T285	Phrase 22377 22447	patología grave subyacente que requiera ingreso para completar estudio
+R63	Scope Arg1:T71 Arg2:T285	
+T286	DISO 22851 22873	ENDOCARDITIS MARÁNTICA
+R64	Scope Arg1:T175 Arg2:T286	
+T287	DISO 23767 23790	endocarditis infecciosa
+R65	Scope Arg1:T177 Arg2:T287	
+T288	DISO 23695 23705	vegetación
+R66	Scope Arg1:T176 Arg2:T288	
+T149	DISO 24560 24563	TEP
+R67	Scope Arg1:T178 Arg2:T149	
+T289	DISO 24996 25004	diplopía
+T290	Phrase 24988 25004	refiere diplopía
+R68	Scope Arg1:T72 Arg2:T290	
+T291	DISO 25028 25048	déficit campimétrico
+T293	DISO 25079 25087	déficits
+T295	DISO 25104 25130	focalidad sensitivo-motora
+T296	DISO 25724 25750	lesiones isquémicas agudas
+T297	Phrase 25712 25750	se observan lesiones isquémicas agudas
+R69	Scope Arg1:T76 Arg2:T297	
+T298	PROC 26031 26041	urocultivo
+R70	Scope Arg1:T150 Arg2:T298	
+T299	PROC 26309 26329	Etanolemia en sangre
+R71	Scope Arg1:T151 Arg2:T299	
+T300	SUBS 26814 26825	antibiótico
+T301	Phrase 26833 26841	recuerda
+R72	DiscScope Arg1:T77 Arg2:T300	
+R73	DiscScope Arg1:T77 Arg2:T301	
+T152	DISO 27240 27255	hepatotoxicidad
+R74	Scope Arg1:T179 Arg2:T152	
+T302	Phrase 27493 27568	serologías de virus hepatotropos, virus atípicos y estudio de autoinmunidad
+R75	Scope Arg1:T153 Arg2:T302	
+T304	DISO 27720 27744	positividad para antiLKM
+R76	Scope Arg1:T180 Arg2:T304	
+T305	SUBS 27746 27766	resto de anticuerpos
+R77	Scope Arg1:T154 Arg2:T305	
+T306	DISO 27864 27905	otras descompensaciones de su hepatopatía
+T307	Phrase 27856 27905	realizó otras descompensaciones de su hepatopatía
+R78	Scope Arg1:T78 Arg2:T307	
+T308	DISO 28369 28399	elevación de las transaminasas
+R79	Scope Arg1:T79 Arg2:T308	
+T309	DISO 28808 28817	infección
+T310	Phrase 28798 28817	signos de infección
+R80	Scope Arg1:T80 Arg2:T310	
+T311	SUBS 28960 28965	AINEs
+T312	DISO 28970 28980	malignidad
+T313	DISO 28984 28992	HP en AP
+T314	Phrase 28970 28992	malignidad ni HP en AP
+R81	Scope Arg1:T81 Arg2:T314	
+T315	Phrase 28945 28965	en contexto de AINEs
+R82	Scope Arg1:T181 Arg2:T315	
+T316	DISO 29079 29108	respuesta aguda a propranolol
+R83	Scope Arg1:T82 Arg2:T316	
+T317	DISO 29310 29319	infectado
+T318	DISO 29539 29544	dolor
+T319	Phrase 29531 29544	refería dolor
+R84	Scope Arg1:T84 Arg2:T319	
+T182	DISO 30012 30042	reaparición de foco infeccioso
+R85	Scope Arg1:T85 Arg2:T182	
+T320	PROC 30045 30063	urocultivo control
+R86	Scope Arg1:T155 Arg2:T320	
+T321	DISO 30077 30085	flebitis
+T322	DISO 30089 30111	infección respiratoria
+T323	Phrase 30077 30111	flebitis ni infección respiratoria
+R87	Scope Arg1:T86 Arg2:T323	
+T324	DISO 30176 30188	leucocitosis
+R88	Scope Arg1:T87 Arg2:T324	
+T325	DISO 30560 30574	condensaciones
+T326	Phrase 30552 30574	muestra condensaciones
+R89	Scope Arg1:T88 Arg2:T326	
+T327	DISO 30607 30619	aislamientos
+R90	Scope Arg1:T89 Arg2:T327	
+T328	Phrase 30873 30892	signos de infección
+R91	Scope Arg1:T90 Arg2:T328	
+T329	DISO 31324 31333	trombosis
+T330	Phrase 31314 31333	objetivar trombosis
+R92	Scope Arg1:T91 Arg2:T330	
+T331	Phrase 31616 31641	signos de sangrado activo
+R93	Scope Arg1:T92 Arg2:T331	
+T332	PROC 31785 31821	Las serologías para VHS1, VHS2 y VVZ
+R94	Scope Arg1:T156 Arg2:T332	
+T333	DISO 31937 31954	síndrome de sweet
+R95	Scope Arg1:T183 Arg2:T333	
+T334	DISO 32198 32211	significativo
+R96	Scope Arg1:T93 Arg2:T334	
+T335	SUBS 32502 32521	proteínas de 19 g/L
+R97	Scope Arg1:T184 Arg2:T463	
+T336	DISO 32702 32709	ascitis
+T337	DISO 32713 32742	edemas de miembros inferiores
+T338	Phrase 32702 32742	ascitis ni edemas de miembros inferiores
+R98	Scope Arg1:T94 Arg2:T338	
+T339	NegLexMarker 32836 32844	descarta
+T340	Phrase 32845 32868	la presencia de líquido
+R99	Scope Arg1:T339 Arg2:T340	
+T341	DISO 33011 33018	ascitis
+R100	Scope Arg1:T95 Arg2:T341	
+T342	DISO 33144 33153	agregados
+R101	Scope Arg1:T97 Arg2:T342	
+T343	DISO 33099 33105	soplos
+R102	Scope Arg1:T96 Arg2:T343	
+T344	Phrase 33652 33672	JAK2 y calreticulina
+R103	Scope Arg1:T157 Arg2:T344	
+T345	DISO 34262 34293	trombosis del eje esplenoportal
+R104	Scope Arg1:T98 Arg2:T345	
+T346	DISO 34384 34410	lesiones focales hepáticas
+R105	Scope Arg1:T99 Arg2:T346	
+T347	DISO 34615 34629	sintomatología
+T348	Phrase 34606 34645	presenta sintomatología en este momento
+R106	Scope Arg1:T100 Arg2:T348	
+T349	SUBS 34681 34692	antibiótico
+T350	Phrase 34661 34692	iniciar tratamiento antibiótico
+R107	Scope Arg1:T101 Arg2:T350	
+T351	DISO 34726 34764	otras descompensaciones de su cirrosis
+T352	Phrase 34717 34764	presenta otras descompensaciones de su cirrosis
+R108	Scope Arg1:T102 Arg2:T352	
+T353	DISO 34918 34925	flaping
+R109	Scope Arg1:T103 Arg2:T353	
+T354	DISO 35936 35959	verbaliza alucinaciones
+R110	Scope Arg1:T104 Arg2:T354	
+T355	DISO 36296 36328	descompensaciones de su cirrosis
+R111	Scope Arg1:T105 Arg2:T355	
+T356	DISO 36461 36468	atipias
+R112	Scope Arg1:T106 Arg2:T356	
+T357	DISO 36829 36836	exudado
+R113	Scope Arg1:T185 Arg2:T357	
+T358	Phrase 37520 37545	signos de sangrado activo
+R114	Scope Arg1:T107 Arg2:T358	
+T359	OTHER 37560 37577	se actúa sobre él
+R115	Scope Arg1:T108 Arg2:T359	
+T360	DISO 37966 37996	hipertensión portal idiopática
+R116	Scope Arg1:T186 Arg2:T360	
+T361	DISO 38089 38114	descompensaciones previas
+R117	Scope Arg1:T109 Arg2:T361	
+T362	PROC 38928 38967	Las serologías para VHA, VHB, VHC y VIH
+R118	Scope Arg1:T158 Arg2:T362	
+T363	DISO 39392 39403	incidencias
+R119	Scope Arg1:T110 Arg2:T363	
+T111	Phrase 39696 39712	signos infección
+R120	Scope Arg1:T112 Arg2:T111	
+T113	DISO 40293 40302	hemolisis
+T364	DISO 40351 40358	elevada
+R122	Scope Arg1:T115 Arg2:T364	
+T365	PROC 40360 40387	coombs directo e indirectos
+R121	Scope Arg1:T159 Arg2:T365	
+T366	Phrase 40283 40302	signos de hemolisis
+R123	Scope Arg1:T114 Arg2:T366	
+T367	DISO 40533 40541	elevados
+R124	Scope Arg1:T116 Arg2:T367	
+T368	DISO 40674 40681	flaping
+R125	Scope Arg1:T117 Arg2:T368	
+T369	PROC 40758 40797	Las serologías para VHA, VHB, VHC y VHE
+R126	Scope Arg1:T160 Arg2:T369	
+T370	DISO 40922 40925	tos
+T371	DISO 40927 40942	dolor abdominal
+T372	DISO 40946 40963	clínica miccional
+T373	Phrase 40922 40963	tos, dolor abdominal ni clínica miccional
+R127	Scope Arg1:T118 Arg2:T373	
+T374	DISO 41397 41426	estigmas de sangrado reciente
+R128	Scope Arg1:T119 Arg2:T374	
+T375	UncertLexMarker 41834 41839	clara
+T376	DISO 41828 41833	causa
+T378	Phrase 42303 42334	signos de encefalpatía hepática
+R131	Scope Arg1:T121 Arg2:T378	
+T379	DISO 42576 42588	leucocitosis
+R132	Scope Arg1:T122 Arg2:T379	
+T380	PROC 42726 42754	cultivos seriados de control
+R133	Scope Arg1:T161 Arg2:T380	
+T381	DISO 42895 42913	clínica infecciosa
+R134	Scope Arg1:T123 Arg2:T381	
+T382	OTHER 43226 43262	tributaria de un trasplante hepático
+T383	Phrase 43223 43295	es tributaria de un trasplante hepático por contraindicaciones absolutas
+R135	Scope Arg1:T124 Arg2:T383	
+T384	DISO 43452 43461	infectado
+R136	Scope Arg1:T125 Arg2:T384	
+T385	PROC 43695 43712	resto de cultivos
+R137	Scope Arg1:T162 Arg2:T385	
+T386	Phrase 43937 43968	datos de encefalopatía hepática
+R138	Scope Arg1:T126 Arg2:T386	
+T387	DISO 44269 44283	condensaciones
+R139	Scope Arg1:T127 Arg2:T387	
+T388	DISO 44289 44301	leucocitúria
+R140	Scope Arg1:T128 Arg2:T388	
+T389	DISO 44386 44397	crecimiento
+R141	Scope Arg1:T129 Arg2:T389	
+T390	DISO 44831 44838	mejoría
+R142	Scope Arg1:T130 Arg2:T390	
+T391	DISO 45241 45279	otras descompensaciones de su cirrosis
+T392	Phrase 45233 45279	realiza otras descompensaciones de su cirrosis
+R143	Scope Arg1:T131 Arg2:T392	
+T393	DISO 46283 46290	ascitis
+R144	Scope Arg1:T132 Arg2:T393	
+T394	DISO 46743 46761	edemas periféricos
+R145	Scope Arg1:T133 Arg2:T394	
+T395	DISO 46766 46774	flapping
+R146	Scope Arg1:T134 Arg2:T395	
+T396	DISO 47072 47082	patológico
+R147	Scope Arg1:T135 Arg2:T396	
+T397	DISO 47110 47124	condensaciones
+R148	Scope Arg1:T136 Arg2:T397	
+T398	Phrase 47544 47562	signos de sangrado
+R149	Scope Arg1:T137 Arg2:T398	
+T399	DISO 47579 47604	otras lesiones sangrantes
+T400	Phrase 47567 47604	se observan otras lesiones sangrantes
+R150	Scope Arg1:T138 Arg2:T400	
+T139	DISO 47690 47722	hepatitis alcohólica grave aguda
+T401	PROC 48146 48164	perforación por TC
+R152	Scope Arg1:T188 Arg2:T401	
+R129	DiscMarker Arg1:T120 Arg2:T375	
+T377	Phrase 41822 41833	halla causa
+R130	Scope Arg1:T375 Arg2:T377	
+T402	CoordItem 1158 1159	y
+R153	Scope Arg1:T20 Arg2:T201	
+T403	UncertLexMarker 3670 3685	Se orienta como
+T404	DISO 3686 3703	HSA aneurismática
+R154	Scope Arg1:T403 Arg2:T404	
+R155	Scope Arg1:T26 Arg2:T210	
+T405	UncertLexMarker 5166 5181	Se orienta como
+T406	DISO 5182 5219	ictus isquémico en territorio de ACMI
+R156	Scope Arg1:T405 Arg2:T423	
+T407	UncertLexMarker 5420 5435	Se orienta como
+T408	DISO 5436 5500	ictus isquémico en territorio de ACMI de etiología indeterminada
+R157	Scope Arg1:T407 Arg2:T408	
+T409	NegLexMarker 6184 6196	se desestima
+T410	PROC 6197 6214	nuevo tratamiento
+R158	Scope Arg1:T409 Arg2:T410	
+T411	UncertLexMarker 6915 6930	Se orienta como
+T412	DISO 6931 7002	ictus en territorio de ACAI y ACMI de probable etiología cardioembólica
+R159	Scope Arg1:T411 Arg2:T412	
+T413	OTHER 8791 8829	filiar la etiología del cuadro clínico
+T414	UncertLexMarker 9118 9133	se orienta como
+T415	Phrase 9134 9159	posible crisis epiléptica
+R25	Scope Arg1:T414 Arg2:T415	
+T416	UncertLexMarker 11158 11173	Se orienta como
+T417	DISO 11174 11207	focalidad neurológica paroxística
+R160	Scope Arg1:T416 Arg2:T424	
+T418	UncertLexMarker 11313 11328	se orienta como
+T419	Phrase 11329 11470	primera opción de accidentes isquémicos transitorios sin lesión establecida por neuroimagen en paciente con factores de riesgo cardiovascular
+R161	Scope Arg1:T418 Arg2:T419	
+T420	DISO 11994 12015	focalidad neurológica
+T421	UncertLexMarker 12581 12596	Se orienta como
+T422	Phrase 12597 12669	probable endocarditis marántica en contexto a lesión pulmonar en estudio
+R39	Scope Arg1:T421 Arg2:T422	
+T423	Phrase 5182 5286	ictus isquémico en territorio de ACMI en paciente con fibrilación auricular con anticoagulación en rango
+T424	Phrase 11174 11299	focalidad neurológica paroxística en paciente fibrilación auricular anticoagulada y alteración metabólica por debut diabético
+T425	UncertLexMarker 13087 13102	Se orienta como
+T426	DISO 13103 13140	crisis de migraña con aura prolongada
+R162	Scope Arg1:T425 Arg2:T426	
+T427	UncertLexMarker 13179 13194	Se orienta como
+T428	DISO 13195 13267	un ictus isquémico en territorio posterior probablemente de pequeño vaso
+R163	Scope Arg1:T427 Arg2:T428	
+T429	NegLexMarker 15330 15342	se desestima
+T430	DISO 15343 15358	la fibrinólisis
+R164	Scope Arg1:T429 Arg2:T430	
+T431	NegLexMarker 15938 15950	se desestima
+T432	PROC 15951 15973	tratamiento quirúrgico
+R165	Scope Arg1:T431 Arg2:T432	
+T433	UncertLexMarker 16153 16173	no puede descartarse
+R1	Scope Arg1:T433 Arg2:T190	
+T434	UncertLexMarker 16061 16076	Se orienta como
+T435	DISO 16077 16144	ictus isquémico en territorio de la ACMI de etiología indeterminada
+R166	Scope Arg1:T434 Arg2:T435	
+T436	UncertLexMarker 17206 17221	Se orienta como
+T437	DISO 17222 17271	hematoma lobar de probable etiología hipertensiva
+T438	Phrase 17222 17324	hematoma lobar de probable etiología hipertensiva en paciente con hipertensión arterial mal controlada
+R167	Scope Arg1:T436 Arg2:T438	
+R168	Scope Arg1:T62 Arg2:T265	
+R169	Scope Arg1:T171 Arg2:T268	
+T439	UncertLexMarker 18870 18885	Se orienta como
+T440	DISO 18886 18946	síndrome hemimotor regresivo de probable etiología isquémica
+R170	Scope Arg1:T439 Arg2:T440	
+T273	UncertLexMarker 19254 19269	Se orienta como
+T441	Phrase 19270 19378	hematoma lobar frontal derecho de etiología hipertensiva en paciente con hipertensión arteria mal controlada
+T442	DISO 19270 19326	hematoma lobar frontal derecho de etiología hipertensiva
+R171	Scope Arg1:T273 Arg2:T441	
+T443	UncertLexMarker 20957 20972	Se orienta como
+T444	DISO 20973 21031	paresia de lIII pc derecho de probable etiología isquémica
+R172	Scope Arg1:T443 Arg2:T444	
+R173	Scope Arg1:T75 Arg2:T295	
+T292	UncertLexMarker 25088 25097	aparentes
+T294	UncertLexMarker 25049 25057	aparente
+R174	DiscMarker Arg1:T73 Arg2:T294	
+R175	Scope Arg1:T294 Arg2:T291	
+R176	DiscMarker Arg1:T74 Arg2:T292	
+R177	Scope Arg1:T292 Arg2:T293	
+T445	NegLexMarker 23795 23804	se retiró
+T446	SUBS 23729 23740	antibiótico
+T447	Phrase 23717 23740	tratamiento antibiótico
+T448	Phrase 23805 23843	por resultado negativo de hemocultivos
+R178	DiscScope Arg1:T445 Arg2:T447	
+R179	DiscScope Arg1:T445 Arg2:T448	
+T449	UncertLexMarker 24070 24085	Se orienta como
+T450	DISO 24086 24153	ictus isquémico en territorio de la ACMD de etiología indeterminada
+T451	Phrase 24086 24176	ictus isquémico en territorio de la ACMD de etiología indeterminada por estudio incompleto
+R180	Scope Arg1:T449 Arg2:T451	
+T303	PROC 27493 27541	serologías de virus hepatotropos, virus atípicos
+T452	PROC 27544 27568	estudio de autoinmunidad
+T453	CoordItem 27542 27543	y
+R181	Scope Arg1:T83 Arg2:T317	
+T454	NegLexMarker 29803 29814	retirada de
+T455	SUBS 29815 29829	los diuréticos
+R182	Scope Arg1:T454 Arg2:T455	
+T456	DISO 30883 30892	infección
+T457	DISO 31626 31641	sangrado activo
+T458	NegLexMarker 31967 31978	se suspende
+T459	SUBS 31979 31988	aciclovir
+R183	Scope Arg1:T458 Arg2:T459	
+T460	SUBS 32522 32534	glucosa alta
+T461	SUBS 32537 32571	células de 400 ( 81 % macrofagos )
+T462	CoordItem 32535 32536	y
+T463	Phrase 32502 32571	proteínas de 19 g/L glucosa alta y células de 400 ( 81 % macrofagos )
+T464	DISO 32861 32868	líquido
+T465	PROC 33652 33656	JAK2
+T466	PROC 33659 33672	calreticulina
+T467	CoordItem 33657 33658	y
+T468	NegLexMarker 35546 35562	desaparición del
+T469	DISO 35563 35573	infiltrado
+T470	Phrase 35563 35602	infiltrado en la radiografía de control
+T471	DISO 37530 37545	sangrado activo
+T472	UncertLexMarker 39031 39041	Se orienta
+T473	DISO 39057 39089	encefalopatía hepática grado III
+T474	Phrase 39042 39089	el cuadro como encefalopatía hepática grado III
+R184	Scope Arg1:T472 Arg2:T474	
+T475	NegLexMarker 39606 39615	Se retiró
+T476	DISO 39703 39712	infección
+T477	Phrase 39616 39637	tratamiento diurético
+T478	SUBS 39628 39637	diurético
+R185	Scope Arg1:T475 Arg2:T477	
+T147	UncertLexMarker 41112 41121	Orientada
+T479	DISO 41140 41198	encefalopatía secundaria a deshidratación por las diarreas
+T480	Phrase 41122 41198	inicialmente como encefalopatía secundaria a deshidratación por las diarreas
+R186	Scope Arg1:T147 Arg2:T480	
+T481	NegLexMarker 41993 42005	retirada del
+T482	DISO 42313 42334	encefalpatía hepática
+T483	PROC 42006 42017	tratamiento
+R187	Scope Arg1:T481 Arg2:T483	
+T484	NegLexMarker 42795 42806	retirada de
+T485	SUBS 42819 42830	antibiótico
+T486	Phrase 42807 42830	tratamiento antibiótico
+R188	Scope Arg1:T484 Arg2:T486	
+T487	DISO 43946 43968	encefalopatía hepática
+T488	NegLexMarker 44400 44405	Niega
+T489	OTHER 44406 44427	toma de herboristería
+T490	OTHER 44429 44458	relaciones sexuales de riesgo
+T491	OTHER 44461 44528	toma de otro medicamento fuera de los ya mencionados y levotiroxina
+T492	Phrase 44406 44528	toma de herboristería, relaciones sexuales de riesgo o toma de otro medicamento fuera de los ya mencionados y levotiroxina
+R189	Scope Arg1:T488 Arg2:T492	
+T493	DISO 47554 47562	sangrado
+T494	UncertLexMarker 47665 47680	Se orientó como
+T495	Phrase 47681 47722	probable hepatitis alcohólica grave aguda
+R151	Scope Arg1:T494 Arg2:T495	
+T496	DISO 11329 11420	primera opción de accidentes isquémicos transitorios sin lesión establecida por neuroimagen

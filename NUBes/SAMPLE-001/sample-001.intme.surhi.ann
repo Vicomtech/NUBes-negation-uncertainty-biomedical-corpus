@@ -1,0 +1,6 @@
+T1	NegSynMarker 115 118	sin
+T2	Phrase 119 170	signos de metástasis a distancia y/o carcinomatosis
+T3	DISO 129 151	metástasis a distancia
+T4	CoordItem 152 155	y/o
+T5	DISO 156 170	carcinomatosis
+R1	Scope Arg1:T1 Arg2:T2

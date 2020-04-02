@@ -1,0 +1,34 @@
+T1	NegLexMarker 282 293	retirada de
+T2	OTHER 294 316	infusor quimioterapico
+T3	NegLexMarker 849 860	retirada de
+T4	OTHER 861 871	infusor QT
+T5	NegLexMarker 925 933	suspende
+T6	SUBS 934 946	clopidroglel
+T7	UncertLexMarker 1436 1449	sugestivas de
+T8	DISO 1450 1461	TVP gemelar
+T9	UncertLexMarker 1772 1783	sospecha de
+T10	DISO 1784 1806	dehiscencia de suturas
+T11	UncertLexMarker 2640 2648	Probable
+T12	DISO 2649 2669	pancreatitis crónica
+T13	NegSynMarker 3186 3188	no
+T14	DISO 3189 3213	aumento de edema inicial
+T15	NegMorMarker 3695 3705	inoperable
+T16	UncertLexMarker 3952 3963	sospecha de
+T17	DISO 3964 3970	sepsis
+T18	NegSynMarker 4078 4081	sin
+T19	DISO 4082 4093	incidencias
+T20	NegSynMarker 4130 4133	sin
+T21	PROC 4134 4178	pruebas completarioas para estudio de anemia
+T22	NegSynMarker 4398 4400	no
+T23	DISO 4401 4424	respuesta a hierro oral
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T22 Arg2:T23

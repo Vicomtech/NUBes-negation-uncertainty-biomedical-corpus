@@ -1,0 +1,6 @@
+T1	NegSynMarker 132 134	no
+T2	Phrase 135 160	realizar trabajos pesados
+T3	UncertLexMarker 197 203	podría
+T4	Phrase 204 225	precisar baja laboral
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2

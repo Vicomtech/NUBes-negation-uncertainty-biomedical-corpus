@@ -1,0 +1,4 @@
+T1	UncertLexMarker 40 48	probable
+T2	Phrase 49 75	ca. basocelular raiz nasal
+T3	DISO 49 64	ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2

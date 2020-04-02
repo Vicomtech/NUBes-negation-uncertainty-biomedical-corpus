@@ -1,0 +1,89 @@
+T1	UncertLexMarker 245 256	sospecha de
+T2	DISO 257 279	artritis aguda septica
+T3	NegSynMarker 282 284	No
+T4	Phrase 285 369	se objetivan herniaciones discales , compresiones radiculares ni estenosis del canal
+T5	DISO 298 319	herniaciones discales
+T6	DISO 322 346	compresiones radiculares
+T7	CoordItem 347 349	ni
+T8	DISO 350 369	estenosis del canal
+T9	NegSynMarker 973 976	sin
+T10	Phrase 977 1005	evidencia de rotura meniscal
+T11	DISO 990 1005	rotura meniscal
+T12	UncertLexMarker 1644 1652	posibles
+T13	DISO 1653 1677	antecedentes quirúrgicos
+T14	UncertLexMarker 1680 1700	No sepuede descartar
+T15	DISO 1701 1742	reaccion inflamatoria a acido hialuronico
+T16	UncertLexMarker 1831 1842	Orientación
+T17	NegSynMarker 1857 1860	Sin
+T18	Phrase 1857 1893	Sin afectación de la raíz L4 derecha
+T19	DISO 1861 1893	afectación de la raíz L4 derecha
+T20	UncertLexMarker 2016 2024	probable
+T21	DISO 2025 2064	colección hemática paralumbar izquierda
+T22	UncertLexMarker 2067 2088	No se puede descartra
+T23	DISO 2089 2099	a. septica
+T24	UncertLexMarker 2433 2444	Orientación
+T25	DISO 2459 2489	Acromion con morfología tipo 2
+T26	PROC 2879 2887	Cultivos
+T27	NegLexMarker 2888 2897	negativos
+T28	UncertLexMarker 3002 3013	Sospecha de
+T29	DISO 3014 3049	artritis septica germen no conocido
+T30	NegSynMarker 3038 3040	no
+T31	DISO 3041 3049	conocido
+T32	UncertLexMarker 3155 3166	Orientación
+T33	DISO 3181 3313	Fractura compleja-impactación del troquíter humeral , con fragmento de gran tamaño impactado y pequeños fragmentos óseos desplazados
+T34	NegSynMarker 3366 3369	Sin
+T35	DISO 3370 3385	fracturas óseas
+T36	NegSynMarker 3446 3449	sin
+T37	Phrase 3450 3493	evidencia de roturas o luxaciones del mismo
+T38	DISO 3463 3493	roturas o luxaciones del mismo
+T39	UncertLexMarker 3607 3617	valorar si
+T40	Phrase 3618 3624	seguir
+T41	UncertLexMarker 3625 3629	o no
+T42	Phrase 3630 3656	el tratamiento antibiotico
+T43	SUBS 3645 3656	antibiotico
+T44	NegSynMarker 4287 4289	no
+T45	DISO 4290 4300	corregible
+T46	NegSynMarker 4573 4575	no
+T47	DISO 4576 4588	hiperintenso
+T48	NegSynMarker 4913 4915	no
+T49	Phrase 4916 4938	presentan alteraciones
+T50	DISO 4926 4938	alteraciones
+T51	UncertLexMarker 4941 4952	Orientación
+T52	DISO 4967 5088	Alteración morfológica con multifragmentación de menisco interno compatible con meniscectomía o rotura compleja del mismo
+T53	PolItem 5032 5046	compatible con
+T54	UncertLexMarker 5107 5120	muy sugestiva
+T55	DISO 5121 5130	infección
+T56	NegLexMarker 5133 5144	suspendemos
+T57	Phrase 5145 5204	fase de leucos marcados debido a la dificultad que presenta
+T58	PROC 5145 5168	fase de leucos marcados
+T59	UncertLexMarker 5487 5499	sugestivo de
+T60	Phrase 5500 5570	meniscectomía y/o rotura compleja del menisco a nivel de ambos cuernos
+T61	DISO 5500 5513	meniscectomía
+T62	CoordItem 5514 5517	y/o
+T63	DISO 5518 5570	rotura compleja del menisco a nivel de ambos cuernos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T17 Arg2:T19
+R7	Scope Arg1:T16 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T27 Arg2:T26
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T34 Arg2:T35
+R16	Scope Arg1:T36 Arg2:T37
+R17	DiscMarker Arg1:T39 Arg2:T41
+R18	DiscScope Arg1:T41 Arg2:T40
+R19	DiscScope Arg1:T41 Arg2:T42
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T46 Arg2:T47
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T56 Arg2:T57
+R26	Scope Arg1:T59 Arg2:T60

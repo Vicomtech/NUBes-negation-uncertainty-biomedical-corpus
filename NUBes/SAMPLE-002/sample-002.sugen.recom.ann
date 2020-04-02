@@ -1,0 +1,7 @@
+T1	NegLexMarker 930 939	suspender
+T2	PROC 940 956	este tratamiento
+T3	NegLexMarker 1826 1837	Se suspende
+T4	Phrase 1838 1881	del tratamiento la Espironolactona de 25 mg
+T5	SUBS 1854 1881	la Espironolactona de 25 mg
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

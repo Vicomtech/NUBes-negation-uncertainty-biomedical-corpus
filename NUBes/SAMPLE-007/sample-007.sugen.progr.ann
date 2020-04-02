@@ -1,0 +1,159 @@
+T1	UncertLexMarker 197 209	muy probable
+T2	DISO 210 235	origen en el absceso anal
+T3	Phrase 356 403	episodios de tiritonas hasta el dia 22 de marzo
+T4	DISO 369 378	tiritonas
+T5	NegLexMarker 411 427	han desaparecido
+T6	NegSynMarker 519 522	sin
+T7	DISO 523 541	sintomas generales
+T8	NegSynMarker 563 565	no
+T9	Phrase 566 605	ha presentado nuevos signos de sangrado
+T10	DISO 597 605	sangrado
+T11	NegLexMarker 738 753	desaparición de
+T12	DISO 754 761	absceso
+T13	DISO 1025 1033	El dolor
+T14	NegLexMarker 1034 1038	cede
+T15	Phrase 1039 1085	con analgesia habitual a las horas del ingreso
+T16	NegSynMarker 1243 1245	no
+T17	Phrase 1246 1291	presenta signos infecciosos en ningún momento
+T18	DISO 1255 1273	signos infecciosos
+T19	PolItem 1277 1283	ningún
+T20	NegSynMarker 1631 1633	no
+T21	Phrase 1634 1681	se ha localizado posible causa litiasica biliar
+T22	DISO 1659 1681	causa litiasica biliar
+T23	UncertLexMarker 1684 1699	sin descartarla
+T24	NegLexMarker 1946 1957	Se descarta
+T25	DISO 1958 1994	un origen neoplásico de la estenosis
+T26	NegLexMarker 2120 2124	Cede
+T27	Phrase 2125 2140	espontáneamente
+T28	NegSynMarker 2143 2146	sin
+T29	DISO 2147 2179	repercusión clínica ni analítica
+T30	CoordItem 2167 2169	ni
+T31	NegSynMarker 2236 2238	no
+T32	Phrase 2239 2271	acostarse despues de las comidas
+T33	NegSynMarker 2274 2276	no
+T34	Phrase 2277 2308	llevar ropa ajustada en abdomen
+T35	DISO 2553 2584	Prurito vaginal por candidiasis
+T36	UncertLexMarker 2585 2586	?
+T37	NegSynMarker 3719 3721	no
+T38	DISO 3722 3756	mejora con tratamiento conservador
+T39	NegLexMarker 3866 3875	imposible
+T40	PROC 3876 3904	colocar un stent endoscópico
+T41	NegMorMarker 4212 4219	afebril
+T42	NegSynMarker 4240 4243	sin
+T43	Phrase 4244 4264	signos de resangrado
+T44	DISO 4254 4264	resangrado
+T45	NegSynMarker 4514 4516	no
+T46	Phrase 4517 4548	presentando retención purulenta
+T47	DISO 4529 4548	retención purulenta
+T48	NegSynMarker 4615 4618	sin
+T49	Phrase 4619 4642	evidenciar complicación
+T50	DISO 4630 4642	complicación
+T51	NegMorMarker 4672 4679	afebril
+T52	NegMorMarker 4826 4833	afebril
+T53	UncertLexMarker 5182 5188	dudosa
+T54	DISO 5189 5201	colecistitis
+T55	NegSynMarker 5333 5335	no
+T56	OTHER 5336 5346	precisable
+T57	NegSynMarker 5717 5719	no
+T58	OTHER 5720 5740	es necesraio ingreso
+T59	UncertLexMarker 5820 5831	sospecha de
+T60	DISO 5832 5852	cólico renal derecho
+T61	NegSynMarker 5862 5864	no
+T62	Phrase 5865 5956	se logra identificar imagen de litiasis en las pruebas de imagen complementarias realizadas
+T63	DISO 5896 5904	litiasis
+T64	UncertLexMarker 6020 6028	probable
+T65	DISO 6029 6070	relación a su situación personal familiar
+T66	UncertLexMarker 6453 6460	posible
+T67	DISO 6461 6480	origen diverticular
+T68	NegLexMarker 6772 6780	cediendo
+T69	DISO 6781 6789	el dolor
+T70	NegMorMarker 6806 6813	afebril
+T71	NegMorMarker 7080 7087	afebril
+T72	NegMorMarker 7234 7246	asintomática
+T73	NegMorMarker 7480 7487	afebril
+T74	NegLexMarker 7549 7557	descarta
+T75	DISO 7558 7586	complicación de su neoplasia
+T76	NegSynMarker 7606 7609	sin
+T77	DISO 7610 7618	sangrado
+T78	NegSynMarker 7868 7870	no
+T79	Phrase 7871 7903	se ha comprobado dolor abdominal
+T80	DISO 7888 7903	dolor abdominal
+T81	NegMorMarker 8187 8199	asintomática
+T82	NegSynMarker 8287 8289	no
+T83	OTHER 8290 8329	se resuelve con tratameinto conservador
+T84	UncertLexMarker 8332 8343	sospechando
+T85	DISO 8344 8374	brida estenosante en asa ciega
+T86	NegSynMarker 8444 8447	sin
+T87	DISO 8448 8473	complicaciones inmediatas
+T88	NegSynMarker 8884 8887	sin
+T89	Phrase 8888 8939	que se observaran ningun foco infeccioso secundario
+T90	PolItem 8906 8912	ningun
+T91	DISO 8913 8939	foco infeccioso secundario
+T92	NegSynMarker 8961 8963	no
+T93	Phrase 8964 8991	ha tenido clínica digestiva
+T94	DISO 8974 8991	clínica digestiva
+T95	NegMorMarker 9075 9087	asintomática
+T96	NegSynMarker 9106 9109	sin
+T97	DISO 9110 9116	fiebre
+T98	Phrase 9110 9149	fiebre , ni dolor abdominal ni diarreas
+T99	CoordItem 9119 9121	ni
+T100	DISO 9122 9137	dolor abdominal
+T101	CoordItem 9138 9140	ni
+T102	DISO 9141 9149	diarreas
+T103	PROC 9316 9332	Cultivo de orina
+T104	NegLexMarker 9333 9341	negativo
+T105	NegMorMarker 9415 9422	afebril
+T106	NegSynMarker 9690 9692	no
+T107	Phrase 9693 9722	quiere tratamientos agresivos
+T108	PROC 9700 9722	tratamientos agresivos
+T109	NegSynMarker 10352 10354	no
+T110	OTHER 10355 10365	precisable
+T111	NegSynMarker 10548 10550	no
+T112	Phrase 10551 10574	se realiza Gastroscopia
+T113	PROC 10562 10574	Gastroscopia
+T114	NegMorMarker 10636 10643	afebril
+T115	NegSynMarker 10646 10649	sin
+T116	DISO 10650 10665	dolor abdominal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T5 Arg2:T3
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T14 Arg2:T15
+R7	DiscScope Arg1:T14 Arg2:T13
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T23 Arg2:T22
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T36 Arg2:T35
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T53 Arg2:T54
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T59 Arg2:T60
+R27	Scope Arg1:T64 Arg2:T65
+R28	Scope Arg1:T66 Arg2:T67
+R29	Scope Arg1:T68 Arg2:T69
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T82 Arg2:T83
+R35	Scope Arg1:T86 Arg2:T87
+R36	Scope Arg1:T88 Arg2:T89
+R37	Scope Arg1:T92 Arg2:T93
+R38	Scope Arg1:T96 Arg2:T98
+R39	Scope Arg1:T104 Arg2:T103
+R40	Scope Arg1:T106 Arg2:T107
+R41	Scope Arg1:T109 Arg2:T110
+R42	Scope Arg1:T111 Arg2:T112
+R43	Scope Arg1:T115 Arg2:T116

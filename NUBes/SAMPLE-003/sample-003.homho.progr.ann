@@ -1,0 +1,306 @@
+T1	NegMorMarker 47 54	Afebril
+T2	NegLexMarker 143 148	Niega
+T3	DISO 149 172	sintomatología urinaria
+T4	NegLexMarker 175 180	niega
+T5	DISO 181 240	sintomatología gastrointestinal ni de otro tipo acompañante
+T6	NegSynMarker 558 560	no
+T7	OTHER 561 570	sale nada
+T8	NegMorMarker 726 738	asintomática
+T9	NegMorMarker 741 748	afebril
+T10	NegSynMarker 801 803	no
+T11	Phrase 804 847	han vuelto a aparecer nuevos picos febriles
+T12	DISO 826 847	nuevos picos febriles
+T13	NegSynMarker 875 877	no
+T14	Phrase 878 908	realizamos terapia antibiótica
+T15	PROC 889 908	terapia antibiótica
+T16	NegSynMarker 1247 1250	sin
+T17	Phrase 1251 1283	llegar a realizar picos febriles
+T18	DISO 1269 1283	picos febriles
+T19	NegSynMarker 1820 1822	No
+T20	Phrase 1823 1867	disponemos de estudios previos para comparar
+T21	OTHER 1837 1867	estudios previos para comparar
+T22	NegSynMarker 2384 2387	sin
+T23	DISO 2388 2393	dolor
+T24	SUBS 2856 2865	midazolan
+T25	Phrase 2856 2885	midazolan , sinogan y morfina
+T26	SUBS 2868 2875	sinogan
+T27	SUBS 2878 2885	morfina
+T28	NegLexMarker 2900 2914	se ha retirado
+T29	NegMorMarker 3199 3206	afebril
+T30	NegSynMarker 3270 3272	no
+T31	DISO 3273 3279	edemas
+T32	NegLexMarker 3304 3316	Se suspendió
+T33	OTHER 3317 3330	la vía íntima
+T34	UncertLexMarker 4622 4636	compatible con
+T35	DISO 4637 4650	alucinaciones
+T36	NegSynMarker 4687 4689	no
+T37	Phrase 4690 4730	ha vuelto a presentar esa sintomatología
+T38	DISO 4712 4730	esa sintomatología
+T39	NegSynMarker 4786 4788	no
+T40	Phrase 4789 4854	ha podido mantener el tronco ni la cabeza erguidos , por sí misma
+T41	DISO 4799 4839	mantener el tronco ni la cabeza erguidos
+T42	CoordItem 4818 4820	ni
+T43	NegSynMarker 5698 5700	no
+T44	DISO 5701 5711	sibilantes
+T45	Phrase 5730 5762	algún episodio aislado de fiebre
+T46	DISO 5756 5762	fiebre
+T47	DISO 5766 5774	relación
+T48	UncertLexMarker 5775 5783	probable
+T49	DISO 5784 5808	a infección respiratoria
+T50	NegLexMarker 5813 5822	ha cedido
+T51	Phrase 5823 5888	con antitérmicos y Amoxicilina/clavulamico por sonda gastrostomía
+T52	NegSynMarker 6260 6263	sin
+T53	DISO 6264 6276	alteraciones
+T54	NegSynMarker 6665 6667	no
+T55	DISO 6668 6681	broncoespasmo
+T56	NegSynMarker 6684 6686	no
+T57	Phrase 6687 6699	singos de IC
+T58	DISO 6697 6699	IC
+T59	NegSynMarker 7063 7065	no
+T60	Phrase 7066 7076	es posible
+T61	NegLexMarker 7405 7411	retiro
+T62	BODY 7412 7426	piel necrótica
+T63	Phrase 7412 7464	piel necrótica y toda la sangre coagulada y compacta
+T64	CoordItem 7427 7428	y
+T65	SUBS 7429 7464	toda la sangre coagulada y compacta
+T66	NegSynMarker 8133 8135	no
+T67	Phrase 8136 8148	poner atb/ev
+T68	SUBS 8142 8148	atb/ev
+T69	NegSynMarker 8413 8416	sin
+T70	OTHER 8417 8436	medidas adicionales
+T71	NegMorMarker 8441 8453	asintomático
+T72	NegMorMarker 8456 8463	afebril
+T73	NegSynMarker 8479 8482	sin
+T74	Phrase 8483 8515	signos de Insuficiencia Cardiaca
+T75	DISO 8493 8515	Insuficiencia Cardiaca
+T76	NegSynMarker 8518 8521	sin
+T77	Phrase 8522 8547	ortopnea ni crisis de DPN
+T78	DISO 8522 8530	ortopnea
+T79	CoordItem 8531 8533	ni
+T80	DISO 8544 8547	DPN
+T81	NegSynMarker 8828 8830	no
+T82	DISO 8831 8840	hematomas
+T83	Phrase 8831 8856	hematomas ni deformidades
+T84	CoordItem 8841 8843	ni
+T85	DISO 8844 8856	deformidades
+T86	NegSynMarker 8859 8861	no
+T87	DISO 8862 8873	tumefacción
+T88	Phrase 8862 8883	tumefacción ni edemas
+T89	CoordItem 8874 8876	ni
+T90	DISO 8877 8883	edemas
+T91	UncertLexMarker 8886 8895	no claros
+T92	DISO 8896 8912	puntos dolorosos
+T93	NegSynMarker 8925 8927	no
+T94	DISO 8928 8936	limitada
+T95	NegSynMarker 8939 8941	no
+T96	Phrase 8942 8981	se reproduce el dolor a la movilización
+T97	DISO 8955 8981	el dolor a la movilización
+T98	NegSynMarker 9041 9043	no
+T99	DISO 9044 9080	cambios en coloración ni temperatura
+T100	CoordItem 9066 9068	ni
+T101	UncertLexMarker 9149 9155	parece
+T102	Phrase 9156 9207	encontrarse hoy mucho más reactivo y casi en su SFB
+T103	DISO 9172 9190	mucho más reactivo
+T104	CoordItem 9191 9192	y
+T105	DISO 9193 9207	casi en su SFB
+T106	NegMorMarker 9694 9706	asintomática
+T107	NegSynMarker 9857 9859	no
+T108	Phrase 9860 9875	presenta disnea
+T109	DISO 9869 9875	disnea
+T110	NegSynMarker 9896 9898	no
+T111	Phrase 9899 9940	ha presentado episodios de dolor torácido
+T112	DISO 9926 9940	dolor torácido
+T113	NegSynMarker 9943 9945	no
+T114	DISO 9946 9971	aumento de edemas en EEII
+T115	NegLexMarker 10173 10185	Se le retiró
+T116	SUBS 10186 10200	el candesartán
+T117	UncertLexMarker 10483 10490	posible
+T118	Phrase 10491 10506	desenlace fatal
+T119	NegLexMarker 10750 10767	en ningún momento
+T120	Phrase 10768 10829	precisa de furosemida endovenosa ni aumento de diurético oral
+T121	SUBS 10779 10800	furosemida endovenosa
+T122	CoordItem 10801 10803	ni
+T123	SUBS 10804 10829	aumento de diurético oral
+T124	NegLexMarker 11244 11253	suspender
+T125	SUBS 11254 11261	sintrom
+T126	NegSynMarker 11487 11489	No
+T127	Phrase 11490 11518	han tenido que usar rescates
+T128	OTHER 11510 11518	rescates
+T129	NegSynMarker 11523 11525	no
+T130	DISO 11526 11535	valorable
+T131	NegSynMarker 11689 11691	no
+T132	Phrase 11692 11704	tiene fuerza
+T133	OTHER 11698 11704	fuerza
+T134	NegSynMarker 11809 11811	no
+T135	DISO 11812 11820	doloroso
+T136	NegSynMarker 11857 11859	no
+T137	DISO 11860 11866	edemas
+T138	NegSynMarker 11928 11930	no
+T139	Phrase 11931 11952	presenta leucocitosis
+T140	DISO 11940 11952	leucocitosis
+T141	NegSynMarker 12012 12014	no
+T142	DISO 12015 12030	otros hallazgos
+T143	NegSynMarker 12112 12114	no
+T144	DISO 12115 12119	cede
+T145	NegSynMarker 12545 12547	no
+T146	DISO 12548 12554	roncus
+T147	NegSynMarker 12685 12687	no
+T148	Phrase 12688 12746	presenta edemas maleolares ni signos de retención urinaria
+T149	DISO 12697 12714	edemas maleolares
+T150	CoordItem 12715 12717	ni
+T151	DISO 12728 12746	retención urinaria
+T152	NegSynMarker 12953 12956	sin
+T153	SUBS 12957 12959	O2
+T154	NegSynMarker 13045 13047	no
+T155	DISO 13048 13068	ruidos sobreañadidos
+T156	NegSynMarker 13076 13078	no
+T157	DISO 13079 13085	edemas
+T158	NegSynMarker 13278 13280	no
+T159	Phrase 13281 13321	iniciar tratamiento antibiótico empírico
+T160	PROC 13289 13321	tratamiento antibiótico empírico
+T161	UncertLexMarker 13386 13393	valorar
+T162	Phrase 13394 13406	entonces ATB
+T163	SUBS 13403 13406	ATB
+T164	NegSynMarker 13571 13573	no
+T165	Phrase 13574 13595	inciar antibioterapia
+T166	PROC 13581 13595	antibioterapia
+T167	UncertLexMarker 13947 13956	no parece
+T168	OTHER 13957 13965	mecánico
+T169	NegSynMarker 14023 14025	no
+T170	Phrase 14026 14079	ha presentado sintomatología urinaria ni respiratoria
+T171	DISO 14040 14079	sintomatología urinaria ni respiratoria
+T172	CoordItem 14064 14066	ni
+T173	NegMorMarker 14199 14211	asintomático
+T174	NegMorMarker 14227 14234	afebril
+T175	UncertLexMarker 14783 14797	compatible con
+T176	DISO 14798 14820	condensación neumónica
+T177	NegSynMarker 15168 15170	no
+T178	Phrase 15171 15196	hay indicación quirúrgica
+T179	OTHER 15175 15196	indicación quirúrgica
+T180	PROC 15275 15317	tratamiento ATB con SMX/TMP durante 7 días
+T181	Phrase 15378 15405	una vez finalizado el ciclo
+T182	NegLexMarker 15408 15419	se suspende
+T183	OTHER 15432 15455	apoyo por Centro de dia
+T184	NegLexMarker 15472 15484	se desestimó
+T185	NegLexMarker 15678 15689	se suspende
+T186	SUBS 15690 15700	Piper-tazo
+T187	NegSynMarker 15892 15895	sin
+T188	DISO 15896 15905	hallazgos
+T189	NegLexMarker 15949 15954	Niega
+T190	Phrase 15955 15979	dolor o disnea en reposo
+T191	DISO 15955 15960	dolor
+T192	CoordItem 15961 15962	o
+T193	DISO 15963 15979	disnea en reposo
+T194	NegSynMarker 17012 17014	no
+T195	OTHER 17015 17032	supera los 90mmHg
+T196	NegSynMarker 17182 17184	no
+T197	Phrase 17185 17206	es su médico habitual
+T198	OTHER 17188 17206	su médico habitual
+T199	NegSynMarker 17314 17316	no
+T200	DISO 17317 17335	recupera plaquetas
+T201	NegSynMarker 17351 17353	no
+T202	Phrase 17354 17372	debemos hacer nada
+T203	OTHER 17362 17372	hacer nada
+T204	NegLexMarker 17499 17508	retiramos
+T205	OTHER 17509 17516	gripper
+T206	NegSynMarker 17758 17760	no
+T207	DISO 17761 17772	controladas
+T208	NegSynMarker 17838 17841	sin
+T209	DISO 17842 17846	foco
+T210	NegSynMarker 17867 17869	no
+T211	DISO 17870 17901	ceden a antitérmicos habituales
+T212	NegSynMarker 18454 18456	No
+T213	DISO 18457 18469	leucocitosis
+T214	NegLexMarker 18472 18484	Se le retiró
+T215	SUBS 18485 18492	sintrom
+T216	NegSynMarker 19294 19296	no
+T217	DISO 19297 19315	ruidos abdominales
+T218	NegSynMarker 19317 19319	no
+T219	Phrase 19320 19355	se queja ni muestra dolor al palpar
+T220	OTHER 19323 19328	queja
+T221	CoordItem 19329 19331	ni
+T222	DISO 19340 19345	dolor
+T223	NegLexMarker 20090 20107	En ningún momento
+T224	Phrase 20108 20135	presenta crisis epilépticas
+T225	DISO 20117 20135	crisis epilépticas
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T13 Arg2:T14
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T28 Arg2:T25
+R10	Scope Arg1:T30 Arg2:T31
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T39 Arg2:T40
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T43 Arg2:T44
+R16	DiscScope Arg1:T48 Arg2:T49
+R17	DiscScope Arg1:T48 Arg2:T47
+R18	DiscScope Arg1:T50 Arg2:T45
+R19	DiscScope Arg1:T50 Arg2:T51
+R20	Scope Arg1:T52 Arg2:T53
+R21	Scope Arg1:T54 Arg2:T55
+R22	Scope Arg1:T56 Arg2:T57
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T61 Arg2:T63
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T69 Arg2:T70
+R27	Scope Arg1:T73 Arg2:T74
+R28	Scope Arg1:T76 Arg2:T77
+R29	Scope Arg1:T81 Arg2:T83
+R30	Scope Arg1:T86 Arg2:T88
+R31	Scope Arg1:T95 Arg2:T96
+R32	Scope Arg1:T98 Arg2:T99
+R33	Scope Arg1:T91 Arg2:T92
+R34	Scope Arg1:T93 Arg2:T94
+R35	Scope Arg1:T101 Arg2:T102
+R36	Scope Arg1:T107 Arg2:T108
+R37	Scope Arg1:T110 Arg2:T111
+R38	Scope Arg1:T113 Arg2:T114
+R39	Scope Arg1:T115 Arg2:T116
+R40	Scope Arg1:T117 Arg2:T118
+R41	Scope Arg1:T119 Arg2:T120
+R42	Scope Arg1:T124 Arg2:T125
+R43	Scope Arg1:T126 Arg2:T127
+R44	Scope Arg1:T129 Arg2:T130
+R45	Scope Arg1:T131 Arg2:T132
+R46	Scope Arg1:T141 Arg2:T142
+R47	Scope Arg1:T138 Arg2:T139
+R48	Scope Arg1:T134 Arg2:T135
+R49	Scope Arg1:T136 Arg2:T137
+R50	Scope Arg1:T143 Arg2:T144
+R51	Scope Arg1:T145 Arg2:T146
+R52	Scope Arg1:T147 Arg2:T148
+R53	Scope Arg1:T154 Arg2:T155
+R54	Scope Arg1:T152 Arg2:T153
+R55	Scope Arg1:T156 Arg2:T157
+R56	Scope Arg1:T161 Arg2:T162
+R57	Scope Arg1:T158 Arg2:T159
+R58	Scope Arg1:T164 Arg2:T165
+R59	Scope Arg1:T167 Arg2:T168
+R60	Scope Arg1:T169 Arg2:T170
+R61	Scope Arg1:T175 Arg2:T176
+R62	Scope Arg1:T177 Arg2:T178
+R63	DiscScope Arg1:T182 Arg2:T181
+R64	DiscScope Arg1:T182 Arg2:T180
+R65	Scope Arg1:T184 Arg2:T183
+R66	Scope Arg1:T185 Arg2:T186
+R67	Scope Arg1:T187 Arg2:T188
+R68	Scope Arg1:T189 Arg2:T190
+R69	Scope Arg1:T194 Arg2:T195
+R70	Scope Arg1:T196 Arg2:T197
+R71	Scope Arg1:T199 Arg2:T200
+R72	Scope Arg1:T201 Arg2:T202
+R73	Scope Arg1:T204 Arg2:T205
+R74	Scope Arg1:T210 Arg2:T211
+R75	Scope Arg1:T206 Arg2:T207
+R76	Scope Arg1:T208 Arg2:T209
+R77	Scope Arg1:T212 Arg2:T213
+R78	Scope Arg1:T214 Arg2:T215
+R79	Scope Arg1:T216 Arg2:T217
+R80	Scope Arg1:T218 Arg2:T219
+R81	Scope Arg1:T223 Arg2:T224

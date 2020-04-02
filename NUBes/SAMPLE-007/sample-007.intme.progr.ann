@@ -1,0 +1,249 @@
+T1	UncertLexMarker 337 344	pudiera
+T2	Phrase 345 376	estar en relación con un lipoma
+T3	DISO 354 376	relación con un lipoma
+T4	NegSynMarker 379 381	no
+T5	Phrase 382 426	se apreció en el estudio datos de malignidad
+T6	DISO 416 426	malignidad
+T7	NegSynMarker 603 606	sin
+T8	DISO 607 614	estupor
+T9	NegSynMarker 642 644	no
+T10	Phrase 645 679	se apreciaba focalidad neurológica
+T11	DISO 658 679	focalidad neurológica
+T12	NegLexMarker 1380 1391	retirada de
+T13	SUBS 1392 1408	dicha medicación
+T14	NegSynMarker 1527 1529	no
+T15	Phrase 1530 1601	consideramos que se deben realizar maniobras extraordinaris al paciente
+T16	PROC 1565 1589	maniobras extraordinaris
+T17	NegSynMarker 1751 1753	no
+T18	DISO 1754 1762	conocida
+T19	PROC 2543 2557	cultivo esputo
+T20	NegLexMarker 2561 2569	negativo
+T21	Phrase 2570 2597	para crecimiento bacteriano
+T22	OTHER 2687 2753	vía central con acceso periférico en extremidad superior izquierda
+T23	NegLexMarker 2767 2774	retirar
+T24	Phrase 2775 2805	por trombosis de vena cefálica
+T25	OTHER 2835 2852	subclavia derecha
+T26	NegLexMarker 2873 2881	retirada
+T27	Phrase 2882 2898	por complicación
+T28	NegSynMarker 3312 3314	no
+T29	Phrase 3315 3384	apreciamos tampoco alteraciones en el ECG ni en las enzimas cardiacas
+T30	PolItem 3326 3333	tampoco
+T31	DISO 3334 3384	alteraciones en el ECG ni en las enzimas cardiacas
+T32	CoordItem 3357 3359	ni
+T33	UncertLexMarker 3575 3583	probable
+T34	DISO 3584 3605	disfagia para sólidos
+T35	NegLexMarker 4175 4189	hemos retirado
+T36	Phrase 4190 4249	el tratamiento que el paciente venia tomando con Citalopram
+T37	SUBS 4239 4249	Citalopram
+T38	PROC 4440 4455	Zhiel en esputo
+T39	NegLexMarker 4456 4464	negativo
+T40	NegSynMarker 4510 4512	no
+T41	Phrase 4513 4577	apreciándose en la radiografia de tórax complicaciones asociadas
+T42	DISO 4553 4577	complicaciones asociadas
+T43	NegSynMarker 4773 4775	no
+T44	DISO 4776 4800	responde a los estímulos
+T45	NegSynMarker 5306 5309	sin
+T46	DISO 5310 5330	signos inflamatorios
+T47	NegLexMarker 5417 5431	desapareciendo
+T48	DISO 5432 5440	el dolor
+T49	NegSynMarker 5526 5528	no
+T50	Phrase 5529 5565	se han evidenciado signos de mejoría
+T51	DISO 5558 5565	mejoría
+T52	UncertLexMarker 5928 5934	dudosa
+T53	DISO 5935 5959	alergia a betalactámicos
+T54	UncertLexMarker 6830 6834	Pudo
+T55	Phrase 6835 6877	tratarse de un cuadro de sincope vasovagal
+T56	DISO 6850 6877	cuadro de sincope vasovagal
+T57	UncertLexMarker 6983 6990	creemos
+T58	Phrase 6991 7122	para limitación esfuerzo terapéutico , se podría beneficiar de transfusión de concentrado de hematíes de cara a control de sintomas
+T59	UncertLexMarker 7030 7039	se podría
+T60	OTHER 7040 7122	beneficiar de transfusión de concentrado de hematíes de cara a control de sintomas
+T61	NegLexMarker 7198 7211	imposibles de
+T62	Phrase 7212 7243	precisar por parte del paciente
+T63	OTHER 7212 7220	precisar
+T64	NegSynMarker 7308 7311	sin
+T65	DISO 7312 7331	sintomas sistemicos
+T66	NegSynMarker 7349 7351	no
+T67	Phrase 7352 7390	volvió a presentar episodios parecidos
+T68	DISO 7371 7390	episodios parecidos
+T69	NegSynMarker 7721 7723	No
+T70	Phrase 7724 7753	presentó otras complicaciones
+T71	DISO 7733 7753	otras complicaciones
+T72	NegLexMarker 8003 8014	retirada de
+T73	SUBS 8015 8027	nefrotóxicos
+T74	NegSynMarker 8440 8442	No
+T75	Phrase 8443 8462	tratamos de momento
+T76	PROC 8443 8451	tratamos
+T77	NegSynMarker 8609 8612	sin
+T78	DISO 8613 8618	dolor
+T79	NegLexMarker 8962 8971	retiramos
+T80	SUBS 8972 8982	olmesartan
+T81	Phrase 8972 8995	olmesartan y metformina
+T82	SUBS 8985 8995	metformina
+T83	NegSynMarker 10832 10834	no
+T84	Phrase 10835 10858	se tomaron hemocultivos
+T85	PROC 10846 10858	hemocultivos
+T86	NegSynMarker 10962 10965	sin
+T87	Phrase 10966 11042	haber presentado complicaciones durante los dias en que se mantuvo ingresado
+T88	DISO 10983 10997	complicaciones
+T89	UncertLexMarker 11326 11336	No creemos
+T90	OTHER 11337 11403	candidata a más maniobras diagnóstico terapéuticas en este momento
+T91	NegLexMarker 11754 11767	suspensión de
+T92	SUBS 11768 11787	anticogulación oral
+T93	NegSynMarker 11848 11850	no
+T94	Phrase 11851 11921	se considera de momento oportuno iniciar tratamiento con neurolépticos
+T95	OTHER 11875 11921	oportuno iniciar tratamiento con neurolépticos
+T96	UncertLexMarker 12210 12217	posible
+T97	DISO 12218 12255	hiponatremia en relación a citalopram
+T98	NegLexMarker 12256 12270	hemos retirado
+T99	PROC 12271 12288	dicho tratamiento
+T100	NegSynMarker 12346 12348	no
+T101	Phrase 12349 12365	presenta mejoría
+T102	DISO 12358 12365	mejoría
+T103	NegSynMarker 12594 12597	sin
+T104	DISO 12598 12604	disnea
+T105	DISO 12637 12643	debido
+T106	UncertLexMarker 12644 12657	probablemente
+T107	DISO 12658 12678	al cuadro infeccioso
+T108	NegSynMarker 12853 12855	no
+T109	Phrase 12856 12875	mostró alteraciones
+T110	DISO 12863 12875	alteraciones
+T111	PROC 12927 12941	Neumocystis j.
+T112	Phrase 12927 12949	Neumocystis j. al alta
+T113	NegLexMarker 12953 12961	negativo
+T114	UncertLexMarker 13238 13253	compatibles con
+T115	DISO 13254 13302	osteomielitis a nivel de cabeza peroneal derecha
+T116	UncertLexMarker 13361 13372	sospecha de
+T117	DISO 13373 13398	fistula vesico-intestinal
+T118	PROC 13639 13665	hemorragia oculta en heces
+T119	NegLexMarker 13669 13677	negativa
+T120	NegMorMarker 14202 14209	afebril
+T121	NegSynMarker 14212 14214	No
+T122	Phrase 14215 14244	presentó otras complicaciones
+T123	DISO 14224 14244	otras complicaciones
+T124	NegSynMarker 14475 14477	no
+T125	Phrase 14478 14543	se confirmó la presencia de condensación neumónica en rx de tórax
+T126	DISO 14506 14543	condensación neumónica en rx de tórax
+T127	UncertLexMarker 14712 14723	sospecha de
+T128	DISO 14724 14745	polimialgia reumática
+T129	Phrase 14746 14839	los resultados pendientes del anterior ingreso de ANA , ANCA y biopsia de la arteria temporal
+T130	PROC 14796 14799	ANA
+T131	PROC 14802 14806	ANCA
+T132	PROC 14809 14839	biopsia de la arteria temporal
+T133	NegLexMarker 14849 14858	negativos
+T134	NegSynMarker 14908 14910	no
+T135	Phrase 14911 14945	ha referido cefalea posteriormente
+T136	DISO 14923 14930	cefalea
+T137	UncertLexMarker 15069 15075	parece
+T138	OTHER 15076 15086	voluntaria
+T139	NegSynMarker 15264 15266	no
+T140	Phrase 15267 15303	apreciamos datos de neoplasia oculta
+T141	DISO 15287 15303	neoplasia oculta
+T142	NegLexMarker 15561 15572	se suspende
+T143	Phrase 15573 15602	el tratamiento anticoagulante
+T144	SUBS 15588 15602	anticoagulante
+T145	NegSynMarker 15638 15641	sin
+T146	SUBS 15642 15654	contraste ev
+T147	UncertLexMarker 15676 15685	sin clara
+T148	Phrase 15686 15708	evidencia de patologia
+T149	DISO 15699 15708	patologia
+T150	NegMorMarker 15814 15826	desorientado
+T151	NegSynMarker 15912 15914	no
+T152	SUBS 15915 15918	PFR
+T153	NegSynMarker 16612 16615	sin
+T154	Phrase 16616 16659	haber apreciado alteraciones significativas
+T155	DISO 16632 16659	alteraciones significativas
+T156	NegSynMarker 16662 16664	No
+T157	Phrase 16665 16680	presentó fiebre
+T158	DISO 16674 16680	fiebre
+T159	NegSynMarker 16724 16726	no
+T160	Phrase 16727 16760	ha referido dolor torácico alguno
+T161	DISO 16739 16760	dolor torácico alguno
+T162	PolItem 16754 16760	alguno
+T163	UncertLexMarker 17703 17711	probable
+T164	DISO 17712 17722	aspiración
+T165	NegSynMarker 17725 17727	No
+T166	Phrase 17728 17775	se objetivó patologia obstructiva en via biliar
+T167	DISO 17740 17775	patologia obstructiva en via biliar
+T168	Phrase 18290 18328	El resultado de sangre oculta en heces
+T169	PROC 18306 18328	sangre oculta en heces
+T170	NegLexMarker 18332 18340	negativo
+T171	NegSynMarker 18422 18424	no
+T172	Phrase 18425 18472	se apreciaban datos de significación patologica
+T173	DISO 18448 18472	significación patologica
+T174	NegSynMarker 18514 18516	no
+T175	Phrase 18517 18563	hemos considerado realizar otras exploraciones
+T176	PROC 18544 18563	otras exploraciones
+T177	NegSynMarker 18704 18706	no
+T178	Phrase 18707 18755	refiere episodios sugestivos de broncoaspiración
+T179	DISO 18739 18755	broncoaspiración
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T17 Arg2:T18
+R8	DiscScope Arg1:T20 Arg2:T21
+R9	DiscScope Arg1:T20 Arg2:T19
+R10	DiscScope Arg1:T23 Arg2:T22
+R11	DiscScope Arg1:T26 Arg2:T27
+R12	DiscScope Arg1:T26 Arg2:T25
+R13	DiscScope Arg1:T23 Arg2:T24
+R14	Scope Arg1:T28 Arg2:T29
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T39 Arg2:T38
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T59 Arg2:T60
+R26	Scope Arg1:T57 Arg2:T58
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T64 Arg2:T65
+R29	Scope Arg1:T66 Arg2:T67
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T72 Arg2:T73
+R32	Scope Arg1:T74 Arg2:T75
+R33	Scope Arg1:T77 Arg2:T78
+R34	Scope Arg1:T79 Arg2:T81
+R35	Scope Arg1:T83 Arg2:T84
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T89 Arg2:T90
+R38	Scope Arg1:T91 Arg2:T92
+R39	Scope Arg1:T93 Arg2:T94
+R40	Scope Arg1:T96 Arg2:T97
+R41	Scope Arg1:T98 Arg2:T99
+R42	Scope Arg1:T100 Arg2:T101
+R43	Scope Arg1:T103 Arg2:T104
+R44	DiscScope Arg1:T106 Arg2:T105
+R45	DiscScope Arg1:T106 Arg2:T107
+R46	Scope Arg1:T108 Arg2:T109
+R47	Scope Arg1:T113 Arg2:T112
+R48	Scope Arg1:T114 Arg2:T115
+R49	Scope Arg1:T116 Arg2:T117
+R50	Scope Arg1:T119 Arg2:T118
+R51	Scope Arg1:T121 Arg2:T122
+R52	Scope Arg1:T124 Arg2:T125
+R53	Scope Arg1:T133 Arg2:T129
+R54	Scope Arg1:T127 Arg2:T128
+R55	Scope Arg1:T134 Arg2:T135
+R56	Scope Arg1:T137 Arg2:T138
+R57	Scope Arg1:T139 Arg2:T140
+R58	Scope Arg1:T142 Arg2:T143
+R59	Scope Arg1:T145 Arg2:T146
+R60	Scope Arg1:T147 Arg2:T148
+R61	Scope Arg1:T151 Arg2:T152
+R62	Scope Arg1:T153 Arg2:T154
+R63	Scope Arg1:T156 Arg2:T157
+R64	Scope Arg1:T159 Arg2:T160
+R65	Scope Arg1:T163 Arg2:T164
+R66	Scope Arg1:T165 Arg2:T166
+R67	Scope Arg1:T170 Arg2:T168
+R68	Scope Arg1:T171 Arg2:T172
+R69	Scope Arg1:T174 Arg2:T175
+R70	Scope Arg1:T177 Arg2:T178

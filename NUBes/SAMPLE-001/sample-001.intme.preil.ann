@@ -1,0 +1,39 @@
+T1	NegSynMarker 1039 1041	No
+T2	Phrase 1042 1093	refieren disnea ni dolor toràcico en ningùn momento
+T3	DISO 1051 1057	disnea
+T4	CoordItem 1058 1060	ni
+T5	DISO 1061 1075	dolor toràcico
+T6	PolItem 1076 1093	en ningùn momento
+T7	NegSynMarker 1096 1098	No
+T8	DISO 1099 1110	tolera CPAP
+T9	UncertLexMarker 1509 1517	probable
+T10	DISO 1518 1550	relacion al esfuerzo defecatorio
+T11	NegSynMarker 2075 2077	No
+T12	Phrase 2078 2089	refiere TCE
+T13	DISO 2086 2089	TCE
+T14	NegSynMarker 2092 2094	no
+T15	Phrase 2095 2119	disnea ni dolor torácico
+T16	DISO 2095 2101	disnea
+T17	CoordItem 2102 2104	ni
+T18	DISO 2105 2119	dolor torácico
+T19	PROC 2431 2439	Dimero D
+T20	NegLexMarker 2440 2448	negativo
+T21	NegSynMarker 2887 2889	no
+T22	DISO 2890 2896	filado
+T23	UncertLexMarker 2897 2909	sin aparente
+T24	DISO 2910 2933	respuesta a corticoides
+T25	NegSynMarker 3621 3623	No
+T26	Phrase 3624 3672	han apreciado melenas ni sangrado activo visible
+T27	DISO 3638 3645	melenas
+T28	CoordItem 3646 3648	ni
+T29	DISO 3649 3672	sangrado activo visible
+T30	NegSynMarker 3812 3814	no
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T14 Arg2:T15
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T20 Arg2:T19
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T25 Arg2:T26

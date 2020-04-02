@@ -1,0 +1,52 @@
+T1	UncertLexMarker 282 290	pobrable
+T2	DISO 291 308	fibrosis pulmonar
+T3	NegSynMarker 566 569	sin
+T4	Phrase 570 590	apreciarse fracturas
+T5	DISO 581 590	fracturas
+T6	UncertLexMarker 660 668	Probable
+T7	DISO 669 677	demencia
+T8	UncertLexMarker 1357 1365	probable
+T9	DISO 1366 1392	deterioro cognitivo previo
+T10	NegLexMarker 1422 1438	imposibilidad de
+T11	PROC 1439 1475	tratamiento adecuado en su domicilio
+T12	Phrase 1439 1527	tratamiento adecuado en su domicilio a cargo del servicio de hospitalización a domicilio
+T13	UncertLexMarker 2533 2546	impresiona de
+T14	DISO 2547 2561	apraxia en MII
+T15	UncertLexMarker 3133 3141	probable
+T16	DISO 3142 3211	neoplasia metastásica con lesión lítica en diafisis femoral izquierda
+T17	UncertLexMarker 4960 4968	probable
+T18	DISO 4969 4991	origen aterotrombótico
+T19	UncertLexMarker 5781 5789	probable
+T20	DISO 5790 5811	origen cardioembólico
+T21	UncertLexMarker 5954 5967	probablemente
+T22	DISO 5968 5978	patológica
+T23	UncertLexMarker 5981 5989	sospecha
+T24	DISO 5990 6000	metastasis
+T25	NegSynMarker 6038 6041	sin
+T26	DISO 6042 6088	evidencia de progresion local de la enfermedad
+T27	NegLexMarker 6537 6551	incapacidad de
+T28	OTHER 6552 6561	la marcha
+T29	Phrase 6552 6592	la marcha por artrsis severa cadera izda
+T30	NegSynMarker 6628 6630	no
+T31	OTHER 6631 6640	cementada
+T32	NegMorMarker 6699 6712	inestabilidad
+T33	UncertLexMarker 7596 7604	probable
+T34	DISO 7605 7632	demencia cortical de inicio
+T35	NegSynMarker 8497 8499	no
+T36	DISO 8500 8509	cementada
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T21 Arg2:T22
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T29
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36

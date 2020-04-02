@@ -1,0 +1,38 @@
+T1	NegSynMarker 0 3	Sin
+T2	DISO 4 34	otros hallazgos significativos
+T3	UncertLexMarker 35 46	Orientación
+T4	DISO 61 96	Pancreatitis aguda edematosa severa
+T5	NegSynMarker 128 131	sin
+T6	DISO 132 144	alteraciones
+T7	NegSynMarker 248 251	Sin
+T8	DISO 252 276	hallazgos significativos
+T9	NegSynMarker 486 489	sin
+T10	DISO 490 503	hidronefrosis
+T11	NegSynMarker 533 535	No
+T12	Phrase 536 574	colelitiasis ni signos de colecistitis
+T13	DISO 536 548	colelitiasis
+T14	CoordItem 549 551	ni
+T15	DISO 562 574	colecistitis
+T16	NegSynMarker 664 667	sin
+T17	Phrase 668 688	identificar litiasis
+T18	DISO 680 688	litiasis
+T19	NegSynMarker 751 754	sin
+T20	OTHER 755 774	cte oral con cte iv
+T21	UncertLexMarker 941 951	sin claras
+T22	DISO 952 968	lesiones focales
+T23	NegSynMarker 1217 1220	sin
+T24	DISO 1221 1246	cambios de colecistititis
+T25	NegSynMarker 1287 1290	sin
+T26	Phrase 1291 1312	evidencia de necrosis
+T27	DISO 1304 1312	necrosis
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26

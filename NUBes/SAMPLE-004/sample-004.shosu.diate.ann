@@ -1,0 +1,92 @@
+T1	UncertLexMarker 0 8	Probable
+T2	DISO 9 24	colecistectomía
+T3	NegSynMarker 93 96	sin
+T4	DISO 97 106	hallazgos
+T5	NegSynMarker 142 144	No
+T6	DISO 145 152	vértigo
+T7	NegSynMarker 155 157	No
+T8	OTHER 158 211	se visualiza la vesícula por probable colecistectomía
+T9	UncertLexMarker 187 195	probable
+T10	DISO 196 211	colecistectomía
+T11	NegLexMarker 285 294	retirarle
+T12	Phrase 295 306	de la sonda
+T13	OTHER 298 306	la sonda
+T14	UncertLexMarker 309 319	al parecer
+T15	Phrase 320 352	era portador de sonda permanente
+T16	OTHER 324 352	portador de sonda permanente
+T17	NegSynMarker 357 359	no
+T18	OTHER 360 375	vino a Urología
+T19	NegSynMarker 721 724	sin
+T20	DISO 725 749	historia previa conocida
+T21	NegSynMarker 1154 1156	no
+T22	OTHER 1157 1220	ha acudido a nuestras consultas de Urologia previo a su ingreso
+T23	NegSynMarker 1549 1551	No
+T24	DISO 1552 1563	infecciones
+T25	PROC 1952 1962	Urocultivo
+T26	NegLexMarker 1963 1971	negativo
+T27	NegLexMarker 2105 2116	retirada de
+T28	OTHER 2117 2131	la sonda orina
+T29	NegSynMarker 2132 2135	sin
+T30	DISO 2136 2146	dificultad
+T31	NegSynMarker 2484 2487	sin
+T32	DISO 2488 2500	alteraciones
+T33	NegSynMarker 2584 2587	sin
+T34	PROC 2588 2601	más actuación
+T35	PROC 2604 2606	UC
+T36	NegLexMarker 2607 2615	negativo
+T37	NegSynMarker 2689 2691	No
+T38	DISO 2692 2699	acúfeno
+T39	NegSynMarker 2763 2765	no
+T40	Phrase 2766 2786	precisa que se sonde
+T41	PROC 2781 2786	sonde
+T42	NegSynMarker 2839 2842	Sin
+T43	Phrase 2843 2865	evidencia de fracturas
+T44	DISO 2856 2865	fracturas
+T45	NegSynMarker 3045 3047	no
+T46	Phrase 3048 3104	observándose no obstante dilatación del sistema excretor
+T47	DISO 3073 3104	dilatación del sistema excretor
+T48	NegSynMarker 3347 3349	no
+T49	Phrase 3350 3366	tenemos informes
+T50	OTHER 3358 3366	informes
+T51	NegSynMarker 3386 3389	Sin
+T52	DISO 3390 3414	hallazgos significativos
+T53	UncertLexMarker 3708 3721	sospechosa de
+T54	DISO 3722 3731	carcinoma
+T55	NegSynMarker 3806 3809	sin
+T56	Phrase 3810 3853	evidencia de dilatación de sistema excretor
+T57	DISO 3823 3853	dilatación de sistema excretor
+T58	UncertLexMarker 4133 4142	Sin clara
+T59	Phrase 4143 4178	evidencia de condensación neumónica
+T60	DISO 4156 4178	condensación neumónica
+T61	NegSynMarker 4215 4218	sin
+T62	DISO 4219 4231	alteraciones
+T63	UncertLexMarker 4449 4457	probable
+T64	DISO 4458 4498	relación con cambios post radioterápicos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T11 Arg2:T12
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T26 Arg2:T25
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T27 Arg2:T28
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T36 Arg2:T35
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T39 Arg2:T40
+R20	Scope Arg1:T42 Arg2:T43
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T51 Arg2:T52
+R24	Scope Arg1:T53 Arg2:T54
+R25	Scope Arg1:T55 Arg2:T56
+R26	Scope Arg1:T58 Arg2:T59
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T63 Arg2:T64

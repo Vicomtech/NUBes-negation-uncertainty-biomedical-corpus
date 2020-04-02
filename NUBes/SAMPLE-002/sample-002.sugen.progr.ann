@@ -1,0 +1,152 @@
+T1	NegSynMarker 784 787	sin
+T2	DISO 788 818	sangrado activo en ese moemnto
+T3	NegSynMarker 881 883	no
+T4	Phrase 884 912	se aprecian restos tumorales
+T5	SUBS 896 912	restos tumorales
+T6	DISO 1323 1361	el ulcus con un vaso central sangrante
+T7	NegLexMarker 1368 1372	cede
+T8	Phrase 1373 1388	mediante sutura
+T9	NegLexMarker 1576 1586	suspendera
+T10	SUBS 1587 1600	el clexane 60
+T11	UncertLexMarker 1777 1790	Probablemente
+T12	Phrase 1791 1835	ha sido expulsado el calculo espontáneamente
+T13	DISO 1799 1819	expulsado el calculo
+T14	NegMorMarker 1843 1850	afebril
+T15	NegSynMarker 2050 2053	sin
+T16	DISO 2054 2065	incidencias
+T17	NegMorMarker 2088 2095	afebril
+T18	NegSynMarker 2295 2298	sin
+T19	DISO 2299 2314	sangrado activo
+T20	NegSynMarker 2445 2448	sin
+T21	OTHER 2449 2459	dificultad
+T22	NegSynMarker 2749 2752	sin
+T23	Phrase 2753 2772	encontrar patologia
+T24	DISO 2763 2772	patologia
+T25	UncertLexMarker 3046 3059	probablemente
+T26	DISO 3060 3070	por bridas
+T27	NegMorMarker 3341 3353	asintomático
+T28	UncertLexMarker 3814 3827	Probablememte
+T29	Phrase 3828 3899	por obstrucción extrínseca del duodeno por pancreas aumentado de tamaño
+T30	DISO 3832 3866	obstrucción extrínseca del duodeno
+T31	UncertLexMarker 4248 4261	probablemente
+T32	DISO 4262 4302	agravada por la cerviocopatía que padece
+T33	NegMorMarker 4392 4404	asintomático
+T34	NegSynMarker 5401 5404	sin
+T35	PROC 5405 5426	tratamiento urologico
+T36	NegSynMarker 6126 6129	sin
+T37	DISO 6130 6156	complicaciones quirúrgicas
+T38	NegSynMarker 6393 6396	sin
+T39	DISO 6397 6411	complicaciones
+T40	DISO 6481 6511	dolor abdominal de tipo cólico
+T41	NegLexMarker 6530 6534	cede
+T42	Phrase 6535 6557	con analgesia habitual
+T43	NegLexMarker 6651 6659	retirada
+T44	Phrase 6660 6688	del augmentine y del tazocel
+T45	SUBS 6664 6674	augmentine
+T46	SUBS 6681 6688	tazocel
+T47	UncertLexMarker 8622 8636	compatible con
+T48	DISO 8637 8663	cólico nefrítico izquierdo
+T49	NegMorMarker 8738 8750	Asintomatico
+T50	NegSynMarker 9143 9145	no
+T51	Phrase 9146 9170	sugieren patología aguda
+T52	DISO 9155 9170	patología aguda
+T53	NegSynMarker 9359 9362	sin
+T54	DISO 9363 9374	incidencias
+T55	NegSynMarker 9833 9836	sin
+T56	DISO 9837 9868	clinica de hemorragia digestiva
+T57	NegSynMarker 9974 9977	sin
+T58	DISO 9978 10008	alteracion de la extrahepatica
+T59	DISO 10011 10024	La hemorragia
+T60	NegLexMarker 10025 10034	ha cedido
+T61	Phrase 10035 10050	espontáneamente
+T62	DISO 10053 10062	se achaca
+T63	UncertLexMarker 10063 10076	probablemente
+T64	DISO 10077 10104	a la anastomosis intestinal
+T65	NegSynMarker 10603 10606	sin
+T66	DISO 10607 10613	disnea
+T67	NegSynMarker 10869 10872	sin
+T68	DISO 10873 10882	problemas
+T69	NegSynMarker 10947 10949	no
+T70	Phrase 10950 11002	ha tenido repercusión en la hematimetria del enfermo
+T71	DISO 10960 11002	repercusión en la hematimetria del enfermo
+T72	NegSynMarker 11214 11217	sin
+T73	DISO 11218 11232	complicaciones
+T74	NegSynMarker 11264 11267	sin
+T75	DISO 11268 11279	incidencias
+T76	NegSynMarker 11890 11893	sin
+T77	DISO 11894 11908	complicaciones
+T78	PROC 12271 12276	Gramm
+T79	NegLexMarker 12277 12285	negativo
+T80	NegSynMarker 12771 12773	no
+T81	OTHER 12774 12814	calma con analgésicos de escala superior
+T82	NegMorMarker 13079 13091	asintomatico
+T83	NegSynMarker 13125 13128	sin
+T84	OTHER 13129 13135	puntos
+T85	NegSynMarker 13390 13393	sin
+T86	Phrase 13394 13476	presentar episodios de disnea ni dolor torácico ni síntomas de congestión pulmonar
+T87	DISO 13417 13423	disnea
+T88	CoordItem 13424 13426	ni
+T89	DISO 13427 13441	dolor torácico
+T90	CoordItem 13442 13444	ni
+T91	DISO 13445 13476	síntomas de congestión pulmonar
+T92	NegSynMarker 13620 13623	sin
+T93	DISO 13624 13638	complicaciones
+T94	NegMorMarker 14228 14240	asintomática
+T95	UncertLexMarker 14390 14397	posible
+T96	DISO 14398 14408	metastasis
+T97	NegMorMarker 15261 15268	afebril
+T98	NegSynMarker 15333 15336	sin
+T99	DISO 15337 15361	repercusión respiratoria
+T100	NegSynMarker 15496 15499	sin
+T101	Phrase 15500 15518	disnea ni cianosis
+T102	DISO 15500 15506	disnea
+T103	CoordItem 15507 15509	ni
+T104	DISO 15510 15518	cianosis
+T105	NegSynMarker 15521 15524	sin
+T106	DISO 15525 15546	ingurgitación yugular
+T107	NegSynMarker 15583 15586	sin
+T108	DISO 15587 15593	soplos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	DiscScope Arg1:T7 Arg2:T8
+R4	DiscScope Arg1:T7 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T38 Arg2:T39
+R17	DiscScope Arg1:T41 Arg2:T40
+R18	DiscScope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T53 Arg2:T54
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T57 Arg2:T58
+R25	DiscScope Arg1:T63 Arg2:T62
+R26	DiscScope Arg1:T60 Arg2:T59
+R27	DiscScope Arg1:T63 Arg2:T64
+R28	DiscScope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T65 Arg2:T66
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T67 Arg2:T68
+R32	Scope Arg1:T72 Arg2:T73
+R33	Scope Arg1:T74 Arg2:T75
+R34	Scope Arg1:T76 Arg2:T77
+R35	Scope Arg1:T79 Arg2:T78
+R36	Scope Arg1:T80 Arg2:T81
+R37	Scope Arg1:T83 Arg2:T84
+R38	Scope Arg1:T85 Arg2:T86
+R39	Scope Arg1:T92 Arg2:T93
+R40	Scope Arg1:T95 Arg2:T96
+R41	Scope Arg1:T98 Arg2:T99
+R42	Scope Arg1:T100 Arg2:T101
+R43	Scope Arg1:T107 Arg2:T108
+R44	Scope Arg1:T105 Arg2:T106

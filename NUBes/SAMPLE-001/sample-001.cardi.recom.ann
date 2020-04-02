@@ -1,0 +1,13 @@
+T1	SUBS 205 214	Enalapril
+T2	NegLexMarker 217 227	suspendido
+T3	NegLexMarker 1875 1884	Suspender
+T4	SUBS 1885 1893	Losartan
+T5	Phrase 1885 1961	Losartan , Manidon retard 120 mg , Lacipil 4 mg ( 0-1-0 ) y Omacor ( 0-0-1 )
+T6	SUBS 1896 1917	Manidon retard 120 mg
+T7	SUBS 1920 1932	Lacipil 4 mg
+T8	SUBS 1945 1951	Omacor
+T9	SUBS 1964 1974	Furosemida
+T10	NegLexMarker 1977 1987	suspendida
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T10 Arg2:T9

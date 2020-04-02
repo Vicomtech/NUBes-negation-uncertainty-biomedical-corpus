@@ -1,0 +1,29 @@
+T1	UncertLexMarker 377 389	sugestivo de
+T2	DISO 390 403	endometriosis
+T3	NegSynMarker 521 523	No
+T4	Phrase 524 547	rectorragias ni melenas
+T5	DISO 524 536	rectorragias
+T6	CoordItem 537 539	ni
+T7	DISO 540 547	melenas
+T8	UncertLexMarker 611 617	Parece
+T9	Phrase 618 678	haber tenido febrícula en sui domicilio en las últimas horas
+T10	DISO 631 640	febrícula
+T11	NegSynMarker 681 683	No
+T12	DISO 684 701	episodios previos
+T13	NegSynMarker 801 804	sin
+T14	DISO 805 824	otra sintomatología
+T15	NegSynMarker 920 922	no
+T16	Phrase 923 960	acompañado de sintomatologia urinaria
+T17	DISO 937 960	sintomatologia urinaria
+T18	NegSynMarker 1460 1462	no
+T19	DISO 1463 1478	mejora con RMSP
+T20	NegSynMarker 1504 1506	no
+T21	DISO 1507 1540	asociado a incontinencia urinaria
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21

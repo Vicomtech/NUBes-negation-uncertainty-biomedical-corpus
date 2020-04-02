@@ -1,0 +1,6 @@
+T1	UncertLexMarker 384 392	probable
+T2	DISO 393 414	demencia evolucionada
+T3	UncertLexMarker 804 812	probable
+T4	DISO 813 852	neoplasia pulmon con metastasis locales
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

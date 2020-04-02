@@ -1,0 +1,12 @@
+T1	UncertLexMarker 456 464	probable
+T2	DISO 465 508	relación a enfermedad intersticial pulmonar
+T3	UncertLexMarker 1869 1877	probable
+T4	DISO 1878 1913	relación a fractura de stress sacro
+T5	UncertLexMarker 2835 2843	probable
+T6	DISO 2844 2869	fractura aplastamiento L1
+T7	UncertLexMarker 2875 2883	probable
+T8	DISO 2884 2904	origen osteoporótico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6

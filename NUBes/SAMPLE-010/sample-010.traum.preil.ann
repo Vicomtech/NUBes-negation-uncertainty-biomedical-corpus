@@ -1,0 +1,102 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 10	mejoría
+T3	NegSynMarker 69 71	No
+T4	Phrase 72 107	ha mejorado a pesar del tratamiento
+T5	DISO 72 83	ha mejorado
+T6	NegSynMarker 182 185	sin
+T7	DISO 186 193	mejoría
+T8	NegSynMarker 579 581	No
+T9	DISO 582 593	tumefacción
+T10	NegSynMarker 596 598	No
+T11	Phrase 599 629	fiebre ni sensación distérmica
+T12	DISO 599 605	fiebre
+T13	CoordItem 606 608	ni
+T14	DISO 609 629	sensación distérmica
+T15	NegSynMarker 712 714	No
+T16	Phrase 715 752	puede realizar actividades deportivas
+T17	NegSynMarker 835 838	sin
+T18	DISO 839 846	mejoría
+T19	NegSynMarker 1051 1053	no
+T20	Phrase 1054 1079	aprecio puerta de entrada
+T21	DISO 1062 1079	puerta de entrada
+T22	NegSynMarker 1629 1631	No
+T23	DISO 1632 1658	ha podido volver a caminar
+T24	NegSynMarker 1736 1738	No
+T25	DISO 1739 1756	focos a distancia
+T26	NegSynMarker 1808 1811	sin
+T27	DISO 1812 1830	traumatismo previo
+T28	NegSynMarker 2384 2386	No
+T29	DISO 2387 2404	taumatismo previo
+T30	NegSynMarker 2663 2665	No
+T31	DISO 2666 2681	síndrome febril
+T32	NegSynMarker 2830 2832	no
+T33	Phrase 2833 2879	puede caminar con tacataca como venía haciendo
+T34	OTHER 2839 2859	caminar con tacataca
+T35	NegSynMarker 3099 3101	No
+T36	DISO 3102 3128	asociado con sobreesfuerzo
+T37	SUBS 3373 3384	Diclofenaco
+T38	NegSynMarker 3389 3391	no
+T39	OTHER 3392 3404	está tomando
+T40	NegSynMarker 3424 3426	no
+T41	OTHER 3427 3441	le sienta bien
+T42	NegSynMarker 3577 3579	no
+T43	Phrase 3580 3599	apreciaron fractura
+T44	DISO 3591 3599	fractura
+T45	NegSynMarker 3727 3729	No
+T46	DISO 3730 3766	perdida de fuerza ni de sensibilidad
+T47	CoordItem 3748 3750	ni
+T48	NegSynMarker 4004 4006	no
+T49	DISO 4007 4015	deambula
+T50	NegSynMarker 4506 4508	No
+T51	Phrase 4509 4533	refiere dolor en piernas
+T52	DISO 4517 4533	dolor en piernas
+T53	NegSynMarker 4599 4601	No
+T54	DISO 4602 4617	dolor abdominal
+T55	NegSynMarker 4620 4622	no
+T56	DISO 4623 4640	clincia miccional
+T57	NegSynMarker 4643 4645	no
+T58	DISO 4646 4665	fiebre termometrada
+T59	UncertLexMarker 4856 4864	probable
+T60	DISO 4865 4886	radiculopatía antigua
+T61	NegLexMarker 5034 5046	descaratando
+T62	DISO 5047 5055	fractura
+T63	NegSynMarker 5637 5640	sin
+T64	DISO 5641 5659	traumatismo previo
+T65	PROC 6048 6055	cultivo
+T66	NegLexMarker 6056 6064	negativo
+T67	NegSynMarker 6172 6175	sin
+T68	DISO 6176 6194	traumatismo previo
+T69	NegLexMarker 6753 6761	falta de
+T70	OTHER 6762 6771	respuesta
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T35 Arg2:T36
+R16	DiscScope Arg1:T38 Arg2:T37
+R17	DiscScope Arg1:T38 Arg2:T39
+R18	DiscScope Arg1:T40 Arg2:T37
+R19	DiscScope Arg1:T40 Arg2:T41
+R20	Scope Arg1:T42 Arg2:T43
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T50 Arg2:T51
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T53 Arg2:T54
+R26	Scope Arg1:T55 Arg2:T56
+R27	Scope Arg1:T59 Arg2:T60
+R28	Scope Arg1:T61 Arg2:T62
+R29	Scope Arg1:T63 Arg2:T64
+R30	Scope Arg1:T66 Arg2:T65
+R31	Scope Arg1:T67 Arg2:T68
+R32	Scope Arg1:T69 Arg2:T70

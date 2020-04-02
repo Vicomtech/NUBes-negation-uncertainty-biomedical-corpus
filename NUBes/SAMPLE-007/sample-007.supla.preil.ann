@@ -1,0 +1,10 @@
+T1	NegSynMarker 247 250	sin
+T2	OTHER 251 284	respuesta a quimioterapico topico
+T3	UncertLexMarker 927 934	Posible
+T4	DISO 935 966	queratoacantoma mejilla derecha
+T5	UncertLexMarker 1462 1476	compatible con
+T6	Phrase 1477 1522	ca basocelular en canto interno ojo izquierdo
+T7	DISO 1477 1491	ca basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

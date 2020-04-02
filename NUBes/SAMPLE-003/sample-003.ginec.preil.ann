@@ -1,0 +1,22 @@
+T1	NegSynMarker 52 54	no
+T2	DISO 55 82	responden al tto con Mirena
+T3	UncertLexMarker 159 171	sugestivo de
+T4	DISO 172 184	endometrioma
+T5	UncertLexMarker 601 609	sospecha
+T6	Phrase 610 642	ecografica de polipo endometrial
+T7	DISO 624 642	polipo endometrial
+T8	UncertLexMarker 740 751	sospecha de
+T9	DISO 752 770	polipo endometrial
+T10	NegSynMarker 814 816	no
+T11	DISO 817 839	responde al tto médico
+T12	NegSynMarker 938 940	no
+T13	DISO 941 974	asociado a incontinencia urinaria
+T14	NegSynMarker 1296 1299	sin
+T15	Phrase 1300 1311	conseguirlo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15

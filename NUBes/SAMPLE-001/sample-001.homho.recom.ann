@@ -1,0 +1,44 @@
+T1	NegSynMarker 420 422	no
+T2	Phrase 423 439	tomará lactulosa
+T3	SUBS 430 439	lactulosa
+T4	NegLexMarker 466 473	excepto
+T5	Phrase 474 482	domingos
+T6	NegSynMarker 1445 1447	No
+T7	Phrase 1448 1489	se precisa utilizar mascarilla quirúrgica
+T8	OTHER 1468 1489	mascarilla quirúrgica
+T9	NegSynMarker 1494 1496	no
+T10	Phrase 1497 1523	ser infección respiratoria
+T11	DISO 1501 1523	infección respiratoria
+T12	NegLexMarker 1780 1787	EXCEPTO
+T13	Phrase 1788 1806	SABADOS Y DOMINGOS
+T14	CoordItem 1796 1797	Y
+T15	SUBS 2155 2165	terazosina
+T16	NegLexMarker 2168 2178	suspendido
+T17	NegSynMarker 2592 2594	No
+T18	Phrase 2595 2671	utilizar el mismo par de guantes para realizar cuidados a más de un paciente
+T19	NegSynMarker 2705 2707	no
+T20	Phrase 2708 2730	necesariamente estéril
+T21	NegSynMarker 3742 3744	No
+T22	Phrase 3745 3804	conviene utilizar antibióticos para negativizar E.COLI BLEE
+T23	SUBS 3763 3775	antibióticos
+T24	UncertLexMarker 3811 3830	sospecha clínica de
+T25	DISO 3831 3840	infección
+T26	NegSynMarker 4449 4451	no
+T27	Phrase 4452 4476	necesariamente estériles
+T28	NegSynMarker 6190 6192	NO
+T29	OTHER 6193 6209	MÁS DE 3G AL DÍA
+T30	NegSynMarker 8001 8004	sin
+T31	OTHER 8005 8010	balón
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T16 Arg2:T15
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T30 Arg2:T31

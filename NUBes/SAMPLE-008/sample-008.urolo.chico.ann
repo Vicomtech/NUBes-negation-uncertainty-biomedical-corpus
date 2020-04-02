@@ -1,0 +1,3 @@
+T1	NegLexMarker 83 101	imposibilidad para
+T2	OTHER 102 112	levantarse
+R1	Scope Arg1:T1 Arg2:T2

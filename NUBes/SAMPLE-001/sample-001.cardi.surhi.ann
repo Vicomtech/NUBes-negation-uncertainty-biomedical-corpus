@@ -1,0 +1,12 @@
+T1	NegLexMarker 0 10	Se retiran
+T2	OTHER 11 21	las agujas
+T3	NegSynMarker 72 75	sin
+T4	DISO 76 83	tension
+T5	DISO 130 141	Incidencias
+T6	NegSynMarker 144 146	No
+T7	PROC 759 778	Anatomía Patológica
+T8	NegSynMarker 781 783	No
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T6 Arg2:T5
+R4	Scope Arg1:T8 Arg2:T7

@@ -1,0 +1,25 @@
+T1	NegLexMarker 1027 1037	excluyendo
+T2	Phrase 1038 1070	alimentos con pepitas y semillas
+T3	CoordItem 1060 1061	y
+T4	UncertLexMarker 1662 1669	Valorar
+T5	Phrase 1670 1714	más adelante la retirada de la sonda vesical
+T6	NegLexMarker 1686 1697	retirada de
+T7	OTHER 1698 1714	la sonda vesical
+T8	NegSynMarker 3419 3421	No
+T9	Phrase 3422 3461	tomar semillas ni alimentos con pepitas
+T10	CoordItem 3437 3439	ni
+T11	NegLexMarker 6941 6952	Se suspende
+T12	Phrase 6953 6987	clexane desde hoy jueves 25/3/2011
+T13	SUBS 6953 6960	clexane
+T14	NegSynMarker 6990 6992	no
+T15	Phrase 6993 7024	ponerse ya la dosis de la noche
+T16	NegSynMarker 7262 7264	No
+T17	Phrase 7265 7298	hay que realizar controles de INR
+T18	PROC 7282 7298	controles de INR
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T16 Arg2:T17

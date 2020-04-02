@@ -1,0 +1,201 @@
+T1	UncertLexMarker 227 238	Orientación
+T2	DISO 253 274	Osteoporosis avanzada
+T3	UncertLexMarker 277 280	sin
+T4	Phrase 281 293	evidencia de
+T5	UncertLexMarker 294 299	clara
+T6	Phrase 300 327	imagen de nodulación lítica
+T7	DISO 310 327	nodulación lítica
+T8	NegSynMarker 1419 1422	sin
+T9	DISO 1423 1435	alteraciones
+T10	NegSynMarker 1554 1557	sin
+T11	Phrase 1558 1598	evidencia de engrosamiento de sus bordes
+T12	DISO 1571 1598	engrosamiento de sus bordes
+T13	UncertLexMarker 1619 1631	sugestiva de
+T14	DISO 1632 1651	bursitis subcapital
+T15	DISO 1659 1666	absceso
+T16	UncertLexMarker 1669 1682	Se interpretó
+T17	Phrase 1683 1725	el cuadro como probable infección urinaria
+T18	PolItem 1698 1706	probable
+T19	DISO 1707 1725	infección urinaria
+T20	PROC 1808 1820	los nitritos
+T21	NegLexMarker 1821 1830	negativos
+T22	NegSynMarker 1847 1849	no
+T23	Phrase 1850 1881	valorable por orina contaminada
+T24	OTHER 1850 1859	valorable
+T25	NegSynMarker 1972 1975	sin
+T26	Phrase 1976 2037	que se volviera a repetir ningún episodio similar al descrito
+T27	PolItem 2002 2008	ningún
+T28	DISO 2009 2037	episodio similar al descrito
+T29	NegSynMarker 2644 2646	no
+T30	Phrase 2647 2687	se aprecia edemas ni signos de celulitis
+T31	DISO 2658 2664	edemas
+T32	CoordItem 2665 2667	ni
+T33	DISO 2678 2687	celulitis
+T34	NegSynMarker 2965 2967	no
+T35	OTHER 2968 2980	documentados
+T36	NegSynMarker 3067 3069	no
+T37	Phrase 3070 3094	ha indicado otro farmaco
+T38	SUBS 3082 3094	otro farmaco
+T39	NegSynMarker 3193 3195	no
+T40	Phrase 3196 3229	ha vuelto a repetir las arritmias
+T41	DISO 3220 3229	arritmias
+T42	UncertLexMarker 3289 3303	compatible con
+T43	DISO 3304 3325	foco de osteonecrosis
+T44	UncertLexMarker 3419 3434	compatibles con
+T45	DISO 3435 3441	flemón
+T46	UncertLexMarker 3552 3566	compatibel con
+T47	DISO 3567 3588	cambios inflamatorios
+T48	UncertLexMarker 4050 4052	No
+T49	Phrase 4053 4063	se aprecia
+T50	UncertLexMarker 4064 4069	clara
+T51	Phrase 4070 4121	imagen de nodulación lítica que sugieran malignidad
+T52	DISO 4080 4121	nodulación lítica que sugieran malignidad
+T53	PROC 5213 5243	Percusión de senos paranasales
+T54	NegLexMarker 5244 5253	negativos
+T55	NegSynMarker 5327 5330	sin
+T56	DISO 5331 5337	soplos
+T57	NegSynMarker 5422 5425	sin
+T58	DISO 5426 5442	puntos dolorosos
+T59	UncertLexMarker 6007 6013	quizás
+T60	OTHER 6014 6064	más evidente a nivel del cóndilo femoral izquierdo
+T61	UncertLexMarker 6067 6081	compatible con
+T62	DISO 6082 6103	osteoporosis avanzada
+T63	NegLexMarker 6109 6118	imposible
+T64	Phrase 6121 6229	en el momento actual , explorar la bipedestación y la marcha debido a la fractura que ha sufrido la paciente
+T65	OTHER 6144 6181	explorar la bipedestación y la marcha
+T66	UncertLexMarker 6239 6252	probablemente
+T67	Phrase 6253 6322	afectará a la calidad de deambulación una vez superada esta patología
+T68	DISO 6253 6290	afectará a la calidad de deambulación
+T69	UncertLexMarker 6355 6363	probable
+T70	DISO 6364 6374	plexopatia
+T71	Phrase 6364 6452	plexopatia/radiculopatia L5-S1 por tracción/compresion por hematoma rama externa ciatica
+T72	CoordItem 6374 6375	/
+T73	DISO 6375 6388	radiculopatia
+T74	NegSynMarker 6486 6489	sin
+T75	OTHER 6490 6497	cambios
+T76	NegSynMarker 6576 6579	sin
+T77	DISO 6580 6607	alteraciones significativas
+T78	NegSynMarker 7012 7015	sin
+T79	DISO 7016 7025	tiritonas
+T80	Phrase 7016 7094	tiritonas ni escalofríos ni dolor torácico ni abdominal ni molestias urinarias
+T81	CoordItem 7026 7028	ni
+T82	DISO 7029 7040	escalofríos
+T83	CoordItem 7041 7043	ni
+T84	DISO 7044 7071	dolor torácico ni abdominal
+T85	CoordItem 7059 7061	ni
+T86	CoordItem 7072 7074	ni
+T87	DISO 7075 7094	molestias urinarias
+T88	NegSynMarker 7385 7387	no
+T89	DISO 7388 7417	es impresindible anticoagular
+T90	UncertLexMarker 7659 7665	parece
+T91	Phrase 7666 7788	apreciarse una paresia facial dcha periferica de evolucion cronica en relacion a secuela quirurgica de tumoracion cerebral
+T92	DISO 7677 7732	una paresia facial dcha periferica de evolucion cronica
+T93	UncertLexMarker 7791 7802	Orientación
+T94	DISO 7817 7878	Cambios inflamatorios en la vertiente interna del pie derecho
+T95	Phrase 7817 7990	Cambios inflamatorios en la vertiente interna del pie derecho con artritis de la primera articulación metacapofalángica , celulitis , miositis y bursitis subcapital asociada
+T96	UncertLexMarker 8458 8467	Probables
+T97	DISO 8468 8488	hemangiomas D12 y L2
+T98	NegSynMarker 8727 8730	sin
+T99	SUBS 8731 8734	CIV
+T100	UncertLexMarker 8737 8740	Sin
+T101	Phrase 8741 8753	evidencia de
+T102	UncertLexMarker 8754 8759	clara
+T103	Phrase 8760 8777	imagen de absceso
+T104	DISO 8770 8777	absceso
+T105	UncertLexMarker 9499 9510	Orientación
+T106	DISO 9525 9591	Lesión osteocondral estadio II en cúpula astragalina superointerna
+T107	NegSynMarker 9672 9674	no
+T108	Phrase 9675 9716	se observa patologia pleuropulmonar aguda
+T109	DISO 9686 9716	patologia pleuropulmonar aguda
+T110	UncertLexMarker 9872 9880	probable
+T111	DISO 9881 9899	fijación tendinosa
+T112	NegSynMarker 9994 9997	Sin
+T113	DISO 9998 10045	alteraciones estructurales significativas óseas
+T114	UncertLexMarker 10452 10457	puede
+T115	Phrase 10458 10621	presentar signos de deterioro cognitivo incipiente que ha sido valorado por su médico de cabecera y que han empeorado por la fractura y por el ingreso hospitalario
+T116	DISO 10478 10508	deterioro cognitivo incipiente
+T117	NegSynMarker 10715 10717	No
+T118	Phrase 10718 10755	se objetiva cuerpo extraño radioopaco
+T119	DISO 10730 10755	cuerpo extraño radioopaco
+T120	UncertLexMarker 10824 10838	compatible con
+T121	DISO 10839 10849	edema óseo
+T122	Phrase 11026 11058	el urocultivo y los hemocultivos
+T123	PROC 11026 11039	el urocultivo
+T124	CoordItem 11040 11041	y
+T125	PROC 11042 11058	los hemocultivos
+T126	NegLexMarker 11059 11068	negativos
+T127	NegSynMarker 11277 11280	sin
+T128	Phrase 11281 11316	evidencia de captación de contraste
+T129	OTHER 11294 11316	captación de contraste
+T130	UncertLexMarker 11444 11455	Orientación
+T131	DISO 11470 11484	Rotura del LCA
+T132	NegSynMarker 11934 11936	no
+T133	Phrase 11937 11977	rigidez de nuca ni ingurgitación yugular
+T134	DISO 11937 11952	rigidez de nuca
+T135	CoordItem 11953 11955	ni
+T136	DISO 11956 11977	ingurgitación yugular
+T137	NegSynMarker 12254 12257	sin
+T138	DISO 12258 12288	afectación de raíces espinales
+T139	UncertLexMarker 12301 12314	sugestivos de
+T140	Phrase 12315 12362	patrón de denervación activa con pérdida axonal
+T141	DISO 12325 12362	denervación activa con pérdida axonal
+T142	UncertLexMarker 12495 12509	no se descarta
+T143	DISO 12510 12543	componente radicular sobreañadido
+T144	UncertLexMarker 13063 13077	compatible con
+T145	DISO 13078 13124	distensión de la cápsula articular por derrame
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T5 Arg2:T4
+R3	DiscScope Arg1:T5 Arg2:T6
+R4	DiscMarker Arg1:T3 Arg2:T5
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T13 Arg2:T15
+R8	Scope Arg1:T10 Arg2:T11
+R9	Scope Arg1:T21 Arg2:T20
+R10	Scope Arg1:T16 Arg2:T17
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T22 Arg2:T23
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	DiscMarker Arg1:T48 Arg2:T50
+R21	DiscScope Arg1:T50 Arg2:T51
+R22	DiscScope Arg1:T50 Arg2:T49
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T54 Arg2:T53
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T59 Arg2:T60
+R28	Scope Arg1:T66 Arg2:T67
+R29	Scope Arg1:T63 Arg2:T64
+R30	Scope Arg1:T69 Arg2:T71
+R31	Scope Arg1:T74 Arg2:T75
+R32	Scope Arg1:T76 Arg2:T77
+R33	Scope Arg1:T78 Arg2:T80
+R34	Scope Arg1:T88 Arg2:T89
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T93 Arg2:T95
+R37	Scope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T98 Arg2:T99
+R39	DiscScope Arg1:T102 Arg2:T101
+R40	DiscMarker Arg1:T100 Arg2:T102
+R41	DiscScope Arg1:T102 Arg2:T103
+R42	Scope Arg1:T105 Arg2:T106
+R43	Scope Arg1:T107 Arg2:T108
+R44	Scope Arg1:T110 Arg2:T111
+R45	Scope Arg1:T112 Arg2:T113
+R46	Scope Arg1:T114 Arg2:T115
+R47	Scope Arg1:T117 Arg2:T118
+R48	Scope Arg1:T120 Arg2:T121
+R49	Scope Arg1:T126 Arg2:T122
+R50	Scope Arg1:T127 Arg2:T128
+R51	Scope Arg1:T130 Arg2:T131
+R52	Scope Arg1:T132 Arg2:T133
+R53	Scope Arg1:T137 Arg2:T138
+R54	Scope Arg1:T142 Arg2:T143
+R55	Scope Arg1:T139 Arg2:T140
+R56	Scope Arg1:T144 Arg2:T145

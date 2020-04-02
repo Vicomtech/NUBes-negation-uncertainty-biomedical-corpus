@@ -1,0 +1,149 @@
+T1	NegSynMarker 90 93	sin
+T2	OTHER 94 137	constar el motivo quirurgico en la historia
+T3	NegSynMarker 277 280	sin
+T4	Phrase 281 319	posibilidad de intervención quirúrgica
+T5	PROC 296 319	intervención quirúrgica
+T6	UncertLexMarker 448 455	posible
+T7	DISO 456 484	perforacion de viscera hueca
+T8	NegLexMarker 1475 1493	imposibilidad para
+T9	DISO 1494 1509	la deambulación
+T10	UncertLexMarker 1881 1887	parece
+T11	OTHER 1888 2023	tener unos diámetros de 42 x 46 x 45 mm en los planos anteroposterior transversal , craneocaudal y medir un volumen aproximado de 45 cc
+T12	Phrase 2026 2037	las medidas
+T13	UncertLexMarker 2046 2055	inexactas
+T14	NegSynMarker 2087 2089	no
+T15	Phrase 2090 2121	ha vuelto a presentar hematuria
+T16	DISO 2112 2121	hematuria
+T17	NegSynMarker 2470 2473	sin
+T18	OTHER 2474 2482	lograrlo
+T19	NegLexMarker 2485 2496	Se descarta
+T20	DISO 2497 2522	proceso apendicular agudo
+T21	NegSynMarker 2593 2596	sin
+T22	Phrase 2597 2611	poder lograrlo
+T23	NegLexMarker 2660 2667	impedia
+T24	OTHER 2668 2711	la visualización de ambos meatos ureterales
+T25	PROC 2732 2749	cultivos seriados
+T26	NegLexMarker 2764 2778	NEGATIVOS para
+T27	SUBS 2779 2783	SARM
+T28	NegSynMarker 2977 2980	sin
+T29	DISO 2981 3012	hallazgos patológicos vesicales
+T30	Phrase 3376 3408	tratamiento con Bicalutamida 150
+T31	SUBS 3392 3408	Bicalutamida 150
+T32	NegLexMarker 3419 3429	suspendido
+T33	Phrase 3430 3463	por elevacionde enzimas hepáticas
+T34	NegSynMarker 3668 3670	no
+T35	DISO 3671 3706	se aprecian los lóbulos prostaticos
+T36	NegSynMarker 3782 3784	no
+T37	DISO 3785 3798	pasa la sonda
+T38	PROC 4413 4424	nefrostomía
+T39	NegSynMarker 4431 4433	no
+T40	Phrase 4434 4446	se consiguió
+T41	NegLexMarker 4551 4560	se retira
+T42	Phrase 4561 4601	la furosemida que tomaba para su control
+T43	SUBS 4561 4574	la furosemida
+T44	UncertLexMarker 6017 6030	sospechosa de
+T45	DISO 6031 6047	metástasis oseas
+T46	PROC 6698 6717	Anatomía Patológica
+T47	NegLexMarker 6718 6726	negativa
+T48	PROC 6727 6734	tumoral
+T49	NegLexMarker 6762 6778	imposibilidad de
+T50	PROC 6779 6800	colocar sonda vesical
+T51	NegSynMarker 6895 6897	no
+T52	Phrase 6898 6922	se aprecia liquido libre
+T53	DISO 6909 6922	liquido libre
+T54	UncertLexMarker 7013 7028	compatibles con
+T55	DISO 7029 7045	metástasis óseas
+T56	NegSynMarker 7140 7143	sin
+T57	DISO 7144 7155	incidencias
+T58	NegLexMarker 7345 7354	retiramos
+T59	OTHER 7355 7371	la sonda vesical
+T60	NegLexMarker 7430 7439	imposible
+T61	PROC 7440 7460	un sondaje rutinario
+T62	NegLexMarker 7576 7588	contraindica
+T63	PROC 7589 7607	cirugía ortopédica
+T64	NegLexMarker 7619 7627	suspende
+T65	PROC 7628 7640	intervención
+T66	NegLexMarker 7801 7812	descartando
+T67	Phrase 7813 7845	asas intestinales en el trayecto
+T68	DISO 7813 7830	asas intestinales
+T69	NegLexMarker 7974 7985	Retirada de
+T70	OTHER 7986 8004	2 puntos de sutura
+T71	NegSynMarker 8385 8388	sin
+T72	DISO 8389 8398	hallazgos
+T73	NegSynMarker 8992 8995	sin
+T74	DISO 8996 9023	historia urológica conocida
+T75	NegLexMarker 9476 9489	imposibilidad
+T76	Phrase 9490 9556	, por parte del Servicio de Anestesia , de realizar raquianestesia
+T77	PROC 9533 9556	realizar raquianestesia
+T78	UncertLexMarker 9628 9643	compatibles con
+T79	DISO 9644 9664	metástasis blásticas
+T80	UncertLexMarker 9828 9841	probablemente
+T81	DISO 9842 9854	metastásicos
+T82	NegSynMarker 10898 10901	Sin
+T83	DISO 10902 10913	incidencias
+T84	Phrase 10902 10937	incidencias durante la intervencion
+T85	NegSynMarker 11050 11052	No
+T86	Phrase 11053 11068	tienen informes
+T87	OTHER 11060 11068	informes
+T88	NegLexMarker 11233 11242	Ha cedido
+T89	DISO 11243 11251	el dolor
+T90	NegSynMarker 11266 11268	no
+T91	Phrase 11269 11298	encontrar patología urológica
+T92	DISO 11279 11298	patología urológica
+T93	NegSynMarker 11414 11417	sin
+T94	DISO 11418 11425	defensa
+T95	NegLexMarker 11500 11511	retirada de
+T96	OTHER 11512 11520	la sonda
+T97	NegSynMarker 11523 11525	no
+T98	Phrase 11526 11582	ha vuelto a presentar problemas obstructivos miccionales
+T99	DISO 11548 11582	problemas obstructivos miccionales
+T100	NegSynMarker 11887 11889	no
+T101	Phrase 11890 11939	volviendo a presentar dolor de nuevo cólico renal
+T102	DISO 11912 11939	dolor de nuevo cólico renal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T21 Arg2:T22
+R12	DiscScope Arg1:T26 Arg2:T27
+R13	DiscScope Arg1:T26 Arg2:T25
+R14	Scope Arg1:T28 Arg2:T29
+R15	DiscScope Arg1:T32 Arg2:T30
+R16	DiscScope Arg1:T32 Arg2:T33
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T36 Arg2:T37
+R19	DiscScope Arg1:T39 Arg2:T40
+R20	DiscScope Arg1:T39 Arg2:T38
+R21	Scope Arg1:T41 Arg2:T42
+R22	Scope Arg1:T44 Arg2:T45
+R23	DiscScope Arg1:T47 Arg2:T48
+R24	DiscScope Arg1:T47 Arg2:T46
+R25	Scope Arg1:T49 Arg2:T50
+R26	Scope Arg1:T51 Arg2:T52
+R27	Scope Arg1:T54 Arg2:T55
+R28	Scope Arg1:T56 Arg2:T57
+R29	Scope Arg1:T58 Arg2:T59
+R30	Scope Arg1:T60 Arg2:T61
+R31	Scope Arg1:T64 Arg2:T65
+R32	Scope Arg1:T62 Arg2:T63
+R33	Scope Arg1:T66 Arg2:T67
+R34	Scope Arg1:T69 Arg2:T70
+R35	Scope Arg1:T71 Arg2:T72
+R36	Scope Arg1:T73 Arg2:T74
+R37	Scope Arg1:T75 Arg2:T76
+R38	Scope Arg1:T80 Arg2:T81
+R39	Scope Arg1:T78 Arg2:T79
+R40	Scope Arg1:T82 Arg2:T84
+R41	Scope Arg1:T85 Arg2:T86
+R42	Scope Arg1:T88 Arg2:T89
+R43	Scope Arg1:T90 Arg2:T91
+R44	Scope Arg1:T93 Arg2:T94
+R45	Scope Arg1:T97 Arg2:T98
+R46	Scope Arg1:T95 Arg2:T96
+R47	Scope Arg1:T100 Arg2:T101

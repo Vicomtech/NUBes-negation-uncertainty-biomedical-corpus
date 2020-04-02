@@ -1,0 +1,20 @@
+T1	NegSynMarker 35 38	sin
+T2	DISO 39 44	dolor
+T3	NegSynMarker 221 223	no
+T4	DISO 224 262	dolor a las movilizaciones articulares
+T5	NegSynMarker 325 328	sin
+T6	DISO 329 338	hallazgos
+T7	NegSynMarker 1091 1093	No
+T8	DISO 1094 1156	dolor a la plapción de apofisis espinosas dorsales ni lumbares
+T9	CoordItem 1145 1147	ni
+T10	NegMorMarker 1168 1180	desorientado
+T11	NegSynMarker 1302 1304	No
+T12	DISO 1305 1338	dolro a la movilización de cadera
+T13	NegSynMarker 1369 1372	sin
+T14	DISO 1373 1383	dificultad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14

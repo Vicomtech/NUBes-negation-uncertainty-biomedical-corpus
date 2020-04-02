@@ -1,0 +1,9 @@
+T1	NegSynMarker 321 323	no
+T2	DISO 324 331	dolorsa
+T3	NegSynMarker 456 459	sin
+T4	DISO 460 469	hallazgos
+T5	UncertLexMarker 478 492	compatible con
+T6	DISO 493 534	pequeña calcificación en inserción de SSP
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

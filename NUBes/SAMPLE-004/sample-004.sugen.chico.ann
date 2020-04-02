@@ -1,0 +1,78 @@
+T1	NegSynMarker 51 53	No
+T2	Phrase 54 71	acolia ni coluria
+T3	DISO 54 60	acolia
+T4	CoordItem 61 63	ni
+T5	DISO 64 71	coluria
+T6	NegSynMarker 71 73	No
+T7	Phrase 74 115	reifere haber tomado aines ni corticoides
+T8	SUBS 95 100	aines
+T9	CoordItem 101 103	ni
+T10	SUBS 104 115	corticoides
+T11	NegSynMarker 118 120	No
+T12	Phrase 121 148	reifere fiebre termometrada
+T13	DISO 129 148	fiebre termometrada
+T14	NegSynMarker 151 153	No
+T15	Phrase 154 181	anorexia ni perdida de peso
+T16	DISO 154 162	anorexia
+T17	CoordItem 163 165	ni
+T18	DISO 166 181	perdida de peso
+T19	NegSynMarker 184 186	No
+T20	Phrase 187 230	tos ni expectoración ni sensación de disnea
+T21	DISO 187 190	tos
+T22	CoordItem 191 193	ni
+T23	DISO 194 207	expectoración
+T24	CoordItem 208 210	ni
+T25	DISO 211 230	sensación de disnea
+T26	NegSynMarker 485 488	sin
+T27	Phrase 489 514	objetivar patología aguda
+T28	DISO 499 514	patología aguda
+T29	NegSynMarker 624 626	No
+T30	Phrase 627 652	se ha termometrado fiebre
+T31	PROC 633 652	termometrado fiebre
+T32	NegSynMarker 1092 1095	sin
+T33	DISO 1096 1103	sincope
+T34	NegSynMarker 1334 1336	Ni
+T35	Phrase 1337 1384	él ni acompañantes han detectado otros síntomas
+T36	CoordItem 1340 1342	ni
+T37	OTHER 1356 1384	han detectado otros síntomas
+T38	NegSynMarker 1400 1402	no
+T39	Phrase 1403 1409	camina
+T40	SUBS 1726 1736	medicaciòn
+T41	NegSynMarker 1741 1743	no
+T42	Phrase 1744 1753	recuerdan
+T43	NegLexMarker 1774 1783	suspender
+T44	UncertLexMarker 1813 1823	Al parecer
+T45	Phrase 1826 1861	no clínica respiratoria ni urinaria
+T46	NegSynMarker 1826 1828	no
+T47	DISO 1829 1861	clínica respiratoria ni urinaria
+T48	CoordItem 1850 1852	ni
+T49	NegSynMarker 1864 1866	No
+T50	DISO 1867 1878	hematemesis
+T51	UncertLexMarker 2164 2175	sospecha de
+T52	DISO 2176 2192	angor intestinal
+T53	NegSynMarker 2209 2211	No
+T54	Phrase 2212 2238	vomitos ni dolor abdominal
+T55	DISO 2212 2219	vomitos
+T56	CoordItem 2220 2222	ni
+T57	DISO 2223 2238	dolor abdominal
+T58	NegSynMarker 2755 2757	no
+T59	OTHER 2758 2769	especifican
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T11 Arg2:T12
+R4	Scope Arg1:T14 Arg2:T15
+R5	Scope Arg1:T19 Arg2:T20
+R6	Scope Arg1:T26 Arg2:T27
+R7	Scope Arg1:T29 Arg2:T30
+R8	Scope Arg1:T32 Arg2:T33
+R9	Scope Arg1:T34 Arg2:T35
+R10	Scope Arg1:T38 Arg2:T39
+R11	DiscScope Arg1:T41 Arg2:T42
+R12	DiscScope Arg1:T41 Arg2:T40
+R13	Scope Arg1:T43 Arg2:T40
+R14	Scope Arg1:T46 Arg2:T47
+R15	Scope Arg1:T44 Arg2:T45
+R16	Scope Arg1:T49 Arg2:T50
+R17	Scope Arg1:T51 Arg2:T52
+R18	Scope Arg1:T53 Arg2:T54
+R19	Scope Arg1:T58 Arg2:T59

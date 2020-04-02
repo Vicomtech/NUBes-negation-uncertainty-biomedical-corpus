@@ -1,0 +1,35 @@
+T1	NegSynMarker 302 305	sin
+T2	DISO 306 318	gran mejoria
+T3	NegLexMarker 904 915	retirada de
+T4	OTHER 916 938	Infusor quimioterapico
+T5	NegLexMarker 1458 1465	retirar
+T6	OTHER 1466 1472	puntos
+T7	UncertLexMarker 1969 1976	posible
+T8	PROC 1977 1988	transfusión
+T9	NegLexMarker 2375 2386	retirada de
+T10	OTHER 2387 2409	Insufor Quimioterapico
+T11	NegLexMarker 2658 2669	retirada de
+T12	OTHER 2670 2683	infusor de QT
+T13	NegSynMarker 2795 2797	no
+T14	PROC 2798 2808	intervenir
+T15	NegSynMarker 3050 3052	no
+T16	DISO 3053 3063	complicada
+T17	NegSynMarker 3608 3610	no
+T18	Phrase 3611 3633	se puede utilizar CADD
+T19	OTHER 3629 3633	CADD
+T20	UncertLexMarker 4393 4402	probables
+T21	DISO 4403 4410	melenas
+T22	NegLexMarker 5797 5808	retirada de
+T23	OTHER 5809 5833	Infusor de Quimioterapia
+T24	Phrase 5809 5862	Infusor de Quimioterapia según protocolo hospitalario
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T24

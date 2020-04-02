@@ -1,0 +1,78 @@
+T1	NegSynMarker 7 10	sin
+T2	Phrase 11 16	ayuda
+T3	NegSynMarker 171 173	No
+T4	DISO 174 199	signos irritativos en MID
+T5	NegSynMarker 342 344	no
+T6	Phrase 345 369	refiere dolor de rodilla
+T7	DISO 353 369	dolor de rodilla
+T8	UncertLexMarker 388 397	Sin claro
+T9	Phrase 398 443	deficit motor / ni claro transtorno sensitivo
+T10	DISO 398 411	deficit motor
+T11	CoordItem 414 416	ni
+T12	PolItem 417 422	claro
+T13	DISO 423 443	transtorno sensitivo
+T14	NegSynMarker 566 568	No
+T15	DISO 569 601	control de tronco en sedestación
+T16	NegSynMarker 653 655	no
+T17	DISO 656 665	valorable
+T18	NegMorMarker 864 876	desorientada
+T19	NegSynMarker 885 887	No
+T20	PROC 888 915	se explora el area perianal
+T21	NegSynMarker 1299 1301	no
+T22	Phrase 1302 1308	repite
+T23	NegSynMarker 1311 1313	no
+T24	Phrase 1314 1323	evocación
+T25	Phrase 1885 1894	por dolor
+T26	DISO 1889 1894	dolor
+T27	UncertLexMarker 1895 1896	?
+T28	NegSynMarker 1899 1902	sin
+T29	DISO 1903 1923	transtorno sensitivo
+T30	NegSynMarker 2013 2015	no
+T31	OTHER 2016 2033	puede levantarlos
+T32	UncertLexMarker 2063 2070	posible
+T33	DISO 2071 2097	rotura tendinosa bialteral
+T34	NegMorMarker 2173 2182	inestable
+T35	NegSynMarker 2692 2694	no
+T36	Phrase 2695 2720	refiere dolor trocantereo
+T37	DISO 2703 2720	dolor trocantereo
+T38	NegSynMarker 2730 2733	sin
+T39	DISO 2734 2744	dificultad
+T40	NegSynMarker 2827 2829	No
+T41	Phrase 2830 2864	impresiona de hemianopsia homonina
+T42	DISO 2844 2864	hemianopsia homonina
+T43	NegSynMarker 3943 3945	no
+T44	Phrase 3946 3985	podía realizar ningun movimiento activo
+T45	PolItem 3961 3967	ningun
+T46	OTHER 3968 3985	movimiento activo
+T47	UncertLexMarker 4133 4141	No claro
+T48	DISO 4142 4162	transtorno sensitivo
+T49	NegSynMarker 4200 4202	no
+T50	Phrase 4203 4216	salía de casa
+T51	NegSynMarker 4369 4371	no
+T52	DISO 4372 4382	reductible
+T53	NegSynMarker 4498 4501	sin
+T54	DISO 4502 4507	dolor
+T55	NegSynMarker 4581 4584	sin
+T56	DISO 4585 4596	peritonismo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T27 Arg2:T25
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56

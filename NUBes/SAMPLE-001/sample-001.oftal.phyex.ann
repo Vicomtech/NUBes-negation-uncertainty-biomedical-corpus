@@ -1,0 +1,8 @@
+T1	NegSynMarker 300 302	no
+T2	Phrase 303 334	observo alteraciones retinianas
+T3	DISO 311 334	alteraciones retinianas
+T4	NegSynMarker 636 638	no
+T5	Phrase 639 653	veo hemorragia
+T6	DISO 643 653	hemorragia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

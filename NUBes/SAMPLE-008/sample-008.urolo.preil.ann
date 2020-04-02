@@ -1,0 +1,92 @@
+T1	NegSynMarker 387 389	NO
+T2	Phrase 390 418	sintomas en los dias previos
+T3	DISO 390 398	sintomas
+T4	NegSynMarker 658 661	sin
+T5	DISO 662 674	alteraciones
+T6	NegSynMarker 849 851	No
+T7	Phrase 852 870	diarrea ni vomitos
+T8	DISO 852 859	diarrea
+T9	CoordItem 860 862	ni
+T10	DISO 863 870	vomitos
+T11	NegMorMarker 954 967	inespecificas
+T12	NegSynMarker 1105 1108	sin
+T13	DISO 1109 1113	ella
+T14	NegSynMarker 1268 1270	No
+T15	OTHER 1271 1300	tenemos el tratamiento tomado
+T16	NegSynMarker 1331 1333	No
+T17	DISO 1334 1379	ha mejorado con tratamientos anticolinergicos
+T18	Phrase 1334 1414	ha mejorado con tratamientos anticolinergicos , Permixon , Urolosin , Silodosina
+T19	NegMorMarker 1724 1736	asintomática
+T20	NegSynMarker 2045 2048	sin
+T21	DISO 2049 2071	antecdentes de interes
+T22	NegSynMarker 2288 2291	sin
+T23	DISO 2292 2314	hallazgos en Ecografia
+T24	NegSynMarker 2484 2486	no
+T25	DISO 2487 2498	obstructiva
+T26	Phrase 2487 2515	obstructiva en la actualidad
+T27	NegMorMarker 2660 2674	desorientación
+T28	NegMorMarker 3171 3183	inespecifica
+T29	NegLexMarker 3198 3206	negativa
+T30	DISO 3207 3220	de malignidad
+T31	UncertLexMarker 3236 3246	Se plantea
+T32	PROC 3247 3262	sección del TOT
+T33	Phrase 3247 3290	sección del TOT y colocación de nueva malla
+T34	CoordItem 3263 3264	y
+T35	PROC 3265 3290	colocación de nueva malla
+T36	NegLexMarker 3792 3808	ninguna de ellas
+T37	DISO 3809 3820	obstructiva
+T38	NegSynMarker 3896 3898	no
+T39	DISO 3899 3911	obstructivas
+T40	NegSynMarker 4212 4214	No
+T41	Phrase 4215 4260	se observan signos histológicos de malignidad
+T42	DISO 4227 4260	signos histológicos de malignidad
+T43	NegSynMarker 4375 4377	No
+T44	DISO 4378 4425	ha tolerado el tratamiento con alfa bloqueantes
+T45	NegSynMarker 4461 4463	no
+T46	DISO 4464 4496	ha mejorado la clínica miccional
+T47	NegSynMarker 4596 4599	sin
+T48	DISO 4600 4633	problemas miccionales posteriores
+T49	NegSynMarker 4676 4679	sin
+T50	DISO 4680 4689	problemas
+T51	NegSynMarker 4692 4695	sin
+T52	Phrase 4696 4724	presentar retención urinaria
+T53	DISO 4706 4724	retención urinaria
+T54	NegSynMarker 5016 5018	no
+T55	DISO 5019 5026	escozor
+T56	NegSynMarker 5029 5031	No
+T57	DISO 5032 5059	clinica febril ni miccional
+T58	CoordItem 5047 5049	ni
+T59	UncertLexMarker 5762 5769	Posible
+T60	DISO 5770 5793	sintomatologia urinaria
+T61	NegSynMarker 6077 6079	No
+T62	Phrase 6080 6121	fiebre , náuseas ni otra clínica asociada
+T63	DISO 6080 6086	fiebre
+T64	DISO 6089 6096	náuseas
+T65	CoordItem 6097 6099	ni
+T66	DISO 6100 6121	otra clínica asociada
+T67	NegSynMarker 6348 6351	sin
+T68	SUBS 6352 6355	CIV
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T18
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T24 Arg2:T26
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T33
+R12	Scope Arg1:T36 Arg2:T37
+R13	Scope Arg1:T38 Arg2:T39
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T45 Arg2:T46
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T54 Arg2:T55
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T59 Arg2:T60
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T67 Arg2:T68

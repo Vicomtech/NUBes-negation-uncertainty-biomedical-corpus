@@ -1,0 +1,46 @@
+T1	NegSynMarker 445 447	no
+T2	Phrase 448 467	sujetan bien el pie
+T3	NegLexMarker 811 821	suspendido
+T4	SUBS 822 831	Enalapril
+T5	NegMorMarker 1207 1220	inestabilidad
+T6	NegSynMarker 1395 1397	no
+T7	Phrase 1398 1484	caminar descalzo y nunca con medias o calcetines directamente en contacto con el suelo
+T8	CoordItem 1415 1416	y
+T9	PolItem 1417 1422	nunca
+T10	NegSynMarker 1859 1866	excepto
+T11	Phrase 1867 1885	sábados y domingos
+T12	SUBS 3020 3035	Hidrapres 50 mg
+T13	NegLexMarker 3049 3057	suspende
+T14	NegSynMarker 5179 5181	no
+T15	Phrase 5182 5207	dificulte los movimientos
+T16	NegSynMarker 5214 5216	no
+T17	Phrase 5217 5244	pueda pisarse o engancharse
+T18	NegSynMarker 6179 6181	no
+T19	Phrase 6182 6212	subirse a escalera o taburetes
+T20	NegSynMarker 6331 6334	sin
+T21	Phrase 6335 6360	dejar libres los extremos
+T22	NegSynMarker 6370 6372	no
+T23	Phrase 6373 6400	se desplacen ni se arruguen
+T24	CoordItem 6386 6388	ni
+T25	NegSynMarker 6712 6714	no
+T26	Phrase 6715 6735	levantarse a oscuras
+T27	NegSynMarker 6853 6855	no
+T28	Phrase 6856 6866	financiado
+T29	Phrase 7016 7049	Tramadol/paracetamol , de momento
+T30	SUBS 7016 7024	Tramadol
+T31	CoordItem 7024 7025	/
+T32	SUBS 7025 7036	paracetamol
+T33	NegLexMarker 7050 7058	suspende
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T13 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T33 Arg2:T29

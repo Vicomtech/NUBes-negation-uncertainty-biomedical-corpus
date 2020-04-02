@@ -1,0 +1,4 @@
+T1	NegSynMarker 63 65	no
+T2	Phrase 66 93	asociada a prolapso vesical
+T3	DISO 77 93	prolapso vesical
+R1	Scope Arg1:T1 Arg2:T2

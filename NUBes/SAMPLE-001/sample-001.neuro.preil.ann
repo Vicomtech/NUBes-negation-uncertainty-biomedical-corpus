@@ -1,0 +1,92 @@
+T1	NegSynMarker 148 151	sin
+T2	DISO 152 231	irradiación a región torácica , ni a región dorsal ni a extremidades superiores
+T3	CoordItem 184 186	ni
+T4	CoordItem 203 205	ni
+T5	NegSynMarker 454 456	No
+T6	DISO 457 476	hematuria posterior
+T7	NegSynMarker 525 528	sin
+T8	Phrase 529 537	ascensor
+T9	NegLexMarker 540 550	se niega a
+T10	Phrase 551 605	revisiones por su Médico de Cabecera o a recibir ayuda
+T11	OTHER 551 587	revisiones por su Médico de Cabecera
+T12	CoordItem 588 589	o
+T13	OTHER 592 605	recibir ayuda
+T14	NegSynMarker 608 610	No
+T15	DISO 611 617	disnea
+T16	NegSynMarker 677 679	No
+T17	DISO 680 683	TCE
+T18	NegSynMarker 686 688	no
+T19	DISO 689 712	perdida de conocimiento
+T20	NegSynMarker 936 938	No
+T21	DISO 939 970	otra sintomatologia acompañante
+T22	NegSynMarker 973 975	No
+T23	Phrase 976 1009	clinica de infeccion respiratoria
+T24	DISO 987 1009	infeccion respiratoria
+T25	NegSynMarker 1012 1014	no
+T26	DISO 1015 1029	dolor torácico
+T27	Phrase 1015 1064	dolor torácico , ni clinica de infección urinaria
+T28	CoordItem 1032 1034	ni
+T29	DISO 1046 1064	infección urinaria
+T30	NegSynMarker 1139 1141	No
+T31	Phrase 1142 1178	refieren episodios previos similares
+T32	DISO 1151 1178	episodios previos similares
+T33	UncertLexMarker 1639 1649	Desconocen
+T34	Phrase 1650 1656	si TCE
+T35	DISO 1653 1656	TCE
+T36	NegLexMarker 1668 1680	imposible de
+T37	Phrase 1681 1689	precisar
+T38	NegSynMarker 1772 1774	no
+T39	OTHER 1775 1803	ha tomado nada para el dolor
+T40	PolItem 1785 1789	nada
+T41	NegSynMarker 1958 1965	tampoco
+T42	PolItem 1966 1971	nadie
+T43	Phrase 1966 1993	nadie la ha visto tomársela
+T44	NegSynMarker 2061 2063	No
+T45	DISO 2064 2074	odinofagia
+T46	NegSynMarker 2077 2079	No
+T47	Phrase 2080 2098	nauseas ni vómitos
+T48	DISO 2080 2087	nauseas
+T49	CoordItem 2088 2090	ni
+T50	DISO 2091 2098	vómitos
+T51	UncertLexMarker 2174 2186	Desconocemos
+T52	DISO 2187 2199	otra clínica
+T53	NegSynMarker 2202 2204	No
+T54	DISO 2205 2219	dolor cervical
+T55	NegSynMarker 2222 2224	no
+T56	DISO 2225 2277	perdida de fuerza ni de sensibilidad en extremidades
+T57	CoordItem 2243 2245	ni
+T58	NegMorMarker 2562 2576	desorientación
+T59	NegSynMarker 3073 3075	no
+T60	DISO 3076 3089	podía caminar
+T61	NegSynMarker 3118 3120	no
+T62	DISO 3121 3151	podía mantener el ortostatismo
+T63	UncertLexMarker 3154 3164	Desconocen
+T64	Phrase 3165 3208	si ha podido tomar fármacos u otros tóxicos
+T65	OTHER 3178 3208	tomar fármacos u otros tóxicos
+T66	UncertLexMarker 3211 3220	No parece
+T67	Phrase 3221 3237	haber tenido TCE
+T68	DISO 3234 3237	TCE
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T25 Arg2:T27
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T41 Arg2:T43
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T51 Arg2:T52
+R19	Scope Arg1:T55 Arg2:T56
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T61 Arg2:T62
+R23	Scope Arg1:T63 Arg2:T64
+R24	Scope Arg1:T66 Arg2:T67

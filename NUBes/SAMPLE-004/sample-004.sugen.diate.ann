@@ -1,0 +1,145 @@
+T1	UncertLexMarker 125 139	compatible con
+T2	DISO 140 152	barro biliar
+T3	Phrase 140 174	barro biliar y alguna colelitiasis
+T4	CoordItem 153 154	y
+T5	DISO 155 174	alguna colelitiasis
+T6	NegSynMarker 241 244	sin
+T7	Phrase 245 267	signos de colecistitis
+T8	DISO 255 267	colecistitis
+T9	UncertLexMarker 409 415	podría
+T10	Phrase 416 563	estar en relación con un quiste de de unos 4 cm situado en localización teórica del ovario izquierdo que parece comprimir el uréter extrínsecamente
+T11	DISO 425 563	relación con un quiste de de unos 4 cm situado en localización teórica del ovario izquierdo que parece comprimir el uréter extrínsecamente
+T12	UncertLexMarker 521 527	parece
+T13	DISO 528 563	comprimir el uréter extrínsecamente
+T14	NegSynMarker 566 569	sin
+T15	DISO 570 591	nodulaciones internas
+T16	Phrase 570 637	nodulaciones internas o engrosamientos para pensar en causa maligna
+T17	CoordItem 592 593	o
+T18	DISO 594 608	engrosamientos
+T19	UncertLexMarker 640 648	probable
+T20	DISO 649 661	cistoadenoma
+T21	UncertLexMarker 664 678	menos probable
+T22	DISO 679 698	cistoadenocarcinoma
+T23	NegLexMarker 870 881	ausencia de
+T24	DISO 882 914	señal en conducto hepático común
+T25	NegSynMarker 1052 1055	sin
+T26	Phrase 1056 1096	y con supresión grasa y difusión axiales
+T27	DISO 1062 1077	supresión grasa
+T28	CoordItem 1078 1079	y
+T29	DISO 1080 1096	difusión axiales
+T30	NegSynMarker 1183 1186	sin
+T31	DISO 1187 1199	alteraciones
+T32	UncertLexMarker 1426 1429	sin
+T33	DISO 1430 1442	comunicación
+T34	UncertLexMarker 1443 1451	aparente
+T35	DISO 1452 1469	con la vía biliar
+T36	UncertLexMarker 1642 1657	compatibles con
+T37	Phrase 1658 1703	probable colangiocarcinoma del hepático común
+T38	PolItem 1658 1666	probable
+T39	DISO 1667 1703	colangiocarcinoma del hepático común
+T40	UncertLexMarker 1911 1917	podría
+T41	Phrase 1918 1954	tratarse de una esteatosis parcheada
+T42	DISO 1930 1954	una esteatosis parcheada
+T43	NegSynMarker 2066 2068	no
+T44	DISO 2069 2080	visualizada
+T45	NegSynMarker 2373 2376	sin
+T46	Phrase 2377 2399	signos de colecistitis
+T47	DISO 2387 2399	colecistitis
+T48	NegSynMarker 2451 2453	no
+T49	DISO 2454 2464	objetivada
+T50	UncertLexMarker 2551 2557	parece
+T51	DISO 2558 2594	en relación con esteatosis parcheada
+T52	NegSynMarker 3268 3270	no
+T53	DISO 3271 3281	objetivada
+T54	UncertLexMarker 3284 3303	primera posibilidad
+T55	DISO 3304 3320	coledocolitiasis
+T56	UncertLexMarker 3323 3337	menos probable
+T57	Phrase 3338 3397	ampuloma o neoplasia de vía biliar o de cabeza del páncreas
+T58	DISO 3338 3346	ampuloma
+T59	CoordItem 3347 3348	o
+T60	DISO 3349 3397	neoplasia de vía biliar o de cabeza del páncreas
+T61	NegSynMarker 3463 3466	sin
+T62	Phrase 3467 3494	y con contraste intravenoso
+T63	SUBS 3473 3494	contraste intravenoso
+T64	UncertLexMarker 3943 3949	parece
+T65	DISO 3950 3965	un cistoadenoma
+T66	NegSynMarker 3968 3970	no
+T67	DISO 3971 3993	un cistoadenocarcinoma
+T68	NegSynMarker 4114 4116	no
+T69	OTHER 4117 4146	estudiado en esta exploración
+T70	UncertLexMarker 4244 4256	no descartan
+T71	Phrase 4257 4287	metástasis con la colangio-rmn
+T72	DISO 4257 4267	metástasis
+T73	UncertLexMarker 4423 4432	no parece
+T74	DISO 4433 4454	compresión extrínseca
+T75	NegSynMarker 4457 4464	tampoco
+T76	Phrase 4465 4554	, en caso de existir fístula colédoco cística , se visualiza imagen de señal calcio en T2
+T77	DISO 4526 4554	imagen de señal calcio en T2
+T78	UncertLexMarker 4691 4711	habría que descartar
+T79	DISO 4712 4730	colangio carcinoma
+T80	NegSynMarker 4870 4872	no
+T81	DISO 4873 4883	objetivada
+T82	NegSynMarker 4886 4889	sin
+T83	DISO 4890 4925	dilatación del conducto pancreático
+T84	NegSynMarker 5043 5046	sin
+T85	Phrase 5047 5069	signos de colecistitis
+T86	DISO 5057 5069	colecistitis
+T87	UncertLexMarker 5114 5122	pudieran
+T88	Phrase 5123 5158	ser compatible con coledocolitiasis
+T89	PolItem 5127 5141	compatible con
+T90	DISO 5142 5158	coledocolitiasis
+T91	UncertLexMarker 5161 5175	menos probable
+T92	DISO 5176 5193	neo de vía biliar
+T93	Phrase 5176 5238	neo de vía biliar , ampuloma o neoplasia de cabeza de páncreas
+T94	DISO 5196 5204	ampuloma
+T95	CoordItem 5205 5206	o
+T96	DISO 5207 5238	neoplasia de cabeza de páncreas
+T97	NegSynMarker 5273 5275	No
+T98	Phrase 5276 5301	imagen de patología aguda
+T99	DISO 5286 5301	patología aguda
+T100	UncertLexMarker 5476 5484	probable
+T101	DISO 5485 5502	colangiocarcinoma
+T102	UncertLexMarker 5650 5665	compatibles con
+T103	DISO 5666 5676	metástasis
+T104	NegSynMarker 5877 5880	sin
+T105	Phrase 5881 5890	y con CIV
+T106	SUBS 5887 5890	CIV
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T14 Arg2:T16
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T19 Arg2:T20
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T30 Arg2:T31
+R11	DiscMarker Arg1:T32 Arg2:T34
+R12	DiscScope Arg1:T34 Arg2:T33
+R13	DiscScope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T36 Arg2:T37
+R15	Scope Arg1:T40 Arg2:T41
+R16	Scope Arg1:T43 Arg2:T44
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T48 Arg2:T49
+R19	Scope Arg1:T50 Arg2:T51
+R20	Scope Arg1:T54 Arg2:T55
+R21	Scope Arg1:T56 Arg2:T57
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T66 Arg2:T67
+R25	Scope Arg1:T64 Arg2:T65
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T75 Arg2:T76
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T70 Arg2:T71
+R30	Scope Arg1:T78 Arg2:T79
+R31	Scope Arg1:T84 Arg2:T85
+R32	Scope Arg1:T87 Arg2:T88
+R33	Scope Arg1:T82 Arg2:T83
+R34	Scope Arg1:T91 Arg2:T93
+R35	Scope Arg1:T80 Arg2:T81
+R36	Scope Arg1:T97 Arg2:T98
+R37	Scope Arg1:T102 Arg2:T103
+R38	Scope Arg1:T100 Arg2:T101
+R39	Scope Arg1:T104 Arg2:T105

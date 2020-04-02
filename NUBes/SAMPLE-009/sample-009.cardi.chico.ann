@@ -1,0 +1,35 @@
+T1	NegMorMarker 736 748	inespecifico
+T2	Phrase 1138 1189	episodio de síncope de probable origen cardiogénico
+T3	UncertLexMarker 1161 1169	probable
+T4	DISO 1170 1189	origen cardiogénico
+T5	NegLexMarker 1206 1214	revirtió
+T6	Phrase 1215 1229	con Amiodarona
+T7	SUBS 1219 1229	Amiodarona
+T8	UncertLexMarker 1516 1522	dudosa
+T9	DISO 1523 1555	relajación de esfínter miccional
+T10	NegMorMarker 1586 1598	asintomática
+T11	NegSynMarker 2611 2614	sin
+T12	DISO 2615 2626	irradiacion
+T13	NegSynMarker 2629 2632	sin
+T14	DISO 2633 2639	disnea
+T15	NegSynMarker 2642 2645	sin
+T16	DISO 2646 2659	palpitaciones
+T17	NegSynMarker 2662 2665	sin
+T18	DISO 2666 2676	sudiracion
+T19	NegSynMarker 2816 2818	No
+T20	DISO 2819 2827	ortopnea
+T21	NegSynMarker 2830 2832	no
+T22	DISO 2833 2841	oliguria
+T23	NegSynMarker 2844 2846	no
+T24	DISO 2847 2869	edemas en extremidades
+R1	DiscScope Arg1:T5 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	DiscScope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T19 Arg2:T20
+R7	Scope Arg1:T11 Arg2:T12
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T15 Arg2:T16
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T23 Arg2:T24

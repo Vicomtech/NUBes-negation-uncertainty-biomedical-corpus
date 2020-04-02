@@ -1,0 +1,31 @@
+T1	UncertLexMarker 711 720	revalorar
+T2	Phrase 721 761	la posibilidad de suspender acenocumarol
+T3	NegLexMarker 739 748	suspender
+T4	SUBS 749 761	acenocumarol
+T5	NegSynMarker 3181 3184	sin
+T6	OTHER 3185 3191	forzar
+T7	NegLexMarker 8845 8851	Evitar
+T8	Phrase 8852 8884	alimentos con semillas o pepitas
+T9	NegSynMarker 9697 9699	no
+T10	Phrase 9700 9730	tumbarse despues en 40 minutos
+T11	OTHER 9700 9708	tumbarse
+T12	NegSynMarker 11044 11046	no
+T13	OTHER 11047 11055	utilizan
+T14	NegSynMarker 13423 13425	no
+T15	DISO 13426 13446	cede con paracetamol
+T16	NegSynMarker 14406 14409	sin
+T17	Phrase 14410 14413	sal
+T18	SUBS 15599 15612	Codeisan comp
+T19	NegSynMarker 15639 15641	NO
+T20	OTHER 15642 15663	tomar el de la comida
+T21	NegLexMarker 15693 15700	retirar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T21 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20

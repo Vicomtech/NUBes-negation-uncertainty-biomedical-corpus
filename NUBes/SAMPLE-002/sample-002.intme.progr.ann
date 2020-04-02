@@ -1,0 +1,246 @@
+T1	NegSynMarker 0 2	No
+T2	Phrase 3 38	presentó síncope durante estos dias
+T3	DISO 12 19	síncope
+T4	NegSynMarker 60 63	sin
+T5	DISO 64 85	productos patológicos
+T6	Phrase 262 288	tratamiento con metformina
+T7	SUBS 278 288	metformina
+T8	NegLexMarker 291 300	retiramos
+T9	NegSynMarker 577 579	no
+T10	Phrase 580 597	presentó sincopes
+T11	DISO 589 597	sincopes
+T12	UncertLexMarker 1277 1287	impresiona
+T13	Phrase 1288 1352	también de disminución en el tamaño de la masa de partes blandas
+T14	DISO 1299 1352	disminución en el tamaño de la masa de partes blandas
+T15	NegSynMarker 1618 1621	sin
+T16	Phrase 1622 1661	bacteriemia ni otra clinica acompañante
+T17	DISO 1622 1633	bacteriemia
+T18	CoordItem 1634 1636	ni
+T19	DISO 1637 1661	otra clinica acompañante
+T20	PROC 1731 1738	mantoux
+T21	Phrase 1731 1796	mantoux y determinación de cuantiferon ( Hospital Isabel Zendal )
+T22	CoordItem 1739 1740	y
+T23	PROC 1741 1796	determinación de cuantiferon ( Hospital Isabel Zendal )
+T24	NegLexMarker 1814 1823	negativos
+T25	NegSynMarker 1938 1940	no
+T26	PROC 1941 1953	anticoagular
+T27	PROC 2062 2100	PCR en esputo para pneumcisti jiroveci
+T28	NegLexMarker 2109 2117	negativo
+T29	NegMorMarker 2354 2368	desorientación
+T30	PROC 3114 3169	estudio inmunologico ( Hospital Isabel Zendal ) con ANA
+T31	NegLexMarker 3170 3178	negativo
+T32	UncertLexMarker 3273 3282	sin clara
+T33	DISO 3283 3292	sinovitis
+T34	UncertLexMarker 3415 3431	se interpreta de
+T35	DISO 3432 3457	foliculitis milaria rubra
+T36	PROC 3479 3498	cultivo para herpes
+T37	NegLexMarker 3507 3515	negativo
+T38	UncertLexMarker 3885 3899	compatible con
+T39	DISO 3900 3929	anemia de inflamación crónica
+T40	PROC 3986 4004	Todos los cultivos
+T41	NegLexMarker 4029 4038	negativos
+T42	NegSynMarker 4361 4364	sin
+T43	DISO 4365 4385	fiebre mayor de 38 C
+T44	NegSynMarker 4475 4478	sin
+T45	DISO 4479 4488	sinovitis
+T46	NegLexMarker 5149 5158	suspender
+T47	SUBS 5159 5169	diuréticos
+T48	NegLexMarker 5172 5182	Se excluye
+T49	DISO 5183 5187	SARM
+T50	NegLexMarker 6489 6500	descartando
+T51	DISO 6501 6533	patologia intraabdominal urgente
+T52	UncertLexMarker 6938 6952	compatible con
+T53	DISO 6953 6972	neumonia nosocomial
+T54	NegSynMarker 7251 7254	sin
+T55	DISO 7255 7261	disnea
+T56	UncertLexMarker 7913 7921	probable
+T57	DISO 7922 7946	bronconeumonia bilateral
+T58	NegLexMarker 8395 8411	Se ha suspendido
+T59	NegSynMarker 8537 8540	sin
+T60	Phrase 8541 8588	apreciarse alteraciones en dichas exploraciones
+T61	DISO 8552 8588	alteraciones en dichas exploraciones
+T62	NegMorMarker 8723 8735	asintomático
+T63	NegSynMarker 8777 8780	sin
+T64	Phrase 8781 8793	signos de IC
+T65	DISO 8791 8793	IC
+T66	NegSynMarker 9053 9056	sin
+T67	DISO 9057 9102	llegar a perder completamente el conocimiento
+T68	NegSynMarker 9331 9334	sin
+T69	DISO 9335 9346	incidencias
+T70	NegSynMarker 9598 9601	sin
+T71	Phrase 9602 9638	evidencia de colecciones sospechosas
+T72	DISO 9615 9638	colecciones sospechosas
+T73	UncertLexMarker 9876 9884	probable
+T74	DISO 9885 9922	relación a hipotensiones ortostáticas
+T75	NegLexMarker 9990 10001	retirada de
+T76	SUBS 10002 10014	nefrotóxicos
+T77	UncertLexMarker 11276 11284	probable
+T78	DISO 11285 11309	relacion a hiperuricemia
+T79	NegLexMarker 11561 11569	cediendo
+T80	DISO 11570 11579	la fiebre
+T81	UncertLexMarker 12269 12277	probable
+T82	DISO 12278 12317	relación a la presencia de candidas spp
+T83	UncertLexMarker 12749 12757	probable
+T84	Phrase 12758 12778	de cirrosis hepática
+T85	DISO 12761 12778	cirrosis hepática
+T86	NegSynMarker 12781 12783	no
+T87	DISO 12784 12804	conocida previamente
+T88	NegSynMarker 12911 12913	no
+T89	Phrase 12914 12968	se realizó paracentesis control por escasez de liquido
+T90	DISO 12925 12968	paracentesis control por escasez de liquido
+T91	NegSynMarker 13052 13054	no
+T92	DISO 13055 13077	infiltrados pulmonares
+T93	UncertLexMarker 13349 13362	sugestivas de
+T94	DISO 13363 13382	insuficiencia renal
+T95	UncertLexMarker 13383 13396	probablemente
+T96	DISO 13397 13404	crónica
+T97	NegLexMarker 13963 13974	retirada de
+T98	SUBS 13975 14002	toda medicación nefrotóxica
+T99	PROC 14312 14335	Los cultivos realizados
+T100	NegLexMarker 14343 14352	negativos
+T101	Phrase 14770 14824	el coprocultivo y el cultivo de clostridium realizados
+T102	DISO 14770 14785	el coprocultivo
+T103	DISO 14791 14813	cultivo de clostridium
+T104	NegLexMarker 14825 14834	negativos
+T105	NegSynMarker 14933 14935	No
+T106	Phrase 14936 14989	se han detectado infiltrados nuevos en placa de tórax
+T107	DISO 14953 14989	infiltrados nuevos en placa de tórax
+T108	NegLexMarker 15197 15208	descartando
+T109	DISO 15209 15212	TEP
+T110	UncertLexMarker 15427 15439	sugestiva de
+T111	DISO 15440 15488	neumonía intersticial en lóbulo superior derecho
+T112	NegSynMarker 15968 15970	no
+T113	OTHER 15971 16005	candidato a tratamiento quirúrgico
+T114	UncertLexMarker 16178 16192	compatible con
+T115	DISO 16193 16202	hemocisto
+T116	NegSynMarker 16217 16220	sin
+T117	Phrase 16221 16244	apreciarse condensación
+T118	DISO 16232 16244	condensación
+T119	NegSynMarker 16247 16249	No
+T120	Phrase 16250 16309	se apreciaron otros cambios respecto a anteriores controles
+T121	DISO 16264 16309	otros cambios respecto a anteriores controles
+T122	UncertLexMarker 17242 17250	probable
+T123	DISO 17251 17290	relacion a episodio de broncoaspiración
+T124	NegLexMarker 17622 17632	incapaz de
+T125	Phrase 17633 17679	iniciar deambulación y de pasar a su domicilio
+T126	OTHER 17641 17653	deambulación
+T127	OTHER 17659 17679	pasar a su domicilio
+T128	NegSynMarker 18034 18036	no
+T129	Phrase 18037 18082	tiene mas indicacion para continuar ingresado
+T130	PROC 18098 18142	las citologias sucesivas de liquido ascitico
+T131	NegLexMarker 18152 18161	negativas
+T132	UncertLexMarker 18299 18310	sospecha de
+T133	DISO 18311 18328	cirrosis hepática
+T134	NegSynMarker 18331 18334	sin
+T135	Phrase 18335 18382	evidencia de neoformación hepática o peritoneal
+T136	DISO 18348 18382	neoformación hepática o peritoneal
+T137	PROC 18819 18833	Estudio de TBC
+T138	Phrase 18819 18912	Estudio de TBC con 3 muestras de baciloscopia en esputo y en orina todas con tincion de zhiel
+T139	NegLexMarker 18913 18922	negativos
+T140	NegSynMarker 19557 19559	No
+T141	Phrase 19560 19595	se obtuvo muestra para coprocultivo
+T142	PROC 19570 19595	muestra para coprocultivo
+T143	NegSynMarker 19737 19739	no
+T144	DISO 19740 19765	doloroso a la exploración
+T145	NegMorMarker 20546 20558	asintomática
+T146	NegMorMarker 20561 20568	afebril
+T147	UncertLexMarker 20750 20762	impresión de
+T148	DISO 20763 20782	deterioro cognitivo
+T149	NegSynMarker 20785 20787	no
+T150	Phrase 20788 20868	apreciándose cambios significativos en el estudio realizado mediante RMN craneal
+T151	DISO 20801 20868	cambios significativos en el estudio realizado mediante RMN craneal
+T152	PROC 21140 21156	los hemocultivos
+T153	NegLexMarker 21157 21166	negativos
+T154	NegLexMarker 21169 21173	Cede
+T155	DISO 21174 21184	la diarrea
+T156	NegSynMarker 21278 21281	sin
+T157	DISO 21282 21295	consecuencias
+T158	NegMorMarker 22169 22182	inestabilidad
+T159	UncertLexMarker 22357 22371	compatible con
+T160	DISO 22372 22388	volvulo de sigma
+T161	NegSynMarker 22433 22436	sin
+T162	DISO 22437 22448	incidencias
+T163	NegSynMarker 22651 22653	no
+T164	Phrase 22654 22689	se encuentra en condiciones de alta
+T165	OTHER 22670 22689	condiciones de alta
+T166	NegLexMarker 23452 23463	retirada de
+T167	SUBS 23464 23476	nefrotóxicos
+T168	PROC 23719 23743	El resto de los cultivos
+T169	NegLexMarker 23751 23760	negativos
+T170	PROC 23817 23825	cultivos
+T171	NegLexMarker 23826 23835	negativos
+T172	UncertLexMarker 24011 24019	sospecha
+T173	OTHER 24020 24034	falso positivo
+T174	PROC 24046 24063	PCR para virus EB
+T175	NegLexMarker 24084 24092	negativo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T24 Arg2:T21
+R8	Scope Arg1:T25 Arg2:T26
+R9	Scope Arg1:T28 Arg2:T27
+R10	Scope Arg1:T31 Arg2:T30
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T37 Arg2:T36
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T41 Arg2:T40
+R16	Scope Arg1:T44 Arg2:T45
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T66 Arg2:T67
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T75 Arg2:T76
+R31	Scope Arg1:T77 Arg2:T78
+R32	Scope Arg1:T79 Arg2:T80
+R33	Scope Arg1:T81 Arg2:T82
+R34	Scope Arg1:T83 Arg2:T84
+R35	Scope Arg1:T86 Arg2:T87
+R36	Scope Arg1:T88 Arg2:T89
+R37	Scope Arg1:T91 Arg2:T92
+R38	Scope Arg1:T95 Arg2:T96
+R39	Scope Arg1:T93 Arg2:T94
+R40	Scope Arg1:T97 Arg2:T98
+R41	Scope Arg1:T100 Arg2:T99
+R42	Scope Arg1:T104 Arg2:T101
+R43	Scope Arg1:T105 Arg2:T106
+R44	Scope Arg1:T108 Arg2:T109
+R45	Scope Arg1:T110 Arg2:T111
+R46	Scope Arg1:T112 Arg2:T113
+R47	Scope Arg1:T114 Arg2:T115
+R48	Scope Arg1:T116 Arg2:T117
+R49	Scope Arg1:T119 Arg2:T120
+R50	Scope Arg1:T122 Arg2:T123
+R51	Scope Arg1:T124 Arg2:T125
+R52	Scope Arg1:T128 Arg2:T129
+R53	Scope Arg1:T132 Arg2:T133
+R54	Scope Arg1:T131 Arg2:T130
+R55	Scope Arg1:T134 Arg2:T135
+R56	Scope Arg1:T139 Arg2:T138
+R57	Scope Arg1:T140 Arg2:T141
+R58	Scope Arg1:T143 Arg2:T144
+R59	Scope Arg1:T149 Arg2:T150
+R60	Scope Arg1:T147 Arg2:T148
+R61	Scope Arg1:T153 Arg2:T152
+R62	Scope Arg1:T154 Arg2:T155
+R63	Scope Arg1:T156 Arg2:T157
+R64	Scope Arg1:T161 Arg2:T162
+R65	Scope Arg1:T159 Arg2:T160
+R66	Scope Arg1:T163 Arg2:T164
+R67	Scope Arg1:T166 Arg2:T167
+R68	Scope Arg1:T169 Arg2:T168
+R69	Scope Arg1:T172 Arg2:T173
+R70	Scope Arg1:T171 Arg2:T170
+R71	Scope Arg1:T175 Arg2:T174

@@ -1,0 +1,113 @@
+T1	NegSynMarker 62 64	no
+T2	DISO 65 87	pérdida de consciencia
+T3	NegSynMarker 90 92	no
+T4	DISO 93 96	TCE
+T5	NegSynMarker 114 117	sin
+T6	Phrase 118 147	encontrar postura para dormir
+T7	UncertLexMarker 174 181	valorar
+T8	Phrase 182 217	posibilidad de bloqueo-infiltración
+T9	PROC 197 217	bloqueo-infiltración
+T10	NegSynMarker 238 240	No
+T11	Phrase 241 282	refiere antecedente traumático ni torsión
+T12	DISO 249 271	antecedente traumático
+T13	CoordItem 272 274	ni
+T14	DISO 275 282	torsión
+T15	NegSynMarker 307 309	no
+T16	Phrase 310 325	le deja caminar
+T17	NegSynMarker 414 416	No
+T18	DISO 417 450	mejoró con la toma de Paracetamol
+T19	NegSynMarker 496 498	No
+T20	Phrase 499 511	le despierta
+T21	NegSynMarker 905 908	sin
+T22	DISO 909 916	mejoría
+T23	NegSynMarker 974 976	No
+T24	OTHER 977 986	aporta rx
+T25	NegSynMarker 989 991	No
+T26	DISO 992 1045	antecedentes de osteoporosis ni fracturas vertebrales
+T27	CoordItem 1021 1023	ni
+T28	NegSynMarker 1048 1050	No
+T29	Phrase 1051 1068	refiere fracturas
+T30	DISO 1059 1068	fracturas
+T31	NegSynMarker 1071 1078	tampoco
+T32	OTHER 1079 1124	achaca las clínica actual a dicho traumatismo
+T33	NegSynMarker 1432 1434	no
+T34	Phrase 1435 1448	se hace cargo
+T35	DISO 1644 1684	tendinopatía calcificante de hombro dcho
+T36	UncertSynMarker 1685 1687	vs
+T37	DISO 1688 1716	periartritis escapulohumeral
+T38	NegSynMarker 1820 1822	No
+T39	DISO 1823 1847	sintomatología radicular
+T40	NegSynMarker 1889 1891	No
+T41	Phrase 1892 1917	refiere derrame articular
+T42	DISO 1900 1917	derrame articular
+T43	NegSynMarker 2025 2028	sin
+T44	DISO 2029 2038	hallazgos
+T45	UncertLexMarker 2391 2398	posible
+T46	DISO 2399 2420	radiculopatia derecha
+T47	NegSynMarker 2761 2763	no
+T48	DISO 2764 2776	cede a AINES
+T49	NegSynMarker 2996 2998	No
+T50	DISO 2999 3014	mejoría con tto
+T51	NegSynMarker 3201 3203	No
+T52	DISO 3204 3215	parestesias
+T53	UncertLexMarker 3244 3246	no
+T54	Phrase 3247 3253	indica
+T55	UncertLexMarker 3254 3259	clara
+T56	DISO 3260 3291	sintomatologia de radiculopatia
+T57	NegMorMarker 3510 3522	asintomatico
+T58	NegSynMarker 3695 3697	No
+T59	DISO 3698 3716	irradiación a EEII
+T60	NegSynMarker 3748 3751	sin
+T61	DISO 3752 3759	mejoría
+T62	NegSynMarker 3768 3770	no
+T63	DISO 3771 3783	dolor lumbar
+T64	NegSynMarker 3824 3826	No
+T65	Phrase 3827 3839	está de baja
+T66	OTHER 3835 3839	baja
+T67	NegSynMarker 3842 3844	No
+T68	PROC 3845 3871	tratamiento antirresortivo
+T69	NegSynMarker 4313 4316	sin
+T70	DISO 4317 4324	mejoría
+T71	NegSynMarker 4327 4329	No
+T72	Phrase 4330 4369	refiere claudicación neurógena habitual
+T73	DISO 4338 4369	claudicación neurógena habitual
+T74	NegSynMarker 4447 4449	No
+T75	Phrase 4450 4477	ha realizado paurta inzitan
+T76	PROC 4463 4477	paurta inzitan
+T77	NegSynMarker 4502 4504	no
+T78	Phrase 4505 4512	deporte
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	DiscScope Arg1:T36 Arg2:T35
+R16	DiscScope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T51 Arg2:T52
+R24	DiscScope Arg1:T55 Arg2:T54
+R25	DiscMarker Arg1:T53 Arg2:T55
+R26	DiscScope Arg1:T55 Arg2:T56
+R27	Scope Arg1:T58 Arg2:T59
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T62 Arg2:T63
+R30	Scope Arg1:T64 Arg2:T65
+R31	Scope Arg1:T67 Arg2:T68
+R32	Scope Arg1:T69 Arg2:T70
+R33	Scope Arg1:T71 Arg2:T72
+R34	Scope Arg1:T74 Arg2:T75
+R35	Scope Arg1:T77 Arg2:T78

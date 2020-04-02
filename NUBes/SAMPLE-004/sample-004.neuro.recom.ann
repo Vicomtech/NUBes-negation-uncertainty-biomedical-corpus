@@ -1,0 +1,15 @@
+T1	SUBS 664 680	Prednisona 10 mg
+T2	NegLexMarker 733 742	suspender
+T3	NegLexMarker 1460 1467	excepto
+T4	Phrase 1468 1477	sab y dom
+T5	UncertLexMarker 2954 2961	Valorar
+T6	Phrase 2962 3041	la necesidad de reintroducir Quetiapina , Distraneurine yTrazodona si precisase
+T7	SUBS 2991 3001	Quetiapina
+T8	SUBS 3004 3017	Distraneurine
+T9	SUBS 3019 3028	Trazodona
+T10	SUBS 3274 3288	Dacortin 30 mg
+T11	NegLexMarker 3562 3571	suspender
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T11 Arg2:T10

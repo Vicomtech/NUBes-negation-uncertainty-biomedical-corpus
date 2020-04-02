@@ -1,0 +1,19 @@
+T1	NegSynMarker 311 314	Sin
+T2	SUBS 315 323	exudados
+T3	NegSynMarker 457 460	sin
+T4	DISO 461 472	colecciones
+T5	NegSynMarker 475 478	Sin
+T6	DISO 479 487	disfagia
+T7	NegLexMarker 753 760	excepto
+T8	DISO 761 787	pequeño nistagmo izquierdo
+T9	UncertLexMarker 790 802	posiblemente
+T10	DISO 803 826	en relación a su miopia
+T11	NegSynMarker 927 929	No
+T12	Phrase 930 947	presenta disfagia
+T13	DISO 939 947	disfagia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T11 Arg2:T12

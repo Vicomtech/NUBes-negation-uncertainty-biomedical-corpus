@@ -1,0 +1,6 @@
+T1	NegSynMarker 0 3	Sin
+T2	DISO 4 29	hallazgos siginificativos
+T3	NegSynMarker 74 77	sin
+T4	OTHER 78 84	cte iv
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

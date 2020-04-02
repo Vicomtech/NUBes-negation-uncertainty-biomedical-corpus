@@ -1,0 +1,113 @@
+T1	NegSynMarker 121 123	No
+T2	DISO 124 141	clínica radicular
+T3	NegSynMarker 237 240	sin
+T4	DISO 241 259	traumatismo previo
+T5	NegSynMarker 277 280	sin
+T6	DISO 281 285	foco
+T7	DISO 288 292	Nota
+T8	NegSynMarker 309 311	no
+T9	DISO 312 325	inestabilidad
+T10	NegSynMarker 328 330	No
+T11	DISO 331 349	traumatismo previa
+T12	NegSynMarker 423 426	sin
+T13	OTHER 427 432	éxito
+T14	NegSynMarker 722 724	No
+T15	Phrase 725 780	refiere perdida de fuerza ni trastornos de sensibilidad
+T16	DISO 733 750	perdida de fuerza
+T17	CoordItem 751 753	ni
+T18	DISO 754 780	trastornos de sensibilidad
+T19	NegSynMarker 783 785	No
+T20	OTHER 786 832	recuerda herida ni posible pinchazo en la zona
+T21	DISO 795 801	herida
+T22	CoordItem 802 804	ni
+T23	DISO 813 832	pinchazo en la zona
+T24	NegMorMarker 885 897	asintomática
+T25	NegSynMarker 900 902	No
+T26	DISO 903 914	tumefacción
+T27	NegSynMarker 917 919	no
+T28	DISO 920 928	bloqueos
+T29	UncertLexMarker 1044 1057	aparentemente
+T30	Phrase 1058 1062	O.K.
+T31	UncertLexMarker 1093 1106	aparentemente
+T32	DISO 1107 1115	no lisis
+T33	NegSynMarker 1378 1381	sin
+T34	DISO 1382 1410	factor desencadenante previo
+T35	NegSynMarker 1431 1433	no
+T36	DISO 1434 1443	irradiada
+T37	NegSynMarker 1485 1487	no
+T38	DISO 1488 1499	concluyente
+T39	NegLexMarker 1634 1642	rechazar
+T40	PROC 1643 1655	infiltración
+T41	NegSynMarker 1698 1701	sin
+T42	Phrase 1702 1717	referir mejoría
+T43	DISO 1710 1717	mejoría
+T44	NegSynMarker 2026 2028	no
+T45	Phrase 2029 2065	puede subir las escaleras ni cuestas
+T46	CoordItem 2055 2057	ni
+T47	NegSynMarker 2104 2107	sin
+T48	DISO 2108 2128	afectacion radicular
+T49	NegSynMarker 2380 2382	No
+T50	DISO 2383 2429	respuesta a tratamiento médico y rehabilitador
+T51	NegSynMarker 2703 2705	No
+T52	Phrase 2706 2735	refieren derrames posteriores
+T53	DISO 2715 2735	derrames posteriores
+T54	NegSynMarker 3024 3026	No
+T55	DISO 3027 3033	fiebre
+T56	Phrase 3027 3057	fiebre ni sensación distérmica
+T57	CoordItem 3034 3036	ni
+T58	DISO 3037 3057	sensación distérmica
+T59	NegLexMarker 3145 3156	retirada de
+T60	Phrase 3157 3173	PTC por luxación
+T61	OTHER 3157 3160	PTC
+T62	NegSynMarker 3214 3216	No
+T63	DISO 3217 3239	pérdida de consciencia
+T64	NegSynMarker 3242 3244	No
+T65	Phrase 3245 3282	dolor abdominal ni síndrome miccional
+T66	DISO 3245 3260	dolor abdominal
+T67	CoordItem 3261 3263	ni
+T68	DISO 3264 3282	síndrome miccional
+T69	NegSynMarker 3736 3738	no
+T70	DISO 3739 3763	ha dejado de tener dolor
+T71	UncertLexMarker 3819 3825	podria
+T72	DISO 3826 3853	corresponder a L5 izquierda
+T73	NegSynMarker 3952 3954	No
+T74	Phrase 3955 4010	es posible realizar RNM por ser portadora de marcapasos
+T75	PROC 3975 4010	RNM por ser portadora de marcapasos
+T76	NegSynMarker 4132 4134	No
+T77	DISO 4135 4145	supuración
+T78	Phrase 4229 4269	Realizaba trabajo de esfuerzo , ahora ya
+T79	NegSynMarker 4270 4272	no
+T80	UncertLexMarker 4628 4642	compatible con
+T81	DISO 4643 4656	rotura de TSE
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	DiscScope Arg1:T8 Arg2:T7
+R5	DiscScope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T10 Arg2:T11
+R7	Scope Arg1:T12 Arg2:T13
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T51 Arg2:T52
+R23	Scope Arg1:T54 Arg2:T56
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T62 Arg2:T63
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T69 Arg2:T70
+R28	Scope Arg1:T71 Arg2:T72
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T79 Arg2:T78
+R32	Scope Arg1:T80 Arg2:T81

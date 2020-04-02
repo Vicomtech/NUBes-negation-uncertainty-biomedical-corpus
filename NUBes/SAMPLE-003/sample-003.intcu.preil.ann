@@ -1,0 +1,187 @@
+T1	NegSynMarker 352 355	sin
+T2	DISO 356 386	deficit neurológico postcrisis
+T3	NegSynMarker 532 534	No
+T4	Phrase 535 555	dispongo de informes
+T5	OTHER 547 555	informes
+T6	NegSynMarker 721 724	sin
+T7	DISO 725 753	deficit neurológico residual
+T8	NegSynMarker 798 801	sin
+T9	DISO 802 827	alteración repolarización
+T10	NegSynMarker 982 985	sin
+T11	DISO 986 991	pulso
+T12	NegSynMarker 1177 1180	sin
+T13	DISO 1181 1209	deficit neurológico residual
+T14	NegSynMarker 1232 1235	sin
+T15	DISO 1236 1267	antecedentes previos de interes
+T16	UncertLexMarker 2352 2359	valorar
+T17	PROC 2360 2383	intervención quirúrgica
+T18	PROC 2640 2649	citologia
+T19	NegLexMarker 2652 2660	Negativo
+T20	Phrase 2661 2682	para celulas malignas
+T21	NegSynMarker 2840 2842	No
+T22	Phrase 2843 2857	se realiza ADA
+T23	PROC 2854 2857	ADA
+T24	UncertLexMarker 3211 3224	sugestivos de
+T25	BODY 3225 3299	area nodular de 3cm de mayaor infiltración grasa en parenquima hepa ´ tico
+T26	NegSynMarker 4898 4901	sin
+T27	DISO 4902 4936	respuesta al tto médico instaurado
+T28	PROC 6035 6044	ANCAs-ANA
+T29	NegLexMarker 6045 6054	negativos
+T30	NegSynMarker 6617 6619	no
+T31	Phrase 6620 6653	refiere dolor ni disnea subjetiva
+T32	DISO 6628 6633	dolor
+T33	CoordItem 6634 6636	ni
+T34	DISO 6637 6653	disnea subjetiva
+T35	NegSynMarker 7605 7607	no
+T36	DISO 7608 7617	irradiado
+T37	NegSynMarker 8381 8384	Sin
+T38	DISO 8385 8408	sintomatologia cardiaca
+T39	Phrase 8385 8431	sintomatologia cardiaca desde la IQ de by pass
+T40	NegSynMarker 8546 8548	no
+T41	OTHER 8549 8557	consultó
+T42	NegLexMarker 8560 8565	Niega
+T43	Phrase 8566 8617	desencadenante alguno como comida copiosa o similar
+T44	OTHER 8566 8580	desencadenante
+T45	CoordItem 8581 8587	alguno
+T46	NegSynMarker 8770 8772	No
+T47	DISO 8773 8789	clínica catarral
+T48	NegSynMarker 8805 8808	sin
+T49	DISO 8809 8845	expectoración de predominio nocturno
+T50	NegSynMarker 8936 8939	sin
+T51	DISO 8940 8947	mejoría
+T52	NegSynMarker 8996 8999	sin
+T53	DISO 9000 9031	antecedentes previos de interes
+T54	NegSynMarker 9066 9068	no
+T55	Phrase 9069 9099	pueden despertar a la paciente
+T56	NegLexMarker 9681 9691	desaparece
+T57	DISO 9692 9700	el dolor
+T58	NegSynMarker 9873 9875	no
+T59	DISO 9876 9888	termometrada
+T60	NegSynMarker 10115 10117	no
+T61	Phrase 10118 10162	es posible saber si hay palidez o sudoración
+T62	OTHER 10129 10162	saber si hay palidez o sudoración
+T63	NegSynMarker 10193 10196	sin
+T64	DISO 10197 10202	dolor
+T65	NegSynMarker 10577 10579	no
+T66	DISO 10580 10589	irradiado
+T67	NegSynMarker 10827 10830	sin
+T68	DISO 10831 10838	rigidez
+T69	NegSynMarker 10841 10844	sin
+T70	DISO 10845 10871	poder recordar lo sucedido
+T71	NegMorMarker 11030 11043	inespecífical
+T72	UncertLexMarker 11576 11590	compatible con
+T73	DISO 11591 11610	proceso vasculítico
+T74	DISO 11675 11690	dolor abdominal
+T75	Phrase 11675 11710	dolor abdominal , náuseas y vómitos
+T76	DISO 11693 11700	náuseas
+T77	CoordItem 11701 11702	y
+T78	DISO 11703 11710	vómitos
+T79	NegLexMarker 11715 11720	cedió
+T80	Phrase 11721 11752	con analgesia iv y antieméticos
+T81	NegSynMarker 11877 11880	sin
+T82	DISO 11881 11912	alteraciones de patologia aguda
+T83	NegSynMarker 11933 11936	sin
+T84	DISO 11937 11968	alteraciones de patologia aguda
+T85	NegSynMarker 12074 12076	No
+T86	DISO 12077 12092	derrame pleural
+T87	NegSynMarker 12804 12807	sin
+T88	DISO 12808 12814	filiar
+T89	NegSynMarker 12939 12941	no
+T90	DISO 12942 12963	movimientos anormales
+T91	NegSynMarker 12966 12968	no
+T92	DISO 12969 12988	mordedura de lengua
+T93	NegSynMarker 13163 13166	sin
+T94	Phrase 13167 13200	poderse escontrar punto sangrante
+T95	DISO 13185 13200	punto sangrante
+T96	NegSynMarker 13461 13463	No
+T97	DISO 13464 13494	dolor abdominal a la palpacion
+T98	NegSynMarker 13563 13566	sin
+T99	DISO 13567 13602	alteración en auscultación pulmonar
+T100	NegSynMarker 13724 13727	sin
+T101	DISO 13728 13761	alteraciones en la repolarización
+T102	PROC 13787 13806	Ritmo sinusal con T
+T103	NegLexMarker 13807 13816	negativas
+T104	NegSynMarker 14030 14033	sin
+T105	DISO 14034 14084	productos patológicos con intolerancia alimentaria
+T106	NegSynMarker 14085 14087	No
+T107	DISO 14088 14107	sensación de fiebre
+T108	NegSynMarker 14110 14112	no
+T109	DISO 14113 14119	disnea
+T110	NegSynMarker 14122 14124	no
+T111	DISO 14125 14139	dolor torácico
+T112	NegSynMarker 14142 14144	no
+T113	DISO 14145 14160	dolor abdominal
+T114	NegSynMarker 14163 14165	no
+T115	DISO 14166 14182	clínica urinaria
+T116	NegSynMarker 14530 14533	sin
+T117	DISO 14534 14562	alteración en repolarización
+T118	NegSynMarker 14606 14609	sin
+T119	DISO 14610 14645	alteración en auscultación pulmonar
+T120	NegSynMarker 14710 14712	no
+T121	DISO 14713 14721	doloroso
+T122	NegSynMarker 14896 14899	sin
+T123	DISO 14900 14932	disminución en ritmo de diuresis
+T124	NegSynMarker 14971 14974	sin
+T125	OTHER 14975 15002	imagenes de patologia aguda
+T126	NegLexMarker 15008 15017	Descartar
+T127	DISO 15018 15031	leptospirosis
+T128	Phrase 15018 15102	leptospirosis & intoxicación por ingesta setas con afectación hepatica y renal grave
+T129	CoordItem 15032 15033	&
+T130	DISO 15034 15064	intoxicación por ingesta setas
+R1	Scope Arg1:T10 Arg2:T11
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T3 Arg2:T4
+R6	Scope Arg1:T6 Arg2:T7
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	DiscScope Arg1:T19 Arg2:T18
+R10	Scope Arg1:T21 Arg2:T22
+R11	DiscScope Arg1:T19 Arg2:T20
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T28
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T37 Arg2:T39
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T46 Arg2:T47
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T56 Arg2:T57
+R26	Scope Arg1:T58 Arg2:T59
+R27	Scope Arg1:T60 Arg2:T61
+R28	Scope Arg1:T63 Arg2:T64
+R29	Scope Arg1:T65 Arg2:T66
+R30	Scope Arg1:T67 Arg2:T68
+R31	Scope Arg1:T69 Arg2:T70
+R32	Scope Arg1:T72 Arg2:T73
+R33	DiscScope Arg1:T79 Arg2:T75
+R34	DiscScope Arg1:T79 Arg2:T80
+R35	Scope Arg1:T81 Arg2:T82
+R36	Scope Arg1:T85 Arg2:T86
+R37	Scope Arg1:T83 Arg2:T84
+R38	Scope Arg1:T87 Arg2:T88
+R39	Scope Arg1:T91 Arg2:T92
+R40	Scope Arg1:T89 Arg2:T90
+R41	Scope Arg1:T93 Arg2:T94
+R42	Scope Arg1:T96 Arg2:T97
+R43	Scope Arg1:T100 Arg2:T101
+R44	Scope Arg1:T98 Arg2:T99
+R45	Scope Arg1:T103 Arg2:T102
+R46	Scope Arg1:T116 Arg2:T117
+R47	Scope Arg1:T120 Arg2:T121
+R48	Scope Arg1:T112 Arg2:T113
+R49	Scope Arg1:T110 Arg2:T111
+R50	Scope Arg1:T108 Arg2:T109
+R51	Scope Arg1:T118 Arg2:T119
+R52	Scope Arg1:T104 Arg2:T105
+R53	Scope Arg1:T106 Arg2:T107
+R54	Scope Arg1:T114 Arg2:T115
+R55	Scope Arg1:T122 Arg2:T123
+R56	Scope Arg1:T126 Arg2:T128
+R57	Scope Arg1:T124 Arg2:T125

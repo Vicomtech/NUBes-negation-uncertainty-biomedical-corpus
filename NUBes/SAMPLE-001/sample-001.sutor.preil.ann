@@ -1,0 +1,3 @@
+T1	NegSynMarker 326 328	no
+T2	DISO 329 367	mejora con tratamiento antinflamatorio
+R1	Scope Arg1:T1 Arg2:T2

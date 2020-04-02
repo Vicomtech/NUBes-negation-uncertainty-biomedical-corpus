@@ -1,0 +1,271 @@
+T1	UncertLexMarker 260 269	sin clara
+T2	Phrase 270 301	evidencia de estenosis de canal
+T3	DISO 283 301	estenosis de canal
+T4	UncertLexMarker 391 405	compatible con
+T5	DISO 406 424	fractura rotuliana
+T6	NegSynMarker 586 589	sin
+T7	DISO 590 605	dolor abdominal
+T8	NegSynMarker 818 821	Sin
+T9	Phrase 822 838	evidencia de TVP
+T10	DISO 835 838	TVP
+T11	NegSynMarker 841 844	Sin
+T12	Phrase 845 880	evidencia de condensación neumónica
+T13	DISO 858 880	condensación neumónica
+T14	UncertLexMarker 986 999	aparentemente
+T15	Phrase 1000 1030	no son causa de cierre cutaneo
+T16	NegSynMarker 1000 1002	no
+T17	DISO 1003 1030	son causa de cierre cutaneo
+T18	NegSynMarker 1090 1093	Sin
+T19	Phrase 1094 1155	evidencia TVP femoropoplítea en extremidad inferior izquierda
+T20	DISO 1104 1155	TVP femoropoplítea en extremidad inferior izquierda
+T21	NegSynMarker 1158 1160	No
+T22	Phrase 1161 1194	se objetiva obstrucción vía aérea
+T23	DISO 1173 1194	obstrucción vía aérea
+T24	NegSynMarker 1204 1206	no
+T25	DISO 1207 1219	replecionada
+T26	NegSynMarker 1222 1225	Sin
+T27	Phrase 1226 1256	evidencia de fractura cervical
+T28	DISO 1239 1256	fractura cervical
+T29	NegSynMarker 1382 1385	sin
+T30	Phrase 1386 1411	y con gadolinio sagitales
+T31	SUBS 1392 1411	gadolinio sagitales
+T32	NegSynMarker 1450 1453	sin
+T33	Phrase 1454 1477	y con gadolinio axiales
+T34	SUBS 1460 1477	gadolinio axiales
+T35	NegSynMarker 1524 1527	sin
+T36	SUBS 1528 1531	CIV
+T37	UncertLexMarker 1602 1610	probable
+T38	DISO 1611 1656	relación con engrosamiento pleural mamelonado
+T39	UncertLexMarker 1661 1669	probable
+T40	DISO 1670 1689	derrame encapsulado
+T41	NegSynMarker 2233 2235	no
+T42	Phrase 2236 2273	hay dolor de cadera a la movilizacion
+T43	DISO 2240 2273	dolor de cadera a la movilizacion
+T44	UncertLexMarker 2299 2309	al parecer
+T45	OTHER 2310 2323	deambula poco
+T46	NegSynMarker 2365 2368	Sin
+T47	Phrase 2369 2413	signos de TVP en extremidad inferior derecha
+T48	DISO 2379 2413	TVP en extremidad inferior derecha
+T49	NegSynMarker 2433 2436	Sin
+T50	Phrase 2437 2479	evidencia de complicaciones intracraneales
+T51	DISO 2450 2479	complicaciones intracraneales
+T52	UncertLexMarker 2513 2528	compatibles con
+T53	DISO 2529 2547	infartos lacunares
+T54	NegMorMarker 2565 2577	inespecífico
+T55	NegSynMarker 2580 2583	sin
+T56	DISO 2584 2625	dilataciones de asas de intestino delgado
+T57	NegSynMarker 2647 2649	No
+T58	Phrase 2650 2683	se observa condensación neumónica
+T59	DISO 2661 2683	condensación neumónica
+T60	NegSynMarker 2697 2700	Sin
+T61	Phrase 2701 2733	signos de condensación neumónica
+T62	DISO 2711 2733	condensación neumónica
+T63	NegSynMarker 2915 2918	sin
+T64	SUBS 2919 2922	CIV
+T65	NegSynMarker 3042 3044	No
+T66	Phrase 3045 3141	se aprecian fracturas craneales o complicaciones hemorrágicas intracraneales en esta exploración
+T67	DISO 3057 3076	fracturas craneales
+T68	CoordItem 3077 3078	o
+T69	DISO 3079 3121	complicaciones hemorrágicas intracraneales
+T70	NegSynMarker 3534 3537	sin
+T71	Phrase 3538 3586	aumentos de densidad internos ni afectación ósea
+T72	DISO 3538 3567	aumentos de densidad internos
+T73	CoordItem 3568 3570	ni
+T74	DISO 3571 3586	afectación ósea
+T75	NegSynMarker 3589 3596	tampoco
+T76	DISO 3597 3626	placas pleurales calcificadas
+T77	UncertLexMarker 3629 3637	probable
+T78	DISO 3638 3676	derrame encapsulado de larga evolución
+T79	UncertLexMarker 3769 3783	compatible con
+T80	DISO 3784 3798	foco neumónico
+T81	UncertLexMarker 4057 4072	compatibles con
+T82	DISO 4073 4086	infarto agudo
+T83	NegSynMarker 4255 4257	No
+T84	Phrase 4258 4341	se observan líneas de fractura craneal o complicaciones intracraneales hemorrágicas
+T85	DISO 4270 4296	líneas de fractura craneal
+T86	CoordItem 4297 4298	o
+T87	DISO 4299 4341	complicaciones intracraneales hemorrágicas
+T88	NegSynMarker 4376 4378	No
+T89	DISO 4379 4402	déficit focal selectivo
+T90	NegSynMarker 4435 4438	sin
+T91	Phrase 4439 4555	considerar que la posible protusión del material de osteosíntesis sea causante de la úlcera que presenta la paciente
+T92	UncertLexMarker 4457 4464	posible
+T93	DISO 4465 4504	protusión del material de osteosíntesis
+T94	NegLexMarker 4748 4757	suspender
+T95	SUBS 4758 4777	los anticoagulantes
+T96	NegSynMarker 4974 4977	Sin
+T97	Phrase 4978 5013	evidencia de condensacion neumónica
+T98	DISO 4991 5013	condensacion neumónica
+T99	NegLexMarker 5103 5114	se suspende
+T100	SUBS 5115 5130	anticoagulación
+T101	NegSynMarker 5187 5190	Sin
+T102	Phrase 5191 5220	signos de congestión pulmonar
+T103	DISO 5201 5220	congestión pulmonar
+T104	UncertLexMarker 5223 5231	no clara
+T105	DISO 5232 5251	evidencia neumónica
+T106	NegSynMarker 5391 5394	sin
+T107	DISO 5395 5419	hallazgos significativos
+T108	UncertLexMarker 5449 5464	compatibles con
+T109	DISO 5465 5495	encefalopatía vascular crónica
+T110	NegSynMarker 5569 5571	no
+T111	Phrase 5572 5603	se visualiza ningún efecto masa
+T112	PolItem 5585 5591	ningún
+T113	DISO 5592 5603	efecto masa
+T114	NegSynMarker 5757 5759	no
+T115	Phrase 5760 5845	objetivándose ninguna captación de gadolinio que sea compatible con dicha posibilidad
+T116	PolItem 5774 5781	ninguna
+T117	DISO 5782 5845	captación de gadolinio que sea compatible con dicha posibilidad
+T118	NegSynMarker 5915 5917	no
+T119	OTHER 5918 5929	concluyente
+T120	UncertLexMarker 6396 6411	compatibles con
+T121	DISO 6412 6442	encefalopatía vascular crónica
+T122	UncertLexMarker 6445 6453	probable
+T123	DISO 6454 6494	infarto lacunar agudo cerebeloso derecho
+T124	UncertLexMarker 6578 6586	probable
+T125	DISO 6587 6639	infarto crónico frontal derecho en territorio de ACM
+T126	UncertLexMarker 6699 6708	no parece
+T127	Phrase 6709 6742	observarse condensación neumónica
+T128	DISO 6720 6742	condensación neumónica
+T129	UncertLexMarker 7444 7458	compatible con
+T130	DISO 7459 7470	rizartrosis
+T131	NegSynMarker 7473 7475	No
+T132	Phrase 7476 7499	precisa tratamiento ORL
+T133	PROC 7484 7499	tratamiento ORL
+T134	NegSynMarker 7601 7603	no
+T135	OTHER 7604 7615	concluyente
+T136	NegSynMarker 7672 7674	no
+T137	OTHER 7675 7705	permite valorar bien el hígado
+T138	UncertLexMarker 8129 8137	probable
+T139	DISO 8138 8183	residual de infarto crónico de la ACM derecha
+T140	NegSynMarker 8577 8580	sin
+T141	DISO 8581 8605	hallazgos significativos
+T142	NegSynMarker 8608 8611	Sin
+T143	Phrase 8612 8638	evidencia de fractura ósea
+T144	DISO 8625 8638	fractura ósea
+T145	NegSynMarker 8793 8795	No
+T146	Phrase 8796 8816	refiere IRN ni dolor
+T147	DISO 8804 8807	IRN
+T148	CoordItem 8808 8810	ni
+T149	DISO 8811 8816	dolor
+T150	NegSynMarker 8961 8964	sin
+T151	DISO 8965 8986	lesiones metastásicas
+T152	UncertLexMarker 9047 9061	compatible con
+T153	DISO 9062 9087	mioma uterino calcificado
+T154	NegSynMarker 9141 9144	sin
+T155	DISO 9145 9175	otros hallazgos significativos
+T156	NegSynMarker 9219 9222	sin
+T157	Phrase 9223 9244	administración de CIV
+T158	SUBS 9241 9244	CIV
+T159	UncertLexMarker 9314 9320	Pueden
+T160	Phrase 9321 9367	existir mínimos derrames pleurales bilaterales
+T161	DISO 9329 9367	mínimos derrames pleurales bilaterales
+T162	NegSynMarker 9445 9448	Sin
+T163	DISO 9449 9462	hidronefrosis
+T164	NegSynMarker 9516 9519	Sin
+T165	Phrase 9520 9621	signos directos ni indirectos de TVP en venas femorales , poplítea e inicio de troncos tibio peroneos
+T166	CoordItem 9536 9538	ni
+T167	DISO 9553 9621	TVP en venas femorales , poplítea e inicio de troncos tibio peroneos
+T168	NegSynMarker 9688 9691	sin
+T169	Phrase 9692 9714	signos de complicación
+T170	DISO 9702 9714	complicación
+T171	NegSynMarker 9816 9818	No
+T172	Phrase 9819 9836	objetivo hematoma
+T173	DISO 9828 9836	hematoma
+T174	NegSynMarker 9839 9841	no
+T175	DISO 9842 9859	crepitación nasal
+T176	NegSynMarker 10206 10208	no
+T177	DISO 10209 10220	propulsivas
+T178	NegSynMarker 10223 10225	no
+T179	Phrase 10226 10330	lográndose una adecuada repleción de cavidad gástrica como para confirmar o descartar neoplasia gástrica
+T180	OTHER 10237 10330	una adecuada repleción de cavidad gástrica como para confirmar o descartar neoplasia gástrica
+T181	NegSynMarker 10340 10342	no
+T182	Phrase 10343 10377	se observan signos de neoformación
+T183	DISO 10365 10377	neoformación
+T184	NegSynMarker 10454 10456	No
+T185	Phrase 10457 10577	se observan signos ecográficos directos o indirectos de TVP a nivel femoral ni poplíteo la extremidad inferior izquierda
+T186	DISO 10513 10577	TVP a nivel femoral ni poplíteo la extremidad inferior izquierda
+T187	CoordItem 10533 10535	ni
+T188	UncertLexMarker 10642 10654	no me parece
+T189	DISO 10655 10664	herpetica
+T190	NegSynMarker 10741 10743	No
+T191	DISO 10744 10762	signos infecciosos
+T192	UncertLexMarker 10942 10951	Sin clara
+T193	Phrase 10952 10973	evidencia de neumonia
+T194	DISO 10965 10973	neumonia
+T195	NegSynMarker 10976 10979	Sin
+T196	DISO 10980 11050	adenopatías de tamaño patológico , axilares , mediastínicas o hiliares
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T70 Arg2:T71
+R28	Scope Arg1:T79 Arg2:T80
+R29	Scope Arg1:T75 Arg2:T76
+R30	Scope Arg1:T77 Arg2:T78
+R31	Scope Arg1:T81 Arg2:T82
+R32	Scope Arg1:T83 Arg2:T84
+R33	Scope Arg1:T88 Arg2:T89
+R34	Scope Arg1:T90 Arg2:T91
+R35	Scope Arg1:T92 Arg2:T93
+R36	Scope Arg1:T94 Arg2:T95
+R37	Scope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T99 Arg2:T100
+R39	Scope Arg1:T101 Arg2:T102
+R40	Scope Arg1:T104 Arg2:T105
+R41	Scope Arg1:T106 Arg2:T107
+R42	Scope Arg1:T108 Arg2:T109
+R43	Scope Arg1:T114 Arg2:T115
+R44	Scope Arg1:T110 Arg2:T111
+R45	Scope Arg1:T118 Arg2:T119
+R46	Scope Arg1:T122 Arg2:T123
+R47	Scope Arg1:T120 Arg2:T121
+R48	Scope Arg1:T124 Arg2:T125
+R49	Scope Arg1:T126 Arg2:T127
+R50	Scope Arg1:T129 Arg2:T130
+R51	Scope Arg1:T131 Arg2:T132
+R52	Scope Arg1:T136 Arg2:T137
+R53	Scope Arg1:T134 Arg2:T135
+R54	Scope Arg1:T138 Arg2:T139
+R55	Scope Arg1:T140 Arg2:T141
+R56	Scope Arg1:T142 Arg2:T143
+R57	Scope Arg1:T145 Arg2:T146
+R58	Scope Arg1:T150 Arg2:T151
+R59	Scope Arg1:T152 Arg2:T153
+R60	Scope Arg1:T154 Arg2:T155
+R61	Scope Arg1:T156 Arg2:T157
+R62	Scope Arg1:T159 Arg2:T160
+R63	Scope Arg1:T162 Arg2:T163
+R64	Scope Arg1:T164 Arg2:T165
+R65	Scope Arg1:T168 Arg2:T169
+R66	Scope Arg1:T171 Arg2:T172
+R67	Scope Arg1:T174 Arg2:T175
+R68	Scope Arg1:T178 Arg2:T179
+R69	Scope Arg1:T176 Arg2:T177
+R70	Scope Arg1:T181 Arg2:T182
+R71	Scope Arg1:T184 Arg2:T185
+R72	Scope Arg1:T188 Arg2:T189
+R73	Scope Arg1:T190 Arg2:T191
+R74	Scope Arg1:T192 Arg2:T193
+R75	Scope Arg1:T195 Arg2:T196

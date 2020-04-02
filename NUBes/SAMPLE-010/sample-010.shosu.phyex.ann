@@ -1,0 +1,24 @@
+T1	NegSynMarker 304 307	Sin
+T2	DISO 308 331	novedades exploratorias
+T3	Phrase 308 363	novedades exploratorias con respecto al informe de alta
+T4	UncertLexMarker 517 530	probablemente
+T5	OTHER 531 544	medicamentoso
+T6	NegSynMarker 890 893	Sin
+T7	OTHER 894 938	novedades con respecto al alta de neurologia
+T8	NegSynMarker 1172 1175	sin
+T9	DISO 1176 1196	dolor a la palpacion
+T10	NegSynMarker 1326 1328	no
+T11	DISO 1329 1359	dolor a la movilización cadera
+T12	NegMorMarker 1426 1438	desorientado
+T13	NegSynMarker 1459 1461	No
+T14	OTHER 1462 1470	colabora
+T15	NegMorMarker 1483 1492	arritmico
+T16	NegSynMarker 1520 1523	sin
+T17	DISO 1524 1533	hallazgos
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17

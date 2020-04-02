@@ -1,0 +1,27 @@
+T1	UncertLexMarker 125 139	compatible con
+T2	DISO 140 155	ca. basocelular
+T3	UncertLexMarker 184 198	compatible con
+T4	Phrase 199 242	ca. basocelular en región pretibial derecha
+T5	DISO 199 214	ca. basocelular
+T6	UncertLexMarker 256 270	compatible con
+T7	DISO 271 286	ca. basocelular
+T8	UncertLexMarker 670 684	compatible con
+T9	DISO 685 700	ca. basocelular
+T10	UncertLexMarker 1099 1113	compatible con
+T11	Phrase 1114 1170	ca. basocelular en dorso nasal de 0.5-0.8 mm de diámetro
+T12	DISO 1114 1129	ca. basocelular
+T13	UncertLexMarker 1246 1260	compatible con
+T14	Phrase 1261 1334	ca. basocelular de unos 7 * 5mm. sobre tercio externo del párpado derecho
+T15	DISO 1261 1276	ca. basocelular
+T16	UncertLexMarker 1591 1605	susceptible de
+T17	DISO 1606 1629	ca. basocelular perlado
+T18	UncertLexMarker 1685 1699	compatible con
+T19	DISO 1700 1715	queratoacantoma
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19

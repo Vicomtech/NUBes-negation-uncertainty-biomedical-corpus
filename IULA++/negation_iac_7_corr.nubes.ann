@@ -1,0 +1,305 @@
+T1	NegMorMarker 11646 11653	afebril
+T2	NegSynMarker 45 47	no
+T3	NegSynMarker 597 608	ausencia de
+T4	NegSynMarker 982 984	no
+T5	NegSynMarker 1434 1436	No
+T6	NegSynMarker 1753 1756	sin
+T7	UncertLexMarker 1960 1980	no permite descartar
+T8	NegSynMarker 2589 2591	No
+T9	NegSynMarker 3021 3024	sin
+T10	NegSynMarker 3515 3517	No
+T11	NegSynMarker 3805 3808	sin
+T12	NegSynMarker 4275 4277	No
+T13	NegSynMarker 4472 4475	sin
+T14	NegSynMarker 4636 4639	sin
+T15	NegSynMarker 4720 4722	No
+T16	NegSynMarker 4943 4945	no
+T17	NegSynMarker 5804 5807	sin
+T18	NegSynMarker 6355 6358	sin
+T19	NegSynMarker 6763 6766	sin
+T20	NegSynMarker 7018 7021	Sin
+T22	Phrase 7461 7487	sugestiva de fibroelastoma
+T23	NegSynMarker 7458 7460	NO
+T24	NegSynMarker 7642 7645	sin
+T25	NegSynMarker 7805 7807	no
+T26	NegSynMarker 8162 8164	No
+T27	NegSynMarker 8651 8653	no
+T28	NegSynMarker 9217 9219	no
+T29	NegSynMarker 9418 9421	sin
+T30	NegSynMarker 10332 10334	No
+T31	NegSynMarker 10455 10458	sin
+T32	NegSynMarker 10596 10598	No
+T33	NegSynMarker 10896 10899	sin
+T34	NegSynMarker 11178 11180	No
+T35	NegSynMarker 11583 11586	sin
+T36	NegSynMarker 11933 11936	sin
+T38	NegSynMarker 13836 13839	sin
+T39	NegSynMarker 14622 14625	sin
+T40	NegSynMarker 15492 15494	no
+T41	NegSynMarker 15899 15901	No
+T42	NegSynMarker 16061 16064	sin
+T43	NegSynMarker 16768 16770	no
+T45	NegSynMarker 17274 17277	sin
+T46	NegSynMarker 17300 17302	No
+T47	NegSynMarker 18011 18014	sin
+T48	NegSynMarker 18138 18140	no
+T49	NegSynMarker 18714 18716	No
+T50	NegSynMarker 19797 19800	sin
+T51	NegSynMarker 20090 20093	sin
+T52	NegSynMarker 20241 20243	no
+T53	NegSynMarker 20595 20597	No
+T54	NegSynMarker 20695 20697	no
+T55	NegSynMarker 20817 20819	no
+T57	NegSynMarker 21627 21629	no
+T58	CoordItem 1015 1017	ni
+T59	CoordItem 2630 2632	ni
+T60	CoordItem 3901 3903	ni
+T61	CoordItem 4345 4347	ni
+T63	CoordItem 11226 11228	ni
+T64	CoordItem 15908 15910	ni
+T65	CoordItem 19814 19816	ni
+T66	NegLexMarker 387 395	negativo
+T67	NegLexMarker 1812 1821	negativos
+T68	NegLexMarker 2798 2806	Negativo
+T69	NegLexMarker 2954 2963	Negativos
+T70	NegLexMarker 3680 3689	negativos
+T71	NegLexMarker 9463 9471	negativo
+T72	NegLexMarker 12094 12102	Negativo
+T73	NegLexMarker 19095 19103	Negativo
+T74	NegLexMarker 19682 19690	Negativo
+T75	NegLexMarker 21214 21223	negativos
+T76	UncertLexMarker 2307 2315	sugieren
+T77	UncertLexMarker 2332 2345	probablemente
+T79	UncertLexMarker 5667 5680	sugestivos de
+T80	UncertLexMarker 7287 7301	no se descarta
+T83	UncertLexMarker 8129 8141	sugestivo de
+T84	UncertLexMarker 9784 9796	sugestiva de
+T86	UncertLexMarker 13489 13502	probablemente
+T87	UncertLexMarker 16749 16755	parece
+T88	UncertLexMarker 18463 18469	habría
+T89	UncertLexMarker 19216 19229	probablemente
+T90	UncertLexMarker 19313 19327	compatible con
+T91	UncertLexMarker 21780 21786	podría
+T92	PolItem 21806 21813	posible
+T93	DISO 7474 7487	fibroelastoma
+T97	NegMorMarker 5029 5036	Anormal
+R1	Scope Arg1:T23 Arg2:T22	
+T81	DISO 48 58	estenótica
+R4	Scope Arg1:T2 Arg2:T81	
+T95	PROC 359 371	Urinocultivo
+T96	Phrase 359 385	Urinocultivo ( 16/2/2015 )
+R5	Scope Arg1:T66 Arg2:T96	
+T98	DISO 609 631	actividad mioeléctrica
+T99	DISO 637 650	excitabilidad
+T100	Phrase 609 732	actividad mioeléctrica y de excitabilidad en nervios periféricos de toda la extremidad superior derecha (distal a trapecio)
+R6	Scope Arg1:T3 Arg2:T100	
+T101	DISO 985 1029	contacta con el nervio radial ni lo desplaza
+R7	Scope Arg1:T4 Arg2:T101	
+T102	DISO 1449 1474	condensaciones alveolares
+T103	Phrase 1437 1474	se observan condensaciones alveolares
+R8	Scope Arg1:T5 Arg2:T103	
+T104	DISO 1757 1775	imágenes tumorales
+R9	Scope Arg1:T6 Arg2:T104	
+T105	PROC 1781 1796	Hemocultivos x2
+T106	Phrase 1781 1810	Hemocultivos x2 ( 14/2/2015 )
+R10	Scope Arg1:T67 Arg2:T106	
+T107	DISO 1981 2001	patología secundaria
+T108	Phrase 1981 2010	patología secundaria en éstas
+R11	Scope Arg1:T7 Arg2:T108	
+T109	DISO 2316 2330	edema muscular
+R12	Scope Arg1:T76 Arg2:T109	
+T110	DISO 2346 2385	en el contexto de compresión prolongada
+R13	Scope Arg1:T77 Arg2:T110	
+T111	DISO 2604 2629	condensaciones alveolares
+T112	DISO 2643 2666	redistribución vascular
+T113	Phrase 2592 2666	se observan condensaciones alveolares ni signos de redistribución vascular
+R14	Scope Arg1:T8 Arg2:T113	
+T114	PROC 2918 2935	Virus gripe A y B
+T115	PROC 2937 2940	VRS
+T116	PROC 2943 2953	adenovirus
+T117	Phrase 2918 2953	Virus gripe A y B, VRS y adenovirus
+R15	Scope Arg1:T69 Arg2:T117	
+T118	Phrase 3025 3049	visualizar meato derecho
+T119	BODY 3036 3049	meato derecho
+R16	Scope Arg1:T9 Arg2:T118	
+T120	DISO 3535 3574	complicaciones durante el procedimiento
+T121	Phrase 3518 3574	se han producido complicaciones durante el procedimiento
+R17	Scope Arg1:T10 Arg2:T121	
+T122	PROC 3624 3653	Antígenos urinarios neumococo
+T123	PROC 3656 3666	legionella
+T124	Phrase 3624 3678	Antígenos urinarios neumococo y legionella (16/2/2015)
+R18	Scope Arg1:T70 Arg2:T124	
+T125	DISO 3825 3865	alteraciones ecográficamente detectables
+T126	DISO 3867 3884	cambio de calibre
+T127	DISO 3886 3900	desplazamiento
+T128	DISO 3904 3934	alteración de la ecoestructura
+T129	Phrase 3809 3935	que se aprecian alteraciones ecográficamente detectables (cambio de calibre, desplazamiento ni alteración de la ecoestructura)
+R19	Scope Arg1:T11 Arg2:T129	
+T78	DISO 4337 4344	temblor
+T130	DISO 4348 4358	mioclonias
+T131	Phrase 4278 4358	se ha observado durante el registro actividad sugestiva de temblor ni mioclonias
+R20	Scope Arg1:T12 Arg2:T131	
+T132	DISO 4486 4498	infiltración
+T133	Phrase 4476 4498	signos de infiltración
+R21	Scope Arg1:T13 Arg2:T133	
+T134	DISO 4652 4659	trombos
+T135	Phrase 4640 4674	imágenes de trombos en su interior
+R22	Scope Arg1:T14 Arg2:T135	
+T136	DISO 4735 4793	obstrucciones a nivel del resto de arterias intracraneales
+T137	Phrase 4723 4793	se observan obstrucciones a nivel del resto de arterias intracraneales
+R23	Scope Arg1:T15 Arg2:T137	
+T138	DISO 4946 4970	condiciona una estenosis
+R24	Scope Arg1:T16 Arg2:T138	
+T139	DISO 5681 5734	una tendencia epileptógena temporal derecha aumentada
+R25	Scope Arg1:T79 Arg2:T139	
+T140	DISO 5808 5826	nuevas incidencias
+R26	Scope Arg1:T17 Arg2:T140	
+T141	DISO 6359 6386	alteraciones significativas
+R27	Scope Arg1:T18 Arg2:T141	
+T142	DISO 6767 6800	alteraciones en la repolarización
+R28	Scope Arg1:T19 Arg2:T142	
+T143	DISO 7022 7034	alteraciones
+R29	Scope Arg1:T20 Arg2:T143	
+T144	DISO 7302 7353	componente compensador del territorio contralateral
+R30	Scope Arg1:T80 Arg2:T144	
+T21	DISO 7656 7664	isquemia
+T62	Phrase 7646 7664	signos de isquemia
+R2	Scope Arg1:T24 Arg2:T62	
+T82	DISO 7857 7867	malignidad
+T94	Phrase 7808 7867	se observan imágenes macroscópicas sugestivas de malignidad
+R3	Scope Arg1:T25 Arg2:T94	
+T145	DISO 8142 8159	trombo-vegetación
+R31	Scope Arg1:T83 Arg2:T145	
+T146	DISO 8165 8186	pausas significativas
+R32	Scope Arg1:T26 Arg2:T146	
+T147	UncertLexMarker 8242 8257	Se orienta como
+T148	Phrase 8258 8324	una recurrencia isquémica en contexto de cambio de anticoagulación
+R33	Scope Arg1:T147 Arg2:T148	
+T149	DISO 8258 8283	una recurrencia isquémica
+T150	DISO 8654 8663	invertida
+R34	Scope Arg1:T27 Arg2:T150	
+T151	DISO 9422 9461	paso de burbujas a cavidades izquierdas
+R35	Scope Arg1:T29 Arg2:T151	
+T152	DISO 9250 9258	inhición
+T153	Phrase 9220 9258	se ha observado prácticamente inhición
+T85	DISO 10347 10406	hiperdensidades intraparenquimatosas sugestivas de sangrado
+T154	Phrase 10335 10406	se observan hiperdensidades intraparenquimatosas sugestivas de sangrado
+R36	Scope Arg1:T30 Arg2:T154	
+T155	SUBS 9797 9813	mezcla de sangre
+R37	Scope Arg1:T84 Arg2:T155	
+T156	PROC 9477 9480	FOP
+T157	Phrase 9472 9480	para FOP
+R38	Scope Arg1:T71 Arg2:T157	
+R39	Scope Arg1:T28 Arg2:T153	
+T158	DISO 10459 10471	alteraciones
+R40	Scope Arg1:T31 Arg2:T158	
+T159	DISO 10900 10935	relación con factores hemodinámicos
+R41	Scope Arg1:T33 Arg2:T159	
+T160	DISO 10599 10620	pausas significativas
+R42	Scope Arg1:T32 Arg2:T160	
+T161	UncertLexMarker 10623 10638	Se orienta como
+T162	DISO 10639 10675	ictus cortical en territorio de ACMD
+T163	Phrase 10639 10718	ictus cortical en territorio de ACMD en paciente con oclusión carotídea derecha
+R43	Scope Arg1:T161 Arg2:T163	
+T164	DISO 11205 11240	sangrado agudo intra ni extra-axial
+T165	Phrase 11181 11240	se observan imágenes de sangrado agudo intra ni extra-axial
+R44	Scope Arg1:T34 Arg2:T165	
+T166	DISO 11587 11618	alteración de la repolarización
+R45	Scope Arg1:T35 Arg2:T166	
+T167	DISO 11937 11968	alteración de la repolarización
+R46	Scope Arg1:T36 Arg2:T167	
+T37	NegLexMarker 12605 12612	rechaza
+T168	OTHER 12547 12566	soporte en Acollida
+T169	OTHER 12569 12586	vinculación a CAS
+T170	CoordItem 12567 12568	o
+T171	Phrase 12547 12586	soporte en Acollida o vinculación a CAS
+R47	DiscScope Arg1:T37 Arg2:T171	
+T172	Phrase 12613 12685	por el momento ya que comenta que ya realiza seguimiento PSC via privada
+R48	DiscScope Arg1:T37 Arg2:T172	
+T173	UncertLexMarker 12912 12922	Se orienta
+T174	DISO 12934 12971	TMO de origen enólico por deprivación
+T175	Phrase 12923 12971	el caso de TMO de origen enólico por deprivación
+R49	Scope Arg1:T173 Arg2:T175	
+T176	DISO 13503 13527	clínicamente irrelevante
+R50	Scope Arg1:T86 Arg2:T176	
+T177	DISO 13840 13859	VG por retroversión
+R51	Scope Arg1:T38 Arg2:T177	
+T178	DISO 14626 14634	lesiones
+R52	Scope Arg1:T39 Arg2:T178	
+T179	NegLexMarker 14876 14881	niega
+T180	DISO 14847 14858	abstinencia
+T181	Phrase 14835 14858	síntomas de abstinencia
+T182	Phrase 14882 14897	desde el inicio
+R53	DiscScope Arg1:T179 Arg2:T181	
+R54	DiscScope Arg1:T179 Arg2:T182	
+T183	UncertLexMarker 15305 15311	pueden
+T184	DISO 15312 15338	explicar la sintomatología
+T185	Phrase 15312 15362	explicar la sintomatología que refiere la paciente
+R55	Scope Arg1:T183 Arg2:T185	
+T186	Phrase 15495 15512	se cierra el TIPS
+T187	PROC 15505 15512	el TIPS
+R56	Scope Arg1:T40 Arg2:T186	
+T188	UncertLexMarker 15597 15603	pueden
+T189	DISO 15604 15630	explicar la sintomatología
+T190	Phrase 15604 15655	explicar la sintomatología que refiere l a paciente
+R57	Scope Arg1:T188 Arg2:T190	
+T191	DISO 15902 15907	ideas
+T192	DISO 15911 15944	pensamientos auto o heterolíticos
+T193	Phrase 15902 15944	ideas ni pensamientos auto o heterolíticos
+R58	Scope Arg1:T41 Arg2:T193	
+T194	DISO 16065 16072	varices
+R59	Scope Arg1:T42 Arg2:T194	
+T195	NegLexMarker 16396 16405	privación
+T196	Phrase 16406 16420	brusca de enol
+R60	Scope Arg1:T195 Arg2:T196	
+T197	OTHER 16782 16814	un mejor funcionamiento de lTIPS
+T198	Phrase 16771 16814	se logrará un mejor funcionamiento de lTIPS
+R61	Scope Arg1:T43 Arg2:T198	
+T199	Phrase 16756 16814	indicar que no se logrará un mejor funcionamiento de lTIPS
+R62	Scope Arg1:T87 Arg2:T199	
+T44	DISO 17278 17297	VG por retroversión
+R63	Scope Arg1:T45 Arg2:T44	
+T200	DISO 17303 17353	clínica afectiva de características endogenomorfas
+R64	Scope Arg1:T46 Arg2:T200	
+T201	OTHER 18025 18082	una mejoría significativa de presiones y de la venografía
+T202	Phrase 18015 18082	conseguir una mejoría significativa de presiones y de la venografía
+R65	Scope Arg1:T47 Arg2:T202	
+T203	OTHER 18141 18151	recubierta
+R66	Scope Arg1:T48 Arg2:T203	
+T204	DISO 18470 18507	derivado en su cuadro hepático actual
+R67	Scope Arg1:T88 Arg2:T204	
+T205	DISO 18729 18780	complicaciones inmediatas después del procedimiento
+T206	Phrase 18717 18780	se observan complicaciones inmediatas después del procedimiento
+R68	Scope Arg1:T49 Arg2:T206	
+T207	DISO 19230 19255	clínica mente irrelevante
+R69	Scope Arg1:T89 Arg2:T207	
+T208	DISO 19328 19374	gastropatía de la hipertensión portal moderada
+R70	Scope Arg1:T90 Arg2:T208	
+T209	DISO 19801 19813	puntos rojos
+T210	DISO 19827 19844	sangrado reciente
+T211	Phrase 19801 19844	puntos rojos ni signos de sangrado reciente
+R71	Scope Arg1:T50 Arg2:T211	
+T212	DISO 20094 20112	varices esofágicas
+R72	Scope Arg1:T51 Arg2:T212	
+T213	PROC 20255 20271	biopsia hepática
+T214	Phrase 20244 20271	se realiza biopsia hepática
+R73	Scope Arg1:T52 Arg2:T214	
+T215	DISO 20598 20616	ideación delirante
+R74	Scope Arg1:T53 Arg2:T215	
+T216	DISO 20698 20710	fragmentados
+R75	Scope Arg1:T54 Arg2:T216	
+T217	DISO 20820 20827	craving
+R76	Scope Arg1:T55 Arg2:T217	
+T56	PROC 21188 21198	Legionella
+T218	PROC 21201 21213	S. neumoniae
+T219	Phrase 21155 21213	ANTÍGENOS EN ORINA (27.01.2015): Legionella y S. neumoniae
+R77	Scope Arg1:T75 Arg2:T219	
+T220	DISO 21630 21659	respondedora a corticoterapia
+R78	Scope Arg1:T57 Arg2:T220	
+T221	DISO 21814 21823	trombosis
+T222	Phrase 21787 21823	corresponder a una posible trombosis
+R79	Scope Arg1:T91 Arg2:T222	
+T223	UncertLexMarker 8453 8463	se intuyen
+T224	DISO 8464 8504	velocidades medias disminuidas en un 30%
+T225	Phrase 8464 8584	velocidades medias disminuidas en un 30% en el segmento M2 de la arteria cerebral media izquierda respecto de la derecha
+R80	Scope Arg1:T223 Arg2:T225	

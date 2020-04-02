@@ -1,0 +1,30 @@
+T1	NegSynMarker 350 352	no
+T2	Phrase 353 404	siendo posible colocarlo en trompa izda por espasmo
+T3	PROC 368 392	colocarlo en trompa izda
+T4	NegSynMarker 488 490	no
+T5	DISO 491 524	asociado a incontinencia urinaria
+T6	UncertLexMarker 539 547	sospecha
+T7	Phrase 548 580	ecografica de polipo endometrial
+T8	DISO 562 580	polipo endometrial
+T9	UncertLexMarker 657 665	sospecha
+T10	Phrase 666 698	ecografica de polipo endometrial
+T11	DISO 680 698	polipo endometrial
+T12	NegSynMarker 791 793	no
+T13	OTHER 794 819	controlada con gestagenos
+T14	NegSynMarker 852 854	no
+T15	DISO 855 889	incontinencia urinaria de esfuerzo
+T16	UncertLexMarker 955 966	sospecha de
+T17	DISO 967 985	polipo endometrial
+T18	NegSynMarker 1003 1005	no
+T19	DISO 1006 1039	asociado a incontinencia urinaria
+T20	UncertLexMarker 1160 1171	sospecha de
+T21	DISO 1172 1190	polipo endometrial
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21

@@ -1,0 +1,91 @@
+T1	PROC 82 134	una nueva seriación de marcadores de daño miocárdico
+T2	NegLexMarker 143 151	negativa
+T3	UncertLexMarker 160 167	posible
+T4	DISO 168 186	disfunción sinusal
+T5	NegSynMarker 1068 1071	sin
+T6	Phrase 1072 1105	evidencias de isquemia miocardica
+T7	DISO 1086 1105	isquemia miocardica
+T8	PROC 1134 1157	la seriación enzimática
+T9	NegLexMarker 1161 1169	negativa
+T10	NegLexMarker 1358 1367	imposible
+T11	Phrase 1368 1409	cualquier intento de cateterismo cardíaco
+T12	PolItem 1368 1377	cualquier
+T13	PROC 1389 1409	cateterismo cardíaco
+T14	NegSynMarker 1675 1678	sin
+T15	OTHER 1679 1684	exito
+T16	NegMorMarker 2192 2206	desorientacion
+T17	NegSynMarker 2277 2279	no
+T18	Phrase 2280 2298	comenzamos con BBs
+T19	SUBS 2295 2298	BBs
+T20	NegSynMarker 2986 2989	sin
+T21	DISO 2990 3007	isquemia residual
+T22	DISO 3052 3068	dolor mandibular
+T23	NegLexMarker 3073 3077	cede
+T24	Phrase 3078 3150	en Urgencias cuando se le administra paracetamol ev y NTG 10mg en parche
+T25	NegSynMarker 3252 3254	no
+T26	DISO 3255 3271	revascularizable
+T27	NegSynMarker 3471 3473	No
+T28	Phrase 3474 3510	se aprecian lesiones agudas en la RX
+T29	DISO 3486 3510	lesiones agudas en la RX
+T30	NegMorMarker 5079 5091	asintomática
+T31	NegMorMarker 5478 5490	asintomático
+T32	NegSynMarker 5743 5746	sin
+T33	DISO 5747 5796	cambios significativos con respecto a los previos
+T34	NegLexMarker 5833 5848	desaparicion de
+T35	DISO 5849 5861	los síntomas
+T36	NegSynMarker 6290 6292	No
+T37	Phrase 6293 6347	requiere tratamiento para la recuperación de su anemia
+T38	PROC 6302 6347	tratamiento para la recuperación de su anemia
+T39	NegSynMarker 6590 6593	sin
+T40	DISO 6594 6601	cambios
+T41	NegSynMarker 6732 6735	sin
+T42	Phrase 6736 6757	fiebre ni secreciones
+T43	DISO 6736 6742	fiebre
+T44	CoordItem 6743 6745	ni
+T45	SUBS 6746 6757	secreciones
+T46	NegLexMarker 7278 7288	desaparece
+T47	DISO 7289 7309	la congestion pasiva
+T48	NegLexMarker 7312 7323	desaparecen
+T49	DISO 7324 7336	los sintomas
+T50	NegSynMarker 7589 7591	no
+T51	Phrase 7592 7630	haber tenido dolor tras el traumatismo
+T52	DISO 7605 7630	dolor tras el traumatismo
+T53	NegSynMarker 7843 7846	sin
+T54	Phrase 7847 7883	signos de congestion pasiva pulmonar
+T55	DISO 7857 7883	congestion pasiva pulmonar
+T56	NegSynMarker 7959 7961	No
+T57	Phrase 7962 8014	presenta déficits ni de hierro , ni B12 , ni folatos
+T58	DISO 7971 8014	déficits ni de hierro , ni B12 , ni folatos
+T59	CoordItem 7980 7982	ni
+T60	CoordItem 7995 7997	ni
+T61	CoordItem 8004 8006	ni
+T62	NegSynMarker 8384 8387	Sin
+T63	OTHER 8388 8395	eventos
+T64	NegMorMarker 8448 8460	asintomático
+T65	NegSynMarker 8925 8927	no
+T66	Phrase 8928 8947	revela alteraciones
+T67	DISO 8935 8947	alteraciones
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	DiscScope Arg1:T23 Arg2:T24
+R10	DiscScope Arg1:T23 Arg2:T22
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T56 Arg2:T57
+R23	Scope Arg1:T62 Arg2:T63
+R24	Scope Arg1:T65 Arg2:T66

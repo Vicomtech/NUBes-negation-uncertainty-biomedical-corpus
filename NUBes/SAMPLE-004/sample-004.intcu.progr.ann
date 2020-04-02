@@ -1,0 +1,124 @@
+T1	NegSynMarker 399 402	sin
+T2	Phrase 403 470	gran trabajo respiratorio , ni utilización de musculatura accesoria
+T3	OTHER 403 428	gran trabajo respiratorio
+T4	CoordItem 431 433	ni
+T5	OTHER 434 470	utilización de musculatura accesoria
+T6	UncertLexMarker 564 572	sugieren
+T7	DISO 573 597	bronconeumonía bilateral
+T8	NegSynMarker 744 746	No
+T9	Phrase 747 766	signos de focalidad
+T10	DISO 757 766	focalidad
+T11	NegSynMarker 769 771	no
+T12	Phrase 772 801	signos de irritación meníngea
+T13	DISO 782 801	irritación meníngea
+T14	NegSynMarker 813 815	no
+T15	Phrase 816 832	habla castellano
+T16	NegSynMarker 877 880	sin
+T17	Phrase 881 912	signos de irritación peritoneal
+T18	DISO 891 912	irritación peritoneal
+T19	NegSynMarker 1287 1290	sin
+T20	SUBS 1291 1307	aporte diurético
+T21	NegSynMarker 1488 1491	sin
+T22	DISO 1492 1512	trabajo respiratorio
+T23	NegSynMarker 1644 1646	no
+T24	Phrase 1647 1676	indicación de cirugía urgente
+T25	PROC 1661 1676	cirugía urgente
+T26	NegSynMarker 1758 1761	sin
+T27	Phrase 1762 1793	signos de irritación peritoneal
+T28	DISO 1772 1793	irritación peritoneal
+T29	NegSynMarker 2157 2160	sin
+T30	DISO 2161 2199	elevación de enzimas cardioespecíficas
+T31	Phrase 2161 2237	elevación de enzimas cardioespecíficas ni alteraciones electrocardiográficas
+T32	CoordItem 2200 2202	ni
+T33	DISO 2203 2237	alteraciones electrocardiográficas
+T34	NegLexMarker 2402 2410	descarta
+T35	DISO 2411 2414	TEP
+T36	NegSynMarker 2531 2534	sin
+T37	DISO 2535 2560	alteraciones en motilidad
+T38	Phrase 2535 2603	alteraciones en motilidad , ni derrame pericardico , ni valvulopatía
+T39	CoordItem 2563 2565	ni
+T40	DISO 2566 2585	derrame pericardico
+T41	CoordItem 2588 2590	ni
+T42	DISO 2591 2603	valvulopatía
+T43	NegSynMarker 2632 2635	sin
+T44	DISO 2636 2652	cambios en dolor
+T45	SUBS 2902 2919	troponina 09 : 01
+T46	NegLexMarker 2922 2930	negativa
+T47	NegSynMarker 3458 3461	sin
+T48	Phrase 3462 3529	signos clínicos ni datos de laboratorio de hipoperfusión periférica
+T49	CoordItem 3478 3480	ni
+T50	DISO 3505 3529	hipoperfusión periférica
+T51	NegSynMarker 3732 3734	no
+T52	OTHER 3735 3774	se levantan apósitos de region cervical
+T53	NegMorMarker 3775 3782	Afebril
+T54	NegSynMarker 4020 4023	Sin
+T55	DISO 4024 4043	alteración en iones
+T56	NegSynMarker 4218 4221	sin
+T57	DISO 4222 4264	alteración en ventilación ni en gasometria
+T58	CoordItem 4248 4250	ni
+T59	Phrase 4581 4632	nuevo episodio de malestar con dolor centrotorácico
+T60	DISO 4599 4632	malestar con dolor centrotorácico
+T61	NegSynMarker 4633 4636	Sin
+T62	DISO 4637 4651	cambios en EKG
+T63	NegLexMarker 4654 4658	cede
+T64	Phrase 4659 4686	espontaneamente tras 15 min
+T65	NegSynMarker 4785 4788	sin
+T66	Phrase 4789 4832	objetivar cambios con respecto a EKG previo
+T67	DISO 4799 4832	cambios con respecto a EKG previo
+T68	DISO 4833 4841	Episodio
+T69	NegLexMarker 4842 4846	cede
+T70	Phrase 4847 4862	espontaneamente
+T71	UncertLexMarker 5015 5026	sospecha de
+T72	DISO 5027 5030	SCA
+T73	NegSynMarker 5407 5410	sin
+T74	DISO 5411 5419	sangrado
+T75	NegSynMarker 5685 5688	sin
+T76	DISO 5689 5704	sangrado activo
+T77	NegSynMarker 5850 5853	sin
+T78	DISO 5854 5879	complicaciones inmediatas
+T79	NegSynMarker 6026 6028	No
+T80	DISO 6029 6040	hematemesis
+T81	NegSynMarker 6123 6126	Sin
+T82	DISO 6127 6152	alteración en coagulación
+T83	NegSynMarker 6515 6517	no
+T84	DISO 6518 6527	irradiado
+T85	NegSynMarker 6530 6533	sin
+T86	DISO 6534 6573	relación con movimientos ni respiración
+T87	CoordItem 6559 6561	ni
+T88	NegSynMarker 6591 6594	sin
+T89	Phrase 6595 6612	objetivar cambios
+T90	DISO 6605 6612	cambios
+R1	Scope Arg1:T14 Arg2:T15
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T11 Arg2:T12
+R4	Scope Arg1:T19 Arg2:T20
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T6 Arg2:T7
+R7	Scope Arg1:T8 Arg2:T9
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T29 Arg2:T31
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T43 Arg2:T44
+R14	Scope Arg1:T36 Arg2:T38
+R15	Scope Arg1:T46 Arg2:T45
+R16	Scope Arg1:T51 Arg2:T52
+R17	Scope Arg1:T47 Arg2:T48
+R18	Scope Arg1:T54 Arg2:T55
+R19	Scope Arg1:T56 Arg2:T57
+R20	Scope Arg1:T61 Arg2:T62
+R21	DiscScope Arg1:T69 Arg2:T70
+R22	DiscScope Arg1:T63 Arg2:T64
+R23	DiscScope Arg1:T63 Arg2:T59
+R24	DiscScope Arg1:T69 Arg2:T68
+R25	Scope Arg1:T65 Arg2:T66
+R26	Scope Arg1:T71 Arg2:T72
+R27	Scope Arg1:T75 Arg2:T76
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T79 Arg2:T80
+R30	Scope Arg1:T77 Arg2:T78
+R31	Scope Arg1:T81 Arg2:T82
+R32	Scope Arg1:T88 Arg2:T89
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T83 Arg2:T84

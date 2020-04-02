@@ -1,0 +1,70 @@
+T1	NegSynMarker 822 824	no
+T2	DISO 825 833	conocido
+T3	NegLexMarker 1200 1214	incapacidad de
+T4	Phrase 1215 1221	marcha
+T5	UncertLexMarker 1707 1715	probable
+T6	DISO 1716 1760	necrosis avascular sobre dicha cadera previa
+T7	NegSynMarker 1826 1828	no
+T8	DISO 1829 1838	cementada
+T9	UncertLexMarker 2049 2057	Probable
+T10	DISO 2058 2092	colitis isquemica cronica subaguda
+T11	NegSynMarker 2249 2252	Sin
+T12	Phrase 2253 2285	evidencia de mielopatía cervical
+T13	DISO 2266 2285	mielopatía cervical
+T14	NegLexMarker 2974 2982	evitando
+T15	PROC 2983 3005	intubación orotraqueal
+T16	Phrase 2983 3020	intubación orotraqueal y hemodiálisis
+T17	CoordItem 3006 3007	y
+T18	PROC 3008 3020	hemodiálisis
+T19	NegSynMarker 3457 3459	no
+T20	Phrase 3460 3497	candidata a intubación o hemodialisis
+T21	PROC 3472 3482	intubación
+T22	PROC 3485 3497	hemodialisis
+T23	NegSynMarker 4046 4048	No
+T24	DISO 4049 4082	dolor a la movilización de cadera
+T25	NegSynMarker 4774 4776	no
+T26	Phrase 4777 4790	esta alterada
+T27	DISO 4782 4790	alterada
+T28	UncertLexMarker 5885 5893	probable
+T29	DISO 5894 5898	EPOC
+T30	UncertLexMarker 6013 6021	probable
+T31	DISO 6022 6046	arteriopatia ateromatosa
+T32	UncertLexMarker 6125 6133	probable
+T33	DISO 6134 6154	ateromatosis de EEII
+T34	PROC 6583 6595	S. coagulasa
+T35	NegLexMarker 6596 6604	negativo
+T36	UncertLexMarker 6691 6699	probable
+T37	DISO 6700 6753	relación a ACVA a nivel de territorio vertebrobasilar
+T38	NegSynMarker 6756 6758	no
+T39	Phrase 6759 6773	se realizó RNM
+T40	PROC 6770 6773	RNM
+T41	NegSynMarker 7257 7260	sin
+T42	Phrase 7261 7308	evidencia de deterioro cognitivo hasta la fecha
+T43	DISO 7274 7293	deterioro cognitivo
+T44	NegSynMarker 7688 7690	no
+T45	DISO 7691 7702	controlados
+T46	UncertLexMarker 7913 7921	Probable
+T47	DISO 7922 7926	EPOC
+T48	NegMorMarker 7929 7939	ex fumador
+T49	NegSynMarker 9108 9111	sin
+T50	DISO 9112 9121	actividad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T16
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T35 Arg2:T34
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T49 Arg2:T50

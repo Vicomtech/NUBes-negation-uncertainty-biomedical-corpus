@@ -1,0 +1,18 @@
+T1	UncertLexMarker 391 403	posiblemente
+T2	DISO 404 419	aterotrombótico
+T3	UncertLexMarker 851 863	posiblemente
+T4	DISO 864 887	trombótico con disfasia
+T5	Phrase 864 909	trombótico con disfasia y hemiparesia derecha
+T6	CoordItem 888 889	y
+T7	DISO 890 909	hemiparesia derecha
+T8	UncertLexMarker 1800 1808	probable
+T9	DISO 1809 1828	deterioro cognitivo
+T10	NegLexMarker 2844 2858	incapacidad de
+T11	OTHER 2859 2868	la marcha
+T12	UncertLexMarker 2999 3012	probablemente
+T13	DISO 3013 3023	patológica
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13

@@ -1,0 +1,6 @@
+T1	NegSynMarker 31 34	sin
+T2	DISO 35 46	incidencias
+T3	NegSynMarker 86 89	sin
+T4	DISO 90 101	incidencias
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

@@ -1,0 +1,9 @@
+T1	NegSynMarker 322 325	sin
+T2	DISO 326 340	complicaciones
+T3	NegSynMarker 614 617	sin
+T4	DISO 618 627	hallazgos
+T5	NegSynMarker 648 651	sin
+T6	DISO 652 661	hallazgos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

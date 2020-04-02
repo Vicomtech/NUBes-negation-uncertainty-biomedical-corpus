@@ -1,0 +1,8 @@
+T1	UncertLexMarker 320 331	sospecha de
+T2	Phrase 332 411	ca. basocelular de aproximadamente 5mm. de díametro en párpado inferior derecho
+T3	DISO 332 347	ca. basocelular
+T4	UncertLexMarker 694 705	sospecha de
+T5	Phrase 706 760	Ca. basocelular ala nasal derecha de 5 mm. de diámetro
+T6	DISO 706 721	Ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

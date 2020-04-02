@@ -1,0 +1,156 @@
+T1	NegLexMarker 30 35	niega
+T2	DISO 36 52	proceso catarral
+T3	NegSynMarker 116 118	no
+T4	OTHER 119 171	permitiendo al respirador volumenes de mas de 50 c.c
+T5	NegLexMarker 332 343	Se suspende
+T6	PROC 344 360	lla intervencion
+T7	NegMorMarker 797 809	asintomática
+T8	NegSynMarker 1258 1260	no
+T9	DISO 1261 1270	dolorosas
+T10	NegSynMarker 1527 1529	no
+T11	Phrase 1530 1555	presenta nuevos episodiso
+T12	DISO 1539 1555	nuevos episodiso
+T13	NegSynMarker 1616 1619	sin
+T14	DISO 1620 1641	repercusión analítica
+T15	NegSynMarker 1659 1661	no
+T16	DISO 1662 1670	doloroso
+T17	NegMorMarker 1763 1775	asintomático
+T18	NegSynMarker 1886 1889	sin
+T19	DISO 1890 1913	antecedentes de interes
+T20	NegLexMarker 2133 2147	Desapareciendo
+T21	DISO 2148 2157	la fiebre
+T22	Phrase 2148 2173	la fiebre y las molestias
+T23	CoordItem 2158 2159	y
+T24	DISO 2160 2173	las molestias
+T25	NegSynMarker 2189 2191	no
+T26	Phrase 2192 2267	existen signos de sufrimiento por isquemia a nivel de 4º dedo pie izquierdo
+T27	DISO 2210 2234	sufrimiento por isquemia
+T28	NegSynMarker 2340 2342	no
+T29	OTHER 2343 2365	precisando transfusión
+T30	NegSynMarker 2533 2535	no
+T31	Phrase 2536 2564	se aprecian datos de interes
+T32	DISO 2548 2564	datos de interes
+T33	DISO 2992 3039	deposiciones liquidas abundantes por ileostomía
+T34	NegLexMarker 3046 3051	ceden
+T35	Phrase 3052 3071	con tto conservador
+T36	NegSynMarker 3148 3150	no
+T37	Phrase 3151 3163	han repetido
+T38	NegMorMarker 3537 3549	asintomático
+T39	NegSynMarker 3963 3966	sin
+T40	DISO 3967 3978	incidencias
+T41	NegSynMarker 4168 4171	sin
+T42	DISO 4172 4186	complicaciones
+T43	UncertLexMarker 4392 4406	compatible con
+T44	DISO 4407 4420	la normalidad
+T45	NegSynMarker 5157 5160	sin
+T46	Phrase 5161 5186	nuevos signos de sangrado
+T47	DISO 5178 5186	sangrado
+T48	NegLexMarker 5727 5740	Se desestiman
+T49	Phrase 5741 5803	pruebas invasivas por la edad y delicado estado de la paciente
+T50	PROC 5741 5758	pruebas invasivas
+T51	NegMorMarker 5977 5989	asintomático
+T52	PROC 6118 6130	Hemocultivos
+T53	NegLexMarker 6131 6140	negativos
+T54	NegMorMarker 6525 6532	afebril
+T55	NegLexMarker 6870 6879	descartan
+T56	Phrase 6880 6912	la existencia de procesos agudos
+T57	DISO 6897 6912	procesos agudos
+T58	NegSynMarker 7039 7042	sin
+T59	DISO 7043 7069	complicaciones quirúrgicas
+T60	UncertLexMarker 7237 7247	duda sobre
+T61	Phrase 7248 7297	la presencia de una lesion tumoral en el coledoco
+T62	DISO 7268 7297	lesion tumoral en el coledoco
+T63	UncertLexMarker 7553 7560	posible
+T64	DISO 7561 7581	cierre de ileostomia
+T65	NegSynMarker 7608 7611	sin
+T66	DISO 7612 7619	melenas
+T67	NegSynMarker 7771 7773	no
+T68	Phrase 7774 7830	resultan efectivos por la densidad del fluido del biloma
+T69	OTHER 7783 7792	efectivos
+T70	NegSynMarker 8317 8320	sin
+T71	DISO 8321 8335	complicaciones
+T72	UncertLexMarker 8338 8349	Sospecha de
+T73	DISO 8350 8353	EPI
+T74	NegMorMarker 8619 8626	afebril
+T75	NegSynMarker 8663 8665	no
+T76	DISO 8666 8681	dolor abdominal
+T77	NegMorMarker 8736 8748	inespecífico
+T78	NegSynMarker 8764 8766	no
+T79	DISO 8767 8772	agudo
+T80	NegLexMarker 9282 9290	descarta
+T81	DISO 9291 9322	complicaciones intraabdominales
+T82	NegSynMarker 9364 9367	sin
+T83	DISO 9368 9379	incidencias
+T84	UncertLexMarker 9535 9543	probable
+T85	DISO 9544 9569	formación de pseudoquiste
+T86	DISO 9687 9701	asas de yeyuno
+T87	NegSynMarker 9706 9708	no
+T88	DISO 9709 9736	ceden al tratamiento medico
+T89	NegLexMarker 9991 10001	Suspendido
+T90	SUBS 10002 10013	Clopidogrel
+T91	UncertLexMarker 10405 10413	probable
+T92	DISO 10414 10439	" .adenitis mesentérica "
+T93	NegSynMarker 10446 10449	sin
+T94	DISO 10450 10462	alteraciones
+T95	NegMorMarker 10520 10527	afebril
+T96	UncertLexMarker 10749 10758	sin clara
+T97	DISO 10759 10778	evolución favorable
+T98	UncertLexMarker 11069 11079	se propone
+T99	PROC 11080 11102	Gastroscopia posterior
+T100	NegMorMarker 11748 11755	afebril
+T101	NegSynMarker 11758 11761	sin
+T102	DISO 11762 11777	dolor abdominal
+T103	NegMorMarker 11835 11842	afebril
+T104	NegMorMarker 11897 11908	infructuosa
+T105	NegSynMarker 12154 12157	sin
+T106	Phrase 12158 12209	que se aprecia coledocolitisis ni dilatación de VBP
+T107	DISO 12173 12188	coledocolitisis
+T108	CoordItem 12189 12191	ni
+T109	DISO 12192 12209	dilatación de VBP
+T110	NegMorMarker 12260 12273	inespecíficas
+T111	NegSynMarker 12276 12278	No
+T112	DISO 12279 12298	repercusión clínica
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T22
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	DiscScope Arg1:T34 Arg2:T35
+R14	DiscScope Arg1:T34 Arg2:T33
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T53 Arg2:T52
+R22	Scope Arg1:T55 Arg2:T56
+R23	Scope Arg1:T58 Arg2:T59
+R24	Scope Arg1:T60 Arg2:T61
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T72 Arg2:T73
+R30	Scope Arg1:T75 Arg2:T76
+R31	Scope Arg1:T78 Arg2:T79
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T82 Arg2:T83
+R34	Scope Arg1:T84 Arg2:T85
+R35	DiscScope Arg1:T87 Arg2:T88
+R36	DiscScope Arg1:T87 Arg2:T86
+R37	Scope Arg1:T89 Arg2:T90
+R38	Scope Arg1:T91 Arg2:T92
+R39	Scope Arg1:T93 Arg2:T94
+R40	Scope Arg1:T96 Arg2:T97
+R41	Scope Arg1:T98 Arg2:T99
+R42	Scope Arg1:T101 Arg2:T102
+R43	Scope Arg1:T105 Arg2:T106
+R44	Scope Arg1:T111 Arg2:T112

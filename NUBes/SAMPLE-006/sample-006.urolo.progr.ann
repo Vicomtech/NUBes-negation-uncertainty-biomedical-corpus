@@ -1,0 +1,61 @@
+T1	NegSynMarker 174 176	No
+T2	Phrase 177 207	ha vuelto a presentar sangrado
+T3	DISO 199 207	sangrado
+T4	NegLexMarker 679 688	Se retira
+T5	SUBS 689 703	el Clopidrogen
+T6	NegMorMarker 1149 1156	Afebril
+T7	NegSynMarker 1398 1400	no
+T8	Phrase 1401 1416	se ven cálculos
+T9	DISO 1408 1416	cálculos
+T10	UncertLexMarker 1493 1494	¿
+T11	DISO 1495 1500	úrico
+T12	UncertLexMarker 1501 1502	?
+T13	NegSynMarker 1524 1526	no
+T14	Phrase 1527 1584	ha presentado cuadro febril , ni clinica de Pielonefritis
+T15	DISO 1541 1554	cuadro febril
+T16	CoordItem 1557 1559	ni
+T17	DISO 1568 1584	de Pielonefritis
+T18	UncertLexMarker 1764 1771	valorar
+T19	Phrase 1772 1826	remisión a Litotricia o URS en el Hospital Alto Jardín
+T20	OTHER 1772 1799	remisión a Litotricia o URS
+T21	NegSynMarker 2268 2270	no
+T22	DISO 2271 2281	compensada
+T23	NegSynMarker 2635 2638	sin
+T24	DISO 2639 2646	mejoria
+T25	NegLexMarker 3294 3303	retirarlo
+T26	NegMorMarker 3423 3435	asintomático
+T27	NegLexMarker 3550 3559	ha cedido
+T28	DISO 3560 3571	la hematuia
+T29	NegLexMarker 3792 3800	Retirada
+T30	OTHER 3801 3817	la sonda vesical
+T31	NegSynMarker 3826 3829	sin
+T32	DISO 3830 3840	dificultad
+T33	NegLexMarker 3920 3928	cediendo
+T34	DISO 3929 3947	el cuadro doloroso
+T35	NegSynMarker 4390 4393	sin
+T36	DISO 4394 4423	incidencias dignas de mención
+T37	NegLexMarker 4433 4444	retirada de
+T38	OTHER 4445 4453	la sonda
+T39	NegSynMarker 4528 4531	Sin
+T40	DISO 4532 4561	incidencias dignas de mención
+T41	NegSynMarker 5053 5055	no
+T42	Phrase 5056 5083	ha vuelto a presentar dolor
+T43	DISO 5078 5083	dolor
+T44	NegMorMarker 5185 5192	afebril
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscMarker Arg1:T10 Arg2:T12
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T12 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42

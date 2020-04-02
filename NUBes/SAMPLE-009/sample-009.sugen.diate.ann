@@ -1,0 +1,46 @@
+T1	NegSynMarker 663 665	No
+T2	Phrase 666 835	se observan alteraciones de la morfología o de la densidad que sugiera trastorno isquémico o hemorrágico de evolución aguda o subaguda ni a nivel supra ni infratentorial
+T3	DISO 678 724	alteraciones de la morfología o de la densidad
+T4	CoordItem 801 803	ni
+T5	CoordItem 818 820	ni
+T6	NegSynMarker 944 946	no
+T7	Phrase 947 1011	se observan otras alteraciones segmentarias de la contractilidad
+T8	DISO 959 1011	otras alteraciones segmentarias de la contractilidad
+T9	NegSynMarker 1014 1016	No
+T10	Phrase 1017 1061	se observan signos de insuficiencia cardíaca
+T11	DISO 1039 1061	insuficiencia cardíaca
+T12	UncertLexMarker 1544 1555	Orientación
+T13	DISO 1570 1585	HVI concéntrica
+T14	NegSynMarker 1836 1839	sin
+T15	SUBS 1840 1843	CIV
+T16	NegSynMarker 2211 2214	sin
+T17	SUBS 2215 2236	contraste intravenoso
+T18	NegSynMarker 2237 2240	sin
+T19	DISO 2241 2265	hallazgos significativos
+T20	NegSynMarker 2291 2293	No
+T21	Phrase 2294 2331	se observa derrame pericárdico actual
+T22	DISO 2305 2331	derrame pericárdico actual
+T23	NegSynMarker 2347 2349	no
+T24	Phrase 2350 2429	se arecian pausas bloqueos ni tampoco alteraciones de repolarización valorables
+T25	DISO 2361 2367	pausas
+T26	DISO 2368 2376	bloqueos
+T27	CoordItem 2377 2379	ni
+T28	PolItem 2380 2387	tampoco
+T29	DISO 2388 2429	alteraciones de repolarización valorables
+T30	NegSynMarker 2532 2535	sin
+T31	Phrase 2536 2605	evidencia de signos indirectos de lesión expansiva intra o extraaxial
+T32	DISO 2570 2605	lesión expansiva intra o extraaxial
+T33	NegSynMarker 2619 2621	no
+T34	Phrase 2622 2639	se administra CIV
+T35	SUBS 2636 2639	CIV
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T12 Arg2:T13
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T33 Arg2:T34
+R11	Scope Arg1:T30 Arg2:T31

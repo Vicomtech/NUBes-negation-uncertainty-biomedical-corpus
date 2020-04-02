@@ -1,0 +1,157 @@
+T1	NegMorMarker 40 52	asintomática
+T2	NegSynMarker 389 392	sin
+T3	Phrase 393 454	encontrar proceso infeccioso que justifique el cuadro clinico
+T4	DISO 403 454	proceso infeccioso que justifique el cuadro clinico
+T5	NegSynMarker 599 601	no
+T6	Phrase 602 652	realizándose maniobras de RCP dado su estado basal
+T7	PROC 615 631	maniobras de RCP
+T8	UncertLexMarker 681 691	Se plantea
+T9	Phrase 692 779	la posibilidad de laparoscopia diagnóstica ante la dificultad de diagnóstico de certeza
+T10	PolItem 695 706	posibilidad
+T11	PROC 710 734	laparoscopia diagnóstica
+T12	NegSynMarker 790 792	no
+T13	Phrase 793 830	se aprecian signo de gravedad clínica
+T14	DISO 814 830	gravedad clínica
+T15	DISO 1372 1388	duodenitis aguda
+T16	UncertSynMarker 1389 1391	vs
+T17	DISO 1392 1414	pequeño ulcus duodenal
+T18	UncertLexMarker 1422 1430	probable
+T19	DISO 1431 1450	origen del sangrado
+T20	NegLexMarker 1537 1548	descartando
+T21	Phrase 1549 1600	lesión traumática y neuropatía que justifique caida
+T22	DISO 1549 1566	lesión traumática
+T23	DISO 1569 1579	neuropatía
+T24	NegLexMarker 1628 1636	descarta
+T25	DISO 1637 1654	proceso isquémico
+T26	UncertLexMarker 1674 1687	impresiona de
+T27	DISO 1688 1701	cólico biliar
+T28	NegLexMarker 1815 1823	falta de
+T29	DISO 1824 1844	mejoría del paciente
+T30	DISO 1976 2013	un punto de origen de sangrado activo
+T31	NegLexMarker 2020 2024	cede
+T32	Phrase 2025 2042	con sutura simple
+T33	NegMorMarker 2165 2172	afebril
+T34	DISO 2647 2662	dolor ocasional
+T35	NegLexMarker 2667 2676	ha cedido
+T36	Phrase 2677 2703	con tratamiento analgésico
+T37	NegSynMarker 2751 2753	no
+T38	Phrase 2754 2812	ha se han evidenciado nuevos sangrados en las ultimas 48 h
+T39	DISO 2776 2792	nuevos sangrados
+T40	NegSynMarker 3223 3226	sin
+T41	DISO 3227 3251	compromisio hemodinámico
+T42	NegMorMarker 3344 3351	afebril
+T43	NegMorMarker 3387 3399	asintomático
+T44	NegSynMarker 3922 3925	sin
+T45	DISO 3926 3952	complicaciones importantes
+T46	UncertLexMarker 3983 3990	posible
+T47	DISO 3991 4010	origen diverticular
+T48	NegLexMarker 4090 4099	suspender
+T49	SUBS 4100 4114	antiagregación
+T50	NegSynMarker 4428 4431	sin
+T51	Phrase 4432 4458	apreciarse litiasis en VBP
+T52	DISO 4443 4458	litiasis en VBP
+T53	NegLexMarker 4461 4469	Retirada
+T54	OTHER 4470 4486	la sonda uretral
+T55	NegLexMarker 4578 4589	despararece
+T56	DISO 4590 4599	la fiebre
+T57	NegMorMarker 4688 4700	asintomático
+T58	NegSynMarker 4747 4750	sin
+T59	Phrase 4751 4757	grasas
+T60	NegSynMarker 4776 4778	no
+T61	Phrase 4779 4816	se aprecia patología en la actualidad
+T62	DISO 4790 4816	patología en la actualidad
+T63	UncertLexMarker 5455 5466	sospecha de
+T64	DISO 5467 5488	dehiscencia de sutura
+T65	NegLexMarker 5539 5552	descartándose
+T66	DISO 5553 5564	dehiscencia
+T67	NegMorMarker 5663 5670	afebril
+T68	NegSynMarker 5809 5811	no
+T69	Phrase 5812 5830	precisa trasfusión
+T70	PROC 5820 5830	trasfusión
+T71	NegSynMarker 6133 6135	No
+T72	Phrase 6136 6195	ha vuelto a presentar signos de sangrado durante su ingreso
+T73	DISO 6168 6176	sangrado
+T74	NegMorMarker 6329 6336	afebril
+T75	NegMorMarker 6493 6505	asintomático
+T76	NegSynMarker 6508 6511	sin
+T77	DISO 6512 6527	dolor abdominal
+T78	UncertLexMarker 7014 7021	posible
+T79	DISO 7022 7029	ACVA VB
+T80	Phrase 7022 7038	ACVA VB año 2009
+T81	UncertLexMarker 7221 7228	valorar
+T82	Phrase 7229 7282	si amplia estudio de forma ambulante ( colonoscopia )
+T83	PROC 7268 7280	colonoscopia
+T84	UncertLexMarker 7557 7563	parece
+T85	Phrase 7564 7624	presentar dolor abdominal ocasional que remite con analgesia
+T86	DISO 7574 7599	dolor abdominal ocasional
+T87	NegMorMarker 7671 7683	asintomatico
+T88	NegLexMarker 7871 7879	cediendo
+T89	DISO 7880 7888	el edema
+T90	NegLexMarker 7909 7917	cediendo
+T91	SUBS 7918 7928	el exudado
+T92	NegMorMarker 8024 8036	inespecífica
+T93	NegLexMarker 8044 8053	descartar
+T94	DISO 8054 8061	SCASEST
+T95	NegMorMarker 8207 8219	asintomático
+T96	NegMorMarker 8924 8931	afebril
+T97	NegSynMarker 8934 8937	sin
+T98	DISO 8938 8953	dolor abdominal
+T99	NegSynMarker 9201 9204	sin
+T100	Phrase 9205 9268	incidencias significativas salvo infección de herida quirúrgica
+T101	DISO 9205 9231	incidencias significativas
+T102	NegLexMarker 9348 9360	se suspendoe
+T103	SUBS 9361 9384	la anticoagulación oral
+T104	NegMorMarker 9460 9472	asintomatico
+T105	NegSynMarker 9672 9675	sin
+T106	Phrase 9676 9728	signos inflamatorios en el momento de la exploración
+T107	DISO 9676 9696	signos inflamatorios
+T108	UncertLexMarker 9811 9818	posible
+T109	DISO 9819 9861	relación por infección por citomegalovirus
+T110	DISO 10554 10587	complicación de su diverticulitis
+T111	NegLexMarker 10594 10605	se descarta
+T112	NegSynMarker 10685 10687	no
+T113	DISO 10688 10702	diverticulitis
+T114	NegMorMarker 10844 10856	asintomática
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T12 Arg2:T13
+R5	DiscScope Arg1:T16 Arg2:T17
+R6	DiscScope Arg1:T16 Arg2:T15
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	DiscScope Arg1:T31 Arg2:T32
+R13	DiscScope Arg1:T31 Arg2:T30
+R14	DiscScope Arg1:T35 Arg2:T36
+R15	DiscScope Arg1:T35 Arg2:T34
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T48 Arg2:T49
+R20	Scope Arg1:T46 Arg2:T47
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T53 Arg2:T54
+R23	Scope Arg1:T55 Arg2:T56
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T68 Arg2:T69
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T78 Arg2:T80
+R32	Scope Arg1:T81 Arg2:T82
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T90 Arg2:T91
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T93 Arg2:T94
+R37	Scope Arg1:T97 Arg2:T98
+R38	Scope Arg1:T99 Arg2:T100
+R39	Scope Arg1:T102 Arg2:T103
+R40	Scope Arg1:T105 Arg2:T106
+R41	Scope Arg1:T108 Arg2:T109
+R42	Scope Arg1:T111 Arg2:T110
+R43	Scope Arg1:T112 Arg2:T113

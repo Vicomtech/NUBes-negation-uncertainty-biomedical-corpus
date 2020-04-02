@@ -1,0 +1,86 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 23	clinica respiratoria
+T3	Phrase 3 45	clinica respiratoria ni sindrome miccional
+T4	CoordItem 24 26	ni
+T5	DISO 27 45	sindrome miccional
+T6	NegSynMarker 235 237	No
+T7	Phrase 238 270	ha visto sangre ni posos de cafè
+T8	SUBS 247 253	sangre
+T9	CoordItem 254 256	ni
+T10	NegSynMarker 327 329	No
+T11	DISO 330 336	fiebre
+T12	NegSynMarker 339 341	no
+T13	DISO 342 348	disnea
+T14	NegSynMarker 423 425	No
+T15	DISO 426 459	clinica de infeccion respiratoria
+T16	NegSynMarker 462 464	No
+T17	DISO 465 494	clinica de infeccion urinaria
+T18	NegSynMarker 1090 1093	sin
+T19	DISO 1094 1101	vòmitos
+T20	NegSynMarker 1446 1449	sin
+T21	Phrase 1450 1483	dificultad ni dolor habitualmente
+T22	DISO 1450 1460	dificultad
+T23	CoordItem 1461 1463	ni
+T24	DISO 1464 1469	dolor
+T25	NegSynMarker 1518 1520	No
+T26	DISO 1521 1528	nauseas
+T27	NegSynMarker 1531 1533	No
+T28	Phrase 1534 1558	nuevo episodio de vomito
+T29	DISO 1552 1558	vomito
+T30	UncertLexMarker 1636 1642	parece
+T31	DISO 1643 1653	extrínseca
+T32	NegSynMarker 1806 1808	No
+T33	DISO 1809 1832	pérdida de conocimiento
+T34	NegSynMarker 1835 1837	no
+T35	DISO 1838 1844	disnea
+T36	NegSynMarker 1930 1933	sin
+T37	PROC 1934 1956	tto protector gàstrico
+T38	DISO 2061 2081	un dolor epigastrico
+T39	NegLexMarker 2086 2091	cedio
+T40	Phrase 2092 2140	tras realizar un vomito de contenido alimentario
+T41	UncertLexMarker 2191 2200	sin claro
+T42	DISO 2201 2231	cortejo vegetativo acompañante
+T43	NegSynMarker 2427 2429	No
+T44	DISO 2430 2462	alteraciones en las deposiciones
+T45	NegSynMarker 2601 2603	No
+T46	DISO 2604 2618	dolor toracico
+T47	NegSynMarker 2621 2623	no
+T48	DISO 2624 2637	palpitaciones
+T49	NegSynMarker 2640 2642	no
+T50	DISO 2643 2649	disnea
+T51	NegSynMarker 2752 2755	sin
+T52	DISO 2756 2774	llegar a ser dolor
+T53	NegLexMarker 2797 2802	Niega
+T54	DISO 2803 2810	pirosis
+T55	Phrase 2803 2828	pirosis o dolor abdominal
+T56	CoordItem 2811 2812	o
+T57	DISO 2813 2828	dolor abdominal
+T58	NegSynMarker 2831 2833	No
+T59	DISO 2834 2841	vomitos
+T60	NegLexMarker 3106 3117	se desechan
+T61	PROC 3118 3137	practicas agresivas
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T12 Arg2:T13
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T27 Arg2:T28
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T36 Arg2:T37
+R15	DiscScope Arg1:T39 Arg2:T40
+R16	DiscScope Arg1:T39 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T45 Arg2:T46
+R23	Scope Arg1:T53 Arg2:T55
+R24	Scope Arg1:T58 Arg2:T59
+R25	Scope Arg1:T60 Arg2:T61

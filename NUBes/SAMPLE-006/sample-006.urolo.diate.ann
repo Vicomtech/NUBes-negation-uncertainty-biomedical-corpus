@@ -1,0 +1,193 @@
+T1	NegSynMarker 401 403	No
+T2	Phrase 404 455	se aprecian datos de focalidad aguda en la expl NLG
+T3	DISO 425 455	focalidad aguda en la expl NLG
+T4	NegSynMarker 465 467	no
+T5	Phrase 468 491	valorable por depleción
+T6	OTHER 468 477	valorable
+T7	UncertLexMarker 620 631	Sospecha de
+T8	PolItem 632 639	posible
+T9	DISO 632 685	posible litiasis ureteral izquierda en uréter pélvico
+T10	NegSynMarker 688 690	no
+T11	OTHER 691 701	demostrado
+T12	UncertLexMarker 758 766	probable
+T13	Phrase 767 922	que el cuadro actual de agitación tenga relacion con una descompensacion del deterioro cognitivo por el que está siendo estudiado en el Clínica El Robledal
+T14	DISO 807 863	relacion con una descompensacion del deterioro cognitivo
+T15	UncertLexMarker 986 1009	casi con toda seguridad
+T16	DISO 1010 1028	lo está provocando
+T17	NegSynMarker 1297 1300	sin
+T18	DISO 1301 1317	particularidades
+T19	NegSynMarker 1340 1342	no
+T20	Phrase 1343 1370	presenta cambios isquémicos
+T21	DISO 1352 1370	cambios isquémicos
+T22	DISO 1567 1570	ITU
+T23	UncertLexMarker 1571 1579	probable
+T24	NegSynMarker 1745 1748	Sin
+T25	DISO 1749 1821	lesiones proliferativas groseras en los últimos 40 cm del tubo digestivo
+T26	NegSynMarker 1822 1824	No
+T27	DISO 1825 1834	estenosis
+T28	UncertLexMarker 1919 1927	probable
+T29	DISO 1928 1941	paraesofágica
+T30	NegLexMarker 1944 1953	Descartar
+T31	DISO 1954 1963	infección
+T32	NegSynMarker 2007 2010	Sin
+T33	Phrase 2011 2038	objetivar causa obstructiva
+T34	DISO 2021 2038	causa obstructiva
+T35	NegSynMarker 2369 2372	sin
+T36	Phrase 2373 2381	semillas
+T37	UncertLexMarker 2794 2802	Probable
+T38	DISO 2803 2850	atrofia focal cortical anterosuperior izquierda
+T39	UncertLexMarker 3286 3294	probable
+T40	DISO 3295 3298	RTU
+T41	NegSynMarker 3493 3495	no
+T42	DISO 3496 3506	objetivada
+T43	UncertLexMarker 3509 3517	probable
+T44	DISO 3518 3554	obstrucción de uréter medio - distal
+T45	UncertLexMarker 3557 3575	primera posiblidad
+T46	DISO 3576 3584	litiasis
+T47	UncertLexMarker 3835 3845	al parecer
+T48	Phrase 3846 3914	dolor intermitente en hipogastrio acompañado de episodios diarréicos
+T49	DISO 3846 3879	dolor intermitente en hipogastrio
+T50	UncertLexMarker 3958 3967	Sin clara
+T51	Phrase 3968 4019	imagen sugestiva de litiasis ureteral por RX simple
+T52	DISO 3988 4005	litiasis ureteral
+T53	UncertLexMarker 4022 4030	Probable
+T54	DISO 4031 4058	cálculo en el riñón derecho
+T55	UncertLexMarker 4148 4155	posible
+T56	DISO 4156 4178	uncartrosis dcha C3-C2
+T57	UncertLexMarker 4681 4693	sugestiva de
+T58	PolItem 4694 4701	posible
+T59	Phrase 4694 4724	posible osteoporosis del sacro
+T60	DISO 4702 4724	osteoporosis del sacro
+T61	UncertLexMarker 4826 4841	compatibles con
+T62	DISO 4842 4850	litiasis
+T63	NegSynMarker 4851 4853	no
+T64	DISO 4854 4866	obstructivas
+T65	NegSynMarker 5099 5102	sin
+T66	DISO 5103 5122	niveles hidroaéreos
+T67	NegSynMarker 5497 5500	sin
+T68	DISO 5501 5522	criterios sospechosos
+T69	UncertLexMarker 5691 5699	probable
+T70	DISO 5700 5727	doble sistema pielocalicial
+T71	NegSynMarker 5977 5980	sin
+T72	Phrase 5981 6026	objetivarse otra causa obstructiva a su nivel
+T73	DISO 5993 6026	otra causa obstructiva a su nivel
+T74	NegSynMarker 6156 6159	sin
+T75	OTHER 6160 6177	eliminación renal
+T76	NegSynMarker 6282 6285	sin
+T77	SUBS 6286 6289	CIV
+T78	NegMorMarker 6405 6417	asintomático
+T79	NegSynMarker 6451 6453	no
+T80	OTHER 6454 6471	recuerda el dolor
+T81	UncertLexMarker 6720 6732	sugestiva de
+T82	DISO 6733 6783	litiasis a nivel de tercio medio del riñón derecho
+T83	NegSynMarker 6913 6916	sin
+T84	DISO 6917 6929	alteraciones
+T85	NegSynMarker 6967 6970	sin
+T86	DISO 6971 6998	alteraciones significativas
+T87	NegSynMarker 7258 7260	no
+T88	DISO 7261 7273	obstructivas
+T89	NegSynMarker 7276 7278	no
+T90	Phrase 7279 7351	evidenciándose ni dilataciones quísticas de los cálices ni hidronefrosis
+T91	CoordItem 7294 7296	ni
+T92	DISO 7297 7334	dilataciones quísticas de los cálices
+T93	CoordItem 7335 7337	ni
+T94	DISO 7338 7351	hidronefrosis
+T95	NegSynMarker 7391 7393	No
+T96	Phrase 7394 7456	se identifican áreas de nefritis bacteriana o abscesos renales
+T97	DISO 7409 7456	áreas de nefritis bacteriana o abscesos renales
+T98	UncertLexMarker 7643 7657	compatible con
+T99	DISO 7658 7720	litiasis ureteral en el trayecto proximal del uréter izquierdo
+T100	NegSynMarker 7881 7883	no
+T101	DISO 7884 7896	obstructivas
+T102	NegSynMarker 8028 8031	Sin
+T103	Phrase 8032 8073	hallazgos de litiasis ni de hidronefrosis
+T104	DISO 8045 8053	litiasis
+T105	CoordItem 8054 8056	ni
+T106	DISO 8060 8073	hidronefrosis
+T107	NegSynMarker 8076 8083	tampoco
+T108	Phrase 8084 8113	se ven lesiones endoluminales
+T109	DISO 8091 8113	lesiones endoluminales
+T110	NegSynMarker 8244 8247	sin
+T111	DISO 8248 8269	hallazgos patológicos
+T112	UncertLexMarker 8272 8279	Parecen
+T113	Phrase 8280 8328	observarse divertículos en sigma ( no informados
+T114	DISO 8291 8312	divertículos en sigma
+T115	NegSynMarker 8315 8317	no
+T116	DISO 8318 8328	informados
+T117	UncertLexMarker 8337 8344	podrían
+T118	DISO 8345 8373	justificar el cuadro clínico
+T119	NegSynMarker 8518 8520	no
+T120	DISO 8521 8533	obstructivas
+T121	UncertLexMarker 8546 8560	compatible con
+T122	Phrase 8561 8598	la información de espongiosis medular
+T123	DISO 8579 8598	espongiosis medular
+T124	NegSynMarker 8684 8687	sin
+T125	Phrase 8688 8726	hallazgos de patología digestiva aguda
+T126	DISO 8701 8726	patología digestiva aguda
+T127	UncertLexMarker 8959 8964	seria
+T128	OTHER 8965 9002	recomendable sustituir ciprofloxacion
+T129	UncertLexMarker 9007 9012	puede
+T130	OTHER 9013 9038	contribuir a la agitacion
+T131	UncertLexMarker 9365 9375	Se sugiere
+T132	Phrase 9376 9395	descartar neoplasia
+T133	NegLexMarker 9376 9385	descartar
+T134	DISO 9386 9395	neoplasia
+T135	NegMorMarker 9652 9664	asintomática
+T136	NegSynMarker 9821 9824	sin
+T137	DISO 9825 9837	alteraciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T7 Arg2:T9
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T23 Arg2:T22
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T41 Arg2:T42
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T53 Arg2:T54
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T57 Arg2:T59
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T65 Arg2:T66
+R29	Scope Arg1:T67 Arg2:T68
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T74 Arg2:T75
+R33	Scope Arg1:T76 Arg2:T77
+R34	Scope Arg1:T79 Arg2:T80
+R35	Scope Arg1:T81 Arg2:T82
+R36	Scope Arg1:T83 Arg2:T84
+R37	Scope Arg1:T85 Arg2:T86
+R38	Scope Arg1:T89 Arg2:T90
+R39	Scope Arg1:T87 Arg2:T88
+R40	Scope Arg1:T95 Arg2:T96
+R41	Scope Arg1:T98 Arg2:T99
+R42	Scope Arg1:T100 Arg2:T101
+R43	Scope Arg1:T107 Arg2:T108
+R44	Scope Arg1:T102 Arg2:T103
+R45	Scope Arg1:T110 Arg2:T111
+R46	Scope Arg1:T117 Arg2:T118
+R47	Scope Arg1:T115 Arg2:T116
+R48	Scope Arg1:T112 Arg2:T113
+R49	Scope Arg1:T119 Arg2:T120
+R50	Scope Arg1:T121 Arg2:T122
+R51	Scope Arg1:T124 Arg2:T125
+R52	Scope Arg1:T129 Arg2:T130
+R53	Scope Arg1:T127 Arg2:T128
+R54	Scope Arg1:T133 Arg2:T134
+R55	Scope Arg1:T131 Arg2:T132
+R56	Scope Arg1:T136 Arg2:T137

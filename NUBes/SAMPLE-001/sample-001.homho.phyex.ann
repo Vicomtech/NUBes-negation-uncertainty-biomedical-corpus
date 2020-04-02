@@ -1,0 +1,130 @@
+T1	NegSynMarker 136 138	No
+T2	DISO 139 151	puede hablar
+T3	NegSynMarker 154 156	No
+T4	Phrase 157 179	se observan leucocitos
+T5	SUBS 169 179	leucocitos
+T6	NegSynMarker 203 206	Sin
+T7	DISO 207 234	cambios en area orocervical
+T8	NegMorMarker 356 368	desorientado
+T9	UncertLexMarker 1158 1181	ORIENTACIÓN DIAGNÓSTICA
+T10	DISO 1184 1210	Síndrome confusional agudo
+T11	NegSynMarker 1324 1327	Sin
+T12	DISO 1328 1362	déficit neuromotor en extremidades
+T13	NegSynMarker 1417 1419	No
+T14	Phrase 1420 1482	vemos actualmente en condiciones para realizar la intervención
+T15	DISO 1441 1482	condiciones para realizar la intervención
+T16	UncertLexMarker 1920 1928	probable
+T17	DISO 1929 1942	origen tóxico
+T18	NegSynMarker 2022 2025	Sin
+T19	DISO 2026 2035	problemas
+T20	UncertLexMarker 2199 2206	sugiere
+T21	DISO 2207 2257	demencia degenerativa primaria en estadio moderado
+T22	Phrase 2207 2274	demencia degenerativa primaria en estadio moderado en la actualidad
+T23	UncertLexMarker 2426 2435	Impresión
+T24	Phrase 2438 2504	paciente de 70 años con deterioro cognitivo leve previo al ingreso
+T25	DISO 2462 2486	deterioro cognitivo leve
+T26	NegSynMarker 2528 2530	No
+T27	DISO 2531 2551	las mueve a la orden
+T28	UncertLexMarker 2554 2561	Sugiere
+T29	DISO 2562 2625	deterioro cognitivo leve rozando demecia leve previo al ingreso
+T30	NegMorMarker 2700 2712	Desorientado
+T31	UncertLexMarker 3158 3164	podría
+T32	OTHER 3165 3191	hacer de forma ambulatoria
+T33	NegSynMarker 3226 3228	No
+T34	DISO 3229 3235	edemas
+T35	NegSynMarker 3559 3561	no
+T36	Phrase 3562 3622	es posible realizar una exploración psicopatológica adecuada
+T37	PROC 3586 3613	exploración psicopatológica
+T38	NegSynMarker 3854 3857	Sin
+T39	DISO 3858 3882	hallazgos significativos
+T40	NegSynMarker 3989 3992	sin
+T41	DISO 3993 4027	antecedentes psiquiátricos previos
+T42	NegSynMarker 4205 4207	No
+T43	DISO 4208 4214	edemas
+T44	NegMorMarker 4419 4431	desorientado
+T45	NegMorMarker 4578 4590	desorientado
+T46	NegSynMarker 4608 4610	no
+T47	DISO 4611 4628	puede comunicarse
+T48	UncertLexMarker 4679 4693	compatible con
+T49	DISO 4694 4741	los hallazgos en RMN de atrofia temporal mesial
+T50	UncertLexMarker 4744 4751	Posible
+T51	DISO 4752 4782	deterioro cognitivo subyacente
+T52	UncertLexMarker 4785 4796	sospecha de
+T53	DISO 4797 4825	Demencia por Cuerpos de Lewy
+T54	NegSynMarker 4887 4889	No
+T55	Phrase 4890 4927	ha precisado aspiración durante 1 mes
+T56	DISO 4890 4913	ha precisado aspiración
+T57	NegSynMarker 5159 5161	No
+T58	Phrase 5162 5184	se observan leucocitos
+T59	SUBS 5174 5184	leucocitos
+T60	UncertLexMarker 5224 5231	posible
+T61	Phrase 5232 5276	que tras el alta consiga cierta recuperación
+T62	DISO 5257 5276	cierta recuperación
+T63	UncertLexMarker 5282 5296	no es probable
+T64	DISO 5297 5343	una regresión a la situación previa al ingreso
+T65	NegSynMarker 5447 5449	no
+T66	DISO 5450 5482	las sigue en cuanto se complican
+T67	NegSynMarker 6023 6025	no
+T68	DISO 6026 6035	valorable
+T69	UncertLexMarker 6095 6100	sería
+T70	Phrase 6101 6171	realizar una reconstrucción con colgajo para el cierre de los defectos
+T71	PROC 6114 6140	reconstrucción con colgajo
+T72	NegSynMarker 6215 6218	sin
+T73	Phrase 6219 6279	apreciarse hallazgos patológicos en la prueba de radioimagen
+T74	DISO 6230 6251	hallazgos patológicos
+T75	NegSynMarker 6376 6378	No
+T76	Phrase 6379 6406	había transtorno conductual
+T77	DISO 6385 6406	transtorno conductual
+T78	UncertLexMarker 6610 6627	no tendria porque
+T79	Phrase 6628 6690	dar complicacionesinmediatas ( infecciones , hemorragias ... )
+T80	DISO 6632 6656	complicacionesinmediatas
+T81	DISO 6659 6670	infecciones
+T82	DISO 6673 6684	hemorragias
+T83	UncertLexMarker 6699 6704	seria
+T84	OTHER 6705 6754	bueno mantener la traqueostomia y la gastrostomia
+T85	NegSynMarker 6862 6864	no
+T86	Phrase 6865 6919	signos de encefalopatía postanóxica ni ictus subagudos
+T87	DISO 6875 6900	encefalopatía postanóxica
+T88	CoordItem 6901 6903	ni
+T89	DISO 6904 6919	ictus subagudos
+T90	NegSynMarker 7017 7022	nunca
+T91	DISO 7023 7059	ha precisado valoración psiquiátrica
+T92	NegSynMarker 7153 7158	Nunca
+T93	Phrase 7159 7185	había tenido alucinaciones
+T94	DISO 7172 7185	alucinaciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T60 Arg2:T61
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T72 Arg2:T73
+R31	Scope Arg1:T75 Arg2:T76
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T83 Arg2:T84
+R34	Scope Arg1:T85 Arg2:T86
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T92 Arg2:T93

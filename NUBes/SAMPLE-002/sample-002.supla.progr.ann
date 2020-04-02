@@ -1,0 +1,10 @@
+T1	NegSynMarker 108 111	sin
+T2	DISO 112 123	incidencias
+T3	NegSynMarker 754 757	sin
+T4	DISO 758 769	incidencias
+T5	NegMorMarker 784 796	asintomático
+T6	NegSynMarker 1279 1282	sin
+T7	DISO 1283 1294	incidencias
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7

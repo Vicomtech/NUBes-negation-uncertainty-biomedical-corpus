@@ -1,0 +1,97 @@
+T1	NegSynMarker 84 87	sin
+T2	DISO 88 95	mejoria
+T3	NegMorMarker 221 233	asintomática
+T4	NegMorMarker 434 441	Afebril
+T5	NegSynMarker 614 617	sin
+T6	OTHER 618 625	fuerzas
+T7	NegSynMarker 631 633	no
+T8	Phrase 634 681	haber poresentado dolor torácico ni epigástrico
+T9	DISO 652 681	dolor torácico ni epigástrico
+T10	CoordItem 667 669	ni
+T11	NegSynMarker 1012 1015	sin
+T12	DISO 1016 1021	dolor
+T13	NegSynMarker 1043 1045	No
+T14	DISO 1046 1079	clinica de infeccion respiratorio
+T15	NegSynMarker 1082 1084	No
+T16	DISO 1085 1108	síndrome constitucional
+T17	NegSynMarker 1144 1146	no
+T18	DISO 1147 1151	cede
+T19	NegSynMarker 1178 1180	No
+T20	Phrase 1181 1226	refiere que el dolor sea de caracter opresivo
+T21	DISO 1193 1226	el dolor sea de caracter opresivo
+T22	NegSynMarker 1229 1231	no
+T23	DISO 1232 1245	palpitaciones
+T24	NegSynMarker 1248 1250	No
+T25	DISO 1251 1256	mareo
+T26	NegSynMarker 1259 1261	no
+T27	DISO 1262 1293	otra sintomatologia acompañante
+T28	NegSynMarker 1296 1298	No
+T29	DISO 1299 1330	posibilidad de tto con Cloxa/6h
+T30	NegSynMarker 2237 2240	sin
+T31	DISO 2241 2318	irradiacion a region lumbar , ni a region testicular , ni a otra localizacion
+T32	CoordItem 2271 2273	ni
+T33	CoordItem 2296 2298	ni
+T34	NegSynMarker 2321 2323	No
+T35	DISO 2324 2366	clìnica febril , respiratoria ni miccional
+T36	CoordItem 2354 2356	ni
+T37	NegSynMarker 2420 2423	sin
+T38	DISO 2424 2438	edemas en Eeii
+T39	NegSynMarker 3239 3241	No
+T40	OTHER 3242 3266	ha cambiado su mediacion
+T41	NegSynMarker 3358 3361	sin
+T42	DISO 3362 3373	irradiacion
+T43	NegSynMarker 3731 3734	sin
+T44	DISO 3735 3756	productos patológicos
+T45	NegSynMarker 3887 3890	sin
+T46	DISO 3891 3911	patologia importante
+T47	DISO 3964 3972	el dolor
+T48	NegLexMarker 3990 3995	cedió
+T49	Phrase 3996 4029	espontáneamente ayer por la tarde
+T50	NegSynMarker 4044 4046	no
+T51	OTHER 4047 4074	hace reposo con pie en alto
+T52	NegSynMarker 4077 4079	No
+T53	DISO 4080 4126	clínica de infeccion respiratoria ni miccional
+T54	CoordItem 4114 4116	ni
+T55	NegSynMarker 4334 4336	No
+T56	Phrase 4337 4371	ha tomado medicacion para el dolor
+T57	SUBS 4347 4371	medicacion para el dolor
+T58	NegSynMarker 4412 4415	sin
+T59	DISO 4416 4435	diagnóstico filiado
+T60	NegSynMarker 4438 4440	No
+T61	DISO 4441 4448	melenas
+T62	NegSynMarker 4607 4609	no
+T63	OTHER 4610 4629	calificado de dolor
+T64	NegSynMarker 4791 4793	no
+T65	Phrase 4794 4819	ha realizado deposiciones
+T66	DISO 4807 4819	deposiciones
+T67	NegLexMarker 4822 4827	Niega
+T68	OTHER 4828 4835	tóxicos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T19 Arg2:T20
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T45 Arg2:T46
+R20	DiscScope Arg1:T48 Arg2:T49
+R21	DiscScope Arg1:T48 Arg2:T47
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T58 Arg2:T59
+R26	Scope Arg1:T60 Arg2:T61
+R27	Scope Arg1:T62 Arg2:T63
+R28	Scope Arg1:T64 Arg2:T65
+R29	Scope Arg1:T67 Arg2:T68

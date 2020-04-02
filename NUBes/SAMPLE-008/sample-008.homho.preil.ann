@@ -1,0 +1,203 @@
+T1	DISO 267 271	IECA
+T2	NegLexMarker 303 315	se suspendió
+T3	Phrase 316 323	por tos
+T4	NegSynMarker 365 368	sin
+T5	Phrase 369 399	precisar fármacos hipotensores
+T6	SUBS 378 399	fármacos hipotensores
+T7	NegSynMarker 410 412	no
+T8	DISO 413 441	mejoria del cuadro abdominal
+T9	NegSynMarker 525 528	sin
+T10	DISO 529 540	taquicardia
+T11	NegSynMarker 1252 1254	no
+T12	Phrase 1255 1273	ha recuperado nada
+T13	NegLexMarker 1461 1473	suspendiendo
+T14	SUBS 1474 1490	el antiandrógeno
+T15	NegSynMarker 1584 1587	sin
+T16	DISO 1588 1650	aumento del dolor torácico ni de las secreciones respiratorias
+T17	CoordItem 1615 1617	ni
+T18	NegSynMarker 1996 1998	no
+T19	Phrase 1999 2023	realizar la hepatectomia
+T20	PROC 2008 2023	la hepatectomia
+T21	NegSynMarker 2026 2028	No
+T22	Phrase 2029 2053	fiebre en ningín momento
+T23	DISO 2029 2035	fiebre
+T24	PolItem 2039 2045	ningín
+T25	PROC 2563 2586	IFD para VHS I y VHS II
+T26	NegLexMarker 2593 2602	negativos
+T27	UncertLexMarker 2994 3012	muy sospechosas de
+T28	DISO 3013 3051	infección de la prótesis aneurismática
+T29	NegMorMarker 3071 3083	asintomático
+T30	UncertLexMarker 3237 3246	probables
+T31	Phrase 3247 3316	pseudoquistes adyacentes a la pared vesicular y en cabeza pancreática
+T32	DISO 3247 3260	pseudoquistes
+T33	NegSynMarker 3334 3337	sin
+T34	Phrase 3338 3393	parecer una neoplasia necrosad en la cabeza pancreática
+T35	DISO 3346 3368	una neoplasia necrosad
+T36	NegSynMarker 4579 4581	no
+T37	Phrase 4582 4616	permite otro tratamiento sistémico
+T38	SUBS 4590 4616	otro tratamiento sistémico
+T39	NegSynMarker 5093 5095	No
+T40	Phrase 5096 5128	se aprecian metástasis hepáticas
+T41	DISO 5108 5128	metástasis hepáticas
+T42	UncertLexMarker 5164 5177	sugestivos de
+T43	DISO 5178 5192	carcinomatosis
+T44	NegSynMarker 5689 5691	no
+T45	Phrase 5692 5718	se realizó colecistectomía
+T46	PROC 5703 5718	colecistectomía
+T47	NegMorMarker 5749 5761	asintomático
+T48	NegMorMarker 5930 5942	incohercible
+T49	NegSynMarker 6047 6049	No
+T50	Phrase 6050 6118	ha recibido tratamiento quimioterapico ni radioterapico neoadyuvante
+T51	PROC 6062 6118	tratamiento quimioterapico ni radioterapico neoadyuvante
+T52	CoordItem 6089 6091	ni
+T53	NegSynMarker 6723 6726	sin
+T54	SUBS 6727 6734	oxigeno
+T55	NegLexMarker 6875 6884	Suspender
+T56	SUBS 6885 6900	Augmentine plus
+T57	NegSynMarker 7428 7431	sin
+T58	DISO 7432 7469	sintomatologia infecciosa acompañante
+T59	NegLexMarker 9083 9091	descartó
+T60	DISO 9092 9095	TEP
+T61	NegSynMarker 9158 9160	no
+T62	DISO 9161 9200	visualizadas en TAC de extensión previo
+T63	NegSynMarker 9328 9331	sin
+T64	DISO 9332 9360	afectar a tejidos adyacentes
+T65	UncertLexMarker 9507 9522	compatibles con
+T66	DISO 9523 9535	colecistitis
+T67	NegSynMarker 10227 10230	sin
+T68	DISO 10231 10244	expectoración
+T69	NegSynMarker 10247 10250	sin
+T70	Phrase 10251 10289	dolor torácico , ni cortejo vegetativo
+T71	DISO 10251 10265	dolor torácico
+T72	CoordItem 10268 10270	ni
+T73	DISO 10271 10289	cortejo vegetativo
+T74	UncertLexMarker 10662 10670	probable
+T75	DISO 10671 10707	perforación de valva anterior mitral
+T76	Phrase 10671 10750	perforación de valva anterior mitral que se encuentra calcificada y esclerosada
+T77	NegSynMarker 10940 10942	no
+T78	DISO 10943 10950	filiado
+T79	UncertLexMarker 10953 10961	sospecha
+T80	Phrase 10962 10988	( RMN ) de origen pulmonar
+T81	DISO 10973 10988	origen pulmonar
+T82	NegSynMarker 11612 11615	sin
+T83	OTHER 11616 11623	apetito
+T84	UncertLexMarker 12237 12246	supuestos
+T85	DISO 12247 12254	pólipos
+T86	NegMorMarker 12954 12961	afebril
+T87	NegSynMarker 13224 13226	no
+T88	OTHER 13227 13271	ha cambiado en sucesivos estudios de control
+T89	NegLexMarker 13617 13626	descartar
+T90	DISO 13627 13635	cirrosis
+T91	PROC 13903 13915	Hemocultivos
+T92	NegLexMarker 13916 13925	negativos
+T93	NegSynMarker 14038 14040	no
+T94	DISO 14041 14050	coronaria
+T95	NegSynMarker 16191 16194	sin
+T96	DISO 16195 16223	resolución de la atelectasia
+T97	NegLexMarker 16509 16516	retiran
+T98	OTHER 16517 16529	los drenajes
+T99	NegSynMarker 16631 16633	no
+T100	DISO 16634 16641	nauseas
+T101	Phrase 16634 16652	nauseas ni vómitos
+T102	CoordItem 16642 16644	ni
+T103	DISO 16645 16652	vómitos
+T104	NegMorMarker 16671 16678	afebril
+T105	NegLexMarker 16829 16838	descartar
+T106	DISO 16839 16842	TVP
+T107	NegSynMarker 17411 17414	sin
+T108	DISO 17415 17441	otros hallazgos relevantes
+T109	NegSynMarker 17834 17837	sin
+T110	DISO 17838 17849	incidencias
+T111	NegMorMarker 17923 17930	afebril
+T112	UncertLexMarker 18558 18566	probable
+T113	DISO 18567 18580	adenoescamoso
+T114	NegSynMarker 18961 18963	no
+T115	Phrase 18964 19006	quiere por el momento ingreso hospitalario
+T116	OTHER 18986 19006	ingreso hospitalario
+T117	NegSynMarker 19364 19367	sin
+T118	DISO 19368 19390	signos de complicación
+T119	UncertLexMarker 19750 19757	posible
+T120	OTHER 19758 19801	desescalar el antibiótico a augmentine plus
+T121	Phrase 19758 19845	desescalar el antibiótico a augmentine plus por el resultado microbiológico del absceso
+T122	UncertLexMarker 19916 19934	puede considerarse
+T123	DISO 19935 19975	metástasis de adenocarcinoma de próstata
+T124	NegSynMarker 21212 21215	sin
+T125	DISO 21216 21239	perdida de conocimiento
+T126	NegSynMarker 21383 21385	no
+T127	Phrase 21386 21453	se observan cambios citopáticos compatibles con infección herpética
+T128	DISO 21398 21453	cambios citopáticos compatibles con infección herpética
+T129	UncertLexMarker 21418 21433	compatibles con
+T130	DISO 21434 21453	infección herpética
+T131	UncertLexMarker 22008 22020	sugestivo de
+T132	DISO 22021 22030	neoplasia
+T133	UncertLexMarker 22035 22041	parece
+T134	DISO 22042 22086	depender de curvadura menor y antro gástrico
+T135	UncertLexMarker 22545 22553	probable
+T136	DISO 22554 22563	herpética
+T137	PROC 22814 22823	citología
+T138	NegLexMarker 22824 22832	negativa
+T139	NegLexMarker 23079 23090	se descarta
+T140	PROC 23091 23116	su tratamiento quirúrgico
+T141	NegLexMarker 23337 23349	Se suspendió
+T142	Phrase 23350 23406	levofloxacino el 3/08/2007 tras 5 días de tratamiento ev
+T143	SUBS 23350 23363	levofloxacino
+T144	UncertLexMarker 23480 23492	sugestivo de
+T145	DISO 23493 23536	linfagitis carcinomatosa en curvadura mayor
+R1	DiscScope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T2 Arg2:T1
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T21 Arg2:T22
+R11	Scope Arg1:T26 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T33 Arg2:T34
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T53 Arg2:T54
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T59 Arg2:T60
+R24	Scope Arg1:T61 Arg2:T62
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T74 Arg2:T76
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T79 Arg2:T80
+R31	Scope Arg1:T77 Arg2:T78
+R32	Scope Arg1:T82 Arg2:T83
+R33	Scope Arg1:T84 Arg2:T85
+R34	Scope Arg1:T87 Arg2:T88
+R35	Scope Arg1:T89 Arg2:T90
+R36	Scope Arg1:T92 Arg2:T91
+R37	Scope Arg1:T93 Arg2:T94
+R38	Scope Arg1:T95 Arg2:T96
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T99 Arg2:T101
+R41	Scope Arg1:T105 Arg2:T106
+R42	Scope Arg1:T107 Arg2:T108
+R43	Scope Arg1:T109 Arg2:T110
+R44	Scope Arg1:T112 Arg2:T113
+R45	Scope Arg1:T114 Arg2:T115
+R46	Scope Arg1:T117 Arg2:T118
+R47	Scope Arg1:T119 Arg2:T121
+R48	Scope Arg1:T122 Arg2:T123
+R49	Scope Arg1:T124 Arg2:T125
+R50	Scope Arg1:T129 Arg2:T130
+R51	Scope Arg1:T126 Arg2:T127
+R52	Scope Arg1:T133 Arg2:T134
+R53	Scope Arg1:T131 Arg2:T132
+R54	Scope Arg1:T135 Arg2:T136
+R55	Scope Arg1:T138 Arg2:T137
+R56	Scope Arg1:T139 Arg2:T140
+R57	Scope Arg1:T141 Arg2:T142
+R58	Scope Arg1:T144 Arg2:T145

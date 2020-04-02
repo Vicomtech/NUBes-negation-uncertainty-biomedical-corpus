@@ -1,0 +1,13 @@
+T1	NegSynMarker 83 85	no
+T2	Phrase 86 110	habla nada de Castellano
+T3	PolItem 92 96	nada
+T4	UncertLexMarker 541 552	sospecha de
+T5	DISO 553 570	isquemia de ciego
+T6	NegSynMarker 687 690	sin
+T7	DISO 691 696	pulso
+T8	DISO 1073 1106	episodios de vómito en escopetazo
+T9	UncertLexMarker 1107 1108	?
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T8

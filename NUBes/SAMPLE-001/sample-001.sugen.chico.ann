@@ -1,0 +1,113 @@
+T1	UncertLexMarker 236 245	Desconoce
+T2	DISO 246 265	el color de las DPS
+T3	NegSynMarker 268 270	No
+T4	DISO 271 291	clínica respiratoria
+T5	NegMorMarker 339 351	asintomático
+T6	NegSynMarker 399 401	No
+T7	Phrase 402 429	mareo ni cortejo vegetativo
+T8	DISO 402 407	mareo
+T9	CoordItem 408 410	ni
+T10	DISO 411 429	cortejo vegetativo
+T11	NegSynMarker 432 434	No
+T12	Phrase 435 454	naúseas ni vónmitos
+T13	DISO 435 442	naúseas
+T14	CoordItem 443 445	ni
+T15	DISO 446 454	vónmitos
+T16	NegSynMarker 633 635	no
+T17	DISO 636 655	nuevas deposiciones
+T18	NegLexMarker 783 791	cediendo
+T19	DISO 792 801	la fiebre
+T20	NegSynMarker 885 887	no
+T21	Phrase 888 937	hay hallazgos clínicos o analíticos de relevancia
+T22	DISO 892 923	hallazgos clínicos o analíticos
+T23	NegSynMarker 940 942	No
+T24	DISO 943 958	dolor abdominal
+T25	NegSynMarker 1166 1168	no
+T26	DISO 1169 1186	puede cuantificar
+T27	UncertLexMarker 1408 1421	no claramente
+T28	OTHER 1422 1445	en relación a esfuerozs
+T29	NegSynMarker 1448 1450	No
+T30	DISO 1451 1483	antecedentes de còlicos biliares
+T31	NegSynMarker 1498 1501	sin
+T32	Phrase 1502 1520	disuria ni tenesmo
+T33	DISO 1502 1509	disuria
+T34	CoordItem 1510 1512	ni
+T35	DISO 1513 1520	tenesmo
+T36	NegSynMarker 1555 1557	No
+T37	DISO 1558 1576	síntomas urinarios
+T38	NegSynMarker 2022 2025	sin
+T39	DISO 2026 2047	hallazgos patológicos
+T40	NegSynMarker 2079 2081	No
+T41	DISO 2082 2085	tos
+T42	Phrase 2082 2109	tos ni clinica respiratoria
+T43	CoordItem 2086 2088	ni
+T44	DISO 2089 2109	clinica respiratoria
+T45	NegSynMarker 2163 2165	No
+T46	Phrase 2166 2181	toma medicaciòn
+T47	SUBS 2171 2181	medicaciòn
+T48	NegSynMarker 2184 2186	No
+T49	DISO 2187 2194	pirosis
+T50	NegSynMarker 2322 2324	No
+T51	DISO 2325 2343	sindrome miccional
+T52	NegSynMarker 2395 2397	No
+T53	Phrase 2398 2425	fiebre , naúseas ni vómitos
+T54	DISO 2398 2404	fiebre
+T55	DISO 2407 2414	naúseas
+T56	CoordItem 2415 2417	ni
+T57	DISO 2418 2425	vómitos
+T58	NegSynMarker 2428 2430	No
+T59	DISO 2431 2456	otros síntomas digestivos
+T60	NegSynMarker 2634 2636	No
+T61	DISO 2637 2654	clínica miccional
+T62	NegSynMarker 2657 2659	No
+T63	Phrase 2660 2687	refiere los mismos síntomas
+T64	DISO 2668 2687	los mismos síntomas
+T65	NegSynMarker 2738 2740	No
+T66	DISO 2741 2800	otros síntomas acompañantes ni digestivos ni de otra índole
+T67	CoordItem 2769 2771	ni
+T68	CoordItem 2783 2785	ni
+T69	NegSynMarker 2803 2805	No
+T70	DISO 2806 2814	anorexia
+T71	NegSynMarker 2951 2953	no
+T72	DISO 2954 2963	colùricas
+T73	NegSynMarker 3051 3054	sin
+T74	SUBS 3055 3075	residuos patològicos
+T75	NegSynMarker 3199 3201	No
+T76	DISO 3202 3217	sensción febril
+T77	NegSynMarker 3220 3222	No
+T78	DISO 3223 3232	hematuria
+T79	UncertLexMarker 3280 3300	Pendiente de decidir
+T80	PROC 3301 3303	IQ
+T81	NegSynMarker 3405 3407	No
+T82	Phrase 3408 3427	ha tomado analgesia
+T83	SUBS 3418 3427	analgesia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T36 Arg2:T37
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T40 Arg2:T42
+R16	Scope Arg1:T45 Arg2:T46
+R17	Scope Arg1:T48 Arg2:T49
+R18	Scope Arg1:T50 Arg2:T51
+R19	Scope Arg1:T52 Arg2:T53
+R20	Scope Arg1:T58 Arg2:T59
+R21	Scope Arg1:T60 Arg2:T61
+R22	Scope Arg1:T62 Arg2:T63
+R23	Scope Arg1:T65 Arg2:T66
+R24	Scope Arg1:T69 Arg2:T70
+R25	Scope Arg1:T71 Arg2:T72
+R26	Scope Arg1:T73 Arg2:T74
+R27	Scope Arg1:T75 Arg2:T76
+R28	Scope Arg1:T77 Arg2:T78
+R29	Scope Arg1:T79 Arg2:T80
+R30	Scope Arg1:T81 Arg2:T82

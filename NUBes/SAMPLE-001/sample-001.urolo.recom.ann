@@ -1,0 +1,7 @@
+T1	NegSynMarker 309 311	No
+T2	Phrase 312 341	tomará por el momento Clexane
+T3	SUBS 334 341	Clexane
+T4	NegLexMarker 1383 1394	Se suspende
+T5	SUBS 1395 1408	la Furosemida
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

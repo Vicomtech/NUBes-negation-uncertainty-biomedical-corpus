@@ -1,0 +1,36 @@
+T1	PROC 0 33	Epidemiología infecciosa familiar
+T2	NegLexMarker 34 42	negativa
+T3	NegSynMarker 45 47	No
+T4	DISO 48 54	fiebre
+T5	NegSynMarker 213 215	no
+T6	OTHER 216 229	ha consultado
+T7	NegLexMarker 638 643	Niega
+T8	DISO 644 665	AP de clínica similar
+T9	NegLexMarker 846 851	Niega
+T10	Phrase 852 886	ingesta de alimentos en mal estado
+T11	NegSynMarker 1206 1209	sin
+T12	DISO 1210 1217	mejoria
+T13	NegSynMarker 1402 1404	No
+T14	Phrase 1405 1423	naúseas ni vomitos
+T15	DISO 1405 1412	naúseas
+T16	CoordItem 1413 1415	ni
+T17	DISO 1416 1423	vomitos
+T18	NegSynMarker 1426 1428	No
+T19	DISO 1429 1441	termometrado
+T20	NegSynMarker 1444 1446	No
+T21	DISO 1447 1476	clínica de síndrome miccional
+T22	NegSynMarker 1491 1494	sin
+T23	DISO 1495 1502	disuria
+T24	Phrase 1495 1513	disuria ni tenesmo
+T25	CoordItem 1503 1505	ni
+T26	DISO 1506 1513	tenesmo
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T24

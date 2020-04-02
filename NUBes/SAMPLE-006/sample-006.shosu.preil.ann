@@ -1,0 +1,37 @@
+T1	NegSynMarker 1925 1928	sin
+T2	DISO 1929 1942	consecuencias
+T3	NegSynMarker 2085 2087	no
+T4	Phrase 2088 2193	es capaz de entender su situación de fragilidad y que es muy dificil que pueda vivir sola en su domicilio
+T5	OTHER 2091 2193	capaz de entender su situación de fragilidad y que es muy dificil que pueda vivir sola en su domicilio
+T6	NegLexMarker 2737 2750	se desestiman
+T7	PROC 2751 2768	pruebas invasivas
+T8	DISO 3082 3088	origen
+T9	UncertLexMarker 3089 3100	desconocido
+T10	NegSynMarker 3101 3104	sin
+T11	DISO 3105 3116	diagnóstico
+T12	UncertLexMarker 3539 3547	probable
+T13	DISO 3548 3552	EPOC
+T14	UncertLexMarker 4152 4160	probable
+T15	DISO 4161 4193	polineuropatia inflmatoria aguda
+T16	NegSynMarker 5076 5078	No
+T17	DISO 5079 5112	progresión en los últimos 15 dias
+T18	UncertLexMarker 5382 5390	probable
+T19	DISO 5391 5405	demencia mixta
+T20	NegLexMarker 5724 5732	falta de
+T21	OTHER 5733 5740	ingesta
+T22	UncertLexMarker 5941 5949	Probable
+T23	DISO 5950 6001	lesión previa isquémica en lobulo occipital derecho
+T24	UncertLexMarker 7189 7200	sospecha de
+T25	DISO 7201 7222	origen cardioembólico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25

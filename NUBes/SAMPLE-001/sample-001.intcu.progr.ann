@@ -1,0 +1,95 @@
+T1	NegSynMarker 192 195	sin
+T2	Phrase 196 250	poder plantearse técnicas continuas de reemplazo renal
+T3	PROC 213 250	técnicas continuas de reemplazo renal
+T4	NegLexMarker 733 744	retirada de
+T5	SUBS 745 776	anticoagulación con enoxaparina
+T6	NegLexMarker 872 879	dejó de
+T7	OTHER 880 886	orinar
+T8	NegSynMarker 1312 1315	sin
+T9	DISO 1316 1327	incidencias
+T10	NegSynMarker 1460 1462	no
+T11	DISO 1463 1470	remonta
+T12	NegSynMarker 2190 2192	no
+T13	DISO 2193 2207	tolerando VMNI
+T14	NegLexMarker 2361 2372	retirada de
+T15	SUBS 2373 2389	la sedoanalgesia
+T16	NegLexMarker 2441 2454	descartándose
+T17	DISO 2455 2473	patología cerebral
+T18	NegSynMarker 2751 2753	no
+T19	Phrase 2754 2793	remonta tras administracion de atropina
+T20	DISO 2754 2761	remonta
+T21	NegMorMarker 2882 2889	afebril
+T22	NegSynMarker 3178 3180	no
+T23	DISO 3181 3217	responde a fluidos ni a vasopresores
+T24	CoordItem 3200 3202	ni
+T25	UncertLexMarker 3294 3308	compatible con
+T26	DISO 3309 3330	distress respiratorio
+T27	NegSynMarker 3376 3379	sin
+T28	DISO 3380 3409	necesidad de soporte inotropo
+T29	UncertLexMarker 4046 4058	posiblemente
+T30	DISO 4059 4080	un linfoma no Hodgkin
+T31	NegMorMarker 4461 4474	inespecificos
+T32	UncertLexMarker 4485 4491	pueden
+T33	Phrase 4492 4532	reflejar unicamente diseminacion tumoral
+T34	DISO 4512 4532	diseminacion tumoral
+T35	UncertLexMarker 4539 4555	indiferenciables
+T36	Phrase 4556 4641	desde el punto de vista radiologico de una complicacion sobreañadida tipo peritonitis
+T37	DISO 4595 4641	una complicacion sobreañadida tipo peritonitis
+T38	NegSynMarker 4993 4996	sin
+T39	Phrase 4997 5034	signos de sospecha actual de necrosis
+T40	DISO 5026 5034	necrosis
+T41	NegSynMarker 5953 5955	no
+T42	DISO 5956 5967	se recuperó
+T43	NegSynMarker 6188 6191	sin
+T44	Phrase 6192 6221	aislarse gérmenes en cultivos
+T45	SUBS 6201 6209	gérmenes
+T46	NegSynMarker 6735 6738	sin
+T47	Phrase 6739 6765	posibilidad de transfusión
+T48	PROC 6754 6765	transfusión
+T49	NegSynMarker 7083 7086	sin
+T50	Phrase 7087 7128	poder plantear nueva actuación quirúrgica
+T51	PROC 7108 7128	actuación quirúrgica
+T52	PROC 8080 8087	aspirar
+T53	NegLexMarker 8088 8105	no siendo posible
+T54	NegLexMarker 8431 8440	suspender
+T55	PROC 8441 8460	la prueba de imagen
+T56	NegSynMarker 9574 9576	no
+T57	Phrase 9577 9602	signos de sangrado activo
+T58	DISO 9587 9602	sangrado activo
+T59	NegSynMarker 10861 10863	no
+T60	DISO 10864 10911	evolucionó en ningún momento de forma favorable
+T61	PolItem 10875 10892	en ningún momento
+T62	NegSynMarker 11597 11599	no
+T63	Phrase 11600 11620	se observan verrugas
+T64	DISO 11612 11620	verrugas
+T65	NegSynMarker 11828 11831	sin
+T66	Phrase 11832 11882	signos de colecistitis ni dilatación de vía biliar
+T67	DISO 11842 11854	colecistitis
+T68	CoordItem 11855 11857	ni
+T69	DISO 11858 11882	dilatación de vía biliar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T49 Arg2:T50
+R21	Scope Arg1:T53 Arg2:T52
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T62 Arg2:T63
+R26	Scope Arg1:T65 Arg2:T66

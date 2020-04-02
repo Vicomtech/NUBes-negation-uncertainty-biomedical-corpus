@@ -1,0 +1,64 @@
+T1	NegLexMarker 431 440	Se retira
+T2	SUBS 441 452	la digoxina
+T3	DISO 514 523	Febricula
+T4	NegLexMarker 528 537	ha cedido
+T5	NegSynMarker 626 629	sin
+T6	Phrase 630 697	sufrir episodios de hipotensión ni signos de insuficiencia cardiaca
+T7	DISO 650 661	hipotensión
+T8	CoordItem 662 664	ni
+T9	DISO 675 697	insuficiencia cardiaca
+T10	NegSynMarker 721 723	no
+T11	Phrase 724 744	tiene complicaciones
+T12	DISO 730 744	complicaciones
+T13	NegSynMarker 747 749	no
+T14	Phrase 750 779	hay signos de isquemia distal
+T15	DISO 764 779	isquemia distal
+T16	NegSynMarker 1122 1124	No
+T17	DISO 1125 1146	hiperemia conjuntival
+T18	NegSynMarker 1283 1286	sin
+T19	Phrase 1287 1311	evidencia de ne neumonia
+T20	DISO 1303 1311	neumonia
+T21	NegSynMarker 1517 1520	sin
+T22	DISO 1521 1540	otros datos clinico
+T23	NegSynMarker 1543 1545	no
+T24	DISO 1546 1553	cefalea
+T25	NegSynMarker 1556 1558	No
+T26	DISO 1559 1573	otros síntomas
+T27	NegMorMarker 1586 1598	asintomatica
+T28	NegSynMarker 1995 1998	sin
+T29	DISO 1999 2013	complicaciones
+T30	PROC 2282 2290	cultivos
+T31	NegLexMarker 2315 2324	negativos
+T32	NegSynMarker 2369 2372	sin
+T33	DISO 2373 2415	crecimiento bacteriano en uro-hemocultivos
+T34	NegSynMarker 2546 2548	No
+T35	Phrase 2549 2640	se ha encontrado patologia pulmonar causante de la sensación disneica que sufre la paciente
+T36	DISO 2566 2640	patologia pulmonar causante de la sensación disneica que sufre la paciente
+T37	UncertLexMarker 2645 2650	puede
+T38	Phrase 2651 2715	guardar relación con dolor por el aplastamiento vertebral de D12
+T39	DISO 2659 2715	relación con dolor por el aplastamiento vertebral de D12
+T40	UncertLexMarker 2883 2894	sospecha de
+T41	DISO 2895 2925	celulitis miosistis infecciosa
+T42	NegSynMarker 3414 3417	sin
+T43	DISO 3418 3471	complicaciones desde el punto de vista traumatologico
+T44	NegLexMarker 3938 3947	retirando
+T45	Phrase 3948 3970	agrafes antes del alta
+T46	OTHER 3948 3955	agrafes
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T31 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T34 Arg2:T35
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T44 Arg2:T45

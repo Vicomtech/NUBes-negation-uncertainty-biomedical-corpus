@@ -1,0 +1,15 @@
+T1	Phrase 1650 1675	Cuando expulsa el cálculo
+T2	NegLexMarker 1678 1686	suprimir
+T3	SUBS 1687 1700	la medicacion
+T4	SUBS 2000 2015	ESPIRONOLACTONA
+T5	NegLexMarker 2016 2026	SUSPENDIDO
+T6	NegLexMarker 2029 2039	SUSPENDIDO
+T7	SUBS 2040 2047	SINTROM
+T8	Phrase 2040 2064	SINTROM durante 1 semana
+T9	NegSynMarker 2415 2418	sin
+T10	Phrase 2419 2422	sal
+R1	DiscScope Arg1:T2 Arg2:T1
+R2	DiscScope Arg1:T2 Arg2:T3
+R3	Scope Arg1:T6 Arg2:T8
+R4	Scope Arg1:T5 Arg2:T4
+R5	Scope Arg1:T9 Arg2:T10

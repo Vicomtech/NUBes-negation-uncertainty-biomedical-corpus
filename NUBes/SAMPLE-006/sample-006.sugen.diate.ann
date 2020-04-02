@@ -1,0 +1,58 @@
+T1	UncertLexMarker 192 205	no claramente
+T2	OTHER 206 237	visualizada en esta exploración
+T3	NegSynMarker 618 620	No
+T4	Phrase 621 712	identificamos imagen de litiasis ni a nivel vesicular ni a nivel de la vía biliar principal
+T5	DISO 645 712	litiasis ni a nivel vesicular ni a nivel de la vía biliar principal
+T6	CoordItem 654 656	ni
+T7	CoordItem 675 677	ni
+T8	NegSynMarker 1040 1042	no
+T9	Phrase 1043 1125	identificamos tampoco dilatado el Wirsung o atrófico el cuerpo y cola pancreáticos
+T10	PolItem 1057 1064	tampoco
+T11	DISO 1065 1084	dilatado el Wirsung
+T12	CoordItem 1085 1086	o
+T13	DISO 1087 1125	atrófico el cuerpo y cola pancreáticos
+T14	UncertLexMarker 1280 1294	compatible con
+T15	DISO 1295 1312	colangiocarcinoma
+T16	NegSynMarker 1315 1317	No
+T17	DISO 1318 1361	realce patológico en el parénquima hepático
+T18	UncertLexMarker 1725 1736	Orientación
+T19	Phrase 1751 1846	Dilatación de las vías biliares intrahepáticas y del colédoco con terminación abrupta del mismo
+T20	DISO 1751 1812	Dilatación de las vías biliares intrahepáticas y del colédoco
+T21	NegSynMarker 2428 2430	No
+T22	Phrase 2431 2526	identificamos neoformación de la bifurcación o imagen sugestiva de ampuloma en esta exploración
+T23	DISO 2445 2475	neoformación de la bifurcación
+T24	UncertLexMarker 2485 2497	sugestiva de
+T25	DISO 2498 2506	ampuloma
+T26	NegSynMarker 2703 2706	sin
+T27	DISO 2707 2719	alteraciones
+T28	UncertLexMarker 2964 2978	compatible con
+T29	DISO 2979 2996	colangiocarcinoma
+T30	NegSynMarker 3019 3021	no
+T31	Phrase 3022 3045	es del todo concluyente
+T32	PolItem 3025 3033	del todo
+T33	OTHER 3034 3045	concluyente
+T34	UncertLexMarker 3051 3056	puede
+T35	Phrase 3057 3190	estar en relación con un colangiocarcinoma distal o neo de cabeza pancreática ( no claramente visualizada ) con ictericia obstructiva
+T36	DISO 3066 3106	relación con un colangiocarcinoma distal
+T37	CoordItem 3107 3108	o
+T38	DISO 3109 3190	neo de cabeza pancreática ( no claramente visualizada ) con ictericia obstructiva
+T39	UncertLexMarker 3137 3150	no claramente
+T40	OTHER 3151 3162	visualizada
+T41	NegSynMarker 3233 3236	sin
+T42	DISO 3237 3247	esteatosis
+T43	Phrase 3237 3269	esteatosis ni lesiones hepáticas
+T44	CoordItem 3248 3250	ni
+T45	DISO 3251 3269	lesiones hepáticas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T14 Arg2:T15
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T26 Arg2:T27
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T39 Arg2:T40
+R11	Scope Arg1:T34 Arg2:T35
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T41 Arg2:T43

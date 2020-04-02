@@ -1,0 +1,111 @@
+T1	NegLexMarker 0 13	Se desestiman
+T2	Phrase 14 73	más pruebas diagnósticas o actos terapeuticos " invasivos "
+T3	PROC 18 38	pruebas diagnósticas
+T4	CoordItem 39 40	o
+T5	PROC 41 73	actos terapeuticos " invasivos "
+T6	UncertLexMarker 1567 1580	Probablemente
+T7	DISO 1581 1599	en fase preagónica
+T8	UncertLexMarker 1732 1740	probable
+T9	Phrase 1741 1796	relación a síncope neuromediado como primer diagnóstico
+T10	DISO 1741 1772	relación a síncope neuromediado
+T11	NegLexMarker 2107 2112	Falta
+T12	DISO 2113 2132	ingesta alimenticia
+T13	UncertLexMarker 2578 2586	probable
+T14	DISO 2587 2620	relación a insuficiencia cardiaca
+T15	UncertLexMarker 2871 2879	No clara
+T16	DISO 2880 2900	afectación de herida
+T17	DISO 2934 2941	fistula
+T18	UncertLexMarker 2942 2950	probable
+T19	DISO 2951 2981	de I delgado a pared abdominal
+T20	NegSynMarker 3263 3265	no
+T21	DISO 3266 3274	adecuada
+T22	UncertLexMarker 3852 3860	probable
+T23	DISO 3861 3884	relación a hipernefroma
+T24	UncertLexMarker 3916 3923	posible
+T25	DISO 3924 3942	ganancia funcional
+T26	UncertLexMarker 4044 4052	posibles
+T27	DISO 4053 4089	efectos secundarios de la medicación
+T28	Phrase 4524 4555	orina , esputo , y hemocultivos
+T29	PROC 4524 4529	orina
+T30	PROC 4532 4538	esputo
+T31	PROC 4543 4555	hemocultivos
+T32	NegLexMarker 4556 4565	negativos
+T33	UncertLexMarker 4685 4693	Probable
+T34	Phrase 4694 4732	cirrosis hepática ( de origen incierto
+T35	DISO 4694 4711	cirrosis hepática
+T36	OTHER 4717 4723	origen
+T37	UncertLexMarker 4724 4732	incierto
+T38	UncertLexMarker 4767 4778	sospecha de
+T39	DISO 4779 4786	colitis
+T40	Phrase 4779 4808	colitis de origen no aclarado
+T41	NegSynMarker 4797 4799	no
+T42	OTHER 4800 4808	aclarado
+T43	UncertLexMarker 4846 4854	probable
+T44	DISO 4855 4884	colitis segmentaria isquémica
+T45	NegSynMarker 5344 5347	sin
+T46	Phrase 5348 5412	objetivar colección ni lesión relacionada con dicha intervención
+T47	DISO 5358 5367	colección
+T48	CoordItem 5368 5370	ni
+T49	DISO 5371 5412	lesión relacionada con dicha intervención
+T50	UncertLexMarker 5489 5503	impresionan de
+T51	DISO 5504 5519	neurvegetativos
+T52	NegSynMarker 5856 5859	Sin
+T53	DISO 5860 5886	control de dichos sintomas
+T54	NegSynMarker 6317 6320	sin
+T55	Phrase 6321 6348	producir compresión medular
+T56	DISO 6330 6348	compresión medular
+T57	NegLexMarker 6906 6916	pérdida de
+T58	DISO 6917 6936	capacidad funcional
+T59	NegSynMarker 7253 7256	Sin
+T60	DISO 7257 7264	mejoria
+T61	NegSynMarker 7674 7677	sin
+T62	DISO 7678 7684	fiebre
+T63	PROC 7688 7713	cultivo material extraido
+T64	NegLexMarker 7714 7722	negativo
+T65	NegSynMarker 8374 8377	sin
+T66	DISO 8378 8402	complicaciones iniciales
+T67	NegLexMarker 8775 8788	haber perdido
+T68	DISO 8789 8808	capacidad de marcha
+T69	NegSynMarker 9091 9093	no
+T70	DISO 9094 9130	ha recuperado la capacidad de marcha
+T71	NegSynMarker 9450 9452	no
+T72	Phrase 9453 9464	es factible
+T73	NegSynMarker 9511 9513	no
+T74	OTHER 9514 9561	reune criterios para hacerse cargo del paciente
+T75	NegLexMarker 9649 9657	Falta de
+T76	DISO 9658 9675	control del dolor
+T77	NegLexMarker 9827 9838	retirada de
+T78	SUBS 9839 9851	antibioticos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	DiscScope Arg1:T18 Arg2:T17
+R8	DiscScope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T32 Arg2:T28
+R14	Scope Arg1:T37 Arg2:T36
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T38 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T50 Arg2:T51
+R21	Scope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T64 Arg2:T63
+R26	Scope Arg1:T61 Arg2:T62
+R27	Scope Arg1:T65 Arg2:T66
+R28	Scope Arg1:T67 Arg2:T68
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T71 Arg2:T72
+R32	Scope Arg1:T75 Arg2:T76
+R33	Scope Arg1:T77 Arg2:T78

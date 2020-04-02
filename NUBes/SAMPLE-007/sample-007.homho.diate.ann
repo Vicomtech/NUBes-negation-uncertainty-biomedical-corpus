@@ -1,0 +1,23 @@
+T1	NegSynMarker 330 332	no
+T2	DISO 333 367	pinzamiento de senos costofrénicos
+T3	NegSynMarker 514 516	no
+T4	Phrase 517 577	se aprecia condensación ni otras alteraciones significativas
+T5	DISO 528 540	condensación
+T6	CoordItem 541 543	ni
+T7	DISO 544 577	otras alteraciones significativas
+T8	UncertLexMarker 622 631	Sin clara
+T9	Phrase 632 658	imagen de trombosis venosa
+T10	DISO 642 658	trombosis venosa
+T11	NegSynMarker 780 783	Sin
+T12	Phrase 784 811	evidencia ecográfica de TVP
+T13	DISO 808 811	TVP
+T14	NegSynMarker 913 916	sin
+T15	DISO 917 927	incidencia
+T16	UncertLexMarker 1070 1082	sugestiva de
+T17	DISO 1083 1144	nefritis en polo a la altura centro-superior de riñón derecho
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17

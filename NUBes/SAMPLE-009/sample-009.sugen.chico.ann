@@ -1,0 +1,230 @@
+T1	NegSynMarker 299 301	No
+T2	DISO 302 320	fiebre documentada
+T3	NegSynMarker 594 596	No
+T4	Phrase 597 645	dolor torácico , palpìtaciones , Dpn ni ortopnea
+T5	DISO 597 611	dolor torácico
+T6	DISO 614 627	palpìtaciones
+T7	DISO 630 633	Dpn
+T8	CoordItem 634 636	ni
+T9	DISO 637 645	ortopnea
+T10	NegSynMarker 1049 1052	sin
+T11	DISO 1053 1068	A.p. de interés
+T12	NegSynMarker 1362 1364	No
+T13	DISO 1365 1379	clínica febril
+T14	Phrase 1365 1420	clínica febril , dolor abdominal ni ardor retroesternal
+T15	DISO 1382 1397	dolor abdominal
+T16	CoordItem 1398 1400	ni
+T17	DISO 1401 1420	ardor retroesternal
+T18	NegSynMarker 1496 1499	sin
+T19	DISO 1500 1507	mejoría
+T20	NegSynMarker 1510 1512	No
+T21	DISO 1513 1539	clínica febril , miccional
+T22	Phrase 1513 1593	clínica febril , miccional , naúseas , vómitos ni cambios en el ritmo intestinal
+T23	DISO 1542 1549	naúseas
+T24	DISO 1552 1559	vómitos
+T25	CoordItem 1560 1562	ni
+T26	DISO 1563 1593	cambios en el ritmo intestinal
+T27	UncertLexMarker 1635 1645	parece ser
+T28	Phrase 1646 1689	que se ha mareado y se ha caido hacia atras
+T29	DISO 1650 1663	se ha mareado
+T30	DISO 1666 1689	se ha caido hacia atras
+T31	NegSynMarker 1690 1692	No
+T32	DISO 1693 1715	perdida de consciencia
+T33	NegSynMarker 1847 1849	No
+T34	DISO 1850 1866	clinica urinaria
+T35	NegMorMarker 1869 1876	Afebril
+T36	UncertLexMarker 2015 2023	no clara
+T37	DISO 2024 2046	infección respiratoria
+T38	UncertLexMarker 2184 2192	probable
+T39	DISO 2193 2204	obstrucción
+T40	NegSynMarker 2308 2310	No
+T41	DISO 2311 2325	dolor torácico
+T42	Phrase 2311 2379	dolor torácico , ni palpitaciones ni otra sintomatología acompañante
+T43	CoordItem 2328 2330	ni
+T44	DISO 2331 2344	palpitaciones
+T45	CoordItem 2345 2347	ni
+T46	DISO 2348 2379	otra sintomatología acompañante
+T47	NegLexMarker 2547 2555	cediendo
+T48	DISO 2556 2564	el dolor
+T49	Phrase 2556 2584	el dolor de forma espontánea
+T50	NegSynMarker 2668 2671	sin
+T51	DISO 2672 2686	definir origen
+T52	NegSynMarker 2769 2771	No
+T53	DISO 2772 2782	metàstasis
+T54	NegSynMarker 2783 2785	No
+T55	DISO 2786 2797	adenopatias
+T56	NegSynMarker 2798 2800	No
+T57	SUBS 2801 2804	tto
+T58	Phrase 3061 3076	el dia 07/04/14
+T59	NegLexMarker 3080 3092	suspendieron
+T60	SUBS 3093 3105	el omeprazol
+T61	NegLexMarker 3109 3118	retirarle
+T62	SUBS 3119 3133	el alendronato
+T63	NegSynMarker 3325 3327	No
+T64	DISO 3328 3335	vomitos
+T65	NegSynMarker 3338 3340	no
+T66	DISO 3341 3348	nauseas
+T67	NegSynMarker 3351 3353	No
+T68	DISO 3354 3368	dolor toracico
+T69	NegSynMarker 3369 3371	no
+T70	DISO 3372 3378	disnea
+T71	NegSynMarker 3381 3383	no
+T72	DISO 3384 3415	otra sintomatologia acompañante
+T73	NegSynMarker 3530 3533	sin
+T74	SUBS 3534 3552	protector gástrico
+T75	NegSynMarker 3555 3557	No
+T76	Phrase 3558 3601	refiere cefalea ni dolor toracico ni disnea
+T77	DISO 3566 3573	cefalea
+T78	CoordItem 3574 3576	ni
+T79	DISO 3577 3591	dolor toracico
+T80	CoordItem 3592 3594	ni
+T81	DISO 3595 3601	disnea
+T82	NegSynMarker 3701 3703	No
+T83	Phrase 3704 3725	refiere tos ni fiebre
+T84	DISO 3712 3715	tos
+T85	CoordItem 3716 3718	ni
+T86	DISO 3719 3725	fiebre
+T87	NegSynMarker 3726 3728	no
+T88	DISO 3729 3758	clinica digestiva ni urinaria
+T89	CoordItem 3747 3749	ni
+T90	NegSynMarker 3761 3763	No
+T91	DISO 3764 3781	clínica miccional
+T92	Phrase 3764 3835	clínica miccional , naúseas , vómitos ni cambios en el ritmo intestinal
+T93	DISO 3784 3791	naúseas
+T94	DISO 3794 3801	vómitos
+T95	CoordItem 3802 3804	ni
+T96	DISO 3805 3835	cambios en el ritmo intestinal
+T97	NegSynMarker 3874 3876	no
+T98	DISO 3877 3893	clinica urinaria
+T99	NegSynMarker 4304 4307	sin
+T100	DISO 4308 4315	diarrea
+T101	NegSynMarker 4318 4320	No
+T102	Phrase 4321 4368	clinica febril , miccional , naúseas ni vómitos
+T103	DISO 4321 4347	clinica febril , miccional
+T104	DISO 4350 4357	naúseas
+T105	CoordItem 4358 4360	ni
+T106	DISO 4361 4368	vómitos
+T107	UncertLexMarker 4485 4492	posible
+T108	DISO 4493 4516	c.e. en pared sigmoidea
+T109	NegSynMarker 4761 4764	sin
+T110	Phrase 4765 4907	prestarle importancia alguna inicialmenta hasta esta noche en que observan una rectorragia de cierta cuantía con abundantes coágulos de sangre
+T111	NegSynMarker 4910 4912	No
+T112	DISO 4913 4964	clínica constitucional , respiratoria ni micccional
+T113	CoordItem 4951 4953	ni
+T114	UncertLexMarker 5207 5215	no clara
+T115	Phrase 5216 5245	clinica de infeccion urinaria
+T116	DISO 5227 5245	infeccion urinaria
+T117	NegSynMarker 5500 5502	No
+T118	Phrase 5503 5557	fiebre documentada , clínica respiratoria ni miccional
+T119	DISO 5503 5521	fiebre documentada
+T120	DISO 5524 5557	clínica respiratoria ni miccional
+T121	CoordItem 5545 5547	ni
+T122	NegSynMarker 5875 5878	sin
+T123	DISO 5879 5902	pérdida de conocimiento
+T124	NegMorMarker 5905 5912	Afebril
+T125	NegSynMarker 5915 5917	no
+T126	DISO 5918 5935	clínica miccional
+T127	NegSynMarker 6031 6034	sin
+T128	Phrase 6035 6105	sangre , ni productos patologicos , ni otra sintomatologia acompañante
+T129	DISO 6035 6041	sangre
+T130	CoordItem 6044 6046	ni
+T131	DISO 6047 6068	productos patologicos
+T132	CoordItem 6071 6073	ni
+T133	DISO 6074 6105	otra sintomatologia acompañante
+T134	NegSynMarker 6108 6110	No
+T135	Phrase 6111 6179	clínica febril , naúseas , vómitos ni cambios en el ritmo intestinal
+T136	DISO 6111 6125	clínica febril
+T137	DISO 6128 6135	naúseas
+T138	DISO 6138 6145	vómitos
+T139	CoordItem 6146 6148	ni
+T140	DISO 6149 6179	cambios en el ritmo intestinal
+T141	NegSynMarker 6354 6356	no
+T142	DISO 6357 6363	cólico
+T143	NegSynMarker 6821 6823	No
+T144	Phrase 6824 6877	clinica febril , dolor abdominal , naúseas ni vómitos
+T145	DISO 6824 6838	clinica febril
+T146	DISO 6841 6856	dolor abdominal
+T147	DISO 6859 6866	naúseas
+T148	CoordItem 6867 6869	ni
+T149	DISO 6870 6877	vómitos
+T150	NegSynMarker 6948 6950	no
+T151	OTHER 6951 6967	emisión de heces
+T152	Phrase 6951 6981	emisión de heces desde el alta
+T153	NegSynMarker 7293 7296	sin
+T154	DISO 7297 7318	pérdida de conciencia
+T155	NegSynMarker 7546 7549	sin
+T156	Phrase 7550 7580	sangre ni residuos patològicos
+T157	DISO 7550 7556	sangre
+T158	CoordItem 7557 7559	ni
+T159	DISO 7560 7580	residuos patològicos
+T160	NegSynMarker 7583 7585	no
+T161	DISO 7586 7592	fiebre
+T162	NegSynMarker 7595 7597	no
+T163	DISO 7598 7612	dolor toràcico
+T164	NegSynMarker 7615 7617	no
+T165	DISO 7618 7624	disnea
+T166	NegSynMarker 7627 7629	no
+T167	DISO 7630 7646	proceso catarral
+T168	NegSynMarker 7893 7895	No
+T169	DISO 7896 7910	dolor torácico
+T170	Phrase 7896 7927	dolor torácico ni palpitaciones
+T171	CoordItem 7911 7913	ni
+T172	DISO 7914 7927	palpitaciones
+T173	NegSynMarker 8518 8521	sin
+T174	Phrase 8522 8539	vómito ni diarrea
+T175	DISO 8522 8528	vómito
+T176	CoordItem 8529 8531	ni
+T177	DISO 8532 8539	diarrea
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T12 Arg2:T14
+R5	Scope Arg1:T18 Arg2:T19
+R6	Scope Arg1:T20 Arg2:T22
+R7	Scope Arg1:T31 Arg2:T32
+R8	Scope Arg1:T27 Arg2:T28
+R9	Scope Arg1:T33 Arg2:T34
+R10	Scope Arg1:T36 Arg2:T37
+R11	Scope Arg1:T38 Arg2:T39
+R12	Scope Arg1:T40 Arg2:T42
+R13	Scope Arg1:T47 Arg2:T49
+R14	Scope Arg1:T50 Arg2:T51
+R15	Scope Arg1:T56 Arg2:T57
+R16	Scope Arg1:T52 Arg2:T53
+R17	Scope Arg1:T54 Arg2:T55
+R18	DiscScope Arg1:T59 Arg2:T60
+R19	DiscScope Arg1:T59 Arg2:T58
+R20	Scope Arg1:T61 Arg2:T62
+R21	Scope Arg1:T65 Arg2:T66
+R22	Scope Arg1:T63 Arg2:T64
+R23	Scope Arg1:T67 Arg2:T68
+R24	Scope Arg1:T71 Arg2:T72
+R25	Scope Arg1:T69 Arg2:T70
+R26	Scope Arg1:T73 Arg2:T74
+R27	Scope Arg1:T75 Arg2:T76
+R28	Scope Arg1:T82 Arg2:T83
+R29	Scope Arg1:T87 Arg2:T88
+R30	Scope Arg1:T90 Arg2:T92
+R31	Scope Arg1:T97 Arg2:T98
+R32	Scope Arg1:T99 Arg2:T100
+R33	Scope Arg1:T101 Arg2:T102
+R34	Scope Arg1:T107 Arg2:T108
+R35	Scope Arg1:T109 Arg2:T110
+R36	Scope Arg1:T111 Arg2:T112
+R37	Scope Arg1:T114 Arg2:T115
+R38	Scope Arg1:T117 Arg2:T118
+R39	Scope Arg1:T122 Arg2:T123
+R40	Scope Arg1:T125 Arg2:T126
+R41	Scope Arg1:T127 Arg2:T128
+R42	Scope Arg1:T134 Arg2:T135
+R43	Scope Arg1:T141 Arg2:T142
+R44	Scope Arg1:T143 Arg2:T144
+R45	Scope Arg1:T150 Arg2:T152
+R46	Scope Arg1:T153 Arg2:T154
+R47	Scope Arg1:T155 Arg2:T156
+R48	Scope Arg1:T162 Arg2:T163
+R49	Scope Arg1:T164 Arg2:T165
+R50	Scope Arg1:T166 Arg2:T167
+R51	Scope Arg1:T160 Arg2:T161
+R52	Scope Arg1:T168 Arg2:T170
+R53	Scope Arg1:T173 Arg2:T174

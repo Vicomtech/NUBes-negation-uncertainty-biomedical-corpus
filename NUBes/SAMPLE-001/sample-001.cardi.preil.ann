@@ -1,0 +1,69 @@
+T1	UncertLexMarker 136 152	no sabe precisar
+T2	OTHER 153 161	duracion
+T3	NegSynMarker 283 285	no
+T4	DISO 286 312	se modifica con la postura
+T5	NegSynMarker 422 424	No
+T6	Phrase 425 458	clínica de infeccion respiratoria
+T7	DISO 436 458	infeccion respiratoria
+T8	NegSynMarker 461 463	No
+T9	DISO 464 477	palpitaciones
+T10	NegSynMarker 504 507	sin
+T11	DISO 508 522	modificaciones
+T12	NegSynMarker 525 527	No
+T13	DISO 528 563	episodios previos de dolor torácico
+T14	NegSynMarker 596 598	no
+T15	Phrase 599 616	acude al servicio
+T16	NegSynMarker 686 688	No
+T17	DISO 689 726	movimientos tónico-clónicos asociados
+T18	NegSynMarker 729 731	no
+T19	DISO 732 756	relajación de esfínteres
+T20	NegSynMarker 928 930	No
+T21	DISO 931 939	oliguria
+T22	NegSynMarker 942 944	no
+T23	DISO 945 967	edemas en extremidades
+T24	NegSynMarker 1068 1071	sin
+T25	DISO 1072 1086	dolor torácico
+T26	Phrase 1072 1096	dolor torácico ni disnea
+T27	CoordItem 1087 1089	ni
+T28	DISO 1090 1096	disnea
+T29	NegSynMarker 1131 1134	sin
+T30	DISO 1135 1138	TCE
+T31	NegSynMarker 1154 1157	sin
+T32	Phrase 1158 1176	signos de isquemia
+T33	DISO 1168 1176	isquemia
+T34	NegSynMarker 1350 1353	sin
+T35	DISO 1354 1361	déficit
+T36	NegSynMarker 1388 1390	No
+T37	DISO 1391 1442	focalidad neurológica previa ni posterior al cuadro
+T38	CoordItem 1420 1422	ni
+T39	NegSynMarker 1445 1447	No
+T40	Phrase 1448 1474	refiere náuseas ni vómitos
+T41	DISO 1456 1463	náuseas
+T42	CoordItem 1464 1466	ni
+T43	DISO 1467 1474	vómitos
+T44	NegSynMarker 1477 1479	no
+T45	DISO 1480 1486	disnea
+T46	NegSynMarker 1489 1491	no
+T47	DISO 1492 1502	sudoracion
+T48	NegSynMarker 1505 1507	No
+T49	DISO 1508 1527	ha estado en reposo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T16 Arg2:T17
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T26
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T34 Arg2:T35
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T46 Arg2:T47
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T48 Arg2:T49

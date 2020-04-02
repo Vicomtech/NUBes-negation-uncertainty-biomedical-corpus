@@ -1,0 +1,7 @@
+T1	NegSynMarker 132 135	sin
+T2	DISO 136 148	alteraciones
+T3	UncertLexMarker 278 286	probable
+T4	DISO 287 306	basocelular nodular
+T5	Phrase 287 320	basocelular nodular de unos 6 mms
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T5

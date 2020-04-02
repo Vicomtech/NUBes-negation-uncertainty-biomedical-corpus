@@ -1,0 +1,70 @@
+T1	NegSynMarker 50 53	sin
+T2	Phrase 54 78	datos de neumonia y/o IC
+T3	DISO 63 71	neumonia
+T4	CoordItem 72 75	y/o
+T5	DISO 76 78	IC
+T6	UncertLexMarker 235 240	puede
+T7	Phrase 241 256	ser artefactual
+T8	DISO 245 256	artefactual
+T9	UncertLexMarker 656 670	compatible con
+T10	DISO 671 693	un cuadro peritonítico
+T11	UncertLexMarker 698 706	probable
+T12	DISO 707 729	fuga de la anastomosis
+T13	UncertLexMarker 1114 1127	probablemente
+T14	DISO 1128 1138	secundario
+T15	NegSynMarker 1431 1434	sin
+T16	DISO 1435 1478	otros signos que sugieran colitis isquémica
+T17	NegSynMarker 1620 1623	Sin
+T18	OTHER 1624 1673	contrainciaciones para la intervención quirurgica
+T19	NegSynMarker 1676 1678	No
+T20	DISO 1679 1682	tos
+T21	Phrase 1679 1699	tos ni expectoracion
+T22	CoordItem 1683 1685	ni
+T23	DISO 1686 1699	expectoracion
+T24	NegSynMarker 1700 1702	No
+T25	DISO 1703 1717	dolor toracico
+T26	UncertLexMarker 1974 1981	sugiere
+T27	DISO 1982 2006	perforación a este nivel
+T28	UncertLexMarker 2071 2078	Valorar
+T29	DISO 2079 2114	dehiscencia a nivel de ileon distal
+T30	NegSynMarker 2209 2212	sin
+T31	SUBS 2213 2227	contraste oral
+T32	UncertLexMarker 2369 2380	Orientación
+T33	DISO 2395 2409	Neumoperitoneo
+T34	Phrase 2395 2467	Neumoperitoneo , probablemente secundario a perforación de víscera hueca
+T35	UncertLexMarker 2412 2425	probablemente
+T36	DISO 2426 2436	secundario
+T37	NegSynMarker 2559 2562	sin
+T38	DISO 2563 2575	alteraciones
+T39	UncertLexMarker 2598 2609	Orientación
+T40	Phrase 2624 2733	Cambios postquirúrgicos de hemicolectomía derecha , con un cuadro peritonítico por probable fuga anastomótica
+T41	DISO 2624 2673	Cambios postquirúrgicos de hemicolectomía derecha
+T42	UncertLexMarker 2707 2715	probable
+T43	DISO 2716 2733	fuga anastomótica
+T44	UncertLexMarker 2771 2784	impresiona de
+T45	Phrase 2785 2811	presencia de liquido libre
+T46	DISO 2798 2811	liquido libre
+T47	NegSynMarker 2843 2846	sin
+T48	Phrase 2847 2866	datos IC / neumonia
+T49	DISO 2853 2855	IC
+T50	CoordItem 2856 2857	/
+T51	DISO 2858 2866	neumonia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T21
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T42 Arg2:T43
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T47 Arg2:T48

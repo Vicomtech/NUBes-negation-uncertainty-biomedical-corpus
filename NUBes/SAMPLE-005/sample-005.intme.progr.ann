@@ -1,0 +1,234 @@
+T1	NegLexMarker 0 14	Hemos retirado
+T2	Phrase 15 67	el tratamiento con espironolactona que venía tomando
+T3	SUBS 34 49	espironolactona
+T4	PROC 112 131	el exudado inguinal
+T5	NegLexMarker 136 144	negativo
+T6	UncertLexMarker 242 255	probablemente
+T7	DISO 256 296	descompensada por infección respiratoria
+T8	NegSynMarker 445 447	No
+T9	Phrase 448 493	presento nuevos episodios de mareo ni sincope
+T10	DISO 477 482	mareo
+T11	CoordItem 483 485	ni
+T12	DISO 486 493	sincope
+T13	NegSynMarker 1006 1008	no
+T14	Phrase 1009 1068	se apreciaron signos de neumonia en la radiografia de tórax
+T15	DISO 1033 1068	neumonia en la radiografia de tórax
+T16	UncertLexMarker 1131 1138	valorar
+T17	OTHER 1139 1174	aumentar en función de la evolución
+T18	NegLexMarker 1319 1328	se retira
+T19	Phrase 1329 1355	tratamiento anticoagulante
+T20	SUBS 1341 1355	anticoagulante
+T21	NegLexMarker 2116 2125	se retiro
+T22	Phrase 2126 2157	el tratamiento con acenocumarol
+T23	SUBS 2145 2157	acenocumarol
+T24	NegSynMarker 2313 2315	No
+T25	Phrase 2316 2345	presentó otras complicaciones
+T26	DISO 2325 2345	otras complicaciones
+T27	NegSynMarker 2779 2781	no
+T28	Phrase 2782 2819	ha presentado fiebre durante el mismo
+T29	DISO 2796 2819	fiebre durante el mismo
+T30	NegSynMarker 2846 2849	sin
+T31	Phrase 2850 2871	evidencia de sangrado
+T32	DISO 2863 2871	sangrado
+T33	UncertLexMarker 2874 2881	Valorar
+T34	OTHER 2882 2931	reiniciar acenocumarol en función de la evolucion
+T35	UncertLexMarker 2957 2964	posible
+T36	DISO 2965 2998	hemorragia digestiva intermitente
+T37	Phrase 3001 3047	estudio gastro-colono 2.000 por la misma causa
+T38	PROC 3001 3022	estudio gastro-colono
+T39	NegLexMarker 3066 3074	negativo
+T40	Phrase 3075 3103	para patología significativa
+T41	UncertLexMarker 3366 3381	compatibles con
+T42	DISO 3382 3408	espondilodiscitis en L1-L2
+T43	UncertLexMarker 3428 3443	compatibles con
+T44	DISO 3444 3495	artritis infecciosa de la articulación glenohumeral
+T45	Phrase 3444 3530	artritis infecciosa de la articulación glenohumeral / bursitis y/ó miositis infecciosa
+T46	CoordItem 3496 3497	/
+T47	DISO 3498 3506	bursitis
+T48	CoordItem 3507 3510	y/ó
+T49	DISO 3511 3530	miositis infecciosa
+T50	NegSynMarker 3626 3628	no
+T51	Phrase 3629 3674	se apreciaron datos de encefalopatía hepática
+T52	DISO 3652 3674	encefalopatía hepática
+T53	UncertLexMarker 3743 3756	probablemente
+T54	DISO 3757 3763	tipo 2
+T55	UncertLexMarker 4302 4310	Probable
+T56	DISO 4311 4367	polineuropatia distal en relación a su proceso diabético
+T57	UncertLexMarker 4523 4530	Creemos
+T58	DISO 4531 4571	se trata de un paciente portador de SARM
+T59	OTHER 4543 4571	un paciente portador de SARM
+T60	NegSynMarker 4642 4645	sin
+T61	SUBS 4646 4656	medicación
+T62	NegSynMarker 5173 5176	sin
+T63	DISO 5177 5201	hallazgos significativos
+T64	NegSynMarker 7035 7038	sin
+T65	DISO 7039 7044	dolor
+T66	NegSynMarker 7306 7309	sin
+T67	DISO 7310 7344	antecedentes de toma de amiodarona
+T68	NegSynMarker 7363 7366	sin
+T69	DISO 7367 7388	nódulos predominantes
+T70	NegSynMarker 7523 7526	sin
+T71	DISO 7527 7533	fiebre
+T72	UncertLexMarker 8086 8103	interpretado como
+T73	Phrase 8104 8146	infarto pulmonar hace 1 mes ( en agiotac )
+T74	DISO 8104 8120	infarto pulmonar
+T75	NegSynMarker 8257 8259	No
+T76	Phrase 8260 8337	se realizo estudio mediante TAC con contraste debido a la insuficiencia renal
+T77	PROC 8271 8305	estudio mediante TAC con contraste
+T78	NegSynMarker 8643 8645	no
+T79	DISO 8646 8655	irradiado
+T80	NegSynMarker 8678 8681	sin
+T81	DISO 8682 8696	cambios en ECG
+T82	PROC 8703 8720	enzimas cardiacas
+T83	NegLexMarker 8721 8730	negativas
+T84	PROC 8744 8775	estudio de perfusión miocárdica
+T85	NegLexMarker 8792 8800	negativo
+T86	UncertLexMarker 8837 8844	posible
+T87	DISO 8845 8878	relación a la toma de rifampicina
+T88	NegSynMarker 9220 9222	no
+T89	Phrase 9223 9246	se realiza colonoscopia
+T90	PROC 9234 9246	colonoscopia
+T91	NegLexMarker 9385 9396	suspendemos
+T92	SUBS 9397 9404	sintrom
+T93	NegSynMarker 9512 9514	no
+T94	Phrase 9515 9563	habiendo precisado la administración de insulina
+T95	OTHER 9524 9563	precisado la administración de insulina
+T96	NegSynMarker 9602 9604	no
+T97	Phrase 9605 9641	había tolerado la toma de metformina
+T98	DISO 9611 9641	tolerado la toma de metformina
+T99	NegMorMarker 9716 9730	desorientacion
+T100	NegLexMarker 9862 9873	retirada de
+T101	SUBS 9874 9886	nefrotóxicos
+T102	Phrase 9874 9914	nefrotóxicos y de retenedores de potasio
+T103	SUBS 9892 9914	retenedores de potasio
+T104	Phrase 10045 10108	los resultados de los cultivos realizados y pruebas serológicas
+T105	PROC 10063 10086	los cultivos realizados
+T106	PROC 10089 10108	pruebas serológicas
+T107	NegLexMarker 10118 10127	negativos
+T108	NegSynMarker 10130 10132	No
+T109	Phrase 10133 10190	presento complicaciones en relacion al traumatismo costal
+T110	DISO 10142 10190	complicaciones en relacion al traumatismo costal
+T111	NegSynMarker 10604 10607	sin
+T112	Phrase 10608 10657	evidencia de sintomas o signos de otra enfermedad
+T113	DISO 10642 10657	otra enfermedad
+T114	NegSynMarker 10660 10663	sin
+T115	Phrase 10664 10717	evidencia de neoplasia oculta en el estudio realizado
+T116	DISO 10677 10717	neoplasia oculta en el estudio realizado
+T117	NegLexMarker 10853 10861	retirada
+T118	UncertLexMarker 11035 11043	probable
+T119	DISO 11044 11096	relación a nefroangioesclerosis nefropatia diabetica
+T120	NegSynMarker 11437 11440	sin
+T121	OTHER 11441 11460	efectos secundarios
+T122	UncertLexMarker 12273 12286	probablemente
+T123	DISO 12287 12300	medicamentosa
+T124	NegSynMarker 12958 12960	no
+T125	Phrase 12961 12991	realizar mas pruebas invasivas
+T126	PROC 12970 12991	mas pruebas invasivas
+T127	NegSynMarker 13186 13188	no
+T128	Phrase 13189 13234	ha presentado episodios de mareos ni síncopes
+T129	DISO 13216 13222	mareos
+T130	CoordItem 13223 13225	ni
+T131	DISO 13226 13234	síncopes
+T132	NegSynMarker 13339 13341	no
+T133	Phrase 13342 13389	ha presentado empeoramiento de la función renal
+T134	DISO 13356 13389	empeoramiento de la función renal
+T135	UncertLexMarker 13392 13400	No clara
+T136	DISO 13401 13420	mejoría en Rx tórax
+T137	NegSynMarker 13922 13925	sin
+T138	DISO 13926 13951	alteraciones gasométricas
+T139	NegLexMarker 14311 14329	imposibilidad para
+T140	OTHER 14330 14367	controlar su apetencia por los dulces
+T141	NegLexMarker 14764 14773	descartan
+T142	OTHER 14774 14807	fallos en el sensado y la captura
+T143	NegSynMarker 14829 14831	no
+T144	Phrase 14832 14883	se realizan modificaciones en el sistema implantado
+T145	OTHER 14844 14883	modificaciones en el sistema implantado
+T146	PROC 14938 14943	zhiel
+T147	NegLexMarker 14944 14952	negativo
+T148	Phrase 14985 14994	BAS y BAL
+T149	PROC 14985 14988	BAS
+T150	CoordItem 14989 14990	y
+T151	PROC 14991 14994	BAL
+T152	NegLexMarker 14997 15005	negativo
+T153	Phrase 15006 15027	para celulas malignas
+T154	PROC 15028 15033	zhiel
+T155	NegLexMarker 15034 15042	negativo
+T156	OTHER 15217 15269	rebajar la medicación de tipo ansiolitico que tomaba
+T157	NegLexMarker 15297 15306	imposible
+T158	NegLexMarker 15427 15435	dejar de
+T159	OTHER 15436 15441	fumar
+T160	NegLexMarker 15711 15715	cede
+T161	DISO 15716 15737	la sensación nauseosa
+T162	NegSynMarker 15740 15742	no
+T163	Phrase 15743 15769	volvió a presentar diarrea
+T164	DISO 15762 15769	diarrea
+T165	UncertLexMarker 15780 15791	sospecha de
+T166	DISO 15792 15812	tuberculosis pleural
+T167	UncertLexMarker 16139 16145	podria
+T168	Phrase 16146 16192	intentar reintroducir la metformina que tomaba
+T169	OTHER 16155 16192	reintroducir la metformina que tomaba
+T170	NegLexMarker 16763 16771	retirada
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T30 Arg2:T31
+R12	Scope Arg1:T33 Arg2:T34
+R13	DiscScope Arg1:T39 Arg2:T40
+R14	DiscScope Arg1:T39 Arg2:T37
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T43 Arg2:T45
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T50 Arg2:T51
+R19	Scope Arg1:T53 Arg2:T54
+R20	Scope Arg1:T55 Arg2:T56
+R21	Scope Arg1:T57 Arg2:T58
+R22	Scope Arg1:T60 Arg2:T61
+R23	Scope Arg1:T62 Arg2:T63
+R24	Scope Arg1:T64 Arg2:T65
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T68 Arg2:T69
+R27	Scope Arg1:T70 Arg2:T71
+R28	Scope Arg1:T72 Arg2:T73
+R29	Scope Arg1:T75 Arg2:T76
+R30	Scope Arg1:T85 Arg2:T84
+R31	Scope Arg1:T80 Arg2:T81
+R32	Scope Arg1:T83 Arg2:T82
+R33	Scope Arg1:T78 Arg2:T79
+R34	Scope Arg1:T86 Arg2:T87
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T91 Arg2:T92
+R37	Scope Arg1:T93 Arg2:T94
+R38	Scope Arg1:T96 Arg2:T97
+R39	Scope Arg1:T100 Arg2:T102
+R40	Scope Arg1:T107 Arg2:T104
+R41	Scope Arg1:T108 Arg2:T109
+R42	Scope Arg1:T111 Arg2:T112
+R43	Scope Arg1:T114 Arg2:T115
+R44	Scope Arg1:T118 Arg2:T119
+R45	Scope Arg1:T120 Arg2:T121
+R46	Scope Arg1:T122 Arg2:T123
+R47	Scope Arg1:T124 Arg2:T125
+R48	Scope Arg1:T127 Arg2:T128
+R49	Scope Arg1:T132 Arg2:T133
+R50	Scope Arg1:T135 Arg2:T136
+R51	Scope Arg1:T137 Arg2:T138
+R52	Scope Arg1:T139 Arg2:T140
+R53	Scope Arg1:T143 Arg2:T144
+R54	Scope Arg1:T141 Arg2:T142
+R55	DiscScope Arg1:T152 Arg2:T153
+R56	DiscScope Arg1:T152 Arg2:T148
+R57	Scope Arg1:T147 Arg2:T146
+R58	Scope Arg1:T155 Arg2:T154
+R59	Scope Arg1:T157 Arg2:T156
+R60	Scope Arg1:T158 Arg2:T159
+R61	Scope Arg1:T162 Arg2:T163
+R62	Scope Arg1:T160 Arg2:T161
+R63	Scope Arg1:T165 Arg2:T166
+R64	Scope Arg1:T167 Arg2:T168

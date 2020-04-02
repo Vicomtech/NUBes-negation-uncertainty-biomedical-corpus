@@ -1,0 +1,31 @@
+T1	NegSynMarker 80 82	No
+T2	DISO 83 96	alt de fuerza
+T3	NegSynMarker 114 116	No
+T4	Phrase 117 160	deformidades ni signos de derrame articular
+T5	DISO 117 129	deformidades
+T6	CoordItem 130 132	ni
+T7	DISO 143 160	derrame articular
+T8	NegSynMarker 295 297	no
+T9	Phrase 298 306	posibles
+T10	NegSynMarker 320 323	sin
+T11	DISO 324 336	alteraciones
+T12	NegSynMarker 377 380	sin
+T13	DISO 381 393	deformidades
+T14	NegSynMarker 396 398	No
+T15	DISO 399 431	dolor en base de 5º metatarsiano
+T16	NegSynMarker 495 497	No
+T17	DISO 498 505	ciático
+T18	NegSynMarker 508 510	no
+T19	DISO 511 526	trocánter mayor
+T20	NegMorMarker 807 814	afebril
+T21	NegSynMarker 953 955	No
+T22	DISO 956 981	puntos dolorosos lumbares
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T8 Arg2:T9
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22

@@ -1,0 +1,133 @@
+T1	UncertLexMarker 118 137	pueden corresponder
+T2	Phrase 138 219	tanto a neoformaciones vesicales como a contenido hemático coagulado ( coágulos )
+T3	CoordItem 138 145	tanto a
+T4	DISO 146 170	neoformaciones vesicales
+T5	CoordItem 171 177	como a
+T6	DISO 178 206	contenido hemático coagulado
+T7	UncertLexMarker 267 281	COMPATIBLE CON
+T8	DISO 282 300	CISTITIS FOLICULAR
+T9	NegSynMarker 875 877	no
+T10	DISO 878 889	obstructivo
+T11	NegSynMarker 953 956	Sin
+T12	Phrase 957 990	evidencia de uropatía obstructiva
+T13	DISO 970 990	uropatía obstructiva
+T14	NegSynMarker 1136 1138	no
+T15	OTHER 1139 1158	precisa tratamiento
+T16	NegSynMarker 1257 1260	sin
+T17	DISO 1261 1284	alteraciones reseñables
+T18	NegSynMarker 1364 1367	sin
+T19	DISO 1368 1395	alteraciones significativas
+T20	NegSynMarker 1470 1472	no
+T21	Phrase 1473 1498	administrar más contraste
+T22	SUBS 1485 1498	más contraste
+T23	NegSynMarker 1645 1648	sin
+T24	Phrase 1649 1674	imágenes de hidronefrosis
+T25	DISO 1661 1674	hidronefrosis
+T26	NegSynMarker 1770 1773	sin
+T27	DISO 1774 1795	hallazgos patológicos
+T28	NegSynMarker 2034 2037	sin
+T29	DISO 2038 2080	cambios isquemicos en el EKG intraepisodio
+T30	NegSynMarker 2083 2085	No
+T31	Phrase 2086 2120	veo nefrolitiasis ni hidronefrosis
+T32	DISO 2090 2103	nefrolitiasis
+T33	CoordItem 2104 2106	ni
+T34	DISO 2107 2120	hidronefrosis
+T35	NegSynMarker 2134 2137	sin
+T36	DISO 2138 2150	alteraciones
+T37	NegSynMarker 2286 2288	no
+T38	OTHER 2289 2335	se ve el uréter medio por superposición de gas
+T39	NegSynMarker 2391 2393	no
+T40	Phrase 2394 2415	esta muy replecionada
+T41	DISO 2399 2415	muy replecionada
+T42	NegSynMarker 2418 2425	tampoco
+T43	Phrase 2426 2463	se objetiva ninguna causa obstructiva
+T44	PolItem 2438 2445	ninguna
+T45	DISO 2446 2463	causa obstructiva
+T46	UncertLexMarker 2466 2485	primera posibilidad
+T47	Phrase 2486 2534	a descartar litiasis obstructiva en uréter medio
+T48	NegLexMarker 2488 2497	descartar
+T49	DISO 2498 2534	litiasis obstructiva en uréter medio
+T50	NegMorMarker 2548 2560	asintomático
+T51	NegSynMarker 2581 2583	no
+T52	Phrase 2584 2613	presentan evolutividad alguna
+T53	DISO 2594 2606	evolutividad
+T54	PolItem 2607 2613	alguna
+T55	NegSynMarker 2855 2858	sin
+T56	DISO 2859 2883	dilataciones patologicas
+T57	NegSynMarker 3000 3003	Sin
+T58	DISO 3004 3043	alteraciones ecográficas significativas
+T59	UncertLexMarker 3129 3132	sin
+T60	Phrase 3133 3139	signos
+T61	UncertLexMarker 3140 3149	evidentes
+T62	DISO 3150 3165	de colecistitis
+T63	UncertLexMarker 3171 3177	podría
+T64	PROC 3178 3190	realizar TAC
+T65	Phrase 3178 3285	realizar TAC para valorar el quiste atípico renal izquierdo y la lesión sangrante no vista con esta técnica
+T66	NegSynMarker 3260 3262	no
+T67	OTHER 3263 3285	vista con esta técnica
+T68	UncertLexMarker 3617 3630	probablemente
+T69	DISO 3631 3645	sobreinfectado
+T70	UncertLexMarker 3881 3895	COMPATIBLE CON
+T71	DISO 3896 3939	HIPERPLASIA MUSCULOGLANDULAR DE LA PROSTATA
+T72	UncertLexMarker 4004 4012	probable
+T73	DISO 4013 4045	hipertrofia de columna de Bertín
+T74	UncertLexMarker 4232 4240	probable
+T75	DISO 4241 4272	hipertrofia prostática grado II
+T76	UncertLexMarker 4279 4287	probable
+T77	DISO 4288 4310	prostatectomía parcial
+T78	NegSynMarker 4753 4756	sin
+T79	Phrase 4757 4797	imágenes de litiasis ni de hidronefrosis
+T80	DISO 4769 4777	litiasis
+T81	CoordItem 4778 4780	ni
+T82	DISO 4784 4797	hidronefrosis
+T83	NegSynMarker 4946 4948	no
+T84	Phrase 4949 5023	se considera que los episodios dolorosos se deban a su patologia coronaria
+T85	DISO 4966 5023	los episodios dolorosos se deban a su patologia coronaria
+T86	NegSynMarker 5067 5069	no
+T87	Phrase 5070 5095	indico tratamiento alguno
+T88	PROC 5077 5088	tratamiento
+T89	PolItem 5089 5095	alguno
+T90	NegSynMarker 5218 5221	sin
+T91	DISO 5222 5251	lesiones ocupantes de espacio
+T92	UncertLexMarker 5365 5380	Compatibles con
+T93	DISO 5381 5411	neoplasia vesical y prostática
+T94	NegSynMarker 5518 5520	no
+T95	Phrase 5521 5540	se aprecia litiasis
+T96	DISO 5532 5540	litiasis
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T35 Arg2:T36
+R14	Scope Arg1:T48 Arg2:T49
+R15	Scope Arg1:T42 Arg2:T43
+R16	Scope Arg1:T46 Arg2:T47
+R17	Scope Arg1:T37 Arg2:T38
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T51 Arg2:T52
+R20	Scope Arg1:T55 Arg2:T56
+R21	Scope Arg1:T57 Arg2:T58
+R22	DiscScope Arg1:T61 Arg2:T60
+R23	DiscMarker Arg1:T59 Arg2:T61
+R24	DiscScope Arg1:T61 Arg2:T62
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T63 Arg2:T65
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T72 Arg2:T73
+R30	Scope Arg1:T76 Arg2:T77
+R31	Scope Arg1:T74 Arg2:T75
+R32	Scope Arg1:T78 Arg2:T79
+R33	Scope Arg1:T86 Arg2:T87
+R34	Scope Arg1:T83 Arg2:T84
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T92 Arg2:T93
+R37	Scope Arg1:T94 Arg2:T95

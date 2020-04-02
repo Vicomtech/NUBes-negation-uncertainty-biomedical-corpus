@@ -1,0 +1,305 @@
+T1	NegSynMarker 126 128	no
+T2	Phrase 129 172	se aprecian signos de sangrado intracraneal
+T3	DISO 151 172	sangrado intracraneal
+T4	UncertLexMarker 229 236	posible
+T5	Phrase 237 446	que , dado el momento en el que sucedió el cuadro clinico ( de madrugada ) , el predominio vagal que hay en ese momento concreto del día haya precipitado la clinica tras un tilt test realizado en forma cercana
+T6	DISO 314 401	el predominio vagal que hay en ese momento concreto del día haya precipitado la clinica
+T7	SUBS 513 523	ampicilina
+T8	NegLexMarker 524 535	retirándose
+T9	Phrase 536 587	esta última tras conocer los resultados del liquido
+T10	NegMorMarker 1016 1028	asintomática
+T11	UncertLexMarker 1435 1446	sospecha de
+T12	Phrase 1447 1465	posible meningitis
+T13	PolItem 1447 1454	posible
+T14	DISO 1455 1465	meningitis
+T15	UncertLexMarker 1773 1785	posiblemente
+T16	DISO 1786 1809	precipitada por una ITU
+T17	NegMorMarker 2006 2018	asintomático
+T18	NegSynMarker 2087 2089	no
+T19	DISO 2090 2115	ve este tipo de patologia
+T20	UncertLexMarker 2198 2209	sospecha de
+T21	DISO 2210 2226	status migrañoso
+T22	Phrase 2753 2807	la presencia de un infarto lacunar hemisferico derecho
+T23	DISO 2769 2807	un infarto lacunar hemisferico derecho
+T24	UncertLexMarker 2812 2824	justificaria
+T25	Phrase 2825 2862	la clinica presentada por el paciente
+T26	UncertLexMarker 3175 3183	probable
+T27	DISO 3184 3204	intoxicación enólica
+T28	NegSynMarker 3257 3259	no
+T29	DISO 3260 3270	desplazada
+T30	NegSynMarker 3358 3361	sin
+T31	OTHER 3362 3418	poder aportar datos acerca de su mecanismo de producción
+T32	UncertLexMarker 3539 3545	parece
+T33	DISO 3546 3564	claramente cronica
+T34	PolItem 3546 3556	claramente
+T35	NegSynMarker 3677 3679	no
+T36	Phrase 3680 3778	recuerda traumatismo alguno a dicho nivel ni haber presentado ninguna patologia neurologica previa
+T37	DISO 3689 3721	traumatismo alguno a dicho nivel
+T38	PolItem 3701 3707	alguno
+T39	CoordItem 3722 3724	ni
+T40	DISO 3742 3778	ninguna patologia neurologica previa
+T41	PolItem 3742 3749	ninguna
+T42	UncertLexMarker 4008 4015	posible
+T43	DISO 4016 4038	déficit de complemento
+T44	Phrase 4016 4062	déficit de complemento en el caso del paciente
+T45	NegSynMarker 4180 4182	no
+T46	Phrase 4183 4246	han mostrado hallazgos de interés en las pruebas de neuroimagen
+T47	DISO 4196 4216	hallazgos de interés
+T48	NegLexMarker 4258 4268	descartado
+T49	DISO 4269 4408	una causa estructural responsable de origen tumoral , vascular ( infarto , hemorragia , trombosis senos venosos , .. ) o de otra naturaleza
+T50	UncertLexMarker 4501 4503	no
+T51	Phrase 4504 4517	se apreciaban
+T52	UncertLexMarker 4518 4524	claros
+T53	DISO 4525 4541	signos meníngeos
+T54	NegLexMarker 4733 4747	suspension del
+T55	Phrase 4748 4774	tratamiento anticoagulante
+T56	SUBS 4760 4774	anticoagulante
+T57	UncertLexMarker 5302 5309	posible
+T58	DISO 5310 5518	que la ITU intercurrente detectada en el presente ingreso y para la cual ha iniciado tratamiento antibiótico y el cambio de la cuidadora habitual de la paciente hayan sido factores precipitantes de la clínica
+T59	NegLexMarker 5680 5694	han descartado
+T60	Phrase 5695 5805	la presencia de sangrado intracraneal y de lesiones en el estuche oseo craneal a aconsecuencia del traumatismo
+T61	DISO 5711 5732	sangrado intracraneal
+T62	DISO 5738 5773	lesiones en el estuche oseo craneal
+T63	NegSynMarker 6120 6123	sin
+T64	DISO 6124 6147	antecedentes de interés
+T65	UncertLexMarker 6258 6265	posible
+T66	DISO 6266 6280	origen reflejo
+T67	UncertLexMarker 6318 6325	valorar
+T68	OTHER 6326 6350	inicio de insulinización
+T69	UncertLexMarker 6845 6854	sospechar
+T70	Phrase 6855 6913	la presencia de una demencia de base bastante evolucionada
+T71	DISO 6875 6913	demencia de base bastante evolucionada
+T72	UncertLexMarker 6914 6926	posiblemente
+T73	DISO 6927 6976	mixta degenerativa 1ª tipo E.Alzheimer y vascular
+T74	UncertLexMarker 7055 7062	pudiera
+T75	OTHER 7063 7104	beneficiarse de tratamiento rehabilitador
+T76	NegLexMarker 7294 7303	descartan
+T77	Phrase 7304 7393	tambien de forma razonable una posible arteritis de la temporal como origen de la clinica
+T78	PolItem 7312 7330	de forma razonable
+T79	DISO 7343 7393	arteritis de la temporal como origen de la clinica
+T80	UncertLexMarker 7504 7510	parece
+T81	Phrase 7511 7586	presentar episodio de debilidad más evidente en las extremidades izquierdas
+T82	DISO 7533 7542	debilidad
+T83	UncertLexMarker 7941 7949	sugieren
+T84	Phrase 7950 8022	un deficiente control glucemico así como oscilaciones en su cifras de TA
+T85	DISO 7950 7981	un deficiente control glucemico
+T86	CoordItem 7982 7990	así como
+T87	DISO 7991 8022	oscilaciones en su cifras de TA
+T88	UncertLexMarker 8175 8182	pudiera
+T89	Phrase 8183 8262	ser compatible con un infarto lacunar hemisférico derecho ( territorio de ACA )
+T90	PolItem 8187 8201	compatible con
+T91	DISO 8202 8240	un infarto lacunar hemisférico derecho
+T92	NegMorMarker 9321 9333	asintomático
+T93	NegSynMarker 9451 9453	no
+T94	Phrase 9454 9556	han apreciado lesiones estructurales cerebrales en la neuroimagen realizada que justifiquen la clínica
+T95	DISO 9468 9501	lesiones estructurales cerebrales
+T96	NegLexMarker 9952 9969	en ningún momento
+T97	Phrase 9970 10010	ha hecho referencia a intento autolitico
+T98	DISO 9992 10010	intento autolitico
+T99	UncertLexMarker 10553 10559	podria
+T100	Phrase 10560 10587	deberse a una cefalea mixta
+T101	DISO 10570 10587	una cefalea mixta
+T102	UncertLexMarker 10625 10632	pudiera
+T103	Phrase 10633 10728	ser sugestiva de una migraña como fenomeno predominante y un posible cefalea tensional asociada
+T104	PolItem 10637 10649	sugestiva de
+T105	DISO 10650 10688	una migraña como fenomeno predominante
+T106	PolItem 10694 10701	posible
+T107	DISO 10702 10728	cefalea tensional asociada
+T108	NegSynMarker 10790 10792	no
+T109	Phrase 10793 10832	siendo partidarios del uso de triptanes
+T110	UncertLexMarker 10851 10870	desconociemiento de
+T111	DISO 10871 10890	situacion coronaria
+T112	UncertLexMarker 11474 11487	sugestivas de
+T113	DISO 11488 11534	infartos cerebrales en diversas localizaciones
+T114	UncertLexMarker 11577 11590	justificarian
+T115	DISO 11591 11614	la clinica del paciente
+T116	UncertLexMarker 11615 11628	sugestivas de
+T117	DISO 11629 11637	embolias
+T118	UncertLexMarker 11643 11651	probable
+T119	DISO 11652 11667	origen cardiaco
+T120	UncertLexMarker 11767 11780	probablemente
+T121	DISO 11781 11794	significativa
+T122	UncertLexMarker 11976 11984	probable
+T123	DISO 11985 12006	origen cardioembólico
+T124	NegLexMarker 12270 12283	ha descartado
+T125	DISO 12284 12305	sangrado intracraneal
+T126	UncertLexMarker 12559 12566	posible
+T127	DISO 12567 12592	malignización a linfoma B
+T128	SUBS 12990 13015	tratamiento farmacológico
+T129	NegLexMarker 13016 13030	suspendiéndose
+T130	NegSynMarker 13516 13519	sin
+T131	DISO 13520 13574	compromiso neurologico desde el punto de vista clinico
+T132	NegSynMarker 13827 13830	sin
+T133	DISO 13831 13842	incidencias
+T134	NegMorMarker 13900 13912	asintomático
+T135	NegSynMarker 13913 13916	sin
+T136	Phrase 13917 13991	volver a presentar más episodios similares al que motivó el ingreso actual
+T137	DISO 13936 13991	más episodios similares al que motivó el ingreso actual
+T138	Phrase 14203 14244	la presencia de una lesión protuberancial
+T139	DISO 14219 14244	una lesión protuberancial
+T140	UncertLexMarker 14249 14261	justificaría
+T141	Phrase 14262 14272	la clínica
+T142	NegMorMarker 14836 14848	asintomático
+T143	UncertLexMarker 15076 15088	sugestivo de
+T144	DISO 15089 15102	afasia global
+T145	NegLexMarker 15270 15284	han descartado
+T146	Phrase 15285 15395	la presencia de una lesión orgánica estructural neurológica que justifique la clínica que presenta la paciente
+T147	DISO 15301 15370	una lesión orgánica estructural neurológica que justifique la clínica
+T148	UncertLexMarker 15465 15472	posible
+T149	Phrase 15473 15488	dudosa neumonia
+T150	PolItem 15473 15479	dudosa
+T151	DISO 15480 15488	neumonia
+T152	UncertLexMarker 15493 15502	no parece
+T153	DISO 15503 15557	haberse confirmado en RX toracicas seriadas realizadas
+T154	UncertLexMarker 15660 15670	impresiona
+T155	Phrase 15671 15724	de un posible ictus de arteria cerebral media derecha
+T156	PolItem 15677 15684	posible
+T157	DISO 15685 15724	ictus de arteria cerebral media derecha
+T158	NegSynMarker 16074 16076	no
+T159	Phrase 16077 16162	volviendo a presentar episodios de características similares al que motivó el ingreso
+T160	DISO 16099 16162	episodios de características similares al que motivó el ingreso
+T161	NegSynMarker 16509 16511	no
+T162	Phrase 16512 16817	habiéndose detectado en las técnicas de neuroimagen realizadas ( 2 TAC craneales no siendo posible la realizacion de RMN al ser portador de MP cardiaco ) la presencia de una lesión hemisférica derecha que pudiera ser compatible con un infarto lacunar que justificaría la clínica presentada por el paciente
+T163	NegSynMarker 16593 16595	no
+T164	Phrase 16596 16663	siendo posible la realizacion de RMN al ser portador de MP cardiaco
+T165	PROC 16611 16632	la realizacion de RMN
+T166	DISO 16682 16762	una lesión hemisférica derecha que pudiera ser compatible con un infarto lacunar
+T167	UncertLexMarker 16729 16743	compatible con
+T168	DISO 16744 16762	un infarto lacunar
+T169	UncertLexMarker 16990 17004	compatible con
+T170	DISO 17005 17038	un infarto protuberancial derecho
+T171	NegSynMarker 17865 17867	no
+T172	Phrase 17868 17933	se han apreciado datos de focalidad neurologica en ningun momento
+T173	DISO 17894 17915	focalidad neurologica
+T174	PolItem 17919 17925	ningun
+T175	UncertLexMarker 18013 18021	sospecha
+T176	Phrase 18022 18041	diagnóstica de ACVA
+T177	DISO 18037 18041	ACVA
+T178	NegSynMarker 18708 18710	no
+T179	Phrase 18711 18734	se encuentran presentes
+T180	Phrase 18894 19049	la presencia de una lesión hemorrágica inicialmente etiquetada de subaracnoidea y posteriormente de hematoma intraparenquimatoso temporo-parietal izquierdo
+T181	DISO 18910 19049	una lesión hemorrágica inicialmente etiquetada de subaracnoidea y posteriormente de hematoma intraparenquimatoso temporo-parietal izquierdo
+T182	UncertLexMarker 19054 19066	justificaría
+T183	Phrase 19067 19077	la clínica
+T184	DISO 19536 19602	una demencia mixta ( degenerativa 1ª tipo E.Alzheimer y vascular )
+T185	UncertLexMarker 19603 19611	probable
+T186	UncertLexMarker 19612 19625	probablemente
+T187	DISO 19626 19681	desencadena por ITU intercurrente y cambio de cuidadora
+T188	NegSynMarker 20159 20161	no
+T189	Phrase 20162 20346	han mostrado , desde el punto de vista de la neuroimagen , la presencia de una lesión estructural parenquimatosa cerebral en relación a un infarto establecido que justifique la clínica
+T190	DISO 20241 20346	lesión estructural parenquimatosa cerebral en relación a un infarto establecido que justifique la clínica
+T191	UncertLexMarker 20391 20403	sugestiva de
+T192	DISO 20404 20426	encefalopatía vascular
+T193	NegSynMarker 20478 20481	sin
+T194	DISO 20482 20491	estenosis
+T195	NegSynMarker 20740 20742	no
+T196	Phrase 20743 20793	ha registrado presencia de actividad epileptiforme
+T197	DISO 20770 20793	actividad epileptiforme
+T198	NegSynMarker 20824 20827	sin
+T199	DISO 20828 20848	hallazgos reseñables
+T200	NegMorMarker 20921 20928	afebril
+T201	NegLexMarker 21252 21266	han descartado
+T202	Phrase 21269 21397	desde el punto de vista neurológico , la presencia de lesiones intracraneales o del estuche óseo relacionadas con el traumatismo
+T203	DISO 21323 21397	lesiones intracraneales o del estuche óseo relacionadas con el traumatismo
+T204	UncertLexMarker 21754 21767	impresiona de
+T205	DISO 21768 21801	alteracion de nivel de conciencia
+T206	Phrase 21768 21943	alteracion de nivel de conciencia con crisis comiciales de probable origen metabólico ( i. renal , acidosis lactica , ... ) de causa no determinada en paciente pluripatologica
+T207	UncertLexMarker 21827 21835	probable
+T208	DISO 21836 21853	origen metabólico
+T209	NegSynMarker 21901 21903	no
+T210	DISO 21904 21915	determinada
+T211	UncertLexMarker 21946 21947	¿
+T212	PolItem 21948 21955	posible
+T213	Phrase 21948 21962	posible sepsis
+T214	DISO 21956 21962	sepsis
+T215	UncertLexMarker 21963 21964	?
+T216	NegSynMarker 22014 22017	sin
+T217	DISO 22018 22055	factores de riesgo vascular conocidos
+T218	UncertLexMarker 22279 22285	podria
+T219	Phrase 22286 22359	obedecer a un posible AIT hemisférico izquierdo en contexto de crisis HTA
+T220	PolItem 22300 22307	posible
+T221	DISO 22308 22359	AIT hemisférico izquierdo en contexto de crisis HTA
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T8 Arg2:T7
+R4	DiscScope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	DiscScope Arg1:T24 Arg2:T25
+R10	DiscScope Arg1:T24 Arg2:T22
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T35 Arg2:T36
+R16	Scope Arg1:T42 Arg2:T44
+R17	Scope Arg1:T45 Arg2:T46
+R18	Scope Arg1:T48 Arg2:T49
+R19	DiscMarker Arg1:T50 Arg2:T52
+R20	DiscScope Arg1:T52 Arg2:T51
+R21	DiscScope Arg1:T52 Arg2:T53
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T59 Arg2:T60
+R25	Scope Arg1:T63 Arg2:T64
+R26	Scope Arg1:T65 Arg2:T66
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T72 Arg2:T73
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T83 Arg2:T84
+R34	Scope Arg1:T88 Arg2:T89
+R35	Scope Arg1:T93 Arg2:T94
+R36	Scope Arg1:T96 Arg2:T97
+R37	Scope Arg1:T99 Arg2:T100
+R38	Scope Arg1:T108 Arg2:T109
+R39	Scope Arg1:T110 Arg2:T111
+R40	Scope Arg1:T102 Arg2:T103
+R41	Scope Arg1:T120 Arg2:T121
+R42	Scope Arg1:T116 Arg2:T117
+R43	Scope Arg1:T118 Arg2:T119
+R44	Scope Arg1:T112 Arg2:T113
+R45	Scope Arg1:T114 Arg2:T115
+R46	Scope Arg1:T122 Arg2:T123
+R47	Scope Arg1:T124 Arg2:T125
+R48	Scope Arg1:T126 Arg2:T127
+R49	Scope Arg1:T129 Arg2:T128
+R50	Scope Arg1:T130 Arg2:T131
+R51	Scope Arg1:T132 Arg2:T133
+R52	Scope Arg1:T135 Arg2:T136
+R53	DiscScope Arg1:T140 Arg2:T141
+R54	DiscScope Arg1:T140 Arg2:T138
+R55	Scope Arg1:T143 Arg2:T144
+R56	Scope Arg1:T145 Arg2:T146
+R57	Scope Arg1:T148 Arg2:T149
+R58	Scope Arg1:T152 Arg2:T153
+R59	Scope Arg1:T154 Arg2:T155
+R60	Scope Arg1:T158 Arg2:T159
+R61	Scope Arg1:T163 Arg2:T164
+R62	Scope Arg1:T167 Arg2:T168
+R63	Scope Arg1:T161 Arg2:T162
+R64	Scope Arg1:T169 Arg2:T170
+R65	Scope Arg1:T171 Arg2:T172
+R66	Scope Arg1:T175 Arg2:T176
+R67	Scope Arg1:T178 Arg2:T179
+R68	DiscScope Arg1:T182 Arg2:T180
+R69	DiscScope Arg1:T182 Arg2:T183
+R70	Scope Arg1:T185 Arg2:T184
+R71	Scope Arg1:T186 Arg2:T187
+R72	Scope Arg1:T193 Arg2:T194
+R73	Scope Arg1:T191 Arg2:T192
+R74	Scope Arg1:T188 Arg2:T189
+R75	Scope Arg1:T195 Arg2:T196
+R76	Scope Arg1:T198 Arg2:T199
+R77	Scope Arg1:T201 Arg2:T202
+R78	DiscMarker Arg1:T211 Arg2:T215
+R79	Scope Arg1:T209 Arg2:T210
+R80	Scope Arg1:T204 Arg2:T206
+R81	Scope Arg1:T215 Arg2:T213
+R82	Scope Arg1:T207 Arg2:T208
+R83	Scope Arg1:T218 Arg2:T219
+R84	Scope Arg1:T216 Arg2:T217

@@ -1,0 +1,10 @@
+T1	NegLexMarker 0 9	Ha cedido
+T2	NegSynMarker 70 72	No
+T3	DISO 73 81	hiposmia
+T4	NegSynMarker 84 86	No
+T5	SUBS 87 106	medicación habitual
+T6	NegSynMarker 218 220	No
+T7	DISO 221 229	alergias
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7

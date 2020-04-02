@@ -1,0 +1,19 @@
+T1	NegSynMarker 27 29	no
+T2	DISO 30 39	conocidas
+T3	NegSynMarker 100 102	no
+T4	OTHER 103 126	existente en RX de ayer
+T5	UncertLexMarker 129 142	probablemnete
+T6	Phrase 143 192	por intubacion selectiva de bronquio ppal derecho
+T7	PROC 147 192	intubacion selectiva de bronquio ppal derecho
+T8	UncertLexMarker 195 202	posible
+T9	DISO 203 219	broncoaspiracion
+T10	UncertLexMarker 395 408	impresiona de
+T11	DISO 409 413	SDRA
+T12	NegSynMarker 565 567	no
+T13	Phrase 568 587	varía con las horas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T8 Arg2:T9
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13

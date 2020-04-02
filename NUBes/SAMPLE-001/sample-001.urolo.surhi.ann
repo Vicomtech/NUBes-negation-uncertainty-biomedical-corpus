@@ -1,0 +1,15 @@
+T1	PROC 139 160	Examen bacteriológico
+T2	NegSynMarker 163 165	No
+T3	PROC 502 521	Anatomía Patológica
+T4	NegSynMarker 524 526	no
+T5	PROC 527 551	Examen anatomopatológico
+T6	NegSynMarker 554 556	No
+T7	OTHER 879 890	Incidencias
+T8	NegSynMarker 893 895	no
+T9	PROC 899 906	Drenaje
+T10	NegSynMarker 909 911	no
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T6 Arg2:T5
+R4	Scope Arg1:T10 Arg2:T9
+R5	Scope Arg1:T8 Arg2:T7

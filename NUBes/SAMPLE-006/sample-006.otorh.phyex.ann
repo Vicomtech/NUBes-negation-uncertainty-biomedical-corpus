@@ -1,0 +1,25 @@
+T1	NegSynMarker 222 224	no
+T2	DISO 225 290	adherencia a planos profundos de la grandula submaxilar izquierda
+T3	NegSynMarker 538 540	no
+T4	DISO 541 549	doloroso
+T5	NegSynMarker 552 554	no
+T6	DISO 555 563	caliente
+T7	NegSynMarker 566 568	no
+T8	DISO 569 574	rubor
+T9	UncertLexMarker 717 731	compatible con
+T10	DISO 732 749	adenoma pleomorfo
+T11	NegSynMarker 962 964	No
+T12	DISO 965 992	adherido a planos profundos
+T13	NegSynMarker 1144 1146	no
+T14	DISO 1147 1168	hipertrofia adenoides
+T15	NegSynMarker 1375 1377	No
+T16	DISO 1378 1396	drena a la presión
+T17	NegMorMarker 1626 1633	Afebril
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T3 Arg2:T4
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16

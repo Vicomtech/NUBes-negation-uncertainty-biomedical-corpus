@@ -1,0 +1,64 @@
+T1	NegLexMarker 521 531	suspendido
+T2	SUBS 532 549	el Dinisor retard
+T3	NegSynMarker 762 765	sin
+T4	DISO 766 783	reaccion alergica
+T5	NegSynMarker 872 875	sin
+T6	DISO 876 890	complicaciones
+T7	NegSynMarker 1067 1069	no
+T8	Phrase 1070 1105	ha presentando ninguna complicación
+T9	PolItem 1085 1092	ninguna
+T10	DISO 1093 1105	complicación
+T11	OTHER 1208 1221	talla vesical
+T12	NegLexMarker 1228 1237	se retira
+T13	Phrase 1238 1250	a los 6 días
+T14	OTHER 1339 1346	sondaje
+T15	NegSynMarker 1347 1350	sin
+T16	Phrase 1351 1362	conseguirlo
+T17	NegMorMarker 1511 1518	afebril
+T18	NegLexMarker 1686 1695	Retiradas
+T19	OTHER 1696 1715	grapas de la herida
+T20	NegSynMarker 1749 1752	sin
+T21	Phrase 1753 1758	apoyo
+T22	NegSynMarker 1976 1979	sin
+T23	DISO 1980 2009	lesiones ocupantes de espacio
+T24	NegLexMarker 2059 2069	se suspene
+T25	SUBS 2070 2080	diureticos
+T26	NegLexMarker 3019 3029	Descartada
+T27	DISO 3030 3049	infección protésica
+T28	PROC 3133 3173	El cultivo de la artrocentesis de hombro
+T29	NegLexMarker 3182 3190	negativo
+T30	PROC 3580 3592	hemocultivos
+T31	NegLexMarker 3593 3602	negativos
+T32	UncertLexMarker 3633 3642	sin clara
+T33	Phrase 3643 3675	evidencia condensacion neumónica
+T34	DISO 3653 3675	condensacion neumónica
+T35	NegSynMarker 3731 3734	sin
+T36	DISO 3735 3742	diarrea
+T37	NegSynMarker 4136 4138	no
+T38	Phrase 4139 4152	hay emisiones
+T39	DISO 4143 4152	emisiones
+T40	NegSynMarker 4155 4157	no
+T41	Phrase 4158 4179	hay derrame articular
+T42	DISO 4162 4179	derrame articular
+T43	NegLexMarker 4341 4350	se retira
+T44	OTHER 4351 4356	sonda
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	DiscScope Arg1:T12 Arg2:T13
+R6	DiscScope Arg1:T12 Arg2:T11
+R7	DiscScope Arg1:T15 Arg2:T14
+R8	DiscScope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T28
+R15	Scope Arg1:T31 Arg2:T30
+R16	Scope Arg1:T32 Arg2:T33
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T37 Arg2:T38
+R20	Scope Arg1:T43 Arg2:T44

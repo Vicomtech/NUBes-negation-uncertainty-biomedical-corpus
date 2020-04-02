@@ -1,0 +1,26 @@
+T1	UncertLexMarker 38 46	probable
+T2	DISO 47 104	transtorno de conducción sindrome taquicardia bradicardia
+T3	DISO 202 208	origen
+T4	UncertLexMarker 209 217	incierto
+T5	NegSynMarker 737 739	no
+T6	DISO 740 746	disnea
+T7	NegSynMarker 786 788	no
+T8	DISO 789 796	vòmitos
+T9	NegSynMarker 799 801	no
+T10	DISO 802 820	sindrome miccional
+T11	NegSynMarker 1526 1528	No
+T12	Phrase 1529 1582	cefalea , ni mareo ni otra sintomatología acompañante
+T13	DISO 1529 1536	cefalea
+T14	CoordItem 1539 1541	ni
+T15	DISO 1542 1547	mareo
+T16	CoordItem 1548 1550	ni
+T17	DISO 1551 1582	otra sintomatología acompañante
+T18	UncertLexMarker 1585 1596	Sospecha de
+T19	DISO 1597 1625	sobreinfección a nivel local
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T18 Arg2:T19

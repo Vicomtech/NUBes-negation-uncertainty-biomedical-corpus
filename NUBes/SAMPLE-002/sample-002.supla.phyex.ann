@@ -1,0 +1,59 @@
+T1	NegSynMarker 401 403	No
+T2	Phrase 404 424	palpo cuerpo extraño
+T3	DISO 410 424	cuerpo extraño
+T4	NegSynMarker 490 493	sin
+T5	Phrase 494 536	estridor ni signos de trabajo respiratorio
+T6	DISO 494 502	estridor
+T7	CoordItem 503 505	ni
+T8	DISO 516 536	trabajo respiratorio
+T9	UncertLexMarker 559 572	Aparentemente
+T10	Phrase 573 587	no infiltrante
+T11	NegSynMarker 573 575	no
+T12	DISO 576 587	infiltrante
+T13	NegSynMarker 709 711	No
+T14	Phrase 712 750	se palpan nodulaciones ni tumoraciones
+T15	DISO 722 734	nodulaciones
+T16	CoordItem 735 737	ni
+T17	DISO 738 750	tumoraciones
+T18	NegSynMarker 819 821	No
+T19	DISO 822 842	afectacion tendinosa
+T20	NegSynMarker 845 847	No
+T21	DISO 848 853	edema
+T22	NegSynMarker 856 859	Sin
+T23	DISO 860 871	adenopatías
+T24	NegSynMarker 949 952	sin
+T25	OTHER 953 966	gran esfuerzo
+T26	NegLexMarker 1259 1269	perdida de
+T27	DISO 1270 1310	sensibilidad en cara dorsal de antebrazo
+T28	NegLexMarker 1311 1321	Pérdida de
+T29	BODY 1322 1339	foliculos pilosos
+T30	NegSynMarker 1487 1489	No
+T31	DISO 1490 1497	eritema
+T32	NegSynMarker 1500 1502	no
+T33	DISO 1503 1508	calor
+T34	NegSynMarker 1596 1599	sin
+T35	Phrase 1600 1619	signos de infección
+T36	DISO 1610 1619	infección
+T37	NegSynMarker 1681 1684	sin
+T38	OTHER 1685 1694	resultado
+T39	NegSynMarker 1697 1699	No
+T40	DISO 1700 1731	afectación de su estado general
+T41	NegSynMarker 1869 1871	No
+T42	DISO 1872 1881	otorragia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T11 Arg2:T12
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T24 Arg2:T25
+R10	Scope Arg1:T28 Arg2:T29
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T37 Arg2:T38
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T41 Arg2:T42

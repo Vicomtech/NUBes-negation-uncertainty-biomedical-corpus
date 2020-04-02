@@ -1,0 +1,6 @@
+T1	OTHER 341 344	Pio
+T2	NegLexMarker 345 354	imposible
+T3	DISO 1352 1373	ulcera que se perforó
+T4	UncertLexMarker 1374 1375	?
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T3

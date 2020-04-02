@@ -1,0 +1,305 @@
+T1	NegSynMarker 279 282	sin
+T2	Phrase 283 343	que se observara eliminación de las demas partes de la tenia
+T3	DISO 300 343	eliminación de las demas partes de la tenia
+T4	NegLexMarker 485 490	nunca
+T5	Phrase 491 577	se pudo constatar en estos episodios alguna bradiarritmia o trastorno de la conduccion
+T6	PolItem 528 534	alguna
+T7	DISO 535 548	bradiarritmia
+T8	DISO 551 577	trastorno de la conduccion
+T9	NegSynMarker 783 785	no
+T10	OTHER 786 807	estaba en EKg previos
+T11	NegSynMarker 963 965	No
+T12	DISO 966 988	estertores crepitantes
+T13	NegMorMarker 1527 1539	asintomático
+T14	NegSynMarker 1698 1701	sin
+T15	Phrase 1702 1714	signos de IC
+T16	DISO 1712 1714	IC
+T17	NegMorMarker 1834 1846	asintomático
+T18	NegSynMarker 1954 1956	no
+T19	Phrase 1957 2006	encuentran patologia que justifiquen los síntomas
+T20	DISO 1968 2006	patologia que justifiquen los síntomas
+T21	SUBS 2024 2042	la anticoagulacion
+T22	Phrase 2024 2064	la anticoagulacion queda momentaneamente
+T23	NegLexMarker 2065 2075	suspendida
+T24	NegSynMarker 2101 2103	no
+T25	Phrase 2104 2124	lleva ningun control
+T26	PolItem 2110 2116	ningun
+T27	OTHER 2117 2124	control
+T28	NegSynMarker 2190 2192	no
+T29	Phrase 2193 2224	presenta cambios significativos
+T30	DISO 2202 2224	cambios significativos
+T31	NegMorMarker 2441 2453	asintomático
+T32	NegMorMarker 2567 2579	asintomatica
+T33	NegLexMarker 2647 2658	desaparecen
+T34	DISO 2659 2671	los síntomas
+T35	UncertLexMarker 2718 2731	Se interpreta
+T36	Phrase 2735 2829	cuadro como astenia y adinamia con algias generalizadas secundaria a tratamiento farmacologico
+T37	DISO 2747 2754	astenia
+T38	CoordItem 2755 2756	y
+T39	DISO 2757 2765	adinamia
+T40	NegLexMarker 2841 2849	suspendo
+T41	Phrase 2850 2883	los beta bloqueantes y diureticos
+T42	SUBS 2850 2870	los beta bloqueantes
+T43	CoordItem 2871 2872	y
+T44	SUBS 2873 2883	diureticos
+T45	NegSynMarker 3065 3068	sin
+T46	DISO 3069 3072	TCE
+T47	NegSynMarker 3386 3389	sin
+T48	DISO 3390 3414	perdida de la conciencia
+T49	PROC 3428 3445	un ecocardiograma
+T50	Phrase 3428 3508	un ecocardiograma , doppler de troncos supraaórticos y masaje del seno carotideo
+T51	PROC 3448 3480	doppler de troncos supraaórticos
+T52	CoordItem 3481 3482	y
+T53	PROC 3483 3508	masaje del seno carotideo
+T54	NegLexMarker 3520 3529	negativos
+T55	NegLexMarker 3621 3633	se suspenden
+T56	SUBS 3634 3668	todas las medicaciones vasoactivas
+T57	UncertLexMarker 3878 3888	sin claros
+T58	DISO 3889 3906	cambios en el ECG
+T59	NegSynMarker 3994 3996	no
+T60	OTHER 3997 4025	existente en estudio previos
+T61	UncertLexMarker 4346 4361	impresiona como
+T62	DISO 4362 4400	una hipotensión probablemente postural
+T63	Phrase 4362 4420	una hipotensión probablemente postural en una pac medicada
+T64	PolItem 4378 4391	probablemente
+T65	NegSynMarker 4530 4533	sin
+T66	Phrase 4534 4556	mas signos ni síntomas
+T67	DISO 4538 4544	signos
+T68	CoordItem 4545 4547	ni
+T69	DISO 4548 4556	síntomas
+T70	NegSynMarker 4599 4601	no
+T71	Phrase 4602 4628	muestra cambios isquémicos
+T72	DISO 4610 4628	cambios isquémicos
+T73	NegSynMarker 4645 4648	sin
+T74	DISO 4649 4661	alteraciones
+T75	NegMorMarker 4834 4846	asintomática
+T76	UncertLexMarker 5101 5111	desconocia
+T77	Phrase 5112 5126	su existencias
+T78	NegSynMarker 5235 5238	sin
+T79	DISO 5239 5266	alteraciones significativas
+T80	NegSynMarker 5290 5293	sin
+T81	DISO 5294 5306	alteraciones
+T82	PROC 5309 5326	enzimas cardíacas
+T83	NegLexMarker 5342 5351	negativas
+T84	NegSynMarker 5377 5380	sin
+T85	DISO 5381 5408	alteraciones significativas
+T86	NegLexMarker 5413 5421	SUSPENDO
+T87	SUBS 5422 5436	LOS DIURETICOS
+T88	NegLexMarker 5532 5542	desaparece
+T89	DISO 5543 5552	la disnea
+T90	NegMorMarker 5664 5676	asintomática
+T91	NegSynMarker 5718 5721	sin
+T92	Phrase 5722 5758	signos de congestion pasiva pulmonar
+T93	DISO 5732 5758	congestion pasiva pulmonar
+T94	NegSynMarker 5770 5773	sin
+T95	DISO 5774 5815	alteraciones que justifiquen los sintomas
+T96	NegMorMarker 5853 5865	asintomático
+T97	NegSynMarker 6589 6591	no
+T98	DISO 6592 6600	conocida
+T99	NegMorMarker 6697 6709	asintomatico
+T100	NegMorMarker 6926 6938	asintomático
+T101	NegMorMarker 6992 7004	asintomático
+T102	NegSynMarker 7036 7039	sin
+T103	OTHER 7040 7048	secuelas
+T104	PROC 7374 7410	perfusion de furosemida y dobutamina
+T105	NegLexMarker 7420 7429	suspender
+T106	NegSynMarker 7840 7842	no
+T107	Phrase 7843 7867	cumple con ninguna dieta
+T108	PolItem 7854 7861	ninguna
+T109	OTHER 7862 7867	dieta
+T110	UncertLexMarker 8019 8022	SIN
+T111	DISO 8023 8027	saos
+T112	UncertLexMarker 8028 8036	evidente
+T113	PROC 8057 8091	un test de hipotension ortostatica
+T114	Phrase 8057 8122	un test de hipotension ortostatica mas masaje de senos carotideos
+T115	CoordItem 8092 8095	mas
+T116	PROC 8096 8122	masaje de senos carotideos
+T117	NegLexMarker 8142 8151	negativos
+T118	NegLexMarker 8306 8313	rechaza
+T119	PROC 8314 8337	la cirugia convencional
+T120	UncertLexMarker 8355 8362	evaluar
+T121	Phrase 8363 8385	la posibilidad de TAVI
+T122	PolItem 8366 8377	posibilidad
+T123	PROC 8381 8385	TAVI
+T124	NegLexMarker 8470 8478	descarto
+T125	DISO 8479 8501	la etiologia coronaria
+T126	UncertLexMarker 8549 8555	dudosa
+T127	DISO 8556 8564	FA basal
+T128	NegMorMarker 8629 8641	asintomático
+T129	NegSynMarker 8834 8836	No
+T130	Phrase 8837 8864	se detecta patologia alguna
+T131	DISO 8848 8857	patologia
+T132	PolItem 8858 8864	alguna
+T133	UncertLexMarker 8877 8883	podria
+T134	DISO 8884 8963	estar originando este cuadro la asiciacion de distraneurine mas ingesta enolica
+T135	NegLexMarker 9019 9028	suspender
+T136	Phrase 9029 9044	alguno de ellos
+T137	NegSynMarker 9047 9049	No
+T138	Phrase 9050 9138	refiere antecedentes cardiovasculares significativos ni recibia medcicacion cardioactiva
+T139	DISO 9058 9102	antecedentes cardiovasculares significativos
+T140	CoordItem 9103 9105	ni
+T141	SUBS 9114 9138	medcicacion cardioactiva
+T142	NegMorMarker 9161 9173	asintomático
+T143	NegSynMarker 9286 9289	sin
+T144	DISO 9290 9305	giro de objetos
+T145	NegSynMarker 9370 9373	sin
+T146	DISO 9374 9377	TCE
+T147	Phrase 9374 9395	TCE ni caída al suelo
+T148	CoordItem 9378 9380	ni
+T149	OTHER 9381 9395	caída al suelo
+T150	NegSynMarker 9412 9415	sin
+T151	DISO 9416 9432	particularidades
+T152	UncertLexMarker 9447 9457	desconocia
+T153	Phrase 9458 9472	esta situacion
+T154	NegSynMarker 9475 9477	no
+T155	Phrase 9478 9522	presenta antecedentes de isquemia miocardica
+T156	DISO 9487 9522	antecedentes de isquemia miocardica
+T157	NegMorMarker 9587 9597	arritmicos
+T158	NegMorMarker 9765 9777	asintomática
+T159	NegSynMarker 10132 10134	No
+T160	Phrase 10135 10216	refiere antecedentes patologicos significativos ni ingesta habitual de medicación
+T161	DISO 10143 10182	antecedentes patologicos significativos
+T162	CoordItem 10183 10185	ni
+T163	OTHER 10186 10216	ingesta habitual de medicación
+T164	NegMorMarker 10231 10243	asintomático
+T165	NegMorMarker 10350 10362	asintomático
+T166	NegSynMarker 10462 10464	No
+T167	Phrase 10465 10500	se ha encontrado una causa al mareo
+T168	DISO 10482 10500	una causa al mareo
+T169	NegSynMarker 11058 11061	sin
+T170	DISO 11062 11065	TCE
+T171	NegMorMarker 11483 11495	asintomática
+T172	NegLexMarker 12172 12183	se descarto
+T173	DISO 12184 12187	TVP
+T174	NegSynMarker 12350 12352	no
+T175	Phrase 12353 12373	anticoagulada ni dbt
+T176	DISO 12353 12366	anticoagulada
+T177	CoordItem 12367 12369	ni
+T178	DISO 12370 12373	dbt
+T179	NegMorMarker 12434 12446	asintomático
+T180	NegSynMarker 12516 12519	sin
+T181	OTHER 12520 12534	fallo de bomba
+T182	NegMorMarker 12743 12755	asintomático
+T183	NegMorMarker 13148 13160	asintomático
+T184	NegSynMarker 13173 13176	sin
+T185	Phrase 13177 13213	angina ni congestion pasiva pulmonar
+T186	DISO 13177 13183	angina
+T187	CoordItem 13184 13186	ni
+T188	DISO 13187 13213	congestion pasiva pulmonar
+T189	NegLexMarker 13368 13382	desapareciendo
+T190	DISO 13383 13405	el derrame pericardico
+T191	NegMorMarker 13443 13455	asintomático
+T192	NegMorMarker 13636 13648	asintomático
+T193	NegSynMarker 13853 13855	no
+T194	Phrase 13856 13893	hay evidencias de isquemia miocardica
+T195	DISO 13874 13893	isquemia miocardica
+T196	NegMorMarker 14030 14043	inespecíficas
+T197	NegMorMarker 14358 14370	asintomático
+T198	NegSynMarker 14480 14482	no
+T199	Phrase 14483 14525	pudiendo evidenciar expulsion del parasito
+T200	DISO 14503 14525	expulsion del parasito
+T201	NegLexMarker 14682 14687	Niega
+T202	Phrase 14688 14732	dolor torácico , disnea , cortejo vegetativo
+T203	DISO 14688 14702	dolor torácico
+T204	DISO 14705 14711	disnea
+T205	DISO 14714 14732	cortejo vegetativo
+T206	NegMorMarker 15549 15561	asintomático
+T207	DISO 15766 15775	etiologia
+T208	UncertLexMarker 15776 15787	desconocida
+T209	UncertLexMarker 15790 15803	probablemente
+T210	DISO 15804 15812	primaria
+T211	NegSynMarker 16148 16151	sin
+T212	DISO 16152 16171	congestion pulmonar
+T213	NegSynMarker 16296 16298	No
+T214	Phrase 16299 16344	refiere antec cardiovasculares significativos
+T215	DISO 16307 16344	antec cardiovasculares significativos
+T216	NegMorMarker 16382 16394	asintomático
+T217	NegSynMarker 16708 16710	No
+T218	Phrase 16711 16763	refiere antecedentes cardiovasculares significativos
+T219	DISO 16719 16763	antecedentes cardiovasculares significativos
+T220	NegMorMarker 16778 16790	asintomático
+T221	NegMorMarker 17034 17046	asintomático
+T222	UncertLexMarker 17513 17526	probablemente
+T223	DISO 17527 17552	en relacion a bradicardia
+T224	NegLexMarker 17564 17576	se suspenden
+T225	SUBS 17577 17597	los beta bloqueantes
+T226	UncertLexMarker 18225 18230	puede
+T227	Phrase 18231 18264	tener un componente de oido medio
+T228	DISO 18240 18264	componente de oido medio
+T229	PROC 18320 18337	Enzimas cardíacas
+T230	NegLexMarker 18338 18347	negativas
+T231	NegSynMarker 18366 18369	sin
+T232	DISO 18370 18397	alteraciones significativas
+T233	NegMorMarker 18435 18447	asintomático
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T18 Arg2:T19
+R7	Scope Arg1:T23 Arg2:T22
+R8	Scope Arg1:T24 Arg2:T25
+R9	Scope Arg1:T28 Arg2:T29
+R10	Scope Arg1:T33 Arg2:T34
+R11	Scope Arg1:T40 Arg2:T41
+R12	Scope Arg1:T35 Arg2:T36
+R13	Scope Arg1:T45 Arg2:T46
+R14	Scope Arg1:T47 Arg2:T48
+R15	Scope Arg1:T55 Arg2:T56
+R16	Scope Arg1:T54 Arg2:T50
+R17	Scope Arg1:T59 Arg2:T60
+R18	Scope Arg1:T57 Arg2:T58
+R19	Scope Arg1:T61 Arg2:T63
+R20	Scope Arg1:T65 Arg2:T66
+R21	Scope Arg1:T70 Arg2:T71
+R22	Scope Arg1:T73 Arg2:T74
+R23	Scope Arg1:T76 Arg2:T77
+R24	Scope Arg1:T84 Arg2:T85
+R25	Scope Arg1:T83 Arg2:T82
+R26	Scope Arg1:T78 Arg2:T79
+R27	Scope Arg1:T80 Arg2:T81
+R28	Scope Arg1:T86 Arg2:T87
+R29	Scope Arg1:T88 Arg2:T89
+R30	Scope Arg1:T91 Arg2:T92
+R31	Scope Arg1:T94 Arg2:T95
+R32	Scope Arg1:T97 Arg2:T98
+R33	Scope Arg1:T102 Arg2:T103
+R34	Scope Arg1:T105 Arg2:T104
+R35	Scope Arg1:T106 Arg2:T107
+R36	Scope Arg1:T112 Arg2:T111
+R37	DiscMarker Arg1:T110 Arg2:T112
+R38	Scope Arg1:T117 Arg2:T114
+R39	Scope Arg1:T118 Arg2:T119
+R40	Scope Arg1:T120 Arg2:T121
+R41	Scope Arg1:T124 Arg2:T125
+R42	Scope Arg1:T126 Arg2:T127
+R43	Scope Arg1:T129 Arg2:T130
+R44	Scope Arg1:T133 Arg2:T134
+R45	Scope Arg1:T135 Arg2:T136
+R46	Scope Arg1:T137 Arg2:T138
+R47	Scope Arg1:T143 Arg2:T144
+R48	Scope Arg1:T145 Arg2:T147
+R49	Scope Arg1:T150 Arg2:T151
+R50	Scope Arg1:T154 Arg2:T155
+R51	Scope Arg1:T152 Arg2:T153
+R52	Scope Arg1:T159 Arg2:T160
+R53	Scope Arg1:T166 Arg2:T167
+R54	Scope Arg1:T169 Arg2:T170
+R55	Scope Arg1:T172 Arg2:T173
+R56	Scope Arg1:T174 Arg2:T175
+R57	Scope Arg1:T180 Arg2:T181
+R58	Scope Arg1:T184 Arg2:T185
+R59	Scope Arg1:T189 Arg2:T190
+R60	Scope Arg1:T193 Arg2:T194
+R61	Scope Arg1:T198 Arg2:T199
+R62	Scope Arg1:T201 Arg2:T202
+R63	Scope Arg1:T209 Arg2:T210
+R64	Scope Arg1:T208 Arg2:T207
+R65	Scope Arg1:T211 Arg2:T212
+R66	Scope Arg1:T213 Arg2:T214
+R67	Scope Arg1:T217 Arg2:T218
+R68	Scope Arg1:T224 Arg2:T225
+R69	Scope Arg1:T222 Arg2:T223
+R70	Scope Arg1:T226 Arg2:T227
+R71	Scope Arg1:T230 Arg2:T229
+R72	Scope Arg1:T231 Arg2:T232

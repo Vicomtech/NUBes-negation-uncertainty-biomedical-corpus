@@ -1,0 +1,81 @@
+T1	NegLexMarker 992 1003	suspendemos
+T2	SUBS 1004 1025	antidiabeticos orales
+T3	NegSynMarker 1398 1401	sin
+T4	Phrase 1402 1434	precisar de farmacos vasoactivos
+T5	SUBS 1414 1434	farmacos vasoactivos
+T6	NegSynMarker 1580 1582	No
+T7	Phrase 1583 1621	presentó deterioro de la función renal
+T8	DISO 1592 1621	deterioro de la función renal
+T9	NegSynMarker 1900 1903	sin
+T10	DISO 1904 1919	mejoría clínica
+T11	NegMorMarker 2491 2498	afebril
+T12	NegLexMarker 2513 2519	evitar
+T13	DISO 2520 2530	compresión
+T14	NegSynMarker 3130 3132	No
+T15	DISO 3133 3139	distal
+T16	Phrase 3133 3142	distal ok
+T17	NegSynMarker 3230 3232	no
+T18	DISO 3233 3244	flucturante
+T19	UncertLexMarker 3397 3404	creemos
+T20	Phrase 3405 3502	puedan estar en relación a microaspiraciones que el paciente realiza habitualmente con la ingesta
+T21	DISO 3421 3449	relación a microaspiraciones
+T22	UncertLexMarker 3631 3639	pudieran
+T23	Phrase 3640 3691	estar en relación a cuadros de isquemia mesentérica
+T24	DISO 3649 3691	relación a cuadros de isquemia mesentérica
+T25	PROC 3959 3969	el cultivo
+T26	NegLexMarker 3970 3978	negativo
+T27	PROC 3981 3993	la citología
+T28	NegLexMarker 3994 4002	negativa
+T29	Phrase 4003 4024	para células malignas
+T30	UncertLexMarker 4165 4176	sospecha de
+T31	Phrase 4177 4214	colecistopancreatitis y masa hepática
+T32	DISO 4177 4198	colecistopancreatitis
+T33	DISO 4201 4214	masa hepática
+T34	UncertLexMarker 4785 4793	probable
+T35	DISO 4794 4830	neuopatía cubital derecha progresiva
+T36	Phrase 4911 4941	cultivos que al final resultan
+T37	PROC 4911 4919	cultivos
+T38	NegLexMarker 4942 4951	negativos
+T39	NegSynMarker 5433 5435	no
+T40	Phrase 5436 5487	puntos sangrantes ni otros hallazgos significativos
+T41	DISO 5436 5453	puntos sangrantes
+T42	CoordItem 5454 5456	ni
+T43	DISO 5457 5487	otros hallazgos significativos
+T44	NegLexMarker 5999 6008	descartan
+T45	Phrase 6009 6059	la necesidad de desbridamiento quirúrgico perianal
+T46	PROC 6025 6059	desbridamiento quirúrgico perianal
+T47	NegSynMarker 6536 6539	sin
+T48	OTHER 6540 6545	habla
+T49	NegSynMarker 6548 6551	sin
+T50	OTHER 6552 6569	sostenerse de pie
+T51	NegSynMarker 6727 6729	No
+T52	DISO 6730 6757	dolor espontáneo al ingreso
+T53	NegSynMarker 6926 6929	sin
+T54	DISO 6930 6953	relación con la ingesta
+T55	NegSynMarker 7001 7004	sin
+T56	Phrase 7005 7023	naúseas ni vómitos
+T57	DISO 7005 7012	naúseas
+T58	CoordItem 7013 7015	ni
+T59	DISO 7016 7023	vómitos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T22 Arg2:T23
+R10	DiscScope Arg1:T28 Arg2:T27
+R11	DiscScope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T26 Arg2:T25
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T38 Arg2:T36
+R16	Scope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T49 Arg2:T50
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54
+R22	Scope Arg1:T55 Arg2:T56

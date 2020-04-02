@@ -1,0 +1,12 @@
+T1	UncertLexMarker 8 19	sospecha de
+T2	DISO 20 37	infeccion pelvica
+T3	NegSynMarker 164 167	sin
+T4	DISO 168 182	complicaciones
+T5	NegSynMarker 183 185	SN
+T6	DISO 186 200	COMPLICACIONES
+T7	NegSynMarker 318 321	sin
+T8	DISO 322 336	complicaciones
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8

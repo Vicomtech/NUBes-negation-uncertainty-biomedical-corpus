@@ -1,0 +1,51 @@
+T1	NegSynMarker 822 824	No
+T2	Phrase 825 861	se identifica absceso intraabdominal
+T3	DISO 839 861	absceso intraabdominal
+T4	NegSynMarker 876 878	no
+T5	OTHER 879 913	evoluciona de manera satisfactoria
+T6	NegMorMarker 2521 2533	asintomática
+T7	NegMorMarker 2536 2543	afebril
+T8	NegSynMarker 2619 2622	sin
+T9	DISO 2623 2635	leucocitosis
+T10	NegSynMarker 2638 2641	sin
+T11	Phrase 2642 2665	precisar antibioterapia
+T12	PROC 2651 2665	antibioterapia
+T13	UncertLexMarker 3097 3102	puede
+T14	Phrase 3103 3151	estar en relación con cambios isquémicos severos
+T15	DISO 3112 3151	relación con cambios isquémicos severos
+T16	UncertLexMarker 3197 3202	pueda
+T17	Phrase 3203 3278	ser producido por enteritis radica , ó bien por bloque adherencial-fibrosis
+T18	DISO 3207 3237	producido por enteritis radica
+T19	CoordItem 3240 3246	ó bien
+T20	DISO 3247 3278	por bloque adherencial-fibrosis
+T21	NegSynMarker 3485 3487	No
+T22	Phrase 3488 3578	se liberan todas las adherencias a pelvis por ser muy fibrosas y con engrosamiento de asas
+T23	OTHER 3488 3529	se liberan todas las adherencias a pelvis
+T24	UncertLexMarker 3581 3594	probablemente
+T25	DISO 3595 3635	por antecedentes de radioterapia pélvica
+T26	OTHER 4649 4661	catéter PICC
+T27	NegLexMarker 4664 4672	retirado
+T28	Phrase 4673 4686	ese mismo día
+T29	NegLexMarker 5971 5982	retirada de
+T30	OTHER 5983 5999	la sonda vesical
+T31	NegSynMarker 6481 6484	sin
+T32	SUBS 6485 6493	residuos
+T33	NegSynMarker 6680 6683	sin
+T34	DISO 6684 6695	incidencias
+T35	NegSynMarker 7226 7228	NO
+T36	Phrase 7229 7289	SE EVIDENCIAN IMÁGENES SUGESTIVAS DE ENDOCARDITIS INFECCIOSA
+T37	DISO 7266 7289	ENDOCARDITIS INFECCIOSA
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T10 Arg2:T11
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T21 Arg2:T22
+R8	Scope Arg1:T24 Arg2:T25
+R9	DiscScope Arg1:T27 Arg2:T26
+R10	DiscScope Arg1:T27 Arg2:T28
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36

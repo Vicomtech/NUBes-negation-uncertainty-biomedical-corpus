@@ -1,0 +1,3 @@
+T1	UncertLexMarker 200 211	sospecha de
+T2	DISO 212 230	polipo endometrial
+R1	Scope Arg1:T1 Arg2:T2

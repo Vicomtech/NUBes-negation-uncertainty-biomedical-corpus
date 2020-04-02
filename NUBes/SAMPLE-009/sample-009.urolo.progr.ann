@@ -1,0 +1,57 @@
+T1	NegLexMarker 8 19	retirada de
+T2	OTHER 20 28	la sonda
+T3	NegMorMarker 736 748	Asintomático
+T4	DISO 916 928	La hematuria
+T5	NegLexMarker 929 933	cede
+T6	Phrase 934 961	tras ajustar el tratamiento
+T7	NegSynMarker 1101 1103	no
+T8	Phrase 1104 1141	volviendo a presentar cuadro doloroso
+T9	DISO 1126 1141	cuadro doloroso
+T10	NegLexMarker 1207 1215	cediendo
+T11	DISO 1216 1234	el cuadro doloroso
+T12	PROC 1339 1365	la intervención quirúrgica
+T13	NegLexMarker 1375 1386	desestimada
+T14	Phrase 1387 1419	ante el elevado rieso quirúrgico
+T15	NegLexMarker 1597 1604	retirar
+T16	OTHER 1605 1613	la sonda
+T17	NegLexMarker 1940 1948	retirada
+T18	NegSynMarker 1955 1958	sin
+T19	DISO 1959 1969	dificultad
+T20	NegLexMarker 2338 2346	cediendo
+T21	DISO 2347 2365	el cuadro doloroso
+T22	NegLexMarker 2741 2749	cediendo
+T23	DISO 2750 2768	el cuadro doloroso
+T24	NegMorMarker 3582 3594	Asintomática
+T25	NegSynMarker 3727 3730	sin
+T26	DISO 3731 3740	problemas
+T27	NegLexMarker 3842 3849	retirar
+T28	OTHER 3850 3858	la sonda
+T29	NegLexMarker 4088 4094	retira
+T30	OTHER 4095 4111	la sonda vesical
+T31	NegLexMarker 4177 4188	retirada de
+T32	OTHER 4189 4197	la sonda
+T33	NegSynMarker 4621 4623	No
+T34	Phrase 4624 4661	ha vuelto a presentar cuadro de dolor
+T35	DISO 4656 4661	dolor
+T36	NegSynMarker 4721 4724	sin
+T37	DISO 4725 4734	problemas
+T38	NegSynMarker 4856 4859	Sin
+T39	DISO 4860 4877	otras incidencias
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T5 Arg2:T6
+R3	DiscScope Arg1:T5 Arg2:T4
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	DiscScope Arg1:T13 Arg2:T14
+R7	DiscScope Arg1:T13 Arg2:T12
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T36 Arg2:T37
+R18	Scope Arg1:T38 Arg2:T39

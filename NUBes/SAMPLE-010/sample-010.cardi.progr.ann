@@ -1,0 +1,293 @@
+T1	NegSynMarker 232 234	no
+T2	Phrase 235 266	encontrándose origen específico
+T3	DISO 249 266	origen específico
+T4	UncertLexMarker 275 281	Dudosa
+T5	DISO 282 332	masa un punta de la orejuela con bajas velocidades
+T6	NegSynMarker 476 479	sin
+T7	DISO 480 506	relacion con los esfuerzos
+T8	NegSynMarker 598 601	sin
+T9	DISO 602 633	mas alteraciones significativas
+T10	NegMorMarker 648 660	asintomático
+T11	NegSynMarker 731 734	sin
+T12	DISO 735 763	mas hallazgos significativos
+T13	NegMorMarker 1209 1221	asintomático
+T14	UncertLexMarker 1331 1339	probable
+T15	DISO 1340 1375	infeccion de vias aereas superiores
+T16	NegSynMarker 1378 1380	No
+T17	OTHER 1381 1425	puede precisar cuando comienzan los sintomas
+T18	NegSynMarker 1455 1458	sin
+T19	DISO 1459 1475	mas alteraciones
+T20	NegSynMarker 1496 1499	sin
+T21	Phrase 1500 1536	signos de congestion pasiva pulmonar
+T22	DISO 1510 1536	congestion pasiva pulmonar
+T23	NegMorMarker 1539 1551	asintomático
+T24	NegSynMarker 1724 1726	No
+T25	Phrase 1727 1772	refiere antec cardiovasculares significativos
+T26	DISO 1735 1772	antec cardiovasculares significativos
+T27	NegSynMarker 2219 2222	sin
+T28	Phrase 2223 2254	evidencias de isquemia residual
+T29	DISO 2237 2254	isquemia residual
+T30	NegSynMarker 2413 2415	no
+T31	Phrase 2416 2444	tiene trombos intracardíacos
+T32	DISO 2422 2444	trombos intracardíacos
+T33	NegMorMarker 2533 2545	asintomática
+T34	UncertLexMarker 2642 2652	Interpreto
+T35	Phrase 2653 2703	el cuadro clinico como probable pericarditis aguda
+T36	PolItem 2676 2684	probable
+T37	DISO 2685 2703	pericarditis aguda
+T38	NegSynMarker 3406 3408	no
+T39	Phrase 3409 3477	se puede constatar en ningun EKG de los que se encuentran disponible
+T40	PolItem 3431 3437	ningun
+T41	NegSynMarker 3523 3525	no
+T42	Phrase 3526 3550	muestra patologia alguna
+T43	DISO 3534 3543	patologia
+T44	PolItem 3544 3550	alguna
+T45	NegMorMarker 3578 3590	asintomática
+T46	NegLexMarker 3666 3683	imposibilitada de
+T47	OTHER 3684 3700	auto abastecerse
+T48	Phrase 3684 3725	auto abastecerse por su deterioro general
+T49	NegSynMarker 3940 3943	sin
+T50	Phrase 3944 3980	signos de congestion pasiva pulmonar
+T51	DISO 3954 3980	congestion pasiva pulmonar
+T52	NegSynMarker 4123 4126	sin
+T53	DISO 4127 4154	alteraciones significativas
+T54	UncertLexMarker 4184 4190	dudosa
+T55	DISO 4191 4224	hipoquinesia inferior ( antigua )
+T56	NegMorMarker 4287 4299	asintomático
+T57	NegSynMarker 4806 4809	sin
+T58	DISO 4810 4824	complicaciones
+T59	NegSynMarker 4966 4968	no
+T60	Phrase 4969 5004	muestra alteraciones significativas
+T61	DISO 4977 5004	alteraciones significativas
+T62	NegLexMarker 5343 5354	desaparecen
+T63	DISO 5355 5367	los síntomas
+T64	NegSynMarker 5478 5480	no
+T65	Phrase 5481 5499	muestran patologia
+T66	DISO 5490 5499	patologia
+T67	PROC 5502 5524	curva de biomarcadores
+T68	NegLexMarker 5525 5533	negativa
+T69	PROC 5547 5569	una peg que fue maxima
+T70	NegLexMarker 5570 5578	negativa
+T71	NegMorMarker 5633 5645	asintomatico
+T72	DISO 5828 5837	etiologia
+T73	UncertLexMarker 5838 5849	desconocida
+T74	NegLexMarker 6603 6611	descarta
+T75	DISO 6612 6635	patologia de ese origen
+T76	NegSynMarker 6687 6689	no
+T77	DISO 6690 6701	complicacdo
+T78	NegLexMarker 6776 6784	descarto
+T79	DISO 6785 6831	la etiologia coronaria como causante del dolor
+T80	NegMorMarker 6870 6883	inespecificos
+T81	PROC 6938 6954	enzimas seriadas
+T82	NegLexMarker 6963 6972	negativas
+T83	NegMorMarker 7049 7061	asintomático
+T84	NegSynMarker 7264 7267	sin
+T85	Phrase 7268 7296	signos de infeccion pulmonar
+T86	DISO 7278 7296	infeccion pulmonar
+T87	NegLexMarker 7543 7554	desaparecen
+T88	DISO 7555 7567	los síntomas
+T89	NegMorMarker 7624 7636	asintomático
+T90	NegSynMarker 8136 8138	no
+T91	Phrase 8139 8188	muestra patologia que pueda justificar el derrame
+T92	DISO 8147 8188	patologia que pueda justificar el derrame
+T93	NegMorMarker 8347 8359	asintomático
+T94	NegMorMarker 8475 8487	asintomática
+T95	NegSynMarker 8518 8521	sin
+T96	Phrase 8522 8558	signos de congestion pasiva pulmonar
+T97	DISO 8532 8558	congestion pasiva pulmonar
+T98	NegMorMarker 8600 8612	asintomática
+T99	NegSynMarker 8656 8659	sin
+T100	Phrase 8660 8710	signos de fallo de bomba anterogrado ni retrogrado
+T101	DISO 8670 8710	fallo de bomba anterogrado ni retrogrado
+T102	CoordItem 8697 8699	ni
+T103	NegMorMarker 8856 8868	asintomática
+T104	NegMorMarker 9038 9050	asintomático
+T105	NegMorMarker 9168 9175	afebril
+T106	NegMorMarker 9364 9376	asintomática
+T107	NegSynMarker 9713 9716	sin
+T108	DISO 9717 9721	part
+T109	NegSynMarker 9932 9935	sin
+T110	DISO 9936 9958	relacion con esfuerzos
+T111	NegSynMarker 10304 10307	Sin
+T112	DISO 10308 10326	mas comorbilidades
+T113	NegMorMarker 10558 10570	asintomática
+T114	NegSynMarker 10673 10675	No
+T115	Phrase 10676 10716	refiere antec patologicos significativos
+T116	DISO 10684 10716	antec patologicos significativos
+T117	NegSynMarker 10929 10931	No
+T118	Phrase 10932 10993	presenta otras comorbilidades cardiovasculares significativas
+T119	DISO 10941 10993	otras comorbilidades cardiovasculares significativas
+T120	NegSynMarker 11007 11010	sin
+T121	SUBS 11011 11045	tratamiento farmacologico habitual
+T122	NegMorMarker 11060 11072	asintomático
+T123	NegSynMarker 11137 11140	sin
+T124	DISO 11141 11172	mas alteraciones significativas
+T125	NegSynMarker 11437 11439	no
+T126	Phrase 11440 11485	muestra patologia que justifique los síntomas
+T127	DISO 11448 11485	patologia que justifique los síntomas
+T128	NegMorMarker 11525 11537	asintomática
+T129	NegSynMarker 11614 11617	sin
+T130	Phrase 11618 11646	evidencia de sangrado activo
+T131	DISO 11631 11646	sangrado activo
+T132	NegMorMarker 11745 11757	asintomático
+T133	NegSynMarker 11783 11786	sin
+T134	Phrase 11787 11823	signos de congestion pasiva pulmonar
+T135	DISO 11797 11823	congestion pasiva pulmonar
+T136	NegSynMarker 12251 12254	sin
+T137	DISO 12255 12274	expresion sistémica
+T138	NegMorMarker 12650 12662	asintomatica
+T139	NegMorMarker 12766 12775	inestable
+T140	NegMorMarker 13133 13145	asintomático
+T141	NegSynMarker 13372 13374	no
+T142	Phrase 13375 13446	presentan alteraciones significativas que justifiquen el cuadro clinico
+T143	DISO 13385 13412	alteraciones significativas
+T144	NegSynMarker 13473 13476	sin
+T145	Phrase 13477 13506	signos de isquemia miocardica
+T146	DISO 13487 13506	isquemia miocardica
+T147	PROC 13509 13525	curva enzimatica
+T148	NegLexMarker 13526 13534	negativa
+T149	NegMorMarker 13745 13757	asintomático
+T150	DISO 14206 14215	etiologia
+T151	UncertLexMarker 14216 14227	desconocida
+T152	Phrase 14228 14239	hasta ahora
+T153	OTHER 14372 14382	antiguedad
+T154	UncertLexMarker 14383 14394	desconocida
+T155	NegSynMarker 14581 14584	sin
+T156	Phrase 14585 14609	signos de isquemia aguda
+T157	DISO 14595 14609	isquemia aguda
+T158	NegMorMarker 14623 14635	asintomático
+T159	NegSynMarker 14646 14649	sin
+T160	Phrase 14650 14662	signos de IC
+T161	DISO 14660 14662	IC
+T162	NegSynMarker 14700 14703	sin
+T163	Phrase 14704 14745	hallazgos patologicos en el examen físico
+T164	DISO 14704 14725	hallazgos patologicos
+T165	NegSynMarker 15285 15288	sin
+T166	Phrase 15289 15318	signos de isquemia miocardica
+T167	DISO 15299 15318	isquemia miocardica
+T168	OTHER 15512 15531	tiempo de evolución
+T169	UncertLexMarker 15532 15543	desconocido
+T170	NegLexMarker 15546 15554	Suspendo
+T171	Phrase 15555 15610	espironolactona y metformina por la insuficiencia renal
+T172	SUBS 15555 15570	espironolactona
+T173	CoordItem 15571 15572	y
+T174	SUBS 15573 15583	metformina
+T175	NegLexMarker 15688 15696	descarto
+T176	DISO 15697 15700	TEP
+T177	NegSynMarker 15708 15710	no
+T178	Phrase 15711 15734	tiene gases compatibles
+T179	DISO 15717 15734	gases compatibles
+T180	NegLexMarker 15808 15819	desaparecen
+T181	DISO 15820 15832	los síntomas
+T182	NegSynMarker 15947 15949	no
+T183	Phrase 15950 16002	refiere antecedentes cardiovasculares significativos
+T184	DISO 15958 16002	antecedentes cardiovasculares significativos
+T185	NegSynMarker 16699 16701	no
+T186	OTHER 16702 16716	supera el 10 %
+T187	UncertLexMarker 16981 16987	dudoso
+T188	DISO 16988 17003	cuadro sincopal
+T189	NegMorMarker 17077 17089	asintomático
+T190	NegSynMarker 17110 17113	sin
+T191	Phrase 17114 17150	angina ni congestion pasiva pulmonar
+T192	DISO 17114 17120	angina
+T193	CoordItem 17121 17123	ni
+T194	DISO 17124 17150	congestion pasiva pulmonar
+T195	NegSynMarker 17551 17554	sin
+T196	Phrase 17555 17584	signos de isquemia miocardica
+T197	DISO 17565 17584	isquemia miocardica
+T198	UncertLexMarker 17712 17727	impresiona como
+T199	DISO 17728 17749	un síncope por hipoTA
+T200	NegMorMarker 17764 17776	asintomática
+T201	NegSynMarker 18249 18252	sin
+T202	DISO 18253 18280	alteraciones significativas
+T203	NegMorMarker 18331 18343	asintomático
+T204	NegMorMarker 18754 18766	asintomático
+T205	SUBS 18812 18829	medicacion actual
+T206	NegLexMarker 18857 18865	suspendo
+T207	NegMorMarker 18949 18961	asintomática
+T208	NegMorMarker 19203 19215	asintomática
+T209	NegSynMarker 19539 19541	no
+T210	OTHER 19542 19563	superan los 3600 mseg
+T211	NegSynMarker 19575 19577	no
+T212	OTHER 19578 19593	bajan de 30 lpm
+T213	NegSynMarker 19623 19625	no
+T214	Phrase 19626 19656	tiene indicacion de marcapasos
+T215	OTHER 19646 19656	marcapasos
+T216	NegLexMarker 19696 19708	su suspenden
+T217	Phrase 19709 19844	tambien los hipotensores y antiprostaticos ya que con las frecuencias cardíacas actuales la se deben tolerar valores de TA mas elevados
+T218	PolItem 19709 19716	tambien
+T219	SUBS 19717 19733	los hipotensores
+T220	SUBS 19736 19751	antiprostaticos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T38 Arg2:T39
+R15	Scope Arg1:T41 Arg2:T42
+R16	Scope Arg1:T46 Arg2:T48
+R17	Scope Arg1:T49 Arg2:T50
+R18	Scope Arg1:T52 Arg2:T53
+R19	Scope Arg1:T54 Arg2:T55
+R20	Scope Arg1:T57 Arg2:T58
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T62 Arg2:T63
+R23	Scope Arg1:T68 Arg2:T67
+R24	Scope Arg1:T64 Arg2:T65
+R25	Scope Arg1:T70 Arg2:T69
+R26	Scope Arg1:T73 Arg2:T72
+R27	Scope Arg1:T74 Arg2:T75
+R28	Scope Arg1:T76 Arg2:T77
+R29	Scope Arg1:T78 Arg2:T79
+R30	Scope Arg1:T82 Arg2:T81
+R31	Scope Arg1:T84 Arg2:T85
+R32	Scope Arg1:T87 Arg2:T88
+R33	Scope Arg1:T90 Arg2:T91
+R34	Scope Arg1:T95 Arg2:T96
+R35	Scope Arg1:T99 Arg2:T100
+R36	Scope Arg1:T107 Arg2:T108
+R37	Scope Arg1:T109 Arg2:T110
+R38	Scope Arg1:T111 Arg2:T112
+R39	Scope Arg1:T114 Arg2:T115
+R40	Scope Arg1:T117 Arg2:T118
+R41	Scope Arg1:T120 Arg2:T121
+R42	Scope Arg1:T123 Arg2:T124
+R43	Scope Arg1:T125 Arg2:T126
+R44	Scope Arg1:T129 Arg2:T130
+R45	Scope Arg1:T133 Arg2:T134
+R46	Scope Arg1:T136 Arg2:T137
+R47	Scope Arg1:T141 Arg2:T142
+R48	Scope Arg1:T144 Arg2:T145
+R49	Scope Arg1:T148 Arg2:T147
+R50	DiscScope Arg1:T151 Arg2:T150
+R51	DiscScope Arg1:T151 Arg2:T152
+R52	Scope Arg1:T154 Arg2:T153
+R53	Scope Arg1:T159 Arg2:T160
+R54	Scope Arg1:T155 Arg2:T156
+R55	Scope Arg1:T162 Arg2:T163
+R56	Scope Arg1:T165 Arg2:T166
+R57	Scope Arg1:T169 Arg2:T168
+R58	Scope Arg1:T170 Arg2:T171
+R59	Scope Arg1:T175 Arg2:T176
+R60	Scope Arg1:T177 Arg2:T178
+R61	Scope Arg1:T180 Arg2:T181
+R62	Scope Arg1:T182 Arg2:T183
+R63	Scope Arg1:T185 Arg2:T186
+R64	Scope Arg1:T187 Arg2:T188
+R65	Scope Arg1:T190 Arg2:T191
+R66	Scope Arg1:T195 Arg2:T196
+R67	Scope Arg1:T198 Arg2:T199
+R68	Scope Arg1:T201 Arg2:T202
+R69	Scope Arg1:T206 Arg2:T205
+R70	Scope Arg1:T211 Arg2:T212
+R71	Scope Arg1:T209 Arg2:T210
+R72	Scope Arg1:T213 Arg2:T214
+R73	Scope Arg1:T216 Arg2:T217

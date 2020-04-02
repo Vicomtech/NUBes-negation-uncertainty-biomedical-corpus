@@ -1,0 +1,11 @@
+T1	NegSynMarker 439 441	no
+T2	Phrase 442 486	puede tumbarse en los 30 minutos posteriores
+T3	OTHER 448 456	tumbarse
+T4	SUBS 4822 4848	Lorazepam 1 mg ( orfidal )
+T5	NegLexMarker 4862 4870	suspende
+T6	NegLexMarker 6349 6357	suspende
+T7	SUBS 6358 6374	este tratamiento
+T8	Phrase 6358 6405	este tratamiento pues se ha modificado la dosis
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T8

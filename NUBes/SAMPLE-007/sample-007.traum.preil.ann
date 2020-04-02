@@ -1,0 +1,123 @@
+T1	UncertLexMarker 397 409	sugestiva de
+T2	Phrase 410 444	corresponder a tendinopatía de SSP
+T3	DISO 425 444	tendinopatía de SSP
+T4	NegSynMarker 779 781	No
+T5	Phrase 782 815	refiere antec traumático reciente
+T6	DISO 790 815	antec traumático reciente
+T7	NegSynMarker 818 820	No
+T8	DISO 821 834	predominancia
+T9	NegSynMarker 871 873	No
+T10	DISO 874 885	parestesias
+T11	Phrase 874 906	parestesias en el momento actual
+T12	NegSynMarker 1118 1120	No
+T13	DISO 1121 1126	giros
+T14	NegSynMarker 1285 1288	sin
+T15	DISO 1289 1300	traumatismo
+T16	NegSynMarker 1514 1516	no
+T17	DISO 1517 1528	ha mejorado
+T18	NegSynMarker 1531 1533	No
+T19	DISO 1534 1566	perdida de control de esfinteres
+T20	NegSynMarker 1569 1571	No
+T21	OTHER 1572 1589	quiere hcerse EMG
+T22	NegSynMarker 1783 1785	No
+T23	Phrase 1786 1811	refiere derrame articular
+T24	DISO 1794 1811	derrame articular
+T25	NegSynMarker 1813 1815	no
+T26	DISO 1816 1843	antecente traumático previo
+T27	NegSynMarker 1986 1989	sin
+T28	DISO 1990 2026	irradiacion a extemidades inferiores
+T29	NegSynMarker 2053 2055	no
+T30	Phrase 2056 2099	se le ha podido realizar RNM por marcapasos
+T31	PROC 2081 2084	RNM
+T32	NegSynMarker 2137 2139	No
+T33	DISO 2140 2154	dolor nocturno
+T34	NegSynMarker 2329 2332	sin
+T35	DISO 2333 2350	antec. traumatico
+T36	NegSynMarker 2808 2810	no
+T37	Phrase 2811 2855	le permite la deambulación de forma autónoma
+T38	DISO 2825 2855	deambulación de forma autónoma
+T39	NegSynMarker 3492 3501	sin clara
+T40	DISO 3502 3534	relación con actividad deportiva
+T41	UncertLexMarker 3556 3563	posible
+T42	DISO 3564 3576	meniscopatía
+T43	NegSynMarker 3723 3726	sin
+T44	DISO 3727 3744	derrame articular
+T45	NegSynMarker 4066 4069	sin
+T46	DISO 4070 4083	déficit motor
+T47	NegSynMarker 4168 4171	sin
+T48	Phrase 4172 4208	evidencia afectación radiculomedular
+T49	DISO 4182 4208	afectación radiculomedular
+T50	UncertLexMarker 4399 4406	posible
+T51	DISO 4407 4464	afectación de la emergencia dural de la raíz S1 izquierda
+T52	NegSynMarker 4467 4469	No
+T53	Phrase 4470 4486	ha realizado tto
+T54	PROC 4483 4486	tto
+T55	NegSynMarker 4736 4739	sin
+T56	DISO 4740 4747	mejoria
+T57	NegSynMarker 4767 4769	no
+T58	DISO 4770 4788	le remite el dolor
+T59	NegSynMarker 5273 5276	sin
+T60	DISO 5277 5284	mejoria
+T61	UncertLexMarker 5343 5350	posible
+T62	DISO 5351 5377	afectación de ambas raices
+T63	NegSynMarker 6331 6333	no
+T64	Phrase 6334 6356	refiere caída como tal
+T65	OTHER 6342 6347	caída
+T66	NegSynMarker 6761 6764	sin
+T67	Phrase 6765 6780	referir mejoría
+T68	DISO 6773 6780	mejoría
+T69	NegSynMarker 7119 7121	no
+T70	Phrase 7122 7141	refiere parestesias
+T71	DISO 7130 7141	parestesias
+T72	NegSynMarker 7226 7228	No
+T73	Phrase 7229 7266	refiere antecedente traumático previo
+T74	DISO 7237 7266	antecedente traumático previo
+T75	NegSynMarker 7396 7398	no
+T76	DISO 7399 7415	dolor en reposos
+T77	UncertLexMarker 7541 7549	posibles
+T78	DISO 7550 7576	calcificificaciones en SSP
+T79	NegLexMarker 7790 7800	suspensión
+T80	SUBS 7801 7812	antibiótico
+T81	NegSynMarker 8049 8051	no
+T82	DISO 8052 8089	cede a tratamiento habitual con AINES
+T83	NegSynMarker 8387 8390	sin
+T84	DISO 8391 8398	mejoria
+T85	NegSynMarker 8454 8456	No
+T86	OTHER 8457 8470	puede caminar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T11
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T16 Arg2:T17
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T34 Arg2:T35
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T57 Arg2:T58
+R26	Scope Arg1:T59 Arg2:T60
+R27	Scope Arg1:T61 Arg2:T62
+R28	Scope Arg1:T63 Arg2:T64
+R29	Scope Arg1:T66 Arg2:T67
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T72 Arg2:T73
+R32	Scope Arg1:T75 Arg2:T76
+R33	Scope Arg1:T77 Arg2:T78
+R34	Scope Arg1:T79 Arg2:T80
+R35	Scope Arg1:T81 Arg2:T82
+R36	Scope Arg1:T83 Arg2:T84
+R37	Scope Arg1:T85 Arg2:T86

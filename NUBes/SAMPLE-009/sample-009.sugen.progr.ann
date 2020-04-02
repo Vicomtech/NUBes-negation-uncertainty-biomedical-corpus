@@ -1,0 +1,189 @@
+T1	UncertLexMarker 76 84	probable
+T2	DISO 85 90	brida
+T3	DISO 93 110	La sintomatología
+T4	NegLexMarker 111 115	cede
+T5	Phrase 116 131	espontáneamente
+T6	NegMorMarker 169 176	afebril
+T7	UncertLexMarker 328 336	probable
+T8	DISO 337 354	relación a bridas
+T9	NegSynMarker 1021 1023	No
+T10	Phrase 1024 1094	hay signos de sangrado agudo durante el ingreso ni anemización servera
+T11	DISO 1038 1052	sangrado agudo
+T12	CoordItem 1072 1074	ni
+T13	DISO 1075 1094	anemización servera
+T14	NegSynMarker 1169 1171	No
+T15	Phrase 1172 1274	enconstramos evidencia de la fistula rectovaginal incluso con la colocacion de azul de metileno rectal
+T16	DISO 1201 1221	fistula rectovaginal
+T17	NegSynMarker 1275 1278	sin
+T18	Phrase 1279 1326	que encontremos signos de penetracion en vagina
+T19	DISO 1295 1326	signos de penetracion en vagina
+T20	UncertLexMarker 1421 1432	sospecha de
+T21	DISO 1433 1451	pancreatitis aguda
+T22	NegMorMarker 1780 1792	asintomática
+T23	UncertLexMarker 2117 2125	probable
+T24	DISO 2126 2145	origen hipertensivo
+T25	UncertLexMarker 2187 2200	probablemente
+T26	Phrase 2201 2236	tambien por nefropatia hipertensiva
+T27	DISO 2213 2236	nefropatia hipertensiva
+T28	UncertLexMarker 2237 2263	sin que se pueda descartar
+T29	DISO 2264 2290	un componente cardiorrenal
+T30	UncertLexMarker 2358 2369	sospecha de
+T31	DISO 2370 2390	neoformación maligna
+T32	NegSynMarker 2532 2535	sin
+T33	Phrase 2536 2585	signos de resangrado tras 72 horas en observación
+T34	DISO 2546 2556	resangrado
+T35	PROC 3145 3188	antígeno positivo de clostridium con toxina
+T36	NegLexMarker 3189 3197	negativa
+T37	NegSynMarker 3207 3209	no
+T38	Phrase 3210 3257	se haya demostrado la infección por clostridium
+T39	DISO 3229 3257	la infección por clostridium
+T40	NegLexMarker 3268 3279	ausencia de
+T41	DISO 3280 3321	clara mejoría con tratamiento corticoideo
+T42	NegMorMarker 3634 3641	afebril
+T43	NegSynMarker 3762 3765	sin
+T44	Phrase 3766 3823	apreciarse evidencia de tumores que justifiquen el cuadro
+T45	DISO 3790 3823	tumores que justifiquen el cuadro
+T46	UncertLexMarker 4505 4514	sugestivo
+T47	Phrase 4515 4556	todo ello de anemia hemolitica autoinmune
+T48	DISO 4528 4556	anemia hemolitica autoinmune
+T49	UncertLexMarker 5039 5047	probable
+T50	DISO 5048 5073	relación a diverticulosis
+T51	NegSynMarker 5286 5288	no
+T52	Phrase 5289 5374	se produce ningun hecho relevante con respecto a la intervención abdominal practicada
+T53	PolItem 5300 5306	ningun
+T54	DISO 5300 5374	ningun hecho relevante con respecto a la intervención abdominal practicada
+T55	NegSynMarker 5556 5558	no
+T56	Phrase 5559 5631	ha presentado complicaciones desde el punto de vista cardiorrespiratorio
+T57	DISO 5573 5631	complicaciones desde el punto de vista cardiorrespiratorio
+T58	NegSynMarker 5632 5635	sin
+T59	DISO 5636 5650	dolor torácico
+T60	Phrase 5636 5674	dolor torácico ni tos ni expectoración
+T61	CoordItem 5651 5653	ni
+T62	DISO 5654 5657	tos
+T63	CoordItem 5658 5660	ni
+T64	DISO 5661 5674	expectoración
+T65	NegSynMarker 6271 6273	no
+T66	Phrase 6274 6293	se logra sobrepasar
+T67	OTHER 6283 6293	sobrepasar
+T68	NegMorMarker 6785 6797	asintomatica
+T69	NegSynMarker 6800 6803	sin
+T70	DISO 6804 6810	fiebre
+T71	NegSynMarker 7562 7564	no
+T72	Phrase 7565 7581	es satisfactoria
+T73	OTHER 7568 7581	satisfactoria
+T74	NegSynMarker 7773 7776	sin
+T75	OTHER 7777 7837	garantías totales de recuperar al 100 % su coloración normal
+T76	NegSynMarker 8268 8270	no
+T77	Phrase 8271 8314	presenta complicaciones tras la exploración
+T78	DISO 8280 8314	complicaciones tras la exploración
+T79	NegMorMarker 8337 8344	afebril
+T80	UncertLexMarker 8497 8504	posible
+T81	Phrase 8505 8571	perforacion yatrogenica que es tratada mediante protesis esofagica
+T82	DISO 8505 8528	perforacion yatrogenica
+T83	NegSynMarker 8723 8726	sin
+T84	Phrase 8727 8770	observar comunicación con aparato digestivo
+T85	DISO 8736 8770	comunicación con aparato digestivo
+T86	NegSynMarker 8934 8937	sin
+T87	Phrase 8938 8957	objetivar patología
+T88	DISO 8948 8957	patología
+T89	UncertLexMarker 9049 9062	probablemente
+T90	PROC 9063 9075	colonoscopia
+T91	NegSynMarker 9223 9225	no
+T92	Phrase 9226 9249	presenta complicaciones
+T93	DISO 9235 9249	complicaciones
+T94	NegLexMarker 9347 9361	suspensión del
+T95	SUBS 9362 9369	sintrom
+T96	NegSynMarker 9993 9996	sin
+T97	Phrase 9997 10021	signos de sangrado agudo
+T98	DISO 10007 10021	sangrado agudo
+T99	NegMorMarker 10040 10047	afebril
+T100	NegSynMarker 10479 10481	no
+T101	DISO 10482 10494	desaparición
+T102	NegSynMarker 10680 10683	sin
+T103	DISO 10684 10705	lesiones en su EIizda
+T104	NegSynMarker 11431 11434	sin
+T105	DISO 11435 11449	complicaciones
+T106	NegSynMarker 11554 11557	sin
+T107	DISO 11558 11580	incidencias reseñables
+T108	NegMorMarker 11632 11639	afebril
+T109	NegSynMarker 11642 11645	sin
+T110	DISO 11646 11651	dolor
+T111	NegSynMarker 11945 11948	sin
+T112	DISO 11949 11955	filiar
+T113	NegMorMarker 12251 12263	asintomático
+T114	UncertLexMarker 12294 12300	Parece
+T115	Phrase 12301 12363	existir una causa obstructiva a nivel de la cabeza pancreática
+T116	DISO 12309 12363	una causa obstructiva a nivel de la cabeza pancreática
+T117	UncertLexMarker 12744 12751	posible
+T118	PROC 12752 12758	cierre
+T119	NegSynMarker 13796 13798	no
+T120	DISO 13799 13845	mejoría del cuadro con tratamiento conservador
+T121	NegSynMarker 14160 14162	no
+T122	DISO 14163 14170	filiada
+T123	UncertLexMarker 14178 14190	sugestivo de
+T124	DISO 14191 14208	colitis isquémica
+T125	NegLexMarker 14329 14344	se ha suprimido
+T126	Phrase 14345 14371	el tratamiento con sintrom
+T127	SUBS 14364 14371	sintrom
+T128	UncertLexMarker 15319 15330	sospecha de
+T129	DISO 15331 15359	" colangiocarcinoma " distal
+T130	NegSynMarker 15481 15483	no
+T131	OTHER 15484 15494	quirurgico
+T132	NegLexMarker 15878 15889	retirada de
+T133	SUBS 15890 15900	la tiacida
+T134	NegLexMarker 16102 16114	se retiraron
+T135	SUBS 16115 16125	los sueros
+T136	NegSynMarker 16216 16218	no
+T137	Phrase 16219 16233	tuviera disnea
+T138	DISO 16227 16233	disnea
+R1	Scope Arg1:T1 Arg2:T2
+R2	DiscScope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T4 Arg2:T3
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T36 Arg2:T35
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T55 Arg2:T56
+R22	Scope Arg1:T58 Arg2:T60
+R23	Scope Arg1:T65 Arg2:T66
+R24	Scope Arg1:T69 Arg2:T70
+R25	Scope Arg1:T71 Arg2:T72
+R26	Scope Arg1:T74 Arg2:T75
+R27	Scope Arg1:T76 Arg2:T77
+R28	Scope Arg1:T80 Arg2:T81
+R29	Scope Arg1:T83 Arg2:T84
+R30	Scope Arg1:T86 Arg2:T87
+R31	Scope Arg1:T89 Arg2:T90
+R32	Scope Arg1:T91 Arg2:T92
+R33	Scope Arg1:T94 Arg2:T95
+R34	Scope Arg1:T96 Arg2:T97
+R35	Scope Arg1:T100 Arg2:T101
+R36	Scope Arg1:T102 Arg2:T103
+R37	Scope Arg1:T104 Arg2:T105
+R38	Scope Arg1:T106 Arg2:T107
+R39	Scope Arg1:T109 Arg2:T110
+R40	Scope Arg1:T111 Arg2:T112
+R41	Scope Arg1:T114 Arg2:T115
+R42	Scope Arg1:T117 Arg2:T118
+R43	Scope Arg1:T119 Arg2:T120
+R44	Scope Arg1:T121 Arg2:T122
+R45	Scope Arg1:T123 Arg2:T124
+R46	Scope Arg1:T125 Arg2:T126
+R47	Scope Arg1:T130 Arg2:T131
+R48	Scope Arg1:T128 Arg2:T129
+R49	Scope Arg1:T132 Arg2:T133
+R50	Scope Arg1:T134 Arg2:T135
+R51	Scope Arg1:T136 Arg2:T137

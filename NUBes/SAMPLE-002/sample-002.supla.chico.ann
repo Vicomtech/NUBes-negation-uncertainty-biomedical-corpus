@@ -1,0 +1,18 @@
+T1	UncertLexMarker 134 142	Probable
+T2	DISO 143 154	basocelular
+T3	UncertLexMarker 581 582	¿
+T4	DISO 583 600	carcinoma en base
+T5	UncertLexMarker 601 602	?
+T6	NegSynMarker 735 737	No
+T7	DISO 738 783	clínica respiratoria , digestiva ni miccional
+T8	CoordItem 771 773	ni
+T9	NegSynMarker 786 788	No
+T10	Phrase 789 832	refiere aumento del dolor ni clínica febril
+T11	DISO 797 814	aumento del dolor
+T12	CoordItem 815 817	ni
+T13	DISO 818 832	clínica febril
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T4
+R3	DiscMarker Arg1:T3 Arg2:T5
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T9 Arg2:T10

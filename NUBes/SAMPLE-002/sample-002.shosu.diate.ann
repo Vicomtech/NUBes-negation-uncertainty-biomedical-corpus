@@ -1,0 +1,73 @@
+T1	UncertLexMarker 225 230	puede
+T2	Phrase 231 305	corresponder un pequeño infarto de morfología lacunar en esta localización
+T3	DISO 244 305	un pequeño infarto de morfología lacunar en esta localización
+T4	NegSynMarker 400 402	No
+T5	Phrase 403 434	se aprecian asimetrias faciales
+T6	DISO 415 434	asimetrias faciales
+T7	NegSynMarker 531 534	sin
+T8	DISO 535 551	nivel hidroaéreo
+T9	UncertLexMarker 994 1008	compatible con
+T10	DISO 1009 1046	lesión de aspecto cicatricial benigna
+T11	NegSynMarker 1086 1089	sin
+T12	SUBS 1090 1093	CIV
+T13	UncertLexMarker 1292 1299	posible
+T14	DISO 1300 1344	infarto cortico-subcortical hemisferico izqd
+T15	UncertLexMarker 1536 1544	Probable
+T16	DISO 1545 1609	lesión cicatricial benigna en primera porción del marco duodenal
+T17	NegSynMarker 1795 1797	no
+T18	Phrase 1798 1813	presenta soplos
+T19	DISO 1807 1813	soplos
+T20	NegSynMarker 1903 1906	sin
+T21	OTHER 1907 1957	variaciones con respecto a TAC previo de 9/09/2003
+T22	NegSynMarker 1960 1963	sin
+T23	Phrase 1964 2002	signos de sangrado o de isquemia aguda
+T24	DISO 1974 1982	sangrado
+T25	CoordItem 1983 1984	o
+T26	DISO 1988 2002	isquemia aguda
+T27	NegSynMarker 2005 2008	sin
+T28	DISO 2009 2027	líneas de fractura
+T29	NegSynMarker 2082 2085	sin
+T30	DISO 2086 2098	alteraciones
+T31	UncertLexMarker 2153 2159	podría
+T32	Phrase 2160 2179	realizar RM craneal
+T33	PROC 2169 2179	RM craneal
+T34	UncertLexMarker 2212 2220	Probable
+T35	DISO 2221 2283	infarto de morfología lacunar en región perisilviana izquierda
+T36	UncertLexMarker 2303 2311	Probable
+T37	DISO 2312 2374	infarto de morfología lacunar en región perisilviana izquierda
+T38	NegSynMarker 2527 2530	sin
+T39	DISO 2531 2538	sentido
+T40	UncertLexMarker 2566 2578	sugestiva de
+T41	DISO 2579 2595	afasia sensitiva
+T42	NegSynMarker 2699 2701	no
+T43	Phrase 2702 2739	precisa tratamiento por nuestra parte
+T44	PROC 2710 2739	tratamiento por nuestra parte
+T45	NegSynMarker 2765 2767	no
+T46	Phrase 2768 2794	es valorable por la afasia
+T47	DISO 2771 2780	valorable
+T48	NegSynMarker 2902 2904	no
+T49	Phrase 2905 2931	hay cambios significativos
+T50	DISO 2909 2931	cambios significativos
+T51	NegSynMarker 3012 3015	sin
+T52	SUBS 3016 3019	CIV
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T27 Arg2:T28
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T51 Arg2:T52

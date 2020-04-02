@@ -1,0 +1,52 @@
+T1	NegSynMarker 85 87	No
+T2	DISO 88 102	dolor torácico
+T3	Phrase 88 128	dolor torácico , palpitaciones ni disnea
+T4	DISO 105 118	palpitaciones
+T5	CoordItem 119 121	ni
+T6	DISO 122 128	disnea
+T7	NegSynMarker 201 203	No
+T8	DISO 204 219	fiebre asociada
+T9	NegSynMarker 259 261	No
+T10	DISO 262 269	disuria
+T11	NegSynMarker 272 275	Sin
+T12	DISO 276 294	retención de orina
+T13	NegSynMarker 712 714	no
+T14	DISO 715 720	orina
+T15	NegLexMarker 823 827	nula
+T16	DISO 828 835	mejoria
+T17	NegSynMarker 1004 1006	No
+T18	DISO 1007 1039	clinica urinaria ni respiratoria
+T19	CoordItem 1024 1026	ni
+T20	UncertLexMarker 1210 1219	sin claro
+T21	DISO 1220 1238	síndrome miccional
+T22	NegSynMarker 1241 1243	No
+T23	Phrase 1244 1316	fiebre documentada , naúseas , vómitos ni cambios en el ritmo intestinal
+T24	DISO 1244 1262	fiebre documentada
+T25	DISO 1265 1272	naúseas
+T26	DISO 1275 1282	vómitos
+T27	CoordItem 1283 1285	ni
+T28	DISO 1286 1316	cambios en el ritmo intestinal
+T29	UncertLexMarker 1319 1328	No claras
+T30	DISO 1329 1354	caracteristicas mecanicas
+T31	NegLexMarker 1545 1563	imposibilidad para
+T32	DISO 1564 1574	la micción
+T33	NegSynMarker 1719 1721	no
+T34	DISO 1722 1739	meojria del dolor
+T35	NegSynMarker 2018 2021	sin
+T36	DISO 2022 2029	disuria
+T37	NegSynMarker 2044 2047	sin
+T38	DISO 2048 2055	vómitos
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T7 Arg2:T8
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T13 Arg2:T14
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T37 Arg2:T38
+R14	Scope Arg1:T35 Arg2:T36

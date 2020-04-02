@@ -1,0 +1,12 @@
+T1	NegSynMarker 209 212	sin
+T2	DISO 213 224	incidencias
+T3	NegSynMarker 264 267	sin
+T4	DISO 268 278	incdencias
+T5	NegSynMarker 318 321	sin
+T6	DISO 322 333	inicdencias
+T7	NegSynMarker 450 453	sin
+T8	DISO 454 466	incidenacias
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8

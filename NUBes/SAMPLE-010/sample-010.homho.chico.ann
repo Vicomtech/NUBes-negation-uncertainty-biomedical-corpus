@@ -1,0 +1,55 @@
+T1	NegLexMarker 238 249	retirada de
+T2	OTHER 250 260	infusor QT
+T3	NegSynMarker 493 495	NO
+T4	Phrase 496 502	llamar
+T5	UncertLexMarker 1338 1346	no claro
+T6	Phrase 1347 1367	si conoce pronóstico
+T7	UncertLexMarker 3109 3120	sospecha de
+T8	DISO 3121 3133	endocarditis
+T9	UncertLexMarker 3318 3325	valorar
+T10	PROC 3326 3341	hemotransfusión
+T11	PROC 3748 3756	cultivos
+T12	NegLexMarker 3757 3766	negativos
+T13	NegSynMarker 4425 4427	no
+T14	DISO 4428 4438	complicada
+T15	NegSynMarker 5450 5453	sin
+T16	Phrase 5454 5483	observar patologia intestinal
+T17	DISO 5463 5483	patologia intestinal
+T18	NegSynMarker 5485 5487	no
+T19	Phrase 5488 5506	nauseas ni vomitos
+T20	DISO 5488 5495	nauseas
+T21	CoordItem 5496 5498	ni
+T22	DISO 5499 5506	vomitos
+T23	NegSynMarker 5508 5510	no
+T24	DISO 5511 5539	antecedentes de rectorragias
+T25	NegSynMarker 6554 6556	No
+T26	DISO 6557 6575	fiebre documentada
+T27	PROC 6963 6977	tratamiento Qt
+T28	Phrase 6963 6994	tratamiento Qt en Clínica Kioto
+T29	NegLexMarker 7017 7027	suspendido
+T30	Phrase 7028 7046	por complicaciones
+T31	NegSynMarker 7342 7344	No
+T32	DISO 7345 7362	pauta descendente
+T33	UncertLexMarker 7482 7490	probable
+T34	DISO 7491 7506	origen pulmonar
+T35	NegSynMarker 8100 8102	no
+T36	OTHER 8103 8153	cumple requisitos para terapia de resincronización
+T37	UncertLexMarker 10424 10435	sospecha de
+T38	DISO 10436 10473	cancer de pulmón con metastásis óseas
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T15 Arg2:T16
+R11	Scope Arg1:T25 Arg2:T26
+R12	DiscScope Arg1:T29 Arg2:T28
+R13	DiscScope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T37 Arg2:T38

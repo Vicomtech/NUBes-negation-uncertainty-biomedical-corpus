@@ -1,0 +1,36 @@
+T1	NegSynMarker 402 404	no
+T2	DISO 405 416	colaborador
+T3	NegSynMarker 1086 1088	No
+T4	DISO 1089 1098	valorable
+T5	NegSynMarker 1115 1117	no
+T6	DISO 1118 1127	valorable
+T7	UncertLexMarker 1357 1365	posibles
+T8	DISO 1366 1405	fluctuaciones en el nivel de conciencia
+T9	UncertLexMarker 1410 1426	pudieran sugerir
+T10	PROC 1614 1622	Apraxias
+T11	NegSynMarker 1625 1627	no
+T12	OTHER 1628 1637	evaluadas
+T13	UncertLexMarker 1640 1654	No es evidente
+T14	DISO 1655 1690	una obstrucción segmentaria a nivel
+T15	NegSynMarker 2150 2152	no
+T16	DISO 2153 2162	valorable
+T17	DISO 2200 2207	Temblor
+T18	NegSynMarker 2210 2212	no
+T19	Phrase 2213 2261	se aprecia de reposo , de actidud ni intencional
+T20	CoordItem 2247 2249	ni
+T21	NegSynMarker 2737 2740	sin
+T22	DISO 2741 2759	flexion de piernas
+T23	NegSynMarker 2881 2883	no
+T24	DISO 2884 2896	festineación
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	DiscScope Arg1:T11 Arg2:T10
+R6	DiscScope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	DiscScope Arg1:T18 Arg2:T17
+R10	DiscScope Arg1:T18 Arg2:T19
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T21 Arg2:T22

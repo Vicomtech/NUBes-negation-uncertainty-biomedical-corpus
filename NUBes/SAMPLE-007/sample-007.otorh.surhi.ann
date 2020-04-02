@@ -1,0 +1,3 @@
+T1	NegLexMarker 845 856	Ausencia de
+T2	DISO 857 873	pie de cartilago
+R1	Scope Arg1:T1 Arg2:T2

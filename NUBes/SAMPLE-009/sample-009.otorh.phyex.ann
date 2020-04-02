@@ -1,0 +1,27 @@
+T1	NegSynMarker 328 330	No
+T2	Phrase 331 358	signos de inflamacion aguda
+T3	DISO 341 358	inflamacion aguda
+T4	NegSynMarker 756 759	sin
+T5	DISO 760 766	edemas
+T6	NegSynMarker 777 779	no
+T7	DISO 780 789	dolroosos
+T8	NegSynMarker 829 831	No
+T9	Phrase 832 862	se objetivan signos de reflujo
+T10	DISO 855 862	reflujo
+T11	NegSynMarker 1012 1014	No
+T12	DISO 1015 1037	adenopatías cervicales
+T13	NegSynMarker 1650 1652	no
+T14	DISO 1653 1659	soplos
+T15	NegSynMarker 1735 1737	no
+T16	DISO 1738 1744	edemas
+T17	NegSynMarker 2129 2131	no
+T18	Phrase 2132 2149	visualizo tímpano
+T19	BODY 2142 2149	tímpano
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18

@@ -1,0 +1,21 @@
+T1	NegLexMarker 0 5	Niega
+T2	DISO 6 9	TCE
+T3	NegSynMarker 12 14	no
+T4	DISO 15 36	perdida de conomiento
+T5	NegSynMarker 334 336	no
+T6	DISO 337 352	puede deambular
+T7	NegLexMarker 469 487	imposibilidad para
+T8	DISO 488 497	deambular
+T9	NegLexMarker 590 599	suspendio
+T10	SUBS 600 605	AINEs
+T11	NegSynMarker 667 669	No
+T12	Phrase 670 696	hay familiares acompañando
+T13	NegSynMarker 708 710	no
+T14	Phrase 711 742	se puede contrastar la Historia
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T11 Arg2:T12

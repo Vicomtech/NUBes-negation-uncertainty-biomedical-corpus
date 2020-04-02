@@ -1,0 +1,12 @@
+T1	NegSynMarker 60 62	no
+T2	Phrase 63 93	tomar más de 3 capsulas al dia
+T3	OTHER 69 93	más de 3 capsulas al dia
+T4	NegSynMarker 216 218	no
+T5	OTHER 219 223	toma
+T6	NegLexMarker 1600 1610	Abstención
+T7	PolItem 1611 1619	absoluta
+T8	Phrase 1611 1641	absoluta de ingesta alcohólica
+T9	OTHER 1623 1641	ingesta alcohólica
+R1	Scope Arg1:T4 Arg2:T5
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T6 Arg2:T8

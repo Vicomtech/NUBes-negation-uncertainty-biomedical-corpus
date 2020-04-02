@@ -1,0 +1,67 @@
+T1	NegSynMarker 147 150	sin
+T2	DISO 151 157	disnea
+T3	NegSynMarker 160 163	sin
+T4	DISO 164 205	irradiacion del dolor a otra localizacion
+T5	NegSynMarker 453 455	No
+T6	Phrase 456 481	dolor torácico ni cefalea
+T7	DISO 456 470	dolor torácico
+T8	CoordItem 471 473	ni
+T9	DISO 474 481	cefalea
+T10	NegSynMarker 635 638	sin
+T11	DISO 639 732	irradiacion por las extremidades superiores , ni a region mandibular , ni a otra localizacion
+T12	CoordItem 685 687	ni
+T13	CoordItem 710 712	ni
+T14	NegSynMarker 768 770	no
+T15	Phrase 771 811	le ha despertado el dolor por las noches
+T16	NegSynMarker 833 835	No
+T17	DISO 836 869	aumento de edemas en extremidades
+T18	NegSynMarker 922 924	No
+T19	DISO 925 950	dolor de perfil isquémico
+T20	NegSynMarker 1062 1065	sin
+T21	DISO 1066 1073	cortejo
+T22	Phrase 1066 1094	cortejo ni mareo acompañante
+T23	CoordItem 1074 1076	ni
+T24	DISO 1077 1094	mareo acompañante
+T25	NegMorMarker 1187 1199	asintomático
+T26	NegSynMarker 1202 1205	sin
+T27	DISO 1206 1215	prodromos
+T28	NegSynMarker 1260 1263	sin
+T29	DISO 1264 1269	dolor
+T30	Phrase 1264 1301	dolor en el momento de la exploracion
+T31	NegSynMarker 1312 1314	no
+T32	DISO 1315 1322	mejoría
+T33	NegLexMarker 1406 1422	haber suspendido
+T34	SUBS 1423 1432	trangorex
+T35	NegSynMarker 1517 1519	no
+T36	DISO 1520 1536	dolor pleurítico
+T37	Phrase 1520 1546	dolor pleurítico ni fiebre
+T38	CoordItem 1537 1539	ni
+T39	DISO 1540 1546	fiebre
+T40	NegSynMarker 1615 1618	sin
+T41	DISO 1619 1632	palpitaciones
+T42	NegSynMarker 1635 1637	No
+T43	Phrase 1638 1656	nauseas ni vómitos
+T44	DISO 1638 1645	nauseas
+T45	CoordItem 1646 1648	ni
+T46	DISO 1649 1656	vómitos
+T47	NegSynMarker 1685 1687	No
+T48	DISO 1688 1703	dolor abdominal
+T49	NegSynMarker 1706 1708	no
+T50	DISO 1709 1715	disnea
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T14 Arg2:T15
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T22
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T28 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T33 Arg2:T34
+R13	Scope Arg1:T35 Arg2:T37
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T42 Arg2:T43
+R16	Scope Arg1:T49 Arg2:T50
+R17	Scope Arg1:T47 Arg2:T48

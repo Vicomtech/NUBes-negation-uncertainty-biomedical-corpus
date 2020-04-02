@@ -1,0 +1,9 @@
+T1	NegLexMarker 656 664	Suspende
+T2	SUBS 665 675	Olmesartan
+T3	NegLexMarker 1880 1888	Suspende
+T4	SUBS 1889 1896	Icandra
+T5	NegSynMarker 1899 1901	no
+T6	OTHER 1902 1919	tolera metformina
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

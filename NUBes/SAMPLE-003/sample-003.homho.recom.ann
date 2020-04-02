@@ -1,0 +1,19 @@
+T1	NegLexMarker 1932 1939	Evitará
+T2	Phrase 1940 1969	bebidas alcoholicas y con gas
+T3	NegSynMarker 3167 3169	no
+T4	Phrase 3170 3191	se adhiera a la pared
+T5	NegSynMarker 5853 5856	sin
+T6	Phrase 5857 5860	sal
+T7	NegSynMarker 7863 7865	no
+T8	Phrase 7866 7870	sola
+T9	NegSynMarker 11147 11149	No
+T10	Phrase 11150 11178	consumo de alcohol ni tabaco
+T11	CoordItem 11169 11171	ni
+T12	NegSynMarker 12647 12650	sin
+T13	Phrase 12651 12657	forzar
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T13

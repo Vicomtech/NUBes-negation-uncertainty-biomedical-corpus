@@ -1,0 +1,31 @@
+T1	NegSynMarker 63 66	sin
+T2	DISO 67 73	soplos
+T3	NegSynMarker 181 184	Sin
+T4	DISO 185 194	hallazgos
+T5	NegSynMarker 244 246	no
+T6	Phrase 247 264	masas ni megalias
+T7	DISO 247 252	masas
+T8	CoordItem 253 255	ni
+T9	DISO 256 264	megalias
+T10	NegSynMarker 304 306	no
+T11	DISO 307 313	roncus
+T12	Phrase 307 328	roncus ni sibilancias
+T13	CoordItem 314 316	ni
+T14	DISO 317 328	sibilancias
+T15	NegSynMarker 493 495	No
+T16	DISO 496 502	edemas
+T17	NegSynMarker 523 525	No
+T18	DISO 526 541	rigidez de nuca
+T19	NegSynMarker 544 546	no
+T20	DISO 547 568	ingurgitación yugular
+T21	NegSynMarker 571 573	No
+T22	Phrase 574 587	signos de TVP
+T23	DISO 584 587	TVP
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T10 Arg2:T12
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T21 Arg2:T22

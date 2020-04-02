@@ -1,0 +1,15 @@
+T1	UncertLexMarker 22 29	posible
+T2	DISO 30 38	fractura
+T3	UncertLexMarker 147 161	compatible con
+T4	DISO 162 176	ca basocelular
+T5	NegLexMarker 255 263	Descarta
+T6	DISO 264 295	ca. basocelular o espinocelular
+T7	UncertLexMarker 933 947	compatible con
+T8	DISO 948 996	condrodermatitis en pabellón auricular izquierdo
+T9	UncertLexMarker 1444 1458	compatible con
+T10	DISO 1459 1474	ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10

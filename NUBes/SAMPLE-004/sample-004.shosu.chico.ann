@@ -1,0 +1,9 @@
+T1	UncertLexMarker 77 88	Sospecha de
+T2	DISO 89 114	carcinomatosis peritoneal
+T3	UncertLexMarker 1024 1035	sospecha de
+T4	DISO 1036 1064	neoplasia de mama diseminada
+T5	UncertLexMarker 1634 1642	probable
+T6	DISO 1643 1656	demencia leve
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6

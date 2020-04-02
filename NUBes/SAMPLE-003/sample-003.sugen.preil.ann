@@ -1,0 +1,102 @@
+T1	NegSynMarker 435 438	sin
+T2	DISO 439 462	antecedentes de interes
+T3	NegSynMarker 643 645	no
+T4	DISO 646 654	palpable
+T5	UncertLexMarker 661 668	sugiere
+T6	Phrase 669 688	hernia inguinal ???
+T7	DISO 669 684	hernia inguinal
+T8	PolItem 685 688	???
+T9	NegSynMarker 892 894	No
+T10	DISO 895 936	afecta las estructuras musculares u óseas
+T11	NegSynMarker 998 1000	No
+T12	DISO 1001 1007	fiebre
+T13	Phrase 1001 1039	fiebre ni otra sintomatologia asociada
+T14	CoordItem 1008 1010	ni
+T15	DISO 1011 1039	otra sintomatologia asociada
+T16	NegSynMarker 1054 1056	no
+T17	DISO 1057 1086	mejora con ningún tratamiento
+T18	DISO 1134 1151	Hernia de Spiegel
+T19	UncertLexMarker 1152 1155	???
+T20	UncertLexMarker 1290 1300	improbable
+T21	Phrase 1301 1340	que se trate de una lesión inflamatoria
+T22	DISO 1317 1340	una lesión inflamatoria
+T23	NegLexMarker 1348 1365	en ningún momento
+T24	Phrase 1366 1426	presenta necrosis o apariencia quística ni realce periférico
+T25	DISO 1375 1383	necrosis
+T26	DISO 1386 1405	apariencia quística
+T27	CoordItem 1406 1408	ni
+T28	DISO 1409 1426	realce periférico
+T29	UncertLexMarker 1440 1446	parece
+T30	Phrase 1447 1499	presentar rasgos infiltrativos en la grasa y la piel
+T31	DISO 1457 1499	rasgos infiltrativos en la grasa y la piel
+T32	NegSynMarker 1634 1636	No
+T33	Phrase 1637 1652	precisó ingreso
+T34	OTHER 1645 1652	ingreso
+T35	NegSynMarker 2037 2039	No
+T36	DISO 2040 2046	fiebre
+T37	Phrase 2040 2069	fiebre ni otra sintomatología
+T38	CoordItem 2047 2049	ni
+T39	DISO 2050 2069	otra sintomatología
+T40	NegSynMarker 2100 2102	no
+T41	DISO 2103 2126	doloroso a la palapción
+T42	NegSynMarker 2129 2131	no
+T43	DISO 2132 2139	hernias
+T44	NegSynMarker 2306 2309	sin
+T45	DISO 2310 2317	mejoría
+T46	NegSynMarker 2342 2344	no
+T47	Phrase 2345 2382	ha crecido , ni se ha vuelto doloroso
+T48	DISO 2348 2355	crecido
+T49	CoordItem 2358 2360	ni
+T50	DISO 2374 2382	doloroso
+T51	NegSynMarker 2521 2524	sin
+T52	DISO 2525 2543	pérdida de apetito
+T53	NegSynMarker 2559 2561	no
+T54	DISO 2562 2570	doloroso
+T55	NegSynMarker 2573 2575	no
+T56	Phrase 2576 2621	se palpan masas con heces normales en ampolla
+T57	DISO 2586 2591	masas
+T58	NegSynMarker 2759 2761	no
+T59	Phrase 2762 2777	hace deposición
+T60	DISO 2767 2777	deposición
+T61	NegSynMarker 2962 2964	No
+T62	DISO 2965 2973	anorexia
+T63	NegSynMarker 2976 2978	no
+T64	DISO 2979 3010	alteración del ritmo intestinal
+T65	Phrase 3039 3083	episodio de diarreas que duró bastantes dias
+T66	DISO 3051 3059	diarreas
+T67	NegSynMarker 3086 3088	no
+T68	Phrase 3089 3102	sabe precisar
+T69	NegSynMarker 3118 3120	no
+T70	OTHER 3121 3129	consultó
+T71	NegLexMarker 3136 3141	cedio
+T72	Phrase 3142 3157	espontáneamente
+T73	NegSynMarker 3434 3437	sin
+T74	Phrase 3438 3464	apreciarse patología aguda
+T75	DISO 3449 3464	patología aguda
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T13
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T29 Arg2:T30
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T35 Arg2:T37
+R13	Scope Arg1:T42 Arg2:T43
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T44 Arg2:T45
+R16	Scope Arg1:T46 Arg2:T47
+R17	Scope Arg1:T51 Arg2:T52
+R18	Scope Arg1:T55 Arg2:T56
+R19	Scope Arg1:T53 Arg2:T54
+R20	Scope Arg1:T58 Arg2:T59
+R21	Scope Arg1:T63 Arg2:T64
+R22	Scope Arg1:T61 Arg2:T62
+R23	DiscScope Arg1:T71 Arg2:T65
+R24	Scope Arg1:T69 Arg2:T70
+R25	DiscScope Arg1:T71 Arg2:T72
+R26	Scope Arg1:T67 Arg2:T68
+R27	Scope Arg1:T73 Arg2:T74

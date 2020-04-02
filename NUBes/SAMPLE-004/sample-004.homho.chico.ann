@@ -1,0 +1,83 @@
+T1	UncertLexMarker 426 431	sería
+T2	OTHER 432 450	altable a primaria
+T3	UncertLexMarker 1297 1305	Probable
+T4	DISO 1306 1328	brote Medular Cervical
+T5	NegLexMarker 1487 1498	retirada de
+T6	OTHER 1499 1521	infusor quimioterapico
+T7	NegLexMarker 2239 2250	retirada de
+T8	OTHER 2251 2273	Infusor Quimioterápico
+T9	NegSynMarker 2578 2580	no
+T10	OTHER 2581 2617	susceptible de tratamiento dialítico
+T11	NegLexMarker 2854 2865	retirada de
+T12	OTHER 2866 2888	Infusor Quimioterápico
+T13	NegSynMarker 3343 3346	sin
+T14	DISO 3347 3358	traumatismo
+T15	Phrase 3347 3377	traumatismo ni esfuerzo previo
+T16	CoordItem 3359 3361	ni
+T17	OTHER 3362 3377	esfuerzo previo
+T18	NegSynMarker 3594 3596	No
+T19	Phrase 3597 3624	desea fallecer en domicilio
+T20	UncertLexMarker 4066 4073	posible
+T21	DISO 4074 4103	aumento de los edemas en Eeii
+T22	NegSynMarker 4825 4827	no
+T23	Phrase 4828 4841	puede hacerlo
+T24	NegSynMarker 4988 4990	no
+T25	Phrase 4991 5029	van a continuar con tratamiento activo
+T26	OTHER 4997 5029	continuar con tratamiento activo
+T27	NegLexMarker 5322 5327	cesar
+T28	PROC 5328 5346	tratamiento activo
+T29	NegSynMarker 5972 5974	no
+T30	DISO 5975 5981	fiebre
+T31	NegSynMarker 5984 5986	no
+T32	DISO 5987 5993	disnea
+T33	NegSynMarker 5996 5998	no
+T34	Phrase 5999 6036	dolor toràcico ni otra sintomatologia
+T35	DISO 5999 6013	dolor toràcico
+T36	CoordItem 6014 6016	ni
+T37	DISO 6017 6036	otra sintomatologia
+T38	NegSynMarker 6099 6101	no
+T39	Phrase 6102 6114	nota mejoria
+T40	DISO 6107 6114	mejoria
+T41	NegSynMarker 6315 6317	No
+T42	DISO 6318 6372	clínica febril , respiratoria , digestivo ni miccional
+T43	CoordItem 6360 6362	ni
+T44	NegLexMarker 6463 6474	retirada de
+T45	OTHER 6475 6485	infusor QT
+T46	NegLexMarker 6579 6590	retirada de
+T47	OTHER 6591 6613	infusor quimioterápico
+T48	NegLexMarker 6993 7004	retirada de
+T49	OTHER 7005 7027	Infusor Quimioterápico
+T50	NegSynMarker 7048 7050	No
+T51	Phrase 7051 7097	dolor torácico , palpitaciones , Dpn ni disnea
+T52	DISO 7051 7065	dolor torácico
+T53	DISO 7068 7081	palpitaciones
+T54	DISO 7084 7087	Dpn
+T55	CoordItem 7088 7090	ni
+T56	DISO 7091 7097	disnea
+T57	NegSynMarker 7100 7102	No
+T58	DISO 7103 7124	otra clínica asociada
+T59	UncertLexMarker 7722 7729	posible
+T60	OTHER 7730 7747	puerta de entrada
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T15
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T31 Arg2:T32
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T57 Arg2:T58
+R23	Scope Arg1:T59 Arg2:T60

@@ -1,0 +1,21 @@
+T1	UncertLexMarker 0 7	Posible
+T2	Phrase 8 91	Ca. basocelular ulcerado en labio superior , vértex y tercio medio pierna izquierda
+T3	DISO 8 23	Ca. basocelular
+T4	UncertLexMarker 222 236	compatible con
+T5	Phrase 237 312	ca. basocelular en espalda de 10x15 cms. y otra de 5 mm. sobre mama derecha
+T6	DISO 237 252	ca. basocelular
+T7	UncertLexMarker 437 451	compatible con
+T8	DISO 452 467	ca. basocelular
+T9	UncertLexMarker 749 762	sospechosa de
+T10	DISO 763 794	espinocelular en labio inferior
+T11	UncertLexMarker 1051 1066	compatibles con
+T12	DISO 1067 1082	ca. basocelular
+T13	UncertLexMarker 1170 1184	compatible con
+T14	Phrase 1185 1230	ca. basocelular en pabellón auricular derecho
+T15	DISO 1185 1200	ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14

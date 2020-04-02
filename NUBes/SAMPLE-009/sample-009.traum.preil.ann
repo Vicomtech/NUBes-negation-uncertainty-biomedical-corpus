@@ -1,0 +1,30 @@
+T1	NegSynMarker 104 106	No
+T2	OTHER 107 116	en reposo
+T3	UncertLexMarker 889 903	compatible con
+T4	DISO 904 924	movilización vástago
+T5	NegSynMarker 1257 1259	no
+T6	Phrase 1260 1297	refiere antecedente traumático previo
+T7	DISO 1268 1297	antecedente traumático previo
+T8	NegSynMarker 1605 1607	No
+T9	Phrase 1608 1635	mejoría con tto conservador
+T10	DISO 1608 1615	mejoría
+T11	NegSynMarker 1790 1792	No
+T12	DISO 1793 1819	otra focalidad neurologica
+T13	NegSynMarker 2515 2518	sin
+T14	DISO 2519 2526	mejoria
+T15	NegSynMarker 3018 3020	no
+T16	Phrase 3021 3061	puede trabajar por el dolor que presenta
+T17	NegSynMarker 3548 3550	No
+T18	DISO 3551 3569	traumatismo previo
+T19	NegSynMarker 3996 3998	no
+T20	DISO 3999 4012	puede caminar
+T21	Phrase 3999 4022	puede caminar por dolor
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T19 Arg2:T21

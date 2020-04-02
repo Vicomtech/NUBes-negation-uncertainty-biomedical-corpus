@@ -1,0 +1,3 @@
+T1	NegLexMarker 397 404	Retirar
+T2	OTHER 405 415	las grapas
+R1	Scope Arg1:T1 Arg2:T2

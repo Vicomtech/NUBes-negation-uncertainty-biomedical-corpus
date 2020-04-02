@@ -1,0 +1,3 @@
+T1	NegLexMarker 459 473	extirpación de
+T2	DISO 474 499	lesión en mejilla derecha
+R1	Scope Arg1:T1 Arg2:T2

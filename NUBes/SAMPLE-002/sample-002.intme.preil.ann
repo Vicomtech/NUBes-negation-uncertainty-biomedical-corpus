@@ -1,0 +1,168 @@
+T1	NegSynMarker 335 337	no
+T2	Phrase 338 372	ha realizado revisiones urológicas
+T3	OTHER 351 372	revisiones urológicas
+T4	NegLexMarker 375 383	Falta de
+T5	OTHER 384 391	apetito
+T6	NegSynMarker 589 592	Sin
+T7	DISO 593 617	otra clinica acompañante
+T8	NegSynMarker 674 676	No
+T9	Phrase 677 710	hay signos de derrame pericárdico
+T10	DISO 691 710	derrame pericárdico
+T11	NegLexMarker 1196 1212	imposibildiad de
+T12	OTHER 1213 1242	cumplimentar tratamiento oral
+T13	NegSynMarker 1296 1299	sin
+T14	OTHER 1300 1350	poder objetivarse la cuantia de los kilos perdidos
+T15	NegSynMarker 1353 1355	No
+T16	Phrase 1356 1393	se ha quejado de dolor a ningún nivel
+T17	DISO 1373 1393	dolor a ningún nivel
+T18	NegSynMarker 1458 1461	sin
+T19	DISO 1462 1501	cambios en relación al estudio anterior
+T20	NegSynMarker 1540 1542	no
+T21	DISO 1543 1552	melénicas
+T22	PROC 1709 1716	punción
+T23	NegLexMarker 1719 1727	negativa
+T24	PROC 1728 1749	para células malignas
+T25	PROC 1752 1759	cultivo
+T26	Phrase 1752 1767	cultivo y Zhiel
+T27	CoordItem 1760 1761	y
+T28	PROC 1762 1767	Zhiel
+T29	NegLexMarker 1768 1776	negativo
+T30	UncertLexMarker 1876 1887	sospecha de
+T31	DISO 1888 1899	amigdalitis
+T32	NegSynMarker 1902 1905	sin
+T33	DISO 1906 1913	mejoría
+T34	PROC 1968 1978	serologías
+T35	NegLexMarker 2000 2009	negativas
+T36	NegLexMarker 2024 2029	cedió
+T37	DISO 2030 2040	la clínica
+T38	NegSynMarker 2049 2051	no
+T39	DISO 2052 2058	disnea
+T40	NegSynMarker 2061 2063	no
+T41	DISO 2064 2077	expectoración
+T42	NegSynMarker 2080 2082	no
+T43	DISO 2083 2099	sensacion febril
+T44	NegSynMarker 2373 2376	sin
+T45	DISO 2377 2398	movimientos anormales
+T46	NegSynMarker 2850 2852	No
+T47	Phrase 2853 2879	se han percatado de fiebre
+T48	NegSynMarker 2998 3000	No
+T49	Phrase 3001 3019	se ha termometrado
+T50	DISO 3007 3019	termometrado
+T51	NegSynMarker 3179 3181	No
+T52	DISO 3182 3190	ortopnea
+T53	NegSynMarker 3193 3195	no
+T54	DISO 3196 3210	edemas de EEII
+T55	NegSynMarker 3213 3215	no
+T56	DISO 3216 3224	oliguria
+T57	Phrase 3216 3236	oliguria ni nicturia
+T58	CoordItem 3225 3227	ni
+T59	DISO 3228 3236	nicturia
+T60	NegSynMarker 3447 3449	no
+T61	SUBS 3450 3456	sangre
+T62	Phrase 3450 3477	sangre ni esputo hemoptoico
+T63	CoordItem 3457 3459	ni
+T64	SUBS 3460 3477	esputo hemoptoico
+T65	Phrase 3623 3633	ANA y ANCA
+T66	PROC 3623 3626	ANA
+T67	PROC 3629 3633	ANCA
+T68	NegLexMarker 3634 3643	negativos
+T69	NegSynMarker 3687 3689	no
+T70	OTHER 3690 3699	ha tomado
+T71	NegSynMarker 4479 4481	No
+T72	Phrase 4482 4512	datos de hipertension pulmonar
+T73	DISO 4491 4512	hipertension pulmonar
+T74	UncertLexMarker 4808 4815	posible
+T75	DISO 4816 4824	tiritona
+T76	NegSynMarker 5065 5067	No
+T77	DISO 5068 5083	dolor torácicio
+T78	NegSynMarker 5086 5088	no
+T79	DISO 5089 5095	disnea
+T80	NegSynMarker 5098 5100	no
+T81	DISO 5101 5130	clinica de infección urinaria
+T82	NegSynMarker 5156 5159	sin
+T83	SUBS 5160 5176	restos de sangre
+T84	NegSynMarker 5179 5182	sin
+T85	DISO 5183 5210	dolor abdominal acompañante
+T86	NegSynMarker 5213 5215	No
+T87	Phrase 5216 5271	consigo hablar con nefrologia Centro de Salud Hagnódice
+T88	NegSynMarker 5307 5309	No
+T89	DISO 5310 5323	dolor torácio
+T90	NegSynMarker 5326 5328	no
+T91	DISO 5329 5342	palpitaciones
+T92	NegSynMarker 5408 5411	Sin
+T93	Phrase 5412 5490	alteraciones del ritmo en el Holter que hagan sospechar cardiopatía embolígena
+T94	DISO 5412 5447	alteraciones del ritmo en el Holter
+T95	NegMorMarker 5534 5546	inespecífica
+T96	Phrase 5674 5700	tratamiento con Augmentine
+T97	SUBS 5690 5700	Augmentine
+T98	NegLexMarker 5709 5718	suspendió
+T99	Phrase 5719 5730	por diarrea
+T100	Phrase 5755 5784	tratamiento con levofloxacino
+T101	SUBS 5771 5784	levofloxacino
+T102	NegLexMarker 5798 5807	suspendió
+T103	Phrase 5808 5825	por epigastralgia
+T104	PROC 5828 5852	Ac. antitransglutaminasa
+T105	NegLexMarker 5853 5862	negativos
+T106	NegLexMarker 5865 5870	Niega
+T107	Phrase 5871 5899	tos , expectoración o disnea
+T108	DISO 5871 5874	tos
+T109	DISO 5877 5890	expectoración
+T110	CoordItem 5891 5892	o
+T111	DISO 5893 5899	disnea
+T112	NegSynMarker 5902 5904	No
+T113	Phrase 5905 5939	ha apreciado productos patológicos
+T114	DISO 5918 5939	productos patológicos
+T115	NegSynMarker 5942 5944	No
+T116	DISO 5945 5977	clinica respiratoria ni urinaria
+T117	CoordItem 5966 5968	ni
+T118	NegSynMarker 5980 5982	No
+T119	Phrase 5983 6032	refieren sintomatología infecciosa a ningún nivel
+T120	DISO 5992 6032	sintomatología infecciosa a ningún nivel
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T29 Arg2:T26
+R11	DiscScope Arg1:T23 Arg2:T22
+R12	DiscScope Arg1:T23 Arg2:T24
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T35 Arg2:T34
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T44 Arg2:T45
+R21	Scope Arg1:T46 Arg2:T47
+R22	Scope Arg1:T48 Arg2:T49
+R23	Scope Arg1:T53 Arg2:T54
+R24	Scope Arg1:T51 Arg2:T52
+R25	Scope Arg1:T55 Arg2:T57
+R26	Scope Arg1:T60 Arg2:T62
+R27	Scope Arg1:T68 Arg2:T65
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T84 Arg2:T85
+R32	Scope Arg1:T82 Arg2:T83
+R33	Scope Arg1:T80 Arg2:T81
+R34	Scope Arg1:T76 Arg2:T77
+R35	Scope Arg1:T78 Arg2:T79
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T90 Arg2:T91
+R38	Scope Arg1:T88 Arg2:T89
+R39	Scope Arg1:T92 Arg2:T93
+R40	DiscScope Arg1:T102 Arg2:T100
+R41	DiscScope Arg1:T98 Arg2:T99
+R42	DiscScope Arg1:T102 Arg2:T103
+R43	DiscScope Arg1:T98 Arg2:T96
+R44	Scope Arg1:T105 Arg2:T104
+R45	Scope Arg1:T106 Arg2:T107
+R46	Scope Arg1:T112 Arg2:T113
+R47	Scope Arg1:T115 Arg2:T116
+R48	Scope Arg1:T118 Arg2:T119

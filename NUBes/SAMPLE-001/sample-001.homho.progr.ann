@@ -1,0 +1,145 @@
+T1	NegSynMarker 130 132	no
+T2	Phrase 133 167	está muy convencido de que vayamos
+T3	NegSynMarker 247 250	Sin
+T4	Phrase 251 289	evidencia afectación de muro posterior
+T5	DISO 261 289	afectación de muro posterior
+T6	NegSynMarker 538 540	NO
+T7	Phrase 541 550	MANIPULAR
+T8	PROC 968 972	PPRB
+T9	NegLexMarker 975 976	-
+T10	NegSynMarker 986 988	no
+T11	DISO 989 995	edemas
+T12	NegSynMarker 1044 1046	No
+T13	DISO 1047 1070	ha tomado la medicación
+T14	NegSynMarker 1127 1129	no
+T15	DISO 1130 1142	quiere comer
+T16	NegSynMarker 1188 1190	no
+T17	DISO 1191 1209	ruidos patologicos
+T18	DISO 1474 1478	peso
+T19	NegSynMarker 1485 1487	no
+T20	DISO 1488 1498	gane mucho
+T21	NegSynMarker 1906 1909	sin
+T22	DISO 1910 1941	cambios respecto a dias previos
+T23	NegSynMarker 1959 1961	no
+T24	DISO 1962 1970	doloroso
+T25	NegSynMarker 1973 1975	no
+T26	DISO 1976 1998	edemas en extremidades
+T27	NegSynMarker 1999 2001	no
+T28	Phrase 2002 2015	signos de TVP
+T29	DISO 2012 2015	TVP
+T30	NegLexMarker 2050 2058	falta de
+T31	OTHER 2059 2098	criterio para ser atendido en domicilio
+T32	NegSynMarker 2104 2106	no
+T33	OTHER 2107 2130	hay cuidadora principal
+T34	NegSynMarker 2236 2238	no
+T35	Phrase 2239 2263	haya plantas ni animales
+T36	CoordItem 2252 2254	ni
+T37	NegSynMarker 2293 2296	sin
+T38	DISO 2297 2302	masas
+T39	Phrase 2297 2314	masas ni megalias
+T40	CoordItem 2303 2305	ni
+T41	DISO 2306 2314	megalias
+T42	UncertLexMarker 2317 2327	Impresiona
+T43	Phrase 2328 2365	estar bien situado ante la enfermedad
+T44	DISO 2328 2346	estar bien situado
+T45	NegSynMarker 2371 2373	no
+T46	Phrase 2374 2392	ante el pronóstico
+T47	NegSynMarker 2673 2675	no
+T48	Phrase 2676 2717	desea seguir recibiendo nuestros cuidados
+T49	NegSynMarker 2846 2849	sin
+T50	DISO 2850 2859	desayunar
+T51	NegSynMarker 2862 2865	sin
+T52	DISO 2866 2871	comer
+T53	NegSynMarker 2874 2876	no
+T54	Phrase 2877 2909	tenían nada para preparar comida
+T55	PolItem 2884 2888	nada
+T56	NegSynMarker 2917 2919	no
+T57	Phrase 2920 2979	se atrevía a dejar a su hermana sola para ir a comprar algo
+T58	NegSynMarker 4190 4192	no
+T59	Phrase 4193 4230	tienen familia para ocuparse de ellas
+T60	NegSynMarker 4247 4249	no
+T61	Phrase 4250 4396	tienen quien les acompañe y ayude a dar los pasos necesarios para afrontar sus necesidades , ir a los servicios sociales del ayuntamiento , etc ..
+T62	UncertLexMarker 4416 4422	parece
+T63	Phrase 4423 4449	que se queda más tranquilo
+T64	DISO 4436 4449	más tranquilo
+T65	NegSynMarker 4724 4726	no
+T66	DISO 4727 4745	puede hacer fuerza
+T67	UncertLexMarker 4870 4881	sospecha de
+T68	DISO 4882 4893	alcoholismo
+T69	NegLexMarker 4929 4937	falta de
+T70	DISO 4938 4972	asunción y negación del pronóstico
+T71	Phrase 4938 5003	asunción y negación del pronóstico a corto plazo de la enfermedad
+T72	CoordItem 4947 4948	y
+T73	NegSynMarker 5049 5051	no
+T74	Phrase 5052 5094	es consciente de la situación de paliación
+T75	NegSynMarker 5145 5147	no
+T76	Phrase 5148 5197	ha comprendido la gravedad del estado de su nuera
+T77	UncertLexMarker 5443 5451	sospecho
+T78	Phrase 5452 5483	en ellas fase de shock-negación
+T79	DISO 5461 5483	fase de shock-negación
+T80	NegSynMarker 5486 5488	no
+T81	Phrase 5489 5521	se acaban de creer la enfermedad
+T82	NegSynMarker 5872 5874	no
+T83	DISO 5875 5885	ha dormido
+T84	NegSynMarker 6172 6174	No
+T85	Phrase 6175 6199	refiere disnea en reposo
+T86	DISO 6183 6199	disnea en reposo
+T87	NegLexMarker 6319 6324	Niega
+T88	DISO 6325 6330	dolor
+T89	NegLexMarker 6333 6338	niega
+T90	DISO 6339 6345	disnea
+T91	NegSynMarker 6603 6605	no
+T92	Phrase 6606 6631	ha querido estar presente
+T93	NegSynMarker 6634 6636	no
+T94	Phrase 6637 6659	hemos podido conocerle
+T95	NegSynMarker 6768 6770	no
+T96	Phrase 6771 6798	ha comunicado su enfermedad
+T97	NegLexMarker 7061 7079	ninguna de las dos
+T98	DISO 7080 7132	tenia fuerza suficiente para colocarse correctamente
+T99	NegSynMarker 7296 7298	no
+T100	DISO 7299 7305	soplos
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	DiscScope Arg1:T19 Arg2:T20
+R10	DiscScope Arg1:T19 Arg2:T18
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T23 Arg2:T24
+R13	Scope Arg1:T21 Arg2:T22
+R14	Scope Arg1:T32 Arg2:T33
+R15	Scope Arg1:T30 Arg2:T31
+R16	Scope Arg1:T25 Arg2:T26
+R17	Scope Arg1:T34 Arg2:T35
+R18	Scope Arg1:T37 Arg2:T39
+R19	Scope Arg1:T42 Arg2:T43
+R20	DiscScope Arg1:T45 Arg2:T44
+R21	DiscScope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T47 Arg2:T48
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T53 Arg2:T54
+R25	Scope Arg1:T49 Arg2:T50
+R26	Scope Arg1:T51 Arg2:T52
+R27	Scope Arg1:T58 Arg2:T59
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T62 Arg2:T63
+R30	Scope Arg1:T65 Arg2:T66
+R31	Scope Arg1:T67 Arg2:T68
+R32	Scope Arg1:T69 Arg2:T71
+R33	Scope Arg1:T75 Arg2:T76
+R34	Scope Arg1:T73 Arg2:T74
+R35	Scope Arg1:T77 Arg2:T78
+R36	Scope Arg1:T80 Arg2:T81
+R37	Scope Arg1:T82 Arg2:T83
+R38	Scope Arg1:T84 Arg2:T85
+R39	Scope Arg1:T87 Arg2:T88
+R40	Scope Arg1:T89 Arg2:T90
+R41	Scope Arg1:T95 Arg2:T96
+R42	Scope Arg1:T93 Arg2:T94
+R43	Scope Arg1:T91 Arg2:T92
+R44	Scope Arg1:T97 Arg2:T98
+R45	Scope Arg1:T99 Arg2:T100

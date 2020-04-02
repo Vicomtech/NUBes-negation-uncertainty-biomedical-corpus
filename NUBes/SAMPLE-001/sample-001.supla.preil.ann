@@ -1,0 +1,33 @@
+T1	NegSynMarker 492 494	no
+T2	Phrase 495 522	fue aceptada por la familia
+T3	NegSynMarker 675 677	no
+T4	Phrase 678 699	acababa de cicatrizar
+T5	DISO 689 699	cicatrizar
+T6	UncertLexMarker 1075 1089	posibilidad de
+T7	PROC 1090 1113	la amputación del radio
+T8	UncertLexMarker 1116 1117	¿
+T9	DISO 1118 1128	Ca in situ
+T10	UncertLexMarker 1129 1130	?
+T11	NegSynMarker 1414 1417	sin
+T12	DISO 1418 1425	mejoría
+T13	NegSynMarker 1428 1430	No
+T14	DISO 1431 1438	molesta
+T15	Phrase 1431 1448	molesta ni sangra
+T16	CoordItem 1439 1441	ni
+T17	DISO 1442 1448	sangra
+T18	NegSynMarker 1466 1468	no
+T19	DISO 1469 1473	fuma
+T20	NegSynMarker 1780 1782	No
+T21	DISO 1783 1793	ha crecido
+T22	NegSynMarker 2311 2313	no
+T23	DISO 2314 2318	cede
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T10 Arg2:T9
+R5	DiscMarker Arg1:T8 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T13 Arg2:T15
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23

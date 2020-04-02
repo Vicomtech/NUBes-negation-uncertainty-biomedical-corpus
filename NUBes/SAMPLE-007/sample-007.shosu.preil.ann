@@ -1,0 +1,62 @@
+T1	NegLexMarker 81 87	rehusó
+T2	Phrase 88 136	previamente la colocacion de marcapasos cardiaco
+T3	OTHER 117 136	marcapasos cardiaco
+T4	UncertLexMarker 379 387	probable
+T5	DISO 388 409	tromboateroesclerosis
+T6	UncertLexMarker 573 581	probable
+T7	OTHER 582 614	caida accidental en el domicilio
+T8	UncertLexMarker 1172 1181	sin claro
+T9	Phrase 1182 1205	diagnóstico de demencia
+T10	DISO 1197 1205	demencia
+T11	UncertLexMarker 1654 1657	sin
+T12	DISO 1658 1672	complicaciones
+T13	UncertLexMarker 1673 1682	aparentes
+T14	NegLexMarker 1748 1753	Niega
+T15	DISO 1754 1775	pérdida de conciencia
+T16	Phrase 1754 1823	pérdida de conciencia , cefalea , nauseas o vómitos con posterioridad
+T17	DISO 1778 1785	cefalea
+T18	DISO 1788 1795	nauseas
+T19	DISO 1798 1805	vómitos
+T20	NegSynMarker 1969 1972	sin
+T21	Phrase 1973 1978	ayuda
+T22	NegLexMarker 2259 2268	se retira
+T23	OTHER 2269 2279	espaciador
+T24	UncertLexMarker 2615 2623	probable
+T25	DISO 2624 2667	relación al soporte de la tracción aplicada
+T26	UncertLexMarker 3651 3659	probable
+T27	DISO 3660 3664	EPOC
+T28	NegSynMarker 4176 4179	sin
+T29	Phrase 4180 4200	delirio ni agitación
+T30	DISO 4180 4187	delirio
+T31	CoordItem 4188 4190	ni
+T32	DISO 4191 4200	agitación
+T33	UncertLexMarker 4235 4242	posible
+T34	DISO 4243 4265	aspiracion alimenticia
+T35	UncertLexMarker 5331 5338	posible
+T36	DISO 5339 5373	movilización del tornillo cefálico
+T37	UncertLexMarker 6861 6875	sospechosas de
+T38	DISO 6876 6888	neoformación
+T39	NegLexMarker 6891 6903	se desestima
+T40	PROC 6904 6914	la punción
+T41	NegSynMarker 6971 6973	no
+T42	DISO 6974 6985	obstructivo
+T43	UncertLexMarker 7223 7230	Posible
+T44	DISO 7231 7256	bronconeumonia aspirativa
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T13 Arg2:T12
+R6	DiscMarker Arg1:T11 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T16
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T29
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44

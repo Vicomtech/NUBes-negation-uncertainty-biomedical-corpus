@@ -1,0 +1,11 @@
+T1	UncertLexMarker 230 237	valorar
+T2	Phrase 238 294	posibilidad de corrección de recidiva de entropion senil
+T3	PROC 253 294	corrección de recidiva de entropion senil
+T4	UncertLexMarker 350 364	compatible con
+T5	Phrase 365 399	ca. basocelular en mejilla derecha
+T6	DISO 365 380	ca. basocelular
+T7	UncertLexMarker 757 771	compatible con
+T8	DISO 772 792	enfermedad de Boowen
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8

@@ -1,0 +1,35 @@
+T1	NegSynMarker 77 79	No
+T2	Phrase 80 142	sensación de mareo , malestar general ni pérdida de conciencia
+T3	DISO 80 98	sensación de mareo
+T4	DISO 101 117	malestar general
+T5	CoordItem 118 120	ni
+T6	DISO 121 142	pérdida de conciencia
+T7	NegSynMarker 328 330	No
+T8	DISO 331 345	clínica febril
+T9	Phrase 331 381	clínica febril , catarral ni pitidos respiratorios
+T10	DISO 348 356	catarral
+T11	CoordItem 357 359	ni
+T12	DISO 360 381	pitidos respiratorios
+T13	NegSynMarker 400 402	No
+T14	Phrase 403 437	perdida de conciencia ni focalidad
+T15	DISO 403 424	perdida de conciencia
+T16	CoordItem 425 427	ni
+T17	DISO 428 437	focalidad
+T18	NegSynMarker 670 672	No
+T19	DISO 673 687	dolor torácico
+T20	Phrase 673 721	dolor torácico , palpitaciones , Dpn ni ortopnea
+T21	DISO 690 703	palpitaciones
+T22	DISO 706 709	Dpn
+T23	CoordItem 710 712	ni
+T24	DISO 713 721	ortopnea
+T25	NegSynMarker 785 787	no
+T26	DISO 788 797	estreñida
+T27	UncertLexMarker 800 806	parece
+T28	DISO 807 835	molestia abdominal irradiada
+T29	NegMorMarker 911 923	incohercible
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T7 Arg2:T9
+R3	Scope Arg1:T13 Arg2:T14
+R4	Scope Arg1:T18 Arg2:T20
+R5	Scope Arg1:T27 Arg2:T28
+R6	Scope Arg1:T25 Arg2:T26

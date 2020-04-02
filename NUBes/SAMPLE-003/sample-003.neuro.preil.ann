@@ -1,0 +1,208 @@
+T1	NegLexMarker 250 266	imposibilidad de
+T2	OTHER 267 308	realizar el estudio de manera ambulatoria
+T3	NegLexMarker 448 453	niega
+T4	OTHER 454 472	ingesta de tóxicos
+T5	NegSynMarker 475 477	No
+T6	Phrase 478 555	presentó movimientos involuntarios anormales , sialorrea ni mordedura lingual
+T7	DISO 487 522	movimientos involuntarios anormales
+T8	DISO 525 534	sialorrea
+T9	CoordItem 535 537	ni
+T10	DISO 538 555	mordedura lingual
+T11	UncertLexMarker 568 574	parece
+T12	Phrase 575 677	acompañarse de dificultad para expresar las palabras y para la comprensión y de desorientación parcial
+T13	DISO 590 649	dificultad para expresar las palabras y para la comprensión
+T14	DISO 655 677	desorientación parcial
+T15	NegSynMarker 829 831	No
+T16	DISO 832 856	relajación de esfínteres
+T17	NegLexMarker 1299 1314	desaparición de
+T18	DISO 1315 1339	la clinica a dicho nivel
+T19	NegSynMarker 1665 1667	no
+T20	Phrase 1668 1686	consta traumatismo
+T21	DISO 1675 1686	traumatismo
+T22	NegSynMarker 1689 1691	No
+T23	Phrase 1692 1748	focalidad neurológica ni otra sintomatología acompañante
+T24	DISO 1692 1713	focalidad neurológica
+T25	CoordItem 1714 1716	ni
+T26	DISO 1717 1748	otra sintomatología acompañante
+T27	NegSynMarker 2063 2066	sin
+T28	DISO 2067 2077	dificultad
+T29	UncertLexMarker 2367 2374	posible
+T30	Phrase 2375 2410	alteracion en la relacion de pareja
+T31	NegLexMarker 2425 2430	niega
+T32	Phrase 2431 2553	haber presentado cefalea en ese momento o en los instantes previos o posteriores a la instauración de la clinica sensitiva
+T33	DISO 2448 2455	cefalea
+T34	NegSynMarker 2640 2642	No
+T35	Phrase 2643 2700	ha realizado ninguna alteración en su medicación habitual
+T36	PolItem 2656 2663	ninguna
+T37	OTHER 2664 2700	alteración en su medicación habitual
+T38	NegSynMarker 2869 2872	sin
+T39	DISO 2873 2889	remitir del todo
+T40	NegSynMarker 2904 2906	no
+T41	Phrase 2907 2998	presentó movimientos involuntarios anormales , mordedura lingual ni relajación esfinteriana
+T42	DISO 2916 2951	movimientos involuntarios anormales
+T43	DISO 2954 2971	mordedura lingual
+T44	CoordItem 2972 2974	ni
+T45	DISO 2975 2998	relajación esfinteriana
+T46	NegSynMarker 3013 3016	sin
+T47	DISO 3017 3047	focalidad neurologica residual
+T48	NegSynMarker 3050 3052	No
+T49	Phrase 3053 3095	han hablado con ella desde hace una semana
+T50	NegMorMarker 3335 3347	inconsciente
+T51	NegSynMarker 3391 3394	sin
+T52	Phrase 3395 3419	responder a las llamadas
+T53	NegSynMarker 3505 3507	No
+T54	Phrase 3508 3609	ha presentado fiebre ni ninguna clinica infecciosa de foco respiratorio , urinario , digestivo ni ORL
+T55	DISO 3522 3528	fiebre
+T56	CoordItem 3529 3531	ni
+T57	PolItem 3532 3539	ninguna
+T58	DISO 3540 3609	clinica infecciosa de foco respiratorio , urinario , digestivo ni ORL
+T59	CoordItem 3603 3605	ni
+T60	NegLexMarker 4343 4354	ausencia de
+T61	OTHER 4355 4365	respuestas
+T62	UncertLexMarker 4385 4391	parece
+T63	OTHER 4392 4416	haber remontado hasta 76
+T64	UncertLexMarker 4497 4504	parecen
+T65	Phrase 4505 4536	durar aproximadamente 5 minutos
+T66	UncertLexMarker 4795 4801	parece
+T67	Phrase 4802 4828	haberse hecho generalizado
+T68	DISO 4816 4828	generalizado
+T69	NegLexMarker 4851 4861	incapaz de
+T70	OTHER 4862 4870	precisar
+T71	NegSynMarker 4944 4946	No
+T72	Phrase 4947 5021	refiere dolor abdomminal ni presencia de heces melenicas en ningun momento
+T73	DISO 4955 4971	dolor abdomminal
+T74	CoordItem 4972 4974	ni
+T75	DISO 4988 5003	heces melenicas
+T76	PolItem 5007 5013	ningun
+T77	NegSynMarker 5080 5082	no
+T78	Phrase 5083 5152	presentaba estupor tras el episodio ni focalidad neurológica residual
+T79	DISO 5094 5118	estupor tras el episodio
+T80	CoordItem 5119 5121	ni
+T81	DISO 5122 5152	focalidad neurológica residual
+T82	UncertLexMarker 5175 5181	parece
+T83	Phrase 5182 5214	haber presentado cuadro catarral
+T84	DISO 5199 5214	cuadro catarral
+T85	NegLexMarker 5318 5328	ha perdido
+T86	OTHER 5329 5336	apetito
+T87	NegSynMarker 5365 5367	no
+T88	DISO 5368 5380	cuantificada
+T89	NegSynMarker 5404 5406	No
+T90	Phrase 5407 5456	manifiesta en ningun momento intento de autolisis
+T91	PolItem 5421 5427	ningun
+T92	OTHER 5436 5456	intento de autolisis
+T93	NegSynMarker 5488 5490	No
+T94	Phrase 5491 5537	presentó dolor torácico ni abdominal ni disnea
+T95	DISO 5500 5527	dolor torácico ni abdominal
+T96	CoordItem 5515 5517	ni
+T97	CoordItem 5528 5530	ni
+T98	DISO 5531 5537	disnea
+T99	UncertLexMarker 6026 6033	parecen
+T100	DISO 6034 6069	aumentar cuando se siente observada
+T101	NegSynMarker 6118 6120	no
+T102	Phrase 6121 6137	hay acompañantes
+T103	NegSynMarker 6160 6162	no
+T104	OTHER 6163 6188	recordar bien lo sucedido
+T105	UncertLexMarker 6450 6453	sin
+T106	DISO 6454 6459	causa
+T107	UncertLexMarker 6460 6468	aparente
+T108	NegLexMarker 6495 6500	Niega
+T109	DISO 6501 6523	procesos respiratorios
+T110	Phrase 6501 6549	procesos respiratorios o fiebre los días previos
+T111	CoordItem 6524 6525	o
+T112	DISO 6526 6532	fiebre
+T113	NegMorMarker 6988 7006	ex-politoxicomania
+T114	NegMorMarker 7152 7164	inespecífico
+T115	NegSynMarker 7167 7170	sin
+T116	DISO 7171 7192	pérdida de conciencia
+T117	Phrase 7171 7306	pérdida de conciencia ni ninguna clinica focal neurologica , dolor torácico , disnea , fiebre ni ninguna otra clinica somática asociada
+T118	CoordItem 7193 7195	ni
+T119	PolItem 7196 7203	ninguna
+T120	DISO 7204 7229	clinica focal neurologica
+T121	DISO 7232 7246	dolor torácico
+T122	DISO 7249 7255	disnea
+T123	DISO 7258 7264	fiebre
+T124	CoordItem 7265 7267	ni
+T125	PolItem 7268 7275	ninguna
+T126	DISO 7276 7306	otra clinica somática asociada
+T127	NegMorMarker 7357 7369	asintomática
+T128	UncertLexMarker 7525 7533	Probable
+T129	OTHER 7534 7549	toma de cocaina
+T130	NegSynMarker 7583 7586	sin
+T131	Phrase 7587 7603	fiebre ni disnea
+T132	DISO 7587 7593	fiebre
+T133	CoordItem 7594 7596	ni
+T134	DISO 7597 7603	disnea
+T135	NegSynMarker 8366 8368	No
+T136	Phrase 8369 8405	han detectado otros sintomas en ella
+T137	DISO 8383 8405	otros sintomas en ella
+T138	NegMorMarker 8415 8429	desorientación
+T139	NegSynMarker 9067 9070	sin
+T140	DISO 9071 9082	irradiación
+T141	NegSynMarker 9216 9218	no
+T142	DISO 9219 9307	empeora con los cambios de posición cefálicos , el esfuerzo ni las maniobras de Valsalva
+T143	CoordItem 9279 9281	ni
+T144	UncertLexMarker 9380 9386	parece
+T145	Phrase 9387 9491	presentar un cuadro catarral de vías respiratorias altas al que ha no ha concedido demasiada importancia
+T146	DISO 9397 9443	un cuadro catarral de vías respiratorias altas
+T147	NegSynMarker 9454 9456	no
+T148	Phrase 9457 9491	ha concedido demasiada importancia
+T149	NegLexMarker 9603 9608	Niega
+T150	Phrase 9609 9681	en días previos deprivación de sueño , cuadro viral o consumo de tóxicos
+T151	DISO 9625 9645	deprivación de sueño
+T152	DISO 9648 9660	cuadro viral
+T153	OTHER 9663 9681	consumo de tóxicos
+T154	NegMorMarker 9996 10008	desorientada
+T155	NegMorMarker 10081 10093	desorientada
+T156	NegMorMarker 10152 10166	desorientación
+T157	NegSynMarker 10459 10461	No
+T158	Phrase 10462 10585	refiere clínica sugestiva de aura visual , sensitiva , ni de otro tipo ni clínica sugestiva de cefalea trigémino autonomica
+T159	DISO 10491 10532	aura visual , sensitiva , ni de otro tipo
+T160	CoordItem 10517 10519	ni
+T161	CoordItem 10533 10535	ni
+T162	DISO 10557 10585	cefalea trigémino autonomica
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T17 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T22 Arg2:T23
+R9	Scope Arg1:T27 Arg2:T28
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T38 Arg2:T39
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T46 Arg2:T47
+R16	Scope Arg1:T48 Arg2:T49
+R17	Scope Arg1:T51 Arg2:T52
+R18	Scope Arg1:T53 Arg2:T54
+R19	Scope Arg1:T62 Arg2:T63
+R20	Scope Arg1:T60 Arg2:T61
+R21	Scope Arg1:T64 Arg2:T65
+R22	Scope Arg1:T69 Arg2:T70
+R23	Scope Arg1:T66 Arg2:T67
+R24	Scope Arg1:T71 Arg2:T72
+R25	Scope Arg1:T77 Arg2:T78
+R26	Scope Arg1:T82 Arg2:T83
+R27	Scope Arg1:T87 Arg2:T88
+R28	Scope Arg1:T85 Arg2:T86
+R29	Scope Arg1:T89 Arg2:T90
+R30	Scope Arg1:T93 Arg2:T94
+R31	Scope Arg1:T99 Arg2:T100
+R32	Scope Arg1:T103 Arg2:T104
+R33	Scope Arg1:T101 Arg2:T102
+R34	DiscMarker Arg1:T105 Arg2:T107
+R35	Scope Arg1:T107 Arg2:T106
+R36	Scope Arg1:T108 Arg2:T110
+R37	Scope Arg1:T115 Arg2:T117
+R38	Scope Arg1:T128 Arg2:T129
+R39	Scope Arg1:T130 Arg2:T131
+R40	Scope Arg1:T135 Arg2:T136
+R41	Scope Arg1:T141 Arg2:T142
+R42	Scope Arg1:T139 Arg2:T140
+R43	Scope Arg1:T144 Arg2:T145
+R44	Scope Arg1:T147 Arg2:T148
+R45	Scope Arg1:T149 Arg2:T150
+R46	Scope Arg1:T157 Arg2:T158

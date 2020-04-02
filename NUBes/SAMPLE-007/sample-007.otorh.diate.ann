@@ -1,0 +1,3 @@
+T1	NegSynMarker 23 26	sin
+T2	DISO 27 52	alteraciones para la edad
+R1	Scope Arg1:T1 Arg2:T2

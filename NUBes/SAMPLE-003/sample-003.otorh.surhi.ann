@@ -1,0 +1,7 @@
+T1	NegSynMarker 894 897	sin
+T2	Phrase 898 936	establecer continuidad con la membrana
+T3	OTHER 909 936	continuidad con la membrana
+T4	NegLexMarker 2891 2902	Ausencia de
+T5	DISO 2903 2912	unciforme
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5

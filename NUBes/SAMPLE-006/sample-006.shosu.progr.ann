@@ -1,0 +1,170 @@
+T1	NegSynMarker 97 100	sin
+T2	DISO 101 107	disnea
+T3	NegSynMarker 587 589	no
+T4	Phrase 590 618	se objetivaron signos de TVP
+T5	DISO 615 618	TVP
+T6	NegSynMarker 886 889	sin
+T7	DISO 890 900	dificultad
+T8	NegSynMarker 1001 1004	sin
+T9	DISO 1005 1015	dificultad
+T10	NegSynMarker 1618 1620	No
+T11	Phrase 1621 1675	refiere dolor a la carga ded la extremidad intrevenida
+T12	DISO 1629 1675	dolor a la carga ded la extremidad intrevenida
+T13	NegSynMarker 1795 1797	no
+T14	Phrase 1798 1844	refiere dolor a la carga de la extremidad izq.
+T15	DISO 1806 1844	dolor a la carga de la extremidad izq.
+T16	NegSynMarker 1854 1857	sin
+T17	OTHER 1858 1880	dificultad con andador
+T18	NegSynMarker 1906 1909	sin
+T19	DISO 1910 1920	dificultad
+T20	NegSynMarker 2123 2126	sin
+T21	DISO 2127 2139	dolor lumbar
+T22	UncertLexMarker 2729 2736	creemos
+T23	Phrase 2737 2916	que para limitación del esfuerzo terapeutico en nuestra opinion , no candidato a hemodialisis reintervenciones u otras medidas de gran agresividad dada su escasa reserva funcional
+T24	NegSynMarker 2803 2805	no
+T25	OTHER 2806 2883	candidato a hemodialisis reintervenciones u otras medidas de gran agresividad
+T26	PROC 3048 3075	Las tomas de piel y nasales
+T27	NegLexMarker 3093 3102	negativas
+T28	Phrase 3103 3112	para SARM
+T29	NegMorMarker 3292 3299	Afebril
+T30	UncertLexMarker 3337 3346	sin clara
+T31	Phrase 3347 3392	evidencia de " brote " inflamatorio articular
+T32	DISO 3360 3392	" brote " inflamatorio articular
+T33	NegSynMarker 3395 3397	No
+T34	Phrase 3398 3451	presenta dolor a la movilización ni a la deambulación
+T35	DISO 3407 3451	dolor a la movilización ni a la deambulación
+T36	CoordItem 3431 3433	ni
+T37	UncertLexMarker 3550 3561	sospecha de
+T38	DISO 3562 3586	infección por enterococo
+T39	UncertLexMarker 3621 3636	compatibles con
+T40	DISO 3637 3656	deterioro cognitivo
+T41	NegSynMarker 3779 3781	no
+T42	OTHER 3782 3843	acepta las preguntas que se le realizan en los sucesivos test
+T43	NegLexMarker 3967 3975	falta de
+T44	OTHER 3976 4060	condiciones domiciliarias para seguir tratamiento con h. domiciliaria en su domiclio
+T45	NegLexMarker 4235 4243	falta de
+T46	DISO 4244 4276	respuesta a tratamiento hormonal
+T47	NegLexMarker 4937 4944	retirar
+T48	OTHER 4945 4950	sonda
+T49	SUBS 5027 5032	AINES
+T50	NegLexMarker 5046 5056	retirarlos
+T51	Phrase 5057 5098	en los próximos dias en función del dolor
+T52	NegLexMarker 5416 5420	nula
+T53	OTHER 5421 5430	actividad
+T54	NegSynMarker 6023 6026	sin
+T55	Phrase 6027 6040	ayuda externa
+T56	NegSynMarker 6065 6068	sin
+T57	DISO 6069 6079	dificultad
+T58	NegLexMarker 6167 6180	descartándose
+T59	DISO 6181 6184	TVP
+T60	NegSynMarker 6615 6618	sin
+T61	Phrase 6619 6654	signos de afectación intraarticular
+T62	DISO 6629 6654	afectación intraarticular
+T63	NegSynMarker 8887 8889	NO
+T64	Phrase 8890 8947	quiere rescates con opiáceos pues le producen somnolencia
+T65	OTHER 8897 8918	rescates con opiáceos
+T66	NegSynMarker 9070 9072	no
+T67	Phrase 9073 9096	se objetivaron lesiones
+T68	DISO 9088 9096	lesiones
+T69	NegSynMarker 9498 9500	no
+T70	Phrase 9501 9579	estando indicado el tratamiento rehabilitador de cara a una ganancia funcional
+T71	OTHER 9509 9579	indicado el tratamiento rehabilitador de cara a una ganancia funcional
+T72	DISO 9720 9737	cronica agudizada
+T73	UncertLexMarker 9738 9739	?
+T74	NegSynMarker 10331 10334	sin
+T75	Phrase 10335 10357	sintomas de bajo gasto
+T76	DISO 10347 10357	bajo gasto
+T77	NegSynMarker 10368 10370	no
+T78	Phrase 10371 10406	es capaz de subir y bajar escaleras
+T79	SUBS 10466 10483	dexclorfeniramina
+T80	NegLexMarker 10514 10521	retirar
+T81	Phrase 10522 10542	en los próximos dias
+T82	NegSynMarker 11138 11140	no
+T83	Phrase 11141 11174	puede realizar marcha con andador
+T84	OTHER 11156 11174	marcha con andador
+T85	UncertLexMarker 11456 11463	posible
+T86	DISO 11464 11517	subluxación de cabeza radial probablemente inveterada
+T87	PolItem 11493 11506	probablemente
+T88	NegSynMarker 11568 11570	no
+T89	Phrase 11571 11584	refiere dolor
+T90	DISO 11579 11584	dolor
+T91	NegSynMarker 11735 11738	sin
+T92	DISO 11739 11744	dolor
+T93	NegSynMarker 11801 11804	sin
+T94	DISO 11805 11815	dificultad
+T95	UncertLexMarker 12037 12045	probable
+T96	DISO 12046 12056	aspiración
+T97	NegSynMarker 12238 12241	sin
+T98	DISO 12242 12247	dolor
+T99	NegSynMarker 12329 12332	sin
+T100	DISO 12333 12342	problemas
+T101	NegSynMarker 12452 12455	sin
+T102	DISO 12456 12466	dificultad
+T103	NegSynMarker 12514 12517	sin
+T104	Phrase 12518 12523	ayuda
+T105	UncertLexMarker 12539 12547	probable
+T106	DISO 12548 12578	encefalopatia vascular crónica
+T107	NegSynMarker 13203 13206	sin
+T108	Phrase 13207 13261	evidencia de disfuncion postquirúrgica en este momento
+T109	DISO 13220 13245	disfuncion postquirúrgica
+T110	NegSynMarker 13548 13550	no
+T111	OTHER 13551 13595	tome su medicacion antihipertensiva habitual
+T112	NegSynMarker 13797 13800	sin
+T113	Phrase 13801 13806	ayuda
+T114	UncertLexMarker 14238 14246	probable
+T115	DISO 14247 14291	relación con la administración de amlodipino
+T116	NegSynMarker 14323 14326	sin
+T117	Phrase 14327 14352	signos de sangrado activo
+T118	DISO 14337 14352	sangrado activo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T22 Arg2:T23
+R12	DiscScope Arg1:T27 Arg2:T28
+R13	DiscScope Arg1:T27 Arg2:T26
+R14	Scope Arg1:T30 Arg2:T31
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T39 Arg2:T40
+R19	Scope Arg1:T43 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	DiscScope Arg1:T50 Arg2:T49
+R23	DiscScope Arg1:T50 Arg2:T51
+R24	Scope Arg1:T52 Arg2:T53
+R25	Scope Arg1:T56 Arg2:T57
+R26	Scope Arg1:T54 Arg2:T55
+R27	Scope Arg1:T58 Arg2:T59
+R28	Scope Arg1:T60 Arg2:T61
+R29	Scope Arg1:T63 Arg2:T64
+R30	Scope Arg1:T66 Arg2:T67
+R31	Scope Arg1:T69 Arg2:T70
+R32	Scope Arg1:T73 Arg2:T72
+R33	Scope Arg1:T74 Arg2:T75
+R34	Scope Arg1:T77 Arg2:T78
+R35	DiscScope Arg1:T80 Arg2:T81
+R36	DiscScope Arg1:T80 Arg2:T79
+R37	Scope Arg1:T82 Arg2:T83
+R38	Scope Arg1:T85 Arg2:T86
+R39	Scope Arg1:T91 Arg2:T92
+R40	Scope Arg1:T88 Arg2:T89
+R41	Scope Arg1:T93 Arg2:T94
+R42	Scope Arg1:T95 Arg2:T96
+R43	Scope Arg1:T97 Arg2:T98
+R44	Scope Arg1:T99 Arg2:T100
+R45	Scope Arg1:T101 Arg2:T102
+R46	Scope Arg1:T103 Arg2:T104
+R47	Scope Arg1:T105 Arg2:T106
+R48	Scope Arg1:T107 Arg2:T108
+R49	Scope Arg1:T110 Arg2:T111
+R50	Scope Arg1:T112 Arg2:T113
+R51	Scope Arg1:T114 Arg2:T115
+R52	Scope Arg1:T116 Arg2:T117

@@ -1,0 +1,763 @@
+T1	NegMorMarker 1040 1047	Afebril
+T2	NegMorMarker 1625 1632	afebril
+T3	NegMorMarker 5502 5509	afebril
+T4	NegMorMarker 7258 7265	afebril
+T5	NegMorMarker 12942 12949	afebril
+T6	NegMorMarker 18950 18957	Afebril
+T7	NegMorMarker 23243 23250	Afebril
+T8	NegSynMarker 84 87	Sin
+T9	NegSynMarker 347 349	No
+T10	NegSynMarker 449 452	sin
+T11	NegSynMarker 615 618	Sin
+T12	NegSynMarker 684 686	no
+T13	NegSynMarker 697 699	no
+T14	NegSynMarker 743 745	no
+T15	NegSynMarker 896 898	no
+T16	NegSynMarker 1071 1073	no
+T17	NegSynMarker 1099 1101	no
+T18	NegSynMarker 1225 1227	no
+T19	NegSynMarker 1414 1417	sin
+T20	NegSynMarker 1550 1553	sin
+T21	NegSynMarker 1685 1687	No
+T22	NegSynMarker 1724 1727	Sin
+T23	NegSynMarker 1832 1834	no
+T24	NegSynMarker 2104 2107	sin
+T25	NegSynMarker 2246 2249	Sin
+T26	NegSynMarker 2409 2412	sin
+T27	NegSynMarker 2421 2423	No
+T28	NegSynMarker 2506 2508	No
+T29	NegSynMarker 2524 2527	sin
+T30	NegSynMarker 2558 2560	no
+T31	NegSynMarker 2569 2571	no
+T32	NegSynMarker 2603 2606	sin
+T33	NegSynMarker 2622 2624	No
+T34	NegSynMarker 2669 2672	sin
+T35	NegSynMarker 2681 2684	sin
+T36	NegSynMarker 2811 2814	sin
+T37	NegSynMarker 2863 2866	sin
+T38	NegSynMarker 3215 3217	No
+T39	NegSynMarker 3635 3637	no
+T40	NegSynMarker 3734 3736	no
+T41	NegSynMarker 3981 3983	no
+T42	NegSynMarker 4068 4071	sin
+T43	NegSynMarker 4080 4082	no
+T44	NegSynMarker 4199 4202	sin
+T45	NegSynMarker 4356 4358	No
+T46	NegSynMarker 4468 4470	No
+T47	NegSynMarker 4777 4780	sin
+T48	NegSynMarker 5241 5244	sin
+T49	NegSynMarker 5268 5271	sin
+T50	NegSynMarker 5284 5286	No
+T51	NegSynMarker 5637 5639	no
+T52	NegSynMarker 5650 5652	no
+T53	NegSynMarker 5696 5698	no
+T54	NegSynMarker 6290 6293	sin
+T55	NegSynMarker 6344 6347	sin
+T56	NegSynMarker 6550 6553	sin
+T57	NegSynMarker 6631 6633	no
+T58	NegSynMarker 6707 6710	Sin
+T59	NegSynMarker 6798 6800	No
+T60	NegSynMarker 6936 6939	sin
+T61	NegSynMarker 6994 6996	No
+T62	NegSynMarker 7091 7093	No
+T63	NegSynMarker 7338 7341	sin
+T64	NegSynMarker 7545 7548	sin
+T65	NegSynMarker 7585 7587	No
+T66	NegSynMarker 7594 7597	Sin
+T67	NegSynMarker 7684 7687	sin
+T68	NegSynMarker 7789 7792	Sin
+T69	NegSynMarker 7961 7964	sin
+T70	NegSynMarker 8074 8077	sin
+T71	UncertLexMarker 8148 8151	sin
+T72	NegSynMarker 8315 8317	No
+T73	NegSynMarker 8376 8378	No
+T74	NegSynMarker 8724 8727	sin
+T75	NegSynMarker 8768 8771	sin
+T76	NegSynMarker 8802 8804	no
+T77	NegSynMarker 8813 8815	no
+T78	NegSynMarker 8844 8846	no
+T79	NegSynMarker 8859 8862	sin
+T80	NegSynMarker 9341 9343	no
+T81	NegSynMarker 9369 9371	No
+T82	NegSynMarker 9445 9447	no
+T83	NegSynMarker 9641 9644	sin
+T84	NegSynMarker 9724 9727	sin
+T85	NegSynMarker 9798 9800	no
+T86	NegSynMarker 9881 9884	sin
+T87	NegSynMarker 10077 10079	no
+T88	NegSynMarker 10090 10093	sin
+T89	NegSynMarker 10530 10533	sin
+T90	NegSynMarker 10592 10594	No
+T91	NegSynMarker 10601 10604	Sin
+T92	NegSynMarker 10650 10652	No
+T93	NegSynMarker 10859 10862	sin
+T94	NegSynMarker 11053 11056	Sin
+T95	NegSynMarker 11176 11179	sin
+T96	NegSynMarker 11339 11342	sin
+T97	NegSynMarker 11372 11375	sin
+T98	NegSynMarker 11438 11440	no
+T99	NegSynMarker 11929 11931	no
+T100	NegSynMarker 11995 11997	No
+T101	NegSynMarker 12401 12403	no
+T102	NegSynMarker 12636 12639	sin
+T103	NegSynMarker 12660 12663	sin
+T104	NegSynMarker 12730 12732	No
+T105	NegSynMarker 12802 12804	No
+T106	NegSynMarker 13123 13126	Sin
+T107	NegSynMarker 13380 13382	No
+T108	NegSynMarker 13541 13543	no
+T109	NegSynMarker 13577 13580	Sin
+T110	NegSynMarker 13605 13607	No
+T111	NegSynMarker 13940 13943	sin
+T112	NegSynMarker 14029 14032	sin
+T113	NegSynMarker 14041 14043	no
+T114	NegSynMarker 14157 14159	No
+T115	NegSynMarker 14191 14194	sin
+T116	NegSynMarker 14290 14292	No
+T117	NegLexMarker 14325 14336	Ausencia de
+T118	NegSynMarker 14464 14466	No
+T119	NegSynMarker 14887 14889	no
+T120	NegSynMarker 15313 15316	sin
+T121	NegSynMarker 15333 15335	no
+T122	DISO 7104 7157	adenopatías cervicales, supraclaviculares ni axilares
+T123	NegSynMarker 15516 15519	sin
+T124	NegSynMarker 15602 15605	sin
+T125	NegSynMarker 15682 15684	No
+T126	NegSynMarker 15752 15754	No
+T127	NegSynMarker 15805 15807	No
+T128	NegSynMarker 15847 15849	no
+T129	NegSynMarker 15963 15965	No
+T130	NegSynMarker 15986 15988	No
+T131	NegSynMarker 16021 16024	sin
+T132	NegSynMarker 16351 16353	No
+T133	NegSynMarker 16382 16384	No
+T134	NegSynMarker 16417 16420	sin
+T135	NegSynMarker 16439 16441	no
+T136	NegSynMarker 16490 16493	sin
+T137	NegSynMarker 16610 16613	sin
+T138	NegSynMarker 16624 16626	no
+T139	NegSynMarker 16656 16658	No
+T140	NegSynMarker 17138 17141	sin
+T141	NegSynMarker 17218 17221	sin
+T142	NegSynMarker 17349 17351	no
+T143	NegSynMarker 17387 17390	sin
+T144	NegSynMarker 17403 17406	Sin
+T145	NegSynMarker 17635 17638	sin
+T146	NegSynMarker 17778 17780	no
+T147	NegSynMarker 17822 17824	no
+T148	NegSynMarker 17909 17911	No
+T149	NegSynMarker 18039 18042	sin
+T150	NegSynMarker 18182 18184	No
+T151	NegSynMarker 18220 18223	sin
+T152	NegSynMarker 18337 18340	sin
+T153	NegSynMarker 18569 18572	sin
+T154	NegSynMarker 18608 18611	sin
+T155	NegSynMarker 18630 18632	No
+T156	NegSynMarker 18700 18703	sin
+T157	NegSynMarker 18772 18775	sin
+T158	NegSynMarker 18902 18905	sin
+T159	NegSynMarker 19020 19022	No
+T160	NegSynMarker 19076 19078	no
+T161	NegSynMarker 19100 19102	no
+T162	NegSynMarker 19177 19180	sin
+T163	NegSynMarker 19221 19224	sin
+T164	NegSynMarker 19243 19245	No
+T165	NegSynMarker 19331 19333	No
+T166	NegSynMarker 19425 19427	No
+T167	NegSynMarker 19488 19490	no
+T168	NegSynMarker 19516 19518	no
+T169	NegSynMarker 19604 19606	No
+T170	NegSynMarker 19632 19635	sin
+T171	NegSynMarker 19952 19955	sin
+T172	NegSynMarker 20296 20299	sin
+T173	NegSynMarker 20369 20372	sin
+T174	NegSynMarker 20396 20399	sin
+T175	NegSynMarker 20535 20538	Sin
+T176	NegSynMarker 20586 20589	sin
+T177	NegSynMarker 21029 21032	sin
+T178	NegSynMarker 21090 21092	no
+T179	NegSynMarker 21118 21120	no
+T180	NegSynMarker 21203 21205	No
+T181	NegSynMarker 21241 21244	sin
+T182	NegSynMarker 21403 21406	sin
+T183	NegSynMarker 21422 21424	No
+T184	NegSynMarker 21464 21466	No
+T185	NegSynMarker 21486 21488	no
+T186	NegSynMarker 21663 21666	sin
+T187	NegSynMarker 21729 21731	No
+T188	NegSynMarker 21790 21792	no
+T189	NegSynMarker 21900 21903	sin
+T190	NegSynMarker 22002 22004	No
+T191	NegSynMarker 22351 22353	No
+T192	NegSynMarker 22402 22405	sin
+T193	NegSynMarker 23018 23021	sin
+T194	NegSynMarker 23080 23083	sin
+T195	NegSynMarker 23125 23128	sin
+T196	NegSynMarker 23253 23255	No
+T197	NegSynMarker 23510 23512	No
+T198	NegSynMarker 23637 23640	sin
+T199	NegSynMarker 23692 23694	no
+T200	NegSynMarker 23785 23788	sin
+T201	NegSynMarker 23832 23835	sin
+T202	NegSynMarker 23973 23975	No
+T203	NegSynMarker 24033 24035	no
+T204	NegSynMarker 24047 24049	no
+T205	NegSynMarker 24119 24121	no
+T206	NegSynMarker 24244 24246	no
+T207	NegSynMarker 24305 24307	no
+T208	NegSynMarker 24349 24352	sin
+T209	NegSynMarker 24416 24419	sin
+T210	NegSynMarker 24523 24526	sin
+T211	NegSynMarker 24564 24567	sin
+T212	CoordItem 706 708	ni
+T213	DISO 1112 1117	masas
+T214	CoordItem 1754 1756	ni
+T215	CoordItem 2446 2448	ni
+T216	CoordItem 2535 2537	ni
+T217	CoordItem 3257 3259	ni
+T218	CoordItem 5659 5661	ni
+T219	CoordItem 7020 7022	ni
+T220	CoordItem 7146 7148	ni
+T221	CoordItem 8779 8781	ni
+T222	CoordItem 12680 12682	ni
+T223	CoordItem 14211 14213	ni
+T224	CoordItem 15613 15615	ni
+T225	CoordItem 15972 15974	ni
+T226	CoordItem 16639 16641	ni
+T227	CoordItem 17834 17836	ni
+T228	CoordItem 21133 21135	ni
+T229	CoordItem 21701 21703	ni
+T230	CoordItem 21739 21741	ni
+T231	CoordItem 24454 24456	ni
+T232	NegLexMarker 1802 1810	Negativo
+T233	NegLexMarker 2548 2556	negativa
+T234	NegLexMarker 5729 5737	negativo
+T235	NegLexMarker 5748 5756	negativo
+T236	NegLexMarker 8792 8800	negativa
+T237	NegLexMarker 22443 22452	negativas
+T238	NegLexMarker 24490 24498	negativo
+T239	NegLexMarker 24794 24802	negativo
+T240	DISO 2473 2503	insuficiencia cardíaca derecha
+T241	DISO 3599 3608	orientado
+T242	DISO 3638 3648	en espacio
+T243	SUBS 350 368	soporte vasoactivo
+T244	DISO 88 128	contraindicaciones para el procedimiento
+T245	DISO 453 462	focalidad
+T246	DISO 700 705	masas
+T247	DISO 709 717	megalias
+T248	DISO 1121 1129	megalias
+T249	DISO 687 695	doloroso
+T250	DISO 619 660	hallazgos que contraindican procedimiento
+T251	Phrase 746 767	signos de peritonismo
+T252	DISO 899 905	edemas
+T253	DISO 1074 1097	doloroso a la palpación
+T254	CoordItem 1118 1120	ni
+T255	Phrase 1102 1129	se palpan masas ni megalias
+T256	Phrase 700 717	masas ni megalias
+T257	DISO 1234 1247	pulsos pedios
+T258	Phrase 1228 1247	palpo pulsos pedios
+T259	DISO 1418 1451	incidencias inmediatas a destacar
+T260	DISO 1554 1567	signos de TVP
+T261	DISO 1688 1721	edemas en extremidades inferiores
+T262	DISO 1728 1772	alteraciones de la fuerza ni la sensibilidad
+T263	DISO 1838 1845	tensión
+T264	Phrase 1835 1845	ha tensión
+T265	DISO 2108 2141	incidencias inmediatas a destacar
+T266	DISO 2250 2290	contraindicaciones para el procedimiento
+T267	DISO 2413 2418	dolor
+T268	DISO 2424 2445	ingurgitación yugular
+T269	Phrase 2424 2503	ingurgitación yugular ni semiología sugestiva de insuficiencia cardíaca derecha
+T270	DISO 2509 2512	RHY
+T271	DISO 2528 2534	soplos
+T272	DISO 2538 2543	roces
+T273	Phrase 2528 2543	soplos ni roces
+T274	DISO 2545 2547	IY
+T275	DISO 2561 2567	edemas
+T276	Phrase 2572 2585	signos de TVP
+T277	DISO 2607 2613	soplos
+T278	DISO 2625 2635	meningismo
+T279	DISO 2673 2679	soplos
+T280	DISO 2685 2698	edema en EEII
+T281	DISO 2815 2835	ruidos sobreañadidos
+T282	DISO 2867 2870	SVA
+T283	DISO 3226 3256	datos de focalidad neurológica
+T284	DISO 3260 3280	signos de meningismo
+T285	Phrase 3218 3280	existen datos de focalidad neurológica ni signos de meningismo
+T286	DISO 3737 3743	edemas
+T287	DISO 3993 3999	soplos
+T288	Phrase 3984 3999	ausculto soplos
+T289	DISO 4072 4078	soplos
+T290	DISO 4083 4089	edemas
+T291	DISO 4203 4236	incidencias inmediatas a destacar
+T292	PROC 4359 4362	IVY
+T293	DISO 4471 4512	lesiones cutáneas clínicamente relevantes
+T294	DISO 4781 4814	incidencias inmediatas a destacar
+T295	DISO 5245 5251	soplos
+T296	DISO 5272 5281	focalidad
+T297	Phrase 5287 5311	signos de mala perfusión
+T298	DISO 5640 5648	doloroso
+T299	DISO 5653 5658	masas
+T300	DISO 5662 5670	megalias
+T301	Phrase 5653 5670	masas ni megalias
+T302	DISO 5699 5720	signos de peritonismo
+T303	DISO 5722 5728	Murphy
+T304	DISO 5739 5747	Blumberg
+T305	PROC 6294 6306	movilización
+T306	DISO 6348 6357	focalidad
+T307	Phrase 6554 6585	signos de sobrecarga de volumen
+T308	Phrase 6634 6667	signos de hipoerfusión periférica
+T309	DISO 6711 6751	contraindicaciones para el procedimiento
+T310	DISO 6801 6813	focalización
+T311	DISO 6940 6952	alteraciones
+T312	DISO 7006 7019	focalidad NRL
+T313	DISO 7023 7033	meningismo
+T314	Phrase 6997 7033	datos de focalidad NRL ni meningismo
+T316	Phrase 7094 7157	se palpan adenopatías cervicales, supraclaviculares ni axilares
+T317	DISO 7342 7348	soplos
+T318	DISO 7549 7582	incidencias inmediatas a destacar
+T319	PROC 7588 7591	IVY
+T320	DISO 7598 7640	hallazgos que contraindiquen procedimiento
+T321	Phrase 7688 7709	signos de peritonismo
+T322	DISO 7793 7833	contraindicaciones para el procedimiento
+T323	DISO 7965 7998	incidencias inmediatas a destacar
+T324	DISO 8078 8099	retracción de pezones
+T325	Phrase 8152 8191	características que sugieran malignidad
+T326	DISO 8318 8328	meningismo
+T327	DISO 8379 8412	edemas en extremidades inferiores
+T328	DISO 8728 8734	soplos
+T329	DISO 8772 8778	soplos
+T330	DISO 8782 8787	roces
+T331	Phrase 8772 8787	soplos ni roces
+T332	DISO 8789 8791	IY
+T333	DISO 8805 8811	edemas
+T334	DISO 8816 8829	signos de TVP
+T335	DISO 8847 8857	distendido
+T336	DISO 8863 8883	dolor a la palpación
+T337	DISO 9353 9366	globo vesical
+T338	Phrase 9344 9366	se palpa globo vesical
+T339	DISO 9372 9374	IY
+T340	DISO 9448 9459	peritonismo
+T341	DISO 9645 9660	soplos audibles
+T342	DISO 9728 9749	hallazgos destacables
+T343	DISO 9803 9810	tensión
+T344	Phrase 9801 9810	a tensión
+T345	DISO 9885 9897	alteraciones
+T346	DISO 10080 10088	doloroso
+T347	DISO 10094 10128	peritonismo con ruidos conservados
+T348	DISO 10534 10554	ruidos sobreañadidos
+T349	DISO 10595 10598	RHY
+T350	DISO 10605 10647	hallazgos que contraindiquen procedimiento
+T351	DISO 10653 10655	IY
+T352	DISO 10863 10869	soplos
+T353	DISO 11057 11110	contraindicaciones para el procedimiento endovascular
+T354	DISO 11180 11200	ruidos sobreañadidos
+T355	DISO 11343 11349	soplos
+T356	DISO 11376 11389	sobreañadidos
+T357	DISO 11441 11454	globo vesical
+T358	DISO 11932 11955	doloroso a la palpación
+T359	DISO 11998 12014	lesiones bucales
+T360	DISO 12404 12411	defensa
+T361	DISO 12640 12652	alteraciones
+T362	DISO 12664 12679	focalidad aguda
+T363	DISO 12683 12693	meningismo
+T364	Phrase 12664 12693	focalidad aguda ni meningismo
+T365	DISO 12733 12741	flapping
+T366	DISO 12805 12815	dismetrías
+T367	DISO 13127 13146	nuevos aislamientos
+T368	DISO 13383 13391	doloroso
+T369	DISO 13544 13552	doloroso
+T370	DISO 13581 13602	ingurgitación yugular
+T371	DISO 13608 13618	nist agmus
+T372	DISO 13944 13964	ruidos sobreañadidos
+T373	DISO 14033 14039	soplos
+T374	DISO 14044 14046	IY
+T375	DISO 14160 14171	focalidades
+T376	DISO 14195 14210	rasgos afásicos
+T377	DISO 14214 14224	parafasias
+T378	Phrase 14195 14224	rasgos afásicos ni parafasias
+T379	DISO 14293 14322	edemas de miembros inferiores
+T380	DISO 14337 14343	edemas
+T381	DISO 14467 14488	ingurgitación yugular
+T382	DISO 14890 14907	déficit sensitivo
+T383	NegMorMarker 9601 9613	deshidratado
+T384	DISO 15317 15324	déficit
+T385	Phrase 15336 15345	valorable
+T387	SUBS 15533 15551	drogas vasoactivas
+T388	Phrase 15520 15551	necesidad de drogas vasoactivas
+T389	DISO 15606 15612	ruidos
+T390	DISO 15616 15636	soplos sobreañadidos
+T391	Phrase 15606 15636	ruidos ni soplos sobreañadidos
+T392	DISO 15685 15710	comprende órdenes simples
+T393	DISO 15755 15765	meningismo
+T394	DISO 15808 15829	bradicinesia corporal
+T395	PROC 15859 15870	la aducción
+T396	Phrase 15850 15870	completa la aducción
+T397	DISO 15966 15971	masas
+T398	DISO 15975 15983	megalias
+T399	DISO 16025 16040	soplos audibles
+T400	Phrase 15966 15983	masas ni megalias
+T401	DISO 15989 15998	dismetría
+T402	DISO 16354 16379	alteraciones del lenguaje
+T403	DISO 16385 16392	rigidez
+T404	Phrase 16421 16437	rasgos de afasia
+T405	DISO 16442 16451	disartria
+T406	DISO 16494 16540	limitaciones en el plano horizontal o vertical
+T407	DISO 16614 16622	déficits
+T408	DISO 16627 16638	negligencia
+T409	DISO 16642 16653	extinciones
+T410	Phrase 16627 16653	negligencia ni extinciones
+T411	DISO 16659 16673	oftalmoparesia
+T412	Phrase 17142 17161	ayuda de los brazos
+T413	DISO 17222 17234	dradicinesia
+T414	DISO 17361 17367	soplos
+T415	Phrase 17352 17367	ausculto soplos
+T416	DISO 17391 17400	agregados
+T417	DISO 17407 17415	megalias
+T418	DISO 17639 17659	ruidos sobreañadidos
+T419	Phrase 17747 17753	repite
+T420	DISO 17781 17787	frases
+T421	DISO 17825 17846	cruzadas ni complejas
+T422	DISO 17789 17806	comprende órdenes
+T423	DISO 17912 17921	dismetría
+T424	DISO 18043 18058	rasgos afásicos
+T425	DISO 18185 18195	dismetrías
+T426	DISO 18224 18239	rasgos afásicos
+T427	DISO 18341 18367	otros ruidos sobreañadidos
+T428	DISO 18573 18588	rasgos afásicos
+T429	DISO 18612 18627	rasgos afásicos
+T430	DISO 18633 18639	ptosis
+T431	DISO 18704 18739	limitaciones de la excursión visual
+T432	DISO 18906 18920	oftalmoparesia
+T433	DISO 18776 18814	alteraciones en las versiones oculares
+T434	Phrase 19079 19088	valorable
+T435	DISO 19023 19059	dismetrías en la maniobra dedo-nariz
+T436	DISO 19103 19109	edemas
+T437	DISO 19181 19196	rasgos afásicos
+T438	DISO 19225 19240	rasgos afásicos
+T439	DISO 19246 19253	temblor
+T440	DISO 19428 19443	ruidos añadidos
+T441	DISO 19491 19514	doloroso a la palpación
+T442	Phrase 19519 19551	signos de inflamación peritoneal
+T443	DISO 19607 19613	clonus
+T444	DISO 19636 19644	déficits
+T445	DISO 19956 19994	temblor en reposo o de acción/postural
+T446	NegLexMarker 20262 20272	incapaz de
+T447	Phrase 20300 20305	ayuda
+T448	Phrase 20273 20305	levantarse de la silla sin ayuda
+T449	Phrase 20373 20394	ayuda de otra persona
+T450	Phrase 20358 20394	realizarla sin ayuda de otra persona
+T451	NegLexMarker 20347 20357	incapaz de
+T452	DISO 20400 20419	reflejos posturales
+T453	DISO 20539 20548	Hipofonía
+T454	DISO 20590 20628	temblor en reposo o de acción/postural
+T455	DISO 21033 21048	rasgos afásicos
+T456	DISO 21093 21116	doloroso a la palpación
+T457	DISO 21127 21132	masas
+T458	DISO 21136 21144	megalias
+T459	Phrase 21121 21144	palpo masas ni megalias
+T460	DISO 21206 21216	meningismo
+T461	DISO 21245 21260	rasgos afásicos
+T462	DISO 21407 21419	alteraciones
+T463	NegLexMarker 21367 21368	-
+T464	PROC 21357 21364	Myerson
+T465	Phrase 21425 21461	otros reflejos de liberación frontal
+T466	Phrase 21467 21479	signos de IC
+T467	DISO 21489 21495	edemas
+T468	DISO 21667 21726	limitación en la motilidad ocular ni de la mirada conjugada
+T469	DISO 21732 21738	edemas
+T470	DISO 21752 21783	TVOP en extremidades inferiores
+T471	Phrase 21732 21783	edemas ni signos de TVOP en extremidades inferiores
+T472	DISO 21793 21799	edemas
+T473	DISO 21904 21924	ruidos sobreañadidos
+T474	DISO 22005 22011	clonus
+T475	DISO 22354 22369	disdiadocinesia
+T476	PROC 22416 22442	Maniobras de fatigabilidad
+T477	DISO 22406 22413	déficit
+T478	DISO 23022 23055	alteración de la excursión visual
+T479	DISO 23084 23099	rasgos afásicos
+T480	DISO 23129 23135	soplos
+T481	DISO 23256 23265	dismetría
+T482	DISO 23513 23586	déficits sensitivos ( táctil, vibratoria, termoalgesica y propioceptiva )
+T483	DISO 23641 23662	sonidos sobreañadidos
+T484	DISO 23695 23718	doloroso a la palpación
+T485	DISO 23789 23801	alteraciones
+T486	DISO 23836 23856	ruidos sobreañadidos
+T487	DISO 23976 23991	disdiadocinesia
+T488	DISO 24036 24045	disartria
+T489	DISO 24050 24064	paresia facial
+T490	DISO 24122 24140	hipoestesia táctil
+T491	DISO 24247 24303	dismetrías en las maniobras dedo-nariz y talón - rodilla
+T492	DISO 24308 24324	signos meníngeos
+T493	DISO 24353 24365	alteraciones
+T494	DISO 24420 24479	limitación en la motilidad ocular ni de la mirada conjugada
+T495	DISO 24482 24489	Hofmann
+T496	DISO 24527 24542	rasgos afásicos
+T497	DISO 24568 24575	errores
+T498	DISO 24786 24793	Romberg
+T499	NegMorMarker 22629 22636	anormal
+T500	NegMorMarker 22754 22761	anormal
+T501	UncertLexMarker 15348 15350	No
+R1	DiscScope Arg1:T39 Arg2:T242	
+R2	DiscScope Arg1:T39 Arg2:T241	
+R3	Scope Arg1:T9 Arg2:T243	
+R4	Scope Arg1:T8 Arg2:T244	
+R5	Scope Arg1:T10 Arg2:T245	
+R6	Scope Arg1:T12 Arg2:T249	
+R7	Scope Arg1:T11 Arg2:T250	
+R8	Scope Arg1:T14 Arg2:T251	
+R9	Scope Arg1:T15 Arg2:T252	
+R10	Scope Arg1:T16 Arg2:T253	
+R12	Scope Arg1:T18 Arg2:T258	
+R14	Scope Arg1:T17 Arg2:T255	
+R11	Scope Arg1:T13 Arg2:T256	
+R13	Scope Arg1:T19 Arg2:T259	
+R15	Scope Arg1:T20 Arg2:T260	
+R16	Scope Arg1:T21 Arg2:T261	
+R18	Scope Arg1:T23 Arg2:T264	
+R19	Scope Arg1:T24 Arg2:T265	
+R20	Scope Arg1:T25 Arg2:T266	
+R21	Scope Arg1:T26 Arg2:T267	
+R22	Scope Arg1:T27 Arg2:T269	
+R23	Scope Arg1:T28 Arg2:T270	
+R24	Scope Arg1:T29 Arg2:T273	
+R25	Scope Arg1:T233 Arg2:T274	
+R26	Scope Arg1:T30 Arg2:T275	
+R27	Scope Arg1:T31 Arg2:T276	
+R28	Scope Arg1:T32 Arg2:T277	
+R29	Scope Arg1:T33 Arg2:T278	
+R30	Scope Arg1:T34 Arg2:T279	
+R31	Scope Arg1:T35 Arg2:T280	
+R32	Scope Arg1:T36 Arg2:T281	
+R33	Scope Arg1:T37 Arg2:T282	
+R34	Scope Arg1:T38 Arg2:T285	
+R35	Scope Arg1:T40 Arg2:T286	
+R36	Scope Arg1:T41 Arg2:T288	
+R37	Scope Arg1:T42 Arg2:T289	
+R38	Scope Arg1:T43 Arg2:T290	
+R39	Scope Arg1:T44 Arg2:T291	
+R40	Scope Arg1:T45 Arg2:T292	
+R41	Scope Arg1:T46 Arg2:T293	
+R42	Scope Arg1:T47 Arg2:T294	
+R43	Scope Arg1:T48 Arg2:T295	
+R44	Scope Arg1:T49 Arg2:T296	
+R45	Scope Arg1:T50 Arg2:T297	
+R46	Scope Arg1:T51 Arg2:T298	
+R47	Scope Arg1:T52 Arg2:T301	
+R48	Scope Arg1:T53 Arg2:T302	
+R49	Scope Arg1:T234 Arg2:T303	
+R50	Scope Arg1:T235 Arg2:T304	
+R51	Scope Arg1:T54 Arg2:T305	
+R52	Scope Arg1:T55 Arg2:T306	
+R53	Scope Arg1:T56 Arg2:T307	
+R54	Scope Arg1:T57 Arg2:T308	
+R55	Scope Arg1:T59 Arg2:T310	
+R56	Scope Arg1:T58 Arg2:T309	
+R57	Scope Arg1:T60 Arg2:T311	
+R58	Scope Arg1:T61 Arg2:T314	
+R59	Scope Arg1:T62 Arg2:T316	
+R60	Scope Arg1:T63 Arg2:T317	
+R61	Scope Arg1:T64 Arg2:T318	
+R62	Scope Arg1:T65 Arg2:T319	
+R63	Scope Arg1:T66 Arg2:T320	
+R64	Scope Arg1:T67 Arg2:T321	
+R65	Scope Arg1:T68 Arg2:T322	
+R66	Scope Arg1:T69 Arg2:T323	
+R67	Scope Arg1:T70 Arg2:T324	
+R69	Scope Arg1:T72 Arg2:T326	
+R70	Scope Arg1:T73 Arg2:T327	
+R71	Scope Arg1:T74 Arg2:T328	
+R72	Scope Arg1:T75 Arg2:T331	
+R73	Scope Arg1:T236 Arg2:T332	
+R74	Scope Arg1:T76 Arg2:T333	
+R75	Scope Arg1:T77 Arg2:T334	
+R76	Scope Arg1:T78 Arg2:T335	
+R77	Scope Arg1:T79 Arg2:T336	
+R78	Scope Arg1:T80 Arg2:T338	
+R79	Scope Arg1:T81 Arg2:T339	
+R80	Scope Arg1:T82 Arg2:T340	
+R81	Scope Arg1:T83 Arg2:T341	
+R82	Scope Arg1:T84 Arg2:T342	
+R83	Scope Arg1:T85 Arg2:T344	
+R84	Scope Arg1:T86 Arg2:T345	
+R85	Scope Arg1:T87 Arg2:T346	
+R86	Scope Arg1:T88 Arg2:T347	
+R87	Scope Arg1:T89 Arg2:T348	
+R88	Scope Arg1:T90 Arg2:T349	
+R89	Scope Arg1:T91 Arg2:T350	
+R90	Scope Arg1:T92 Arg2:T351	
+R91	Scope Arg1:T93 Arg2:T352	
+R92	Scope Arg1:T94 Arg2:T353	
+R93	Scope Arg1:T95 Arg2:T354	
+R94	Scope Arg1:T96 Arg2:T355	
+R95	Scope Arg1:T97 Arg2:T356	
+R96	Scope Arg1:T98 Arg2:T357	
+R97	Scope Arg1:T99 Arg2:T358	
+R98	Scope Arg1:T100 Arg2:T359	
+R99	Scope Arg1:T101 Arg2:T360	
+R100	Scope Arg1:T102 Arg2:T361	
+R101	Scope Arg1:T103 Arg2:T364	
+R102	Scope Arg1:T104 Arg2:T365	
+R103	Scope Arg1:T105 Arg2:T366	
+R104	Scope Arg1:T106 Arg2:T367	
+R105	Scope Arg1:T107 Arg2:T368	
+R106	Scope Arg1:T108 Arg2:T369	
+R107	Scope Arg1:T109 Arg2:T370	
+R108	Scope Arg1:T110 Arg2:T371	
+R109	Scope Arg1:T111 Arg2:T372	
+R110	Scope Arg1:T112 Arg2:T373	
+R111	Scope Arg1:T113 Arg2:T374	
+R112	Scope Arg1:T114 Arg2:T375	
+R113	Scope Arg1:T115 Arg2:T378	
+R114	Scope Arg1:T116 Arg2:T379	
+R115	Scope Arg1:T117 Arg2:T380	
+R116	Scope Arg1:T119 Arg2:T382	
+R117	Scope Arg1:T120 Arg2:T384	
+R118	Scope Arg1:T121 Arg2:T385	
+R120	Scope Arg1:T123 Arg2:T388	
+R121	Scope Arg1:T124 Arg2:T391	
+R122	Scope Arg1:T125 Arg2:T392	
+R123	Scope Arg1:T126 Arg2:T393	
+R124	Scope Arg1:T127 Arg2:T394	
+R125	Scope Arg1:T128 Arg2:T396	
+R126	Scope Arg1:T131 Arg2:T399	
+R127	Scope Arg1:T129 Arg2:T400	
+R128	Scope Arg1:T130 Arg2:T401	
+R129	Scope Arg1:T132 Arg2:T402	
+R130	Scope Arg1:T133 Arg2:T403	
+R131	Scope Arg1:T134 Arg2:T404	
+R132	Scope Arg1:T135 Arg2:T405	
+R133	Scope Arg1:T136 Arg2:T406	
+R134	Scope Arg1:T137 Arg2:T407	
+R135	Scope Arg1:T138 Arg2:T410	
+R136	Scope Arg1:T139 Arg2:T411	
+R137	Scope Arg1:T140 Arg2:T412	
+R138	Scope Arg1:T141 Arg2:T413	
+R139	Scope Arg1:T142 Arg2:T415	
+R140	Scope Arg1:T143 Arg2:T416	
+R141	Scope Arg1:T144 Arg2:T417	
+R142	Scope Arg1:T145 Arg2:T418	
+R143	DiscScope Arg1:T146 Arg2:T419	
+R144	DiscScope Arg1:T146 Arg2:T420	
+R145	DiscScope Arg1:T147 Arg2:T422	
+R146	DiscScope Arg1:T147 Arg2:T421	
+R147	Scope Arg1:T148 Arg2:T423	
+R148	Scope Arg1:T149 Arg2:T424	
+R149	Scope Arg1:T150 Arg2:T425	
+R150	Scope Arg1:T151 Arg2:T426	
+R151	Scope Arg1:T152 Arg2:T427	
+R152	Scope Arg1:T153 Arg2:T428	
+R153	Scope Arg1:T154 Arg2:T429	
+R155	Scope Arg1:T157 Arg2:T433	
+R156	Scope Arg1:T160 Arg2:T434	
+R157	Scope Arg1:T159 Arg2:T435	
+R158	Scope Arg1:T161 Arg2:T436	
+R159	Scope Arg1:T162 Arg2:T437	
+R160	Scope Arg1:T163 Arg2:T438	
+R161	Scope Arg1:T164 Arg2:T439	
+R162	Scope Arg1:T166 Arg2:T440	
+R163	Scope Arg1:T167 Arg2:T441	
+R164	Scope Arg1:T168 Arg2:T442	
+R165	Scope Arg1:T169 Arg2:T443	
+R166	Scope Arg1:T170 Arg2:T444	
+R167	Scope Arg1:T171 Arg2:T445	
+R168	Scope Arg1:T172 Arg2:T447	
+R169	Scope Arg1:T446 Arg2:T448	
+R170	Scope Arg1:T173 Arg2:T449	
+R171	Scope Arg1:T451 Arg2:T450	
+R172	Scope Arg1:T174 Arg2:T452	
+R173	Scope Arg1:T175 Arg2:T453	
+R174	Scope Arg1:T176 Arg2:T454	
+R175	Scope Arg1:T177 Arg2:T455	
+R176	Scope Arg1:T178 Arg2:T456	
+R177	Scope Arg1:T179 Arg2:T459	
+R178	Scope Arg1:T180 Arg2:T460	
+R179	Scope Arg1:T181 Arg2:T461	
+R180	Scope Arg1:T182 Arg2:T462	
+R181	Scope Arg1:T463 Arg2:T464	
+R182	Scope Arg1:T183 Arg2:T465	
+R183	Scope Arg1:T184 Arg2:T466	
+R184	Scope Arg1:T185 Arg2:T467	
+R185	Scope Arg1:T186 Arg2:T468	
+R186	Scope Arg1:T187 Arg2:T471	
+R187	Scope Arg1:T188 Arg2:T472	
+R188	Scope Arg1:T189 Arg2:T473	
+R189	Scope Arg1:T190 Arg2:T474	
+R190	Scope Arg1:T191 Arg2:T475	
+R191	Scope Arg1:T237 Arg2:T476	
+R192	Scope Arg1:T192 Arg2:T477	
+R193	Scope Arg1:T193 Arg2:T478	
+R194	Scope Arg1:T194 Arg2:T479	
+R195	Scope Arg1:T195 Arg2:T480	
+R196	Scope Arg1:T196 Arg2:T481	
+R197	Scope Arg1:T197 Arg2:T482	
+R198	Scope Arg1:T198 Arg2:T483	
+R199	Scope Arg1:T199 Arg2:T484	
+R200	Scope Arg1:T200 Arg2:T485	
+R201	Scope Arg1:T201 Arg2:T486	
+R202	Scope Arg1:T202 Arg2:T487	
+R203	Scope Arg1:T203 Arg2:T488	
+R204	Scope Arg1:T204 Arg2:T489	
+R205	Scope Arg1:T205 Arg2:T490	
+R206	Scope Arg1:T206 Arg2:T491	
+R207	Scope Arg1:T207 Arg2:T492	
+R208	Scope Arg1:T208 Arg2:T493	
+R209	Scope Arg1:T209 Arg2:T494	
+R210	Scope Arg1:T238 Arg2:T495	
+R211	Scope Arg1:T210 Arg2:T496	
+R212	Scope Arg1:T211 Arg2:T497	
+R213	Scope Arg1:T239 Arg2:T498	
+R17	Scope Arg1:T22 Arg2:T262	
+R119	Scope Arg1:T118 Arg2:T381	
+T315	UncertLexMarker 15361 15366	clara
+T386	DISO 15351 15360	disartria
+R214	DiscMarker Arg1:T501 Arg2:T315	
+R215	Scope Arg1:T315 Arg2:T386	
+T502	DISO 756 767	peritonismo
+T503	NegLexMarker 1314 1322	retirada
+T504	OTHER 1346 1360	CVC tunelizado
+T505	Phrase 1323 1360	quirúrgica electiva de CVC tunelizado
+R216	Scope Arg1:T503 Arg2:T505	
+T506	NegLexMarker 2014 2022	retirada
+T507	OTHER 2046 2060	CVC tunelizado
+T508	Phrase 2023 2060	quirúrgica electiva de CVC tunelizado
+R217	Scope Arg1:T506 Arg2:T508	
+T509	DISO 2582 2585	TVP
+T510	NegLexMarker 4150 4158	retirada
+T511	OTHER 4182 4185	CVC
+T512	Phrase 4159 4185	quirúrgica electiva de CVC
+R218	Scope Arg1:T510 Arg2:T512	
+T513	NegLexMarker 4679 4687	retirada
+T514	OTHER 4711 4725	CVC tunelizado
+T515	Phrase 4688 4725	quirúrgica electiva de CVC tunelizado
+R219	Scope Arg1:T513 Arg2:T515	
+T516	DISO 5297 5311	mala perfusión
+T517	DISO 6564 6585	sobrecarga de volumen
+T518	DISO 6644 6667	hipoerfusión periférica
+T519	NegLexMarker 7447 7455	retirada
+T520	OTHER 7479 7493	CVC tunelizado
+T521	Phrase 7456 7493	quirúrgica electiva de CVC tunelizado
+R220	Scope Arg1:T519 Arg2:T521	
+T522	DISO 7698 7709	peritonismo
+T523	NegLexMarker 7898 7906	retirada
+T524	OTHER 7930 7944	CVC tunelizado
+T525	Phrase 7907 7944	quirúrgica electiva de CVC tunelizado
+R221	Scope Arg1:T523 Arg2:T525	
+T526	DISO 8181 8191	malignidad
+T527	UncertLexMarker 8192 8200	aparente
+R68	DiscMarker Arg1:T71 Arg2:T527	
+R222	Scope Arg1:T527 Arg2:T325	
+T528	DISO 10765 10767	IY
+T529	NegLexMarker 10770 10771	-
+R223	Scope Arg1:T529 Arg2:T528	
+T530	NegLexMarker 14135 14143	Retirada
+T531	DISO 16431 16437	afasia
+T532	NegLexMarker 16958 16962	nula
+T533	OTHER 16963 16975	colaboración
+R224	Scope Arg1:T532 Arg2:T533	
+R225	Scope Arg1:T155 Arg2:T430	
+R154	Scope Arg1:T158 Arg2:T432	
+T534	DISO 19334 19354	alteración sensitiva
+R226	Scope Arg1:T165 Arg2:T534	
+T535	DISO 19529 19551	inflamación peritoneal
+T536	DISO 21477 21479	IC
+T537	DISO 21443 21461	liberación frontal

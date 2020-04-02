@@ -1,0 +1,146 @@
+T1	UncertLexMarker 141 147	Dudosa
+T2	DISO 148 200	microcalcificación cortical superior renal izquierda
+T3	NegSynMarker 203 205	no
+T4	DISO 206 217	obstructiva
+T5	NegSynMarker 386 389	sin
+T6	DISO 390 419	lesiones ocupantes de espacio
+T7	UncertLexMarker 673 680	valorar
+T8	DISO 681 705	tromboembolismo pulmonar
+T9	NegSynMarker 750 753	sin
+T10	DISO 754 767	ecos internos
+T11	UncertLexMarker 787 795	Probable
+T12	DISO 796 824	hemangioma hepático de 16 mm
+T13	NegSynMarker 1011 1014	Sin
+T14	Phrase 1015 1052	evidencia de tromboembolismo pulmonar
+T15	DISO 1028 1052	tromboembolismo pulmonar
+T16	NegSynMarker 1208 1211	sin
+T17	DISO 1212 1221	hallazgos
+T18	NegSynMarker 1224 1226	No
+T19	SUBS 1227 1255	líquido libre intraabdominal
+T20	NegSynMarker 1281 1284	Sin
+T21	DISO 1285 1316	hallazgos patologicos vesicales
+T22	NegSynMarker 1635 1637	no
+T23	Phrase 1638 1678	se aprecia nigun dato de focalidad aguda
+T24	DISO 1663 1678	focalidad aguda
+T25	NegSynMarker 1900 1902	no
+T26	DISO 1903 1915	obstructivas
+T27	UncertLexMarker 2043 2050	podrían
+T28	Phrase 2051 2127	traducir quistes complicados o hemorrágicos ( vs poco probable lesión sólida
+T29	DISO 2060 2094	quistes complicados o hemorrágicos
+T30	CoordItem 2097 2099	vs
+T31	PolItem 2100 2113	poco probable
+T32	DISO 2114 2127	lesión sólida
+T33	NegSynMarker 2260 2262	no
+T34	OTHER 2263 2269	tolera
+T35	NegSynMarker 2289 2291	no
+T36	OTHER 2292 2303	utilizarlos
+T37	UncertLexMarker 2474 2488	sospechosas de
+T38	DISO 2489 2529	calcificaciones a nivel de ambos riñones
+T39	UncertLexMarker 2534 2540	podría
+T40	Phrase 2541 2579	estar en relación con litiasis renales
+T41	DISO 2550 2579	relación con litiasis renales
+T42	NegSynMarker 2794 2797	sin
+T43	Phrase 2798 2831	imágenes de litiasis calcificadas
+T44	DISO 2810 2831	litiasis calcificadas
+T45	UncertLexMarker 2939 2952	aparentemente
+T46	DISO 2953 2966	muy engrosada
+T47	NegSynMarker 3415 3417	No
+T48	Phrase 3418 3444	señal de mordedura lingual
+T49	DISO 3427 3444	mordedura lingual
+T50	NegSynMarker 3504 3507	sin
+T51	SUBS 3508 3511	civ
+T52	NegSynMarker 3559 3561	no
+T53	DISO 3562 3573	obstructiva
+T54	NegSynMarker 3938 3940	no
+T55	Phrase 3941 3968	creo indicado modificar tto
+T56	OTHER 3946 3968	indicado modificar tto
+T57	UncertLexMarker 4229 4237	probable
+T58	Phrase 4238 4261	con hemangioma hepático
+T59	DISO 4242 4261	hemangioma hepático
+T60	NegSynMarker 4770 4773	sin
+T61	DISO 4774 4793	niveles hidroaéreos
+T62	NegSynMarker 4889 4891	No
+T63	Phrase 4892 4930	se objetivan litiasis ni hidronefrosis
+T64	DISO 4905 4913	litiasis
+T65	CoordItem 4914 4916	ni
+T66	DISO 4917 4930	hidronefrosis
+T67	NegSynMarker 5189 5192	sin
+T68	OTHER 5193 5217	mas cambios por mi parte
+T69	NegSynMarker 5349 5352	sin
+T70	Phrase 5353 5377	signos de diverticulitis
+T71	DISO 5363 5377	diverticulitis
+T72	NegMorMarker 5408 5420	asintomatico
+T73	NegSynMarker 5421 5424	sin
+T74	DISO 5425 5458	repeticion de episodios similares
+T75	NegSynMarker 5511 5513	No
+T76	Phrase 5514 5682	se identifican imágenes de defectos de repleción en arterias pulmonares centrales , interlobares y segmentarias que sugiera tromboembolismo pulmonar en esta exploración
+T77	DISO 5541 5662	defectos de repleción en arterias pulmonares centrales , interlobares y segmentarias que sugiera tromboembolismo pulmonar
+T78	NegSynMarker 5807 5810	sin
+T79	DISO 5811 5823	alteraciones
+T80	NegSynMarker 5914 5916	No
+T81	Phrase 5917 5999	se observan múltiples imágenes hiperecogénicas compatibles con detritus - coágulos
+T82	DISO 5929 5999	múltiples imágenes hiperecogénicas compatibles con detritus - coágulos
+T83	UncertLexMarker 6175 6189	compatible con
+T84	PolItem 6190 6198	probable
+T85	Phrase 6190 6233	probable obstrucción de causa no objetivada
+T86	DISO 6199 6233	obstrucción de causa no objetivada
+T87	NegSynMarker 6220 6222	no
+T88	OTHER 6223 6233	objetivada
+T89	NegSynMarker 6523 6525	no
+T90	Phrase 6526 6592	se observa infiltración de la lamina propia ni de la capa muscular
+T91	DISO 6537 6592	infiltración de la lamina propia ni de la capa muscular
+T92	CoordItem 6570 6572	ni
+T93	NegSynMarker 6628 6631	Sin
+T94	Phrase 6632 6675	evidencia de dilatación de la vía excretora
+T95	DISO 6645 6675	dilatación de la vía excretora
+T96	NegSynMarker 6822 6824	no
+T97	Phrase 6825 6853	identificamos neoformaciones
+T98	DISO 6839 6853	neoformaciones
+T99	NegSynMarker 7050 7052	No
+T100	Phrase 7053 7078	signos de patología aguda
+T101	DISO 7063 7078	patología aguda
+T102	UncertLexMarker 7088 7100	sugestiva de
+T103	DISO 7101 7124	derrame pleural derecho
+T104	NegSynMarker 7127 7129	No
+T105	Phrase 7130 7151	imágenes de fracturas
+T106	DISO 7142 7151	fracturas
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T39 Arg2:T40
+R18	Scope Arg1:T42 Arg2:T43
+R19	Scope Arg1:T45 Arg2:T46
+R20	Scope Arg1:T47 Arg2:T48
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T67 Arg2:T68
+R28	Scope Arg1:T69 Arg2:T70
+R29	Scope Arg1:T73 Arg2:T74
+R30	Scope Arg1:T75 Arg2:T76
+R31	Scope Arg1:T78 Arg2:T79
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T87 Arg2:T88
+R34	Scope Arg1:T83 Arg2:T85
+R35	Scope Arg1:T89 Arg2:T90
+R36	Scope Arg1:T93 Arg2:T94
+R37	Scope Arg1:T96 Arg2:T97
+R38	Scope Arg1:T99 Arg2:T100
+R39	Scope Arg1:T102 Arg2:T103
+R40	Scope Arg1:T104 Arg2:T105

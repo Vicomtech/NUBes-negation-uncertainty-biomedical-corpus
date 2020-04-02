@@ -1,0 +1,69 @@
+T1	UncertLexMarker 463 477	compatible con
+T2	DISO 478 481	EAP
+T3	NegMorMarker 779 791	asintomática
+T4	NegLexMarker 964 972	cediendo
+T5	Phrase 973 1002	sintomatologia en unos 10 min
+T6	DISO 973 987	sintomatologia
+T7	NegLexMarker 1167 1175	suspendo
+T8	Phrase 1176 1196	ademas la eplerenona
+T9	SUBS 1183 1196	la eplerenona
+T10	NegMorMarker 1297 1309	asintomática
+T11	DISO 1430 1433	IAM
+T12	NegSynMarker 1434 1436	no
+T13	Phrase 1684 1748	EKG en UMI ritmo sinusal con bloqueo completo rama derecho con T
+T14	PROC 1684 1687	EKG
+T15	NegLexMarker 1749 1757	negativa
+T16	Phrase 1758 1769	en V3-V4-V5
+T17	DISO 1834 1855	3 episodios similares
+T18	NegLexMarker 1860 1865	ceden
+T19	Phrase 1866 1909	con administración de 1 puff de solintirina
+T20	NegLexMarker 2141 2150	ha cedido
+T21	Phrase 2151 2166	espontáneamente
+T22	NegSynMarker 2169 2171	No
+T23	DISO 2172 2197	tolera antialdosteronicos
+T24	NegSynMarker 2826 2829	sin
+T25	Phrase 2830 2859	signos de isquemia miocardica
+T26	DISO 2840 2859	isquemia miocardica
+T27	UncertLexMarker 2982 2995	probablemente
+T28	DISO 2996 3099	en ralacion a que la flia que la cuida suspendio por confusion la administracion de nitratos en parches
+T29	NegLexMarker 3035 3044	suspendio
+T30	SUBS 3080 3099	nitratos en parches
+T31	UncertLexMarker 4033 4041	probable
+T32	DISO 4042 4062	nefroangioesclerosis
+T33	NegMorMarker 4367 4379	asintomática
+T34	NegSynMarker 4390 4393	sin
+T35	Phrase 4394 4406	signos de IC
+T36	DISO 4404 4406	IC
+T37	NegMorMarker 4555 4567	asintomática
+T38	NegLexMarker 4808 4822	desapareciendo
+T39	DISO 4823 4832	la disnea
+T40	NegSynMarker 5158 5161	sin
+T41	DISO 5162 5189	alteraciones significativas
+T42	NegMorMarker 5237 5249	asintomático
+T43	NegMorMarker 5411 5423	asintomático
+T44	UncertLexMarker 5714 5724	impresiona
+T45	DISO 5725 5731	una FA
+T46	NegLexMarker 6050 6061	se descarta
+T47	DISO 6062 6097	el origen coronario de los síntomas
+T48	NegLexMarker 6684 6695	se descartó
+T49	DISO 6696 6715	derrame pericárdico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T12 Arg2:T11
+R5	DiscScope Arg1:T15 Arg2:T16
+R6	DiscScope Arg1:T15 Arg2:T13
+R7	DiscScope Arg1:T18 Arg2:T17
+R8	DiscScope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T34 Arg2:T35
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T40 Arg2:T41
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49

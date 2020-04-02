@@ -1,0 +1,41 @@
+T1	NegSynMarker 48 50	No
+T2	DISO 51 82	control de troco en sedestación
+T3	NegSynMarker 290 292	no
+T4	DISO 293 302	funcional
+T5	NegSynMarker 305 307	No
+T6	DISO 308 346	dolor a la movilización cadera rodilla
+T7	NegSynMarker 527 529	No
+T8	DISO 530 553	dolor a la movilización
+T9	NegMorMarker 662 671	arritmico
+T10	UncertLexMarker 794 803	Sin clara
+T11	DISO 804 820	focalidad motora
+T12	NegSynMarker 861 863	No
+T13	DISO 864 869	dolor
+T14	UncertLexMarker 1163 1169	parece
+T15	Phrase 1170 1194	que moviliza algo el pie
+T16	OTHER 1174 1194	moviliza algo el pie
+T17	NegSynMarker 1506 1509	sin
+T18	DISO 1510 1521	peritonismo
+T19	NegMorMarker 1709 1721	desorientado
+T20	NegMorMarker 1766 1777	invalorable
+T21	NegLexMarker 1784 1792	falta de
+T22	DISO 1793 1814	respuestas coherentes
+T23	NegLexMarker 2170 2179	Imposible
+T24	OTHER 2180 2193	bipedestación
+T25	NegSynMarker 2241 2243	no
+T26	OTHER 2244 2269	moviliza el pie izquierdo
+T27	UncertLexMarker 2325 2332	posible
+T28	DISO 2333 2349	paralisis de CPE
+T29	Phrase 2333 2392	paralisis de CPE mas que polineuropatia del enfermo critico
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T29

@@ -1,0 +1,56 @@
+T1	UncertLexMarker 124 138	compatible con
+T2	DISO 139 154	queratoacantoma
+T3	UncertLexMarker 211 225	compatible con
+T4	DISO 226 241	ca. basocelular
+T5	UncertLexMarker 481 495	compatible con
+T6	DISO 496 511	ca. basocelular
+T7	UncertLexMarker 586 600	compatible con
+T8	Phrase 601 656	ca. basocelular en dorso nasal de bordes poco definidos
+T9	DISO 601 616	ca. basocelular
+T10	UncertLexMarker 1083 1097	compatible con
+T11	DISO 1098 1134	queratoacantoma en mejilla izquierda
+T12	NegSynMarker 1171 1173	no
+T13	DISO 1174 1192	muy bien definidos
+T14	UncertLexMarker 1291 1305	compatible con
+T15	DISO 1306 1327	carcinoma epidermoide
+T16	UncertLexMarker 1389 1403	compatible con
+T17	DISO 1404 1419	ca. basocelular
+T18	UncertLexMarker 1562 1576	compatible con
+T19	DISO 1577 1589	ca. escamoso
+T20	Phrase 1577 1607	ca. escamoso o queratoacantoma
+T21	CoordItem 1590 1591	o
+T22	DISO 1592 1607	queratoacantoma
+T23	UncertLexMarker 1679 1693	compatible con
+T24	DISO 1694 1708	ca basoceluoar
+T25	UncertLexMarker 1762 1776	compatible con
+T26	DISO 1777 1791	ca basocelular
+T27	UncertLexMarker 1868 1883	Compatibles con
+T28	DISO 1884 1899	ca. basocelular
+T29	UncertLexMarker 1919 1933	compatible con
+T30	DISO 1934 1949	ca. basocelular
+T31	UncertLexMarker 2264 2278	compatible con
+T32	DISO 2279 2293	ca basocelualr
+T33	UncertLexMarker 2307 2321	compatible con
+T34	Phrase 2322 2375	ca. basocelular en surco nasoyugal derecho de 0,5 cms
+T35	DISO 2322 2337	ca. basocelular
+T36	UncertLexMarker 2552 2566	Compatible con
+T37	DISO 2567 2582	ca. basocelular
+T38	UncertLexMarker 2985 3000	compatibles con
+T39	DISO 3001 3017	ca basocelulares
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T20
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T38 Arg2:T39

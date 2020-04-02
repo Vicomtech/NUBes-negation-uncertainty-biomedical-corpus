@@ -1,0 +1,56 @@
+T1	Phrase 300 333	Acido acetilsalicilico de momento
+T2	SUBS 300 322	Acido acetilsalicilico
+T3	NegLexMarker 334 342	suspende
+T4	SUBS 362 389	Valsartan/hidroclorotiazida
+T5	Phrase 362 402	Valsartan/hidroclorotiazida ( de momento
+T6	NegLexMarker 403 411	suspende
+T7	NegSynMarker 468 470	No
+T8	Phrase 471 515	precisa tratamiento farmacologico especifico
+T9	SUBS 479 515	tratamiento farmacologico especifico
+T10	SUBS 606 622	candesartan 16mg
+T11	Phrase 606 642	candesartan 16mg , cambio de momento
+T12	NegLexMarker 643 651	suspende
+T13	NegSynMarker 1355 1357	no
+T14	OTHER 1358 1371	beber alcohol
+T15	NegSynMarker 1374 1376	no
+T16	OTHER 1377 1382	fumar
+T17	NegLexMarker 1486 1496	Suspendera
+T18	SUBS 1497 1504	sintrom
+T19	SUBS 2059 2068	aldactone
+T20	NegLexMarker 2071 2079	suspende
+T21	Phrase 2080 2107	este tratamiento de momento
+T22	NegSynMarker 2392 2394	no
+T23	OTHER 2395 2436	debe ser suspendido sin indicación médica
+T24	NegSynMarker 2415 2418	sin
+T25	OTHER 2419 2436	indicación médica
+T26	UncertLexMarker 2526 2534	valorará
+T27	Phrase 2535 2601	si añadir calcio y vitamina D al tratamiento si lo estima oportuno
+T28	SUBS 5061 5070	Trangorex
+T29	NegLexMarker 5073 5083	suspendido
+T30	Phrase 5946 5956	de momento
+T31	NegLexMarker 5957 5965	suspende
+T32	SUBS 5966 5980	el tratamiento
+T33	Phrase 5983 6023	tramadol/paracetamol ( cambio de momento
+T34	SUBS 5983 5991	tramadol
+T35	CoordItem 5991 5992	/
+T36	SUBS 5992 6003	paracetamol
+T37	NegLexMarker 6024 6032	suspende
+T38	NegSynMarker 6877 6880	sin
+T39	Phrase 6881 6907	azucar refinado ( dulces )
+R1	Scope Arg1:T6 Arg2:T5
+R2	Scope Arg1:T3 Arg2:T1
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T12 Arg2:T11
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T13 Arg2:T14
+R7	DiscScope Arg1:T20 Arg2:T19
+R8	Scope Arg1:T17 Arg2:T18
+R9	DiscScope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T29 Arg2:T28
+R14	DiscScope Arg1:T31 Arg2:T32
+R15	DiscScope Arg1:T31 Arg2:T30
+R16	Scope Arg1:T37 Arg2:T33
+R17	Scope Arg1:T38 Arg2:T39

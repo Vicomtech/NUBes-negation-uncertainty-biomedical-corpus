@@ -1,0 +1,18 @@
+T1	NegSynMarker 284 287	sin
+T2	DISO 288 299	incidencias
+T3	NegSynMarker 385 388	sin
+T4	DISO 389 401	alteraciones
+T5	UncertLexMarker 485 497	sugestiva de
+T6	DISO 498 513	mioma submucoso
+T7	NegSynMarker 536 539	sin
+T8	DISO 540 547	pólipos
+T9	Phrase 540 571	pólipos ni imágenes patológicas
+T10	CoordItem 548 550	ni
+T11	DISO 551 571	imágenes patológicas
+T12	NegSynMarker 593 596	sin
+T13	OTHER 597 607	dificultad
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T9
+R5	Scope Arg1:T12 Arg2:T13

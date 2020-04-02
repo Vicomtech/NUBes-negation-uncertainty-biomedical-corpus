@@ -1,0 +1,57 @@
+T1	NegMorMarker 103 112	arritmica
+T2	NegSynMarker 113 115	no
+T3	DISO 116 128	taquicardica
+T4	UncertLexMarker 474 486	sugestiva de
+T5	DISO 487 502	ca. basocelular
+T6	NegSynMarker 632 634	no
+T7	OTHER 635 682	se identifican en el momento de la intervención
+T8	UncertLexMarker 792 806	compatible con
+T9	DISO 807 821	ca basocelular
+T10	NegSynMarker 908 910	No
+T11	Phrase 911 936	se aprecia lesión tumoral
+T12	DISO 922 936	lesión tumoral
+T13	UncertLexMarker 1054 1069	compatibles con
+T14	DISO 1070 1084	ca basocelular
+T15	NegSynMarker 1239 1241	no
+T16	Phrase 1242 1277	veo lesiones perifericas retinianas
+T17	DISO 1246 1277	lesiones perifericas retinianas
+T18	UncertLexMarker 1573 1587	compatible con
+T19	DISO 1588 1602	ca basocelular
+T20	UncertLexMarker 1655 1669	compatible con
+T21	DISO 1670 1684	ca basocelular
+T22	UncertLexMarker 1822 1837	compatibles con
+T23	DISO 1838 1853	ca. basocelular
+T24	UncertLexMarker 1910 1924	compatible con
+T25	DISO 1925 1939	ca basocelular
+T26	NegSynMarker 2711 2714	sin
+T27	DISO 2715 2760	afectación del canto lateral ni canto interno
+T28	CoordItem 2744 2746	ni
+T29	UncertLexMarker 2888 2903	compatibles con
+T30	DISO 2904 2919	ca. basocelular
+T31	UncertLexMarker 3039 3047	probable
+T32	DISO 3048 3090	afectación de estructuras osteoarticulares
+T33	UncertLexMarker 3265 3277	sugestiva de
+T34	DISO 3278 3293	ca. basocelular
+T35	UncertLexMarker 3301 3315	compatible con
+T36	Phrase 3316 3349	ca. basocelular en vértex craneal
+T37	DISO 3316 3331	ca. basocelular
+T38	NegSynMarker 3372 3374	No
+T39	Phrase 3375 3421	hay contacto del punto lacrimal con la esclera
+T40	BODY 3379 3421	contacto del punto lacrimal con la esclera
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T22 Arg2:T23
+R11	Scope Arg1:T24 Arg2:T25
+R12	Scope Arg1:T26 Arg2:T27
+R13	Scope Arg1:T29 Arg2:T30
+R14	Scope Arg1:T31 Arg2:T32
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T35 Arg2:T36
+R17	Scope Arg1:T38 Arg2:T39

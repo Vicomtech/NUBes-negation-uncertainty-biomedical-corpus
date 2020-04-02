@@ -1,0 +1,5 @@
+T1	NegMorMarker 23 37	Desorientación
+T2	NegMorMarker 110 123	inestabilidad
+T3	NegSynMarker 370 372	No
+T4	DISO 373 380	cefalea
+R1	Scope Arg1:T3 Arg2:T4

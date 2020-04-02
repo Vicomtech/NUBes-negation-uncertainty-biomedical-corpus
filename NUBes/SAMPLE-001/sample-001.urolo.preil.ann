@@ -1,0 +1,15 @@
+T1	UncertLexMarker 641 656	Impresiona como
+T2	DISO 657 668	prostatitis
+T3	UncertLexMarker 669 682	sin descartar
+T4	DISO 683 697	otra patología
+T5	NegSynMarker 764 766	no
+T6	DISO 767 774	disuria
+T7	NegSynMarker 777 779	no
+T8	DISO 780 799	goteo postmiccional
+T9	NegSynMarker 802 804	no
+T10	DISO 805 812	escozor
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8

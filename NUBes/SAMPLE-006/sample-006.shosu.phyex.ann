@@ -1,0 +1,31 @@
+T1	UncertLexMarker 187 195	No claro
+T2	DISO 196 211	nivel sensitivo
+T3	NegSynMarker 414 416	No
+T4	DISO 417 455	dolor a la movilización de cadera izda
+T5	NegSynMarker 508 511	sin
+T6	DISO 512 521	hallazgos
+T7	NegMorMarker 851 865	Desorientación
+T8	NegSynMarker 1081 1083	no
+T9	DISO 1084 1124	dolor a la movilización cadera izquierda
+T10	DISO 1149 1161	desorientada
+T11	NegSynMarker 1177 1179	no
+T12	Phrase 1180 1190	en espacio
+T13	NegSynMarker 1351 1353	no
+T14	DISO 1354 1363	limitante
+T15	NegSynMarker 1771 1774	sin
+T16	DISO 1775 1785	dificultad
+T17	UncertLexMarker 2748 2755	Posible
+T18	DISO 2756 2775	lumbarización de S1
+T19	NegSynMarker 2778 2780	No
+T20	Phrase 2781 2815	existen signos de radiculopatía S1
+T21	DISO 2799 2815	radiculopatía S1
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	DiscScope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T11 Arg2:T10
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16
+R9	Scope Arg1:T17 Arg2:T18
+R10	Scope Arg1:T19 Arg2:T20

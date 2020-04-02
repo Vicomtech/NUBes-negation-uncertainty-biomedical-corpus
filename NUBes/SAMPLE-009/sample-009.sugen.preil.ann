@@ -1,0 +1,57 @@
+T1	NegSynMarker 461 463	No
+T2	DISO 464 502	clínica urinaria ni respiratoria aguda
+T3	CoordItem 481 483	ni
+T4	NegSynMarker 824 826	no
+T5	Phrase 827 858	recuerda el nombre de sus hijos
+T6	NegSynMarker 1044 1046	no
+T7	DISO 1047 1054	filiada
+T8	UncertLexMarker 1057 1068	sospecha de
+T9	DISO 1069 1080	candidiasis
+T10	UncertLexMarker 1163 1176	probablemente
+T11	Phrase 1177 1270	nos veamos obligados a efectuar la amputación de dicho dedo medio así como la cabeza del meta
+T12	PROC 1209 1270	la amputación de dicho dedo medio así como la cabeza del meta
+T13	NegSynMarker 1291 1293	No
+T14	DISO 1294 1301	diarrea
+T15	NegSynMarker 2211 2214	sin
+T16	DISO 2215 2221	fiebre
+T17	NegSynMarker 2224 2226	No
+T18	DISO 2227 2245	fiebre documentada
+T19	Phrase 2227 2281	fiebre documentada , clinica respiratoria ni digestiva
+T20	DISO 2248 2281	clinica respiratoria ni digestiva
+T21	CoordItem 2269 2271	ni
+T22	NegSynMarker 2495 2497	No
+T23	Phrase 2498 2520	rectorragias nimelenas
+T24	DISO 2498 2510	rectorragias
+T25	CoordItem 2511 2513	ni
+T26	DISO 2513 2520	melenas
+T27	UncertLexMarker 2588 2596	probable
+T28	DISO 2597 2615	neoplasia de sigma
+T29	UncertLexMarker 2657 2662	puede
+T30	DISO 2663 2716	corresponder a conglomerado adenopático o metastásico
+T31	NegSynMarker 3346 3348	No
+T32	PROC 3349 3365	han termometrado
+T33	NegSynMarker 3368 3370	No
+T34	DISO 3371 3391	clínica a otro nivel
+T35	NegSynMarker 3470 3472	No
+T36	DISO 3473 3480	sefalea
+T37	NegSynMarker 3483 3485	no
+T38	DISO 3486 3500	dolor torácico
+T39	Phrase 3486 3532	dolor torácico , palpitaciones dPN ni ortopnea
+T40	DISO 3503 3520	palpitaciones dPN
+T41	CoordItem 3521 3523	ni
+T42	DISO 3524 3532	ortopnea
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T19
+R9	Scope Arg1:T22 Arg2:T23
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T27 Arg2:T28
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T37 Arg2:T39

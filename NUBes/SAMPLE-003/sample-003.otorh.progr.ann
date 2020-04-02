@@ -1,0 +1,26 @@
+T1	NegMorMarker 0 7	Afebril
+T2	NegLexMarker 84 93	Se retira
+T3	DISO 94 106	taponamiento
+T4	NegSynMarker 431 433	no
+T5	DISO 434 440	sangra
+T6	NegSynMarker 514 516	No
+T7	Phrase 517 578	se objetivan signos de flemon ni absceso en el momento actual
+T8	DISO 540 546	flemon
+T9	CoordItem 547 549	ni
+T10	DISO 550 557	absceso
+T11	NegSynMarker 581 583	No
+T12	Phrase 584 632	se evidencia sangrado activo ni restos hemàticos
+T13	DISO 597 612	sangrado activo
+T14	CoordItem 613 615	ni
+T15	SUBS 616 632	restos hemàticos
+T16	NegSynMarker 716 719	sin
+T17	DISO 720 732	taponamiento
+T18	NegSynMarker 733 735	no
+T19	Phrase 736 763	vuelve a presentar sangrado
+T20	DISO 755 763	sangrado
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T16 Arg2:T17
+R6	Scope Arg1:T18 Arg2:T19

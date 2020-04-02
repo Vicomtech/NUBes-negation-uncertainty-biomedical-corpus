@@ -1,0 +1,6 @@
+T1	UncertLexMarker 1542 1553	sospecha de
+T2	DISO 1554 1581	sobreinfección respiratoria
+T3	UncertLexMarker 1584 1595	Sospecha de
+T4	DISO 1596 1621	hemorragia digestiva alta
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

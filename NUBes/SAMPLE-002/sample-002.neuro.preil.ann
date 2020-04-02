@@ -1,0 +1,190 @@
+T1	NegSynMarker 501 503	No
+T2	DISO 504 518	dolor torácico
+T3	Phrase 504 561	dolor torácico , palpitaciones , disnea , DPN ni ortopnea
+T4	DISO 521 534	palpitaciones
+T5	DISO 537 543	disnea
+T6	DISO 546 549	DPN
+T7	CoordItem 550 552	ni
+T8	DISO 553 561	ortopnea
+T9	NegSynMarker 564 566	No
+T10	Phrase 567 610	ha podido objetivar cuánto tiempo lleva ahi
+T11	NegSynMarker 811 813	No
+T12	DISO 814 828	clinica febril
+T13	NegSynMarker 898 900	no
+T14	OTHER 901 910	precisada
+T15	NegSynMarker 1025 1027	No
+T16	DISO 1028 1116	empeora con el esfuerzo , los cambios de posición cefálicos ni las maniobras de Valsalva
+T17	CoordItem 1088 1090	ni
+T18	NegSynMarker 1176 1178	no
+T19	OTHER 1179 1207	interrumpe el sueño nocturno
+T20	NegSynMarker 1272 1275	sin
+T21	DISO 1276 1283	vómitos
+T22	NegSynMarker 1286 1289	sin
+T23	DISO 1290 1303	fotosonofobia
+T24	NegMorMarker 1322 1335	inestabilidad
+T25	NegSynMarker 1338 1340	No
+T26	Phrase 1341 1382	edemas en EEII ni disminución de diuresis
+T27	DISO 1341 1355	edemas en EEII
+T28	CoordItem 1356 1358	ni
+T29	DISO 1359 1382	disminución de diuresis
+T30	NegSynMarker 1385 1387	No
+T31	DISO 1388 1395	cefalea
+T32	Phrase 1388 1469	cefalea , asimetrias faciales , trastornos del lenguaje ni déficit sensitivomotor
+T33	DISO 1398 1417	asimetrias faciales
+T34	DISO 1420 1443	trastornos del lenguaje
+T35	CoordItem 1444 1446	ni
+T36	DISO 1447 1469	déficit sensitivomotor
+T37	NegMorMarker 1815 1827	desorientada
+T38	NegSynMarker 1886 1888	no
+T39	Phrase 1889 1926	convive habitualmente con la paciente
+T40	NegSynMarker 2391 2393	no
+T41	Phrase 2394 2404	la cerraba
+T42	NegSynMarker 2421 2423	no
+T43	Phrase 2424 2442	le abría la puerta
+T44	NegSynMarker 2461 2463	no
+T45	Phrase 2464 2485	podía abrir la puerta
+T46	NegSynMarker 2808 2810	No
+T47	Phrase 2811 2859	han detectado fiebre ni otros síntomas asociados
+T48	DISO 2825 2831	fiebre
+T49	CoordItem 2832 2834	ni
+T50	DISO 2835 2859	otros síntomas asociados
+T51	NegSynMarker 2968 2971	sin
+T52	DISO 2972 2985	expectoración
+T53	NegLexMarker 3350 3360	incapaz de
+T54	Phrase 3361 3393	aportar más datos a la anamnesis
+T55	NegSynMarker 3677 3679	no
+T56	Phrase 3680 3703	podía abrirle la puerta
+T57	NegLexMarker 3856 3866	incapaz de
+T58	Phrase 3867 3875	precisar
+T59	UncertLexMarker 3918 3924	parece
+T60	Phrase 3925 3989	haberse ido recuperando progresivamente con restitucion completa
+T61	DISO 3937 3989	recuperando progresivamente con restitucion completa
+T62	NegSynMarker 3990 3993	sin
+T63	DISO 3994 4024	focalidad neurologica residual
+T64	Phrase 3994 4056	focalidad neurologica residual ni periodo de estupor posterior
+T65	CoordItem 4025 4027	ni
+T66	DISO 4028 4056	periodo de estupor posterior
+T67	UncertLexMarker 4465 4471	parece
+T68	Phrase 4472 4543	que ya viene presentando de forma esporadica este tipo de alucinaciones
+T69	DISO 4479 4543	viene presentando de forma esporadica este tipo de alucinaciones
+T70	NegSynMarker 4901 4904	sin
+T71	DISO 4905 4926	respuesta a estimulos
+T72	UncertLexMarker 4987 4993	parece
+T73	Phrase 4994 5072	haber presentado dudosos movimiento tonico-clonicos en extremidades superiores
+T74	PolItem 5011 5018	dudosos
+T75	DISO 5019 5072	movimiento tonico-clonicos en extremidades superiores
+T76	NegMorMarker 5243 5252	imprecisa
+T77	NegSynMarker 5530 5532	No
+T78	Phrase 5533 5573	hay testigos presenciales de lo sucedido
+T79	UncertLexMarker 6134 6140	Parece
+T80	Phrase 6141 6235	haber alto indice de sospecha de que el paciente está consumiendo alcohol de forma subrepticia
+T81	PolItem 6147 6173	alto indice de sospecha de
+T82	OTHER 6178 6235	el paciente está consumiendo alcohol de forma subrepticia
+T83	NegSynMarker 6389 6392	sin
+T84	OTHER 6393 6410	especificar causa
+T85	NegLexMarker 6448 6458	incapaz de
+T86	Phrase 6459 6469	levantarse
+T87	NegSynMarker 6473 6475	no
+T88	Phrase 6476 6506	encontrar las llaves de la luz
+T89	NegSynMarker 6646 6649	sin
+T90	DISO 6650 6671	respuesta a estímulos
+T91	NegLexMarker 6678 6696	imposibilidad para
+T92	OTHER 6697 6732	administrar su tratamiento habitual
+T93	NegSynMarker 6750 6752	no
+T94	Phrase 6753 6829	parece identificarse ningun factor precipitante de tipo orgánico o emocional
+T95	PolItem 6774 6780	ningun
+T96	DISO 6781 6829	factor precipitante de tipo orgánico o emocional
+T97	NegSynMarker 6832 6834	No
+T98	Phrase 6835 6884	ha presentado TCE ni traumatismos a otros niveles
+T99	DISO 6849 6852	TCE
+T100	CoordItem 6853 6855	ni
+T101	DISO 6856 6884	traumatismos a otros niveles
+T102	NegMorMarker 7168 7180	inespecífico
+T103	NegSynMarker 7321 7323	no
+T104	OTHER 7324 7341	recuerda nada más
+T105	PolItem 7333 7341	nada más
+T106	NegSynMarker 7800 7802	No
+T107	DISO 7803 7833	clinica digestiva ni miccional
+T108	CoordItem 7821 7823	ni
+T109	DISO 8031 8055	relajación de esfinteres
+T110	NegLexMarker 8060 8070	han cedido
+T111	Phrase 8071 8136	tras administración de Diazepam EV ( 4 mg ) y 1 ampolla de Keppra
+T112	NegSynMarker 8139 8141	No
+T113	Phrase 8142 8225	refiere ingesta de alcohol ni otros toxicos ni alteraciones del ciclo vigilia-sueño
+T114	OTHER 8150 8185	ingesta de alcohol ni otros toxicos
+T115	CoordItem 8169 8171	ni
+T116	CoordItem 8186 8188	ni
+T117	DISO 8189 8225	alteraciones del ciclo vigilia-sueño
+T118	NegSynMarker 8429 8434	nunca
+T119	Phrase 8435 8463	habia tenido clinica similar
+T120	DISO 8448 8463	clinica similar
+T121	NegSynMarker 8641 8643	No
+T122	Phrase 8644 8707	ha apreciado movimientos convulsivos ni relajacion esfinteriana
+T123	DISO 8657 8680	movimientos convulsivos
+T124	CoordItem 8681 8683	ni
+T125	DISO 8684 8707	relajacion esfinteriana
+T126	OTHER 8710 8719	Anamnesis
+T127	NegLexMarker 8720 8729	imposible
+T128	Phrase 8730 8741	de realizar
+T129	NegSynMarker 8745 8747	no
+T130	Phrase 8748 8788	haber testigos presenciales del episodio
+T131	NegSynMarker 8791 8793	no
+T132	OTHER 8794 8826	recordar el paciente lo sucedido
+T133	NegLexMarker 9219 9237	imposibilidad para
+T134	Phrase 9238 9260	levantarse motu propio
+T135	NegSynMarker 9815 9818	sin
+T136	Phrase 9819 9841	signos externos de TCE
+T137	DISO 9838 9841	TCE
+T138	NegLexMarker 9901 9911	incapaz de
+T139	Phrase 9912 9937	aportar datos al respecto
+T140	UncertLexMarker 10055 10061	parece
+T141	Phrase 10062 10105	ser totalmente autónoma para las AVD y AIVD
+T142	DISO 10077 10105	autónoma para las AVD y AIVD
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T9 Arg2:T10
+R3	Scope Arg1:T13 Arg2:T14
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T18 Arg2:T19
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T22 Arg2:T23
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T30 Arg2:T32
+R11	Scope Arg1:T38 Arg2:T39
+R12	Scope Arg1:T42 Arg2:T43
+R13	Scope Arg1:T40 Arg2:T41
+R14	Scope Arg1:T44 Arg2:T45
+R15	Scope Arg1:T46 Arg2:T47
+R16	Scope Arg1:T51 Arg2:T52
+R17	Scope Arg1:T53 Arg2:T54
+R18	Scope Arg1:T55 Arg2:T56
+R19	Scope Arg1:T57 Arg2:T58
+R20	Scope Arg1:T62 Arg2:T64
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T67 Arg2:T68
+R23	Scope Arg1:T70 Arg2:T71
+R24	Scope Arg1:T72 Arg2:T73
+R25	Scope Arg1:T77 Arg2:T78
+R26	Scope Arg1:T79 Arg2:T80
+R27	Scope Arg1:T85 Arg2:T86
+R28	Scope Arg1:T83 Arg2:T84
+R29	Scope Arg1:T87 Arg2:T88
+R30	Scope Arg1:T89 Arg2:T90
+R31	Scope Arg1:T91 Arg2:T92
+R32	Scope Arg1:T93 Arg2:T94
+R33	Scope Arg1:T97 Arg2:T98
+R34	Scope Arg1:T103 Arg2:T104
+R35	Scope Arg1:T106 Arg2:T107
+R36	DiscScope Arg1:T110 Arg2:T111
+R37	DiscScope Arg1:T110 Arg2:T109
+R38	Scope Arg1:T112 Arg2:T113
+R39	Scope Arg1:T118 Arg2:T119
+R40	Scope Arg1:T121 Arg2:T122
+R41	Scope Arg1:T131 Arg2:T132
+R42	Scope Arg1:T129 Arg2:T130
+R43	DiscScope Arg1:T127 Arg2:T126
+R44	DiscScope Arg1:T127 Arg2:T128
+R45	Scope Arg1:T133 Arg2:T134
+R46	Scope Arg1:T135 Arg2:T136
+R47	Scope Arg1:T138 Arg2:T139
+R48	Scope Arg1:T140 Arg2:T141

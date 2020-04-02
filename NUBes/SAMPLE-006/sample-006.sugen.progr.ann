@@ -1,0 +1,120 @@
+T1	UncertLexMarker 123 130	posible
+T2	DISO 131 158	neoplasia primaria pulmonar
+T3	UncertLexMarker 251 260	desconoce
+T4	DISO 261 285	el inicio de la arritmia
+T5	NegSynMarker 1498 1501	sin
+T6	DISO 1502 1508	disnea
+T7	DISO 2012 2018	origen
+T8	UncertLexMarker 2019 2027	incierto
+T9	UncertLexMarker 2096 2109	probablemente
+T10	DISO 2110 2135	su origen sea suprarrenal
+T11	Phrase 2166 2209	hemocultivos , analítica , radiología y TAC
+T12	PROC 2166 2178	hemocultivos
+T13	PROC 2181 2190	analítica
+T14	PROC 2193 2203	radiología
+T15	CoordItem 2204 2205	y
+T16	PROC 2206 2209	TAC
+T17	NegLexMarker 2210 2219	negativos
+T18	NegSynMarker 2340 2343	sin
+T19	SUBS 2344 2350	sangre
+T20	NegSynMarker 2558 2560	no
+T21	PROC 2561 2573	intervención
+T22	NegMorMarker 2627 2639	asintomática
+T23	NegMorMarker 2813 2825	asintomática
+T24	UncertLexMarker 3446 3453	parecen
+T25	DISO 3454 3551	confirmar que la lesión pancreática es residual a pancreatitis aguda sufrida en el ingreso previo
+T26	NegSynMarker 3599 3602	sin
+T27	DISO 3603 3613	dificultad
+T28	NegSynMarker 3716 3718	no
+T29	OTHER 3719 3745	drenables radiológicamente
+T30	UncertLexMarker 3788 3796	aparente
+T31	DISO 3797 3815	aumento del débito
+T32	NegMorMarker 3895 3907	asintomática
+T33	NegSynMarker 4079 4082	sin
+T34	DISO 4083 4094	incidencias
+T35	UncertLexMarker 4111 4119	Probable
+T36	Phrase 4120 4153	situacion de intolerancia glucosa
+T37	DISO 4133 4153	intolerancia glucosa
+T38	DISO 5501 5553	inquietud con exploraciones complementarias normales
+T39	NegLexMarker 5560 5571	ha remitido
+T40	Phrase 5572 5588	con ansiolíticos
+T41	NegMorMarker 5689 5696	afebril
+T42	NegSynMarker 5699 5702	sin
+T43	DISO 5703 5718	dolor abdominal
+T44	NegLexMarker 5939 5951	remisión del
+T45	DISO 5952 5965	cuadro febril
+T46	NegSynMarker 6499 6502	sin
+T47	DISO 6503 6519	ap de I cardiaca
+T48	NegLexMarker 6860 6870	han cesado
+T49	SUBS 6871 6882	los vómitos
+T50	UncertLexMarker 7383 7394	sospecha de
+T51	DISO 7395 7419	diverticulitis perforada
+T52	NegSynMarker 7504 7507	sin
+T53	DISO 7508 7533	complicaciones inmediatas
+T54	NegMorMarker 7916 7923	afebril
+T55	UncertLexMarker 8115 8122	posible
+T56	DISO 8123 8145	perforación intestinal
+T57	NegSynMarker 8163 8165	no
+T58	Phrase 8166 8223	objetivándose en el acto quirúrgico el origen de la misma
+T59	DISO 8202 8223	el origen de la misma
+T60	NegSynMarker 8320 8323	sin
+T61	Phrase 8324 8374	evidencia de cardiopatía isquémica en este momento
+T62	DISO 8337 8358	cardiopatía isquémica
+T63	NegSynMarker 8695 8697	no
+T64	Phrase 8698 8716	signos de sangrado
+T65	DISO 8708 8716	sangrado
+T66	NegLexMarker 8911 8918	retirar
+T67	OTHER 8919 8924	sonda
+T68	UncertLexMarker 9443 9451	probable
+T69	DISO 9452 9527	tumor de Klatskin por obstrucción de vía biliar en confluencia de hepáticos
+T70	NegMorMarker 9623 9635	asintomatica
+T71	NegSynMarker 10769 10771	no
+T72	Phrase 10772 10796	ha precisado tratamiento
+T73	PROC 10785 10796	tratamiento
+T74	NegSynMarker 10849 10851	no
+T75	Phrase 10852 10915	considera al paciente tributario de su servicio en este momento
+T76	OTHER 10874 10915	tributario de su servicio en este momento
+T77	NegMorMarker 11257 11270	inespecíficas
+T78	UncertLexMarker 11283 11296	probablemente
+T79	DISO 11297 11308	por ascitis
+T80	DISO 11439 11456	El cuadro clínico
+T81	NegLexMarker 11457 11461	cede
+T82	Phrase 11462 11482	con reposo digestivo
+T83	NegMorMarker 11499 11511	asintomático
+T84	NegMorMarker 11914 11926	asintomática
+T85	NegLexMarker 12263 12274	se suspende
+T86	SUBS 12275 12282	Sintrom
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T7
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T17 Arg2:T11
+R7	Scope Arg1:T18 Arg2:T19
+R8	Scope Arg1:T20 Arg2:T21
+R9	Scope Arg1:T26 Arg2:T27
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T33 Arg2:T34
+R14	Scope Arg1:T35 Arg2:T36
+R15	DiscScope Arg1:T39 Arg2:T38
+R16	DiscScope Arg1:T39 Arg2:T40
+R17	Scope Arg1:T42 Arg2:T43
+R18	Scope Arg1:T44 Arg2:T45
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T57 Arg2:T58
+R24	Scope Arg1:T55 Arg2:T56
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T63 Arg2:T64
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T68 Arg2:T69
+R29	Scope Arg1:T71 Arg2:T72
+R30	Scope Arg1:T74 Arg2:T75
+R31	Scope Arg1:T78 Arg2:T79
+R32	DiscScope Arg1:T81 Arg2:T80
+R33	DiscScope Arg1:T81 Arg2:T82
+R34	Scope Arg1:T85 Arg2:T86

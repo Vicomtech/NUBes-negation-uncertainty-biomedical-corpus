@@ -1,0 +1,6 @@
+T1	UncertLexMarker 627 641	compatible con
+T2	DISO 642 656	cAA BASOCELUAR
+T3	UncertLexMarker 1059 1073	compatible con
+T4	DISO 1074 1111	queratoacantoma de rápido crecimiento
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

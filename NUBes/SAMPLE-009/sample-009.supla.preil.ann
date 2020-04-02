@@ -1,0 +1,24 @@
+T1	NegSynMarker 211 214	sin
+T2	PROC 215 225	epitelizar
+T3	NegLexMarker 338 352	extirpación de
+T4	DISO 353 396	lesión cutánea en cara posterior del cuello
+T5	UncertLexMarker 747 761	compatible con
+T6	DISO 762 787	lesion ungueal por hongos
+T7	UncertLexMarker 850 865	compatibles con
+T8	DISO 866 881	ca. basocelular
+T9	Phrase 866 940	ca. basocelular en punta nasal , canto interno ojo izquierdo y dorso nasal
+T10	DISO 943 956	Lesion facial
+T11	NegLexMarker 957 966	extirpada
+T12	Phrase 967 987	con margenes afectos
+T13	UncertLexMarker 1055 1069	compatible con
+T14	DISO 1070 1082	ca. escamoso
+T15	UncertLexMarker 1730 1744	compatible con
+T16	DISO 1745 1759	ca basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T9
+R5	DiscScope Arg1:T11 Arg2:T12
+R6	DiscScope Arg1:T11 Arg2:T10
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T15 Arg2:T16

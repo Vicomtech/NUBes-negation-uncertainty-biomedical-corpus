@@ -1,0 +1,255 @@
+T1	NegSynMarker 243 245	no
+T2	Phrase 246 263	consigue remontar
+T3	OTHER 255 263	remontar
+T4	NegSynMarker 385 387	No
+T5	Phrase 388 458	se apreció imagen de condensación en la radiografia de tórax realizada
+T6	DISO 409 458	condensación en la radiografia de tórax realizada
+T7	UncertLexMarker 821 829	No claro
+T8	DISO 830 845	foco infeccioso
+T9	UncertLexMarker 965 973	probable
+T10	DISO 974 1002	relación a microaspiraciones
+T11	NegSynMarker 1604 1606	no
+T12	Phrase 1607 1621	presenta dolor
+T13	DISO 1616 1621	dolor
+T14	NegMorMarker 1702 1709	afebril
+T15	NegLexMarker 1741 1752	ausencia de
+T16	DISO 1753 1761	síntomas
+T17	UncertLexMarker 2377 2385	probable
+T18	DISO 2386 2417	relación a nefroangioesclerosis
+T19	NegLexMarker 2453 2464	ausencia de
+T20	DISO 2465 2526	hallazgos de significación patológica en el estudio realizado
+T21	NegSynMarker 3476 3481	nunca
+T22	OTHER 3482 3496	superior a 38º
+T23	NegMorMarker 3552 3559	afebril
+T24	NegSynMarker 3751 3753	NO
+T25	DISO 3754 3760	tolera
+T26	NegLexMarker 4174 4185	Se suspende
+T27	PROC 4186 4210	tratamiento con losartan
+T28	UncertLexMarker 5411 5422	sospecha de
+T29	DISO 5423 5426	ITU
+T30	Phrase 5423 5451	ITU e infección respiratoria
+T31	DISO 5429 5451	infección respiratoria
+T32	NegSynMarker 6009 6011	no
+T33	Phrase 6012 6061	afectacion pulmonar ni deterioro de funcion renal
+T34	DISO 6012 6031	afectacion pulmonar
+T35	CoordItem 6032 6034	ni
+T36	DISO 6035 6061	deterioro de funcion renal
+T37	NegSynMarker 6634 6637	sin
+T38	DISO 6638 6665	relación con accesos de tos
+T39	NegSynMarker 6891 6894	sin
+T40	DISO 6895 6917	mayores complicaciones
+T41	UncertLexMarker 7592 7600	probable
+T42	DISO 7601 7640	diseminación a su neoplasia de próstata
+T43	NegMorMarker 7665 7678	asintomáticas
+T44	SUBS 7793 7801	digoxina
+T45	NegLexMarker 7846 7860	se ha retirado
+T46	NegSynMarker 8403 8405	No
+T47	Phrase 8406 8457	se evidencian episodios de disfagia con las comidas
+T48	DISO 8433 8457	disfagia con las comidas
+T49	NegSynMarker 8713 8715	no
+T50	OTHER 8716 8788	candidato a ventilación mecánica invasiva ni a procedimiento de diálisis
+T51	CoordItem 8758 8760	ni
+T52	NegSynMarker 9443 9446	sin
+T53	Phrase 9447 9499	clinica cardiorrespiratoria ni molestias abdominales
+T54	DISO 9447 9474	clinica cardiorrespiratoria
+T55	CoordItem 9475 9477	ni
+T56	DISO 9478 9499	molestias abdominales
+T57	UncertLexMarker 9577 9585	Probable
+T58	DISO 9586 9615	descompensación cardiaca leve
+T59	NegLexMarker 10139 10151	se desestimó
+T60	PROC 10152 10180	tratamiento con hemodialisis
+T61	NegSynMarker 10750 10753	sin
+T62	DISO 10754 10767	consecuencias
+T63	NegSynMarker 11161 11163	no
+T64	Phrase 11164 11217	evidencia de lesiones en relacion a dicho traumatismo
+T65	DISO 11177 11217	lesiones en relacion a dicho traumatismo
+T66	UncertLexMarker 11243 11251	probable
+T67	DISO 11252 11307	relación a aplastamiento vertebral osteoporótico lumbar
+T68	NegLexMarker 11572 11581	imposible
+T69	Phrase 11582 11675	en este momento , dilucidar si puede existir un deterioro cognitivo subyacente en el paciente
+T70	OTHER 11600 11675	dilucidar si puede existir un deterioro cognitivo subyacente en el paciente
+T71	UncertLexMarker 11702 11709	pudiera
+T72	OTHER 11710 11752	tener bastante probablilidad de ser cierta
+T73	UncertLexMarker 11755 11768	Probablemente
+T74	Phrase 11769 11802	habia tambien un componente de IC
+T75	DISO 11786 11802	componente de IC
+T76	UncertLexMarker 12226 12239	probablemente
+T77	Phrase 12240 12316	habrá que ir modificando según la clinica y los síntomas que vaya pesentando
+T78	OTHER 12253 12316	modificando según la clinica y los síntomas que vaya pesentando
+T79	NegLexMarker 12327 12338	retirada de
+T80	SUBS 12339 12352	b-bloqueantes
+T81	DISO 12353 12365	estos mareos
+T82	NegLexMarker 12366 12374	cedieron
+T83	NegLexMarker 12705 12712	retirar
+T84	SUBS 12713 12725	acenocumarol
+T85	NegSynMarker 13348 13350	no
+T86	DISO 13351 13368	bien termometrada
+T87	NegLexMarker 13371 13380	Se retiro
+T88	SUBS 13381 13394	b-bloqueantes
+T89	NegSynMarker 13512 13515	sin
+T90	DISO 13516 13539	otros datos importantes
+T91	Phrase 14049 14075	tratamiento con Metformina
+T92	SUBS 14065 14075	Metformina
+T93	DISO 14097 14112	dolor abdominal
+T94	NegLexMarker 14117 14121	cede
+T95	Phrase 14122 14134	al suspender
+T96	NegLexMarker 14125 14134	suspender
+T97	PROC 14195 14218	Los cultivos de liquido
+T98	NegLexMarker 14226 14235	negativos
+T99	UncertLexMarker 14635 14649	compatible con
+T100	SUBS 14650 14662	un trasudado
+T101	UncertLexMarker 15427 15441	compatible con
+T102	DISO 15442 15464	infección respiratoria
+T103	UncertLexMarker 15727 15737	no sabemos
+T104	Phrase 15738 15765	si caida o sincope o crisis
+T105	OTHER 15741 15746	caida
+T106	CoordItem 15747 15748	o
+T107	DISO 15749 15756	sincope
+T108	CoordItem 15757 15758	o
+T109	DISO 15759 15765	crisis
+T110	NegSynMarker 15972 15974	no
+T111	Phrase 15975 16007	muestran evidencias de patologia
+T112	DISO 15998 16007	patologia
+T113	NegSynMarker 16022 16024	no
+T114	Phrase 16025 16054	presentó otras complicaciones
+T115	DISO 16034 16054	otras complicaciones
+T116	NegLexMarker 16246 16256	incapaz de
+T117	Phrase 16257 16299	realizar las actividades de la vida diaria
+T118	NegLexMarker 16392 16404	supresión de
+T119	SUBS 16405 16415	Metformina
+T120	Phrase 16473 16514	los hemocultivos y urocultivos realizados
+T121	PROC 16473 16489	los hemocultivos
+T122	CoordItem 16490 16491	y
+T123	PROC 16492 16503	urocultivos
+T124	NegLexMarker 16515 16524	negativos
+T125	NegSynMarker 16657 16659	no
+T126	DISO 16660 16668	aclarada
+T127	UncertLexMarker 16896 16910	sospechosos de
+T128	DISO 16911 16927	broncoaspiración
+T129	NegSynMarker 17111 17113	no
+T130	Phrase 17114 17142	ha vuelto a presentar fiebre
+T131	DISO 17136 17142	fiebre
+T132	UncertLexMarker 17554 17562	probable
+T133	DISO 17563 17581	origen metastásico
+T134	NegLexMarker 17624 17635	retirada de
+T135	SUBS 17636 17652	todo nefrotóxico
+T136	UncertLexMarker 18045 18052	posible
+T137	DISO 18053 18070	origen aspirativo
+T138	UncertLexMarker 18511 18525	compatible con
+T139	DISO 18526 18542	broncoaspiración
+T140	UncertLexMarker 19074 19081	creemos
+T141	Phrase 19082 19144	que se puede beneficiar mucho de la compañia de sus familiares
+T142	NegSynMarker 19202 19205	Sin
+T143	Phrase 19206 19234	angor en los últimos 10 dias
+T144	DISO 19206 19211	angor
+T145	SUBS 19275 19285	renalezina
+T146	NegLexMarker 19293 19303	suspendida
+T147	Phrase 19304 19323	por mala tolerancia
+T148	NegSynMarker 19360 19362	no
+T149	Phrase 19363 19391	presenta otra sintomatologia
+T150	DISO 19372 19391	otra sintomatologia
+T151	PROC 19755 19777	Estudio para neoplasia
+T152	NegLexMarker 19778 19786	negativo
+T153	UncertLexMarker 20013 20029	alta sospecha de
+T154	DISO 20030 20057	embolia pulmonar secundaria
+T155	NegSynMarker 21104 21106	no
+T156	Phrase 21107 21149	refiere caída ni traumatismo a dicho nivel
+T157	OTHER 21115 21120	caída
+T158	CoordItem 21121 21123	ni
+T159	DISO 21124 21149	traumatismo a dicho nivel
+T160	PROC 21260 21306	muestras de esputo para estudio microbiológico
+T161	NegLexMarker 21322 21331	negativos
+T162	NegSynMarker 21436 21439	sin
+T163	Phrase 21440 21482	datos sugestivos de enfermedad obstructiva
+T164	DISO 21460 21482	enfermedad obstructiva
+T165	NegSynMarker 21527 21530	sin
+T166	Phrase 21531 21569	evidencia de alteraciones por su parte
+T167	DISO 21544 21569	alteraciones por su parte
+T168	NegSynMarker 21720 21723	sin
+T169	Phrase 21724 21755	evidencia de patología pulmonar
+T170	DISO 21737 21755	patología pulmonar
+T171	PROC 22346 22358	hemocultivos
+T172	NegLexMarker 22359 22368	negativos
+T173	PROC 22371 22382	urocultivos
+T174	NegLexMarker 22383 22392	negativos
+T175	UncertLexMarker 22408 22417	sin clara
+T176	Phrase 22418 22456	evidencia de condensaciones pulmonares
+T177	DISO 22431 22456	condensaciones pulmonares
+T178	UncertLexMarker 22691 22705	compatible con
+T179	Phrase 22706 22744	infección respiratoria y broncoespasmo
+T180	DISO 22706 22728	infección respiratoria
+T181	CoordItem 22729 22730	y
+T182	DISO 22731 22744	broncoespasmo
+T183	NegLexMarker 22939 22951	imposible de
+T184	DISO 22952 22987	realizar por la fatiga respiratoria
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T19 Arg2:T20
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T28 Arg2:T30
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T41 Arg2:T42
+R17	Scope Arg1:T45 Arg2:T44
+R18	Scope Arg1:T46 Arg2:T47
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T52 Arg2:T53
+R21	Scope Arg1:T57 Arg2:T58
+R22	Scope Arg1:T59 Arg2:T60
+R23	Scope Arg1:T61 Arg2:T62
+R24	Scope Arg1:T63 Arg2:T64
+R25	Scope Arg1:T66 Arg2:T67
+R26	Scope Arg1:T71 Arg2:T72
+R27	Scope Arg1:T68 Arg2:T69
+R28	Scope Arg1:T73 Arg2:T74
+R29	Scope Arg1:T76 Arg2:T77
+R30	Scope Arg1:T82 Arg2:T81
+R31	Scope Arg1:T79 Arg2:T80
+R32	Scope Arg1:T83 Arg2:T84
+R33	Scope Arg1:T85 Arg2:T86
+R34	Scope Arg1:T87 Arg2:T88
+R35	Scope Arg1:T89 Arg2:T90
+R36	DiscScope Arg1:T94 Arg2:T93
+R37	DiscScope Arg1:T94 Arg2:T95
+R38	Scope Arg1:T96 Arg2:T91
+R39	Scope Arg1:T98 Arg2:T97
+R40	Scope Arg1:T99 Arg2:T100
+R41	Scope Arg1:T101 Arg2:T102
+R42	Scope Arg1:T103 Arg2:T104
+R43	Scope Arg1:T110 Arg2:T111
+R44	Scope Arg1:T113 Arg2:T114
+R45	Scope Arg1:T116 Arg2:T117
+R46	Scope Arg1:T118 Arg2:T119
+R47	Scope Arg1:T124 Arg2:T120
+R48	Scope Arg1:T125 Arg2:T126
+R49	Scope Arg1:T127 Arg2:T128
+R50	Scope Arg1:T129 Arg2:T130
+R51	Scope Arg1:T132 Arg2:T133
+R52	Scope Arg1:T134 Arg2:T135
+R53	Scope Arg1:T136 Arg2:T137
+R54	Scope Arg1:T138 Arg2:T139
+R55	Scope Arg1:T140 Arg2:T141
+R56	DiscScope Arg1:T146 Arg2:T147
+R57	Scope Arg1:T142 Arg2:T143
+R58	DiscScope Arg1:T146 Arg2:T145
+R59	Scope Arg1:T148 Arg2:T149
+R60	Scope Arg1:T152 Arg2:T151
+R61	Scope Arg1:T153 Arg2:T154
+R62	Scope Arg1:T155 Arg2:T156
+R63	Scope Arg1:T161 Arg2:T160
+R64	Scope Arg1:T165 Arg2:T166
+R65	Scope Arg1:T162 Arg2:T163
+R66	Scope Arg1:T168 Arg2:T169
+R67	Scope Arg1:T175 Arg2:T176
+R68	Scope Arg1:T174 Arg2:T173
+R69	Scope Arg1:T172 Arg2:T171
+R70	Scope Arg1:T178 Arg2:T179
+R71	Scope Arg1:T183 Arg2:T184

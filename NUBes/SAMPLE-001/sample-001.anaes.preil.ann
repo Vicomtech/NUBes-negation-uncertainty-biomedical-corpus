@@ -1,0 +1,4 @@
+T1	NegSynMarker 446 448	No
+T2	Phrase 449 481	refiere pérdida de fuerza en EEI
+T3	DISO 457 481	pérdida de fuerza en EEI
+R1	Scope Arg1:T1 Arg2:T2

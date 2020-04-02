@@ -1,0 +1,7 @@
+T1	NegSynMarker 580 582	No
+T2	OTHER 583 594	mojar oidos
+T3	Phrase 673 715	Zonegran 0-0-25 1 durante 1 semana y luego
+T4	SUBS 673 688	Zonegran 0-0-25
+T5	NegLexMarker 716 725	suspender
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T3

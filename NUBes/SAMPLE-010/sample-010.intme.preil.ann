@@ -1,0 +1,158 @@
+T1	UncertLexMarker 75 82	Posible
+T2	DISO 83 104	trastorno alimenticio
+T3	Phrase 415 453	Ha estado unos dias con diarrea oscura
+T4	DISO 439 453	diarrea oscura
+T5	UncertLexMarker 454 455	?
+T6	NegSynMarker 456 459	sin
+T7	DISO 460 480	residuos patològicos
+T8	NegSynMarker 758 760	No
+T9	DISO 761 768	vómitos
+T10	NegSynMarker 771 773	no
+T11	DISO 774 792	sindrome miccional
+T12	NegSynMarker 813 815	No
+T13	Phrase 816 846	vida social aparte del trabajo
+T14	NegSynMarker 1417 1420	sin
+T15	Phrase 1421 1443	llegar a caer al suelo
+T16	OTHER 1430 1443	caer al suelo
+T17	UncertLexMarker 1501 1507	dudosa
+T18	DISO 1508 1529	pérdida de conciencia
+T19	NegSynMarker 1532 1534	No
+T20	DISO 1535 1552	clínica miccional
+T21	NegSynMarker 1555 1557	no
+T22	DISO 1558 1570	dolor lumbar
+T23	NegSynMarker 1573 1575	no
+T24	DISO 1576 1585	hematuria
+T25	NegSynMarker 1942 1944	No
+T26	DISO 1945 1960	dolor en reposo
+T27	NegSynMarker 1963 1965	no
+T28	DISO 1966 1979	palpitaciones
+T29	NegSynMarker 1982 1984	No
+T30	Phrase 1985 2022	reifere antecedente traumático previo
+T31	DISO 1993 2022	antecedente traumático previo
+T32	NegSynMarker 2025 2027	no
+T33	DISO 2028 2080	perdida de fuerza ni de sensibilidad en extremidades
+T34	CoordItem 2046 2048	ni
+T35	NegSynMarker 2096 2098	no
+T36	Phrase 2099 2172	le han realizado estudio de posible patologia orgánica ( analiticas ... )
+T37	PROC 2116 2153	estudio de posible patologia orgánica
+T38	UncertLexMarker 2127 2134	posible
+T39	DISO 2135 2153	patologia orgánica
+T40	NegSynMarker 2345 2348	sin
+T41	Phrase 2349 2395	movimientos anormales ni desviaciones faciales
+T42	DISO 2349 2370	movimientos anormales
+T43	CoordItem 2371 2373	ni
+T44	DISO 2374 2395	desviaciones faciales
+T45	NegSynMarker 2535 2538	sin
+T46	DISO 2539 2545	disnea
+T47	UncertLexMarker 2548 2551	sin
+T48	DISO 2552 2570	cortejo vegetativo
+T49	UncertLexMarker 2571 2576	claro
+T50	NegSynMarker 2781 2784	sin
+T51	DISO 2785 2792	vómitos
+T52	NegSynMarker 2949 2951	no
+T53	OTHER 2952 2972	nos constan informes
+T54	NegSynMarker 2977 2979	No
+T55	DISO 2980 2986	fiebre
+T56	NegSynMarker 3033 3035	No
+T57	Phrase 3036 3082	agresiones ni delirios ni alteración del sueño
+T58	DISO 3036 3046	agresiones
+T59	CoordItem 3047 3049	ni
+T60	DISO 3050 3058	delirios
+T61	CoordItem 3059 3061	ni
+T62	DISO 3062 3082	alteración del sueño
+T63	DISO 3245 3253	neumonia
+T64	UncertLexMarker 3254 3262	probable
+T65	DISO 3263 3273	bacteriana
+T66	SUBS 3393 3403	esteroides
+T67	NegLexMarker 3412 3423	ha retirado
+T68	Phrase 3424 3445	con pauta descendente
+T69	NegSynMarker 3448 3450	No
+T70	Phrase 3451 3464	se realizó Rx
+T71	PROC 3462 3464	Rx
+T72	NegSynMarker 3467 3469	No
+T73	Phrase 3470 3504	oliguria ni edemas en extremidades
+T74	DISO 3470 3478	oliguria
+T75	CoordItem 3479 3481	ni
+T76	DISO 3482 3504	edemas en extremidades
+T77	NegSynMarker 3812 3814	No
+T78	DISO 3815 3825	odinofagia
+T79	NegSynMarker 3828 3830	no
+T80	Phrase 3831 3849	nauseas ni vómitos
+T81	DISO 3831 3838	nauseas
+T82	CoordItem 3839 3841	ni
+T83	DISO 3842 3849	vómitos
+T84	NegSynMarker 4066 4069	sin
+T85	DISO 4070 4073	tos
+T86	NegSynMarker 4076 4079	sin
+T87	DISO 4080 4093	expectoración
+T88	NegSynMarker 4096 4099	sin
+T89	DISO 4100 4114	dolor torácico
+T90	NegSynMarker 4117 4120	sin
+T91	DISO 4121 4127	disnea
+T92	NegSynMarker 4166 4168	no
+T93	Phrase 4169 4203	nos consta carga viral ni serotipo
+T94	DISO 4180 4191	carga viral
+T95	CoordItem 4192 4194	ni
+T96	DISO 4195 4203	serotipo
+T97	UncertLexMarker 4218 4233	compatibles con
+T98	DISO 4234 4267	engrosamiento en colon transverso
+T99	NegMorMarker 4609 4622	inespecificos
+T100	NegSynMarker 4623 4626	sin
+T101	DISO 4627 4634	cortejo
+T102	NegSynMarker 4643 4646	sin
+T103	DISO 4647 4652	dolor
+T104	NegSynMarker 4718 4720	No
+T105	DISO 4721 4730	sangrados
+T106	NegSynMarker 5223 5225	No
+T107	DISO 5226 5243	lesiones cutáneas
+T108	NegSynMarker 5625 5628	sin
+T109	DISO 5629 5634	dolor
+T110	UncertLexMarker 5697 5705	No saben
+T111	Phrase 5706 5751	claramente si ha habido pérdida de conciencia
+T112	PolItem 5706 5716	claramente
+T113	DISO 5730 5751	pérdida de conciencia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T5 Arg2:T3
+R4	Scope Arg1:T10 Arg2:T11
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T12 Arg2:T13
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T14 Arg2:T15
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T19 Arg2:T20
+R11	Scope Arg1:T23 Arg2:T24
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T25 Arg2:T26
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T32 Arg2:T33
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T40 Arg2:T41
+R19	Scope Arg1:T49 Arg2:T48
+R20	DiscMarker Arg1:T47 Arg2:T49
+R21	Scope Arg1:T45 Arg2:T46
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T52 Arg2:T53
+R24	Scope Arg1:T54 Arg2:T55
+R25	Scope Arg1:T56 Arg2:T57
+R26	DiscScope Arg1:T64 Arg2:T65
+R27	DiscScope Arg1:T64 Arg2:T63
+R28	DiscScope Arg1:T67 Arg2:T68
+R29	DiscScope Arg1:T67 Arg2:T66
+R30	Scope Arg1:T69 Arg2:T70
+R31	Scope Arg1:T72 Arg2:T73
+R32	Scope Arg1:T77 Arg2:T78
+R33	Scope Arg1:T79 Arg2:T80
+R34	Scope Arg1:T84 Arg2:T85
+R35	Scope Arg1:T90 Arg2:T91
+R36	Scope Arg1:T86 Arg2:T87
+R37	Scope Arg1:T88 Arg2:T89
+R38	Scope Arg1:T92 Arg2:T93
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T100 Arg2:T101
+R41	Scope Arg1:T102 Arg2:T103
+R42	Scope Arg1:T104 Arg2:T105
+R43	Scope Arg1:T106 Arg2:T107
+R44	Scope Arg1:T108 Arg2:T109
+R45	Scope Arg1:T110 Arg2:T111

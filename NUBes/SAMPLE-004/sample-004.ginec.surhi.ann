@@ -1,0 +1,46 @@
+T1	NegSynMarker 205 207	no
+T2	Phrase 208 254	se aprecia patologia ginecologica ni abdominal
+T3	DISO 219 254	patologia ginecologica ni abdominal
+T4	CoordItem 242 244	ni
+T5	NegSynMarker 788 791	sin
+T6	DISO 792 804	alteraciones
+T7	NegSynMarker 958 961	sin
+T8	DISO 962 972	dificultad
+T9	NegSynMarker 1579 1582	sin
+T10	DISO 1583 1595	alteraciones
+T11	NegSynMarker 1631 1633	No
+T12	Phrase 1634 1657	se aprecian adherencias
+T13	DISO 1646 1657	adherencias
+T14	NegSynMarker 1705 1707	no
+T15	Phrase 1708 1729	se visualizan espiras
+T16	DISO 1722 1729	espiras
+T17	NegSynMarker 1840 1842	No
+T18	Phrase 1843 1880	se consigue realizar la histeroscopia
+T19	PROC 1864 1880	la histeroscopia
+T20	NegSynMarker 1882 1884	no
+T21	Phrase 1885 1937	se consigue franquear el cervix con el histeroscopio
+T22	OTHER 1897 1937	franquear el cervix con el histeroscopio
+T23	NegSynMarker 2082 2085	sin
+T24	DISO 2086 2098	alteraciones
+T25	NegLexMarker 2270 2277	impiden
+T26	Phrase 2278 2324	la realizacion de la ligadura por laparoscopia
+T27	PROC 2296 2324	la ligadura por laparoscopia
+T28	NegSynMarker 2381 2383	No
+T29	OTHER 2384 2438	imagenes sospechosas extraccion fragmentada del polipo
+T30	UncertLexMarker 2552 2564	sugestiva de
+T31	DISO 2565 2580	mioma submucoso
+T32	UncertLexMarker 2861 2868	parecen
+T33	OTHER 2869 2883	flotar en ella
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T11 Arg2:T12
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T20 Arg2:T21
+R8	Scope Arg1:T17 Arg2:T18
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T25 Arg2:T26
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T30 Arg2:T31
+R13	Scope Arg1:T32 Arg2:T33

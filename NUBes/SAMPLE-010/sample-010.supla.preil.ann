@@ -1,0 +1,19 @@
+T1	UncertLexMarker 125 139	compatible con
+T2	DISO 140 155	ca. basocelular
+T3	UncertLexMarker 683 691	Probable
+T4	DISO 692 717	ca. basocelular izquierdo
+T5	UncertLexMarker 827 841	compatible con
+T6	DISO 842 857	ca. basocelular
+T7	UncertLexMarker 1276 1290	compatible con
+T8	DISO 1291 1306	queratoacantoma
+T9	NegSynMarker 1648 1650	no
+T10	DISO 1651 1658	reglada
+T11	UncertLexMarker 1661 1668	Posible
+T12	Phrase 1669 1718	recidiva tumoracion en borde superior del colgajo
+T13	DISO 1669 1688	recidiva tumoracion
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12

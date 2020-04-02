@@ -1,0 +1,130 @@
+T1	UncertLexMarker 14 20	dudosa
+T2	DISO 21 38	miccion imperiosa
+T3	NegSynMarker 218 220	No
+T4	Phrase 221 256	han termometrado durante estos días
+T5	PROC 225 237	termometrado
+T6	NegSynMarker 604 606	No
+T7	Phrase 607 651	ha mejorado tras tratamiento con Tamsulosina
+T8	DISO 610 651	mejorado tras tratamiento con Tamsulosina
+T9	NegSynMarker 734 736	No
+T10	Phrase 737 813	presenta dolor abdominal , deposiciones diarreicas o clínica de sd miccional
+T11	DISO 746 761	dolor abdominal
+T12	DISO 764 787	deposiciones diarreicas
+T13	CoordItem 788 789	o
+T14	DISO 801 813	sd miccional
+T15	NegSynMarker 911 913	No
+T16	Phrase 914 947	ha iniciado a tomar la medicacion
+T17	SUBS 937 947	medicacion
+T18	NegSynMarker 975 977	no
+T19	DISO 978 985	picores
+T20	Phrase 978 994	picores ni flujo
+T21	CoordItem 986 988	ni
+T22	DISO 989 994	flujo
+T23	NegSynMarker 1144 1147	Sin
+T24	Phrase 1148 1196	evidencia de enfermedad vesical en la actualidad
+T25	DISO 1161 1196	enfermedad vesical en la actualidad
+T26	UncertLexMarker 1563 1565	No
+T27	DISO 1566 1573	escozor
+T28	UncertLexMarker 1574 1579	claro
+T29	NegSynMarker 1614 1616	No
+T30	DISO 1617 1631	clinica febril
+T31	NegSynMarker 1680 1682	No
+T32	Phrase 1683 1723	refieren otra sintomatologia acompañante
+T33	DISO 1692 1723	otra sintomatologia acompañante
+T34	NegSynMarker 2225 2227	No
+T35	DISO 2228 2236	coagulos
+T36	NegMorMarker 2369 2376	Afebril
+T37	NegSynMarker 2677 2679	No
+T38	Phrase 2680 2711	disuria ni tenesmo ni hematuria
+T39	DISO 2680 2687	disuria
+T40	CoordItem 2688 2690	ni
+T41	DISO 2691 2698	tenesmo
+T42	CoordItem 2699 2701	ni
+T43	DISO 2702 2711	hematuria
+T44	NegSynMarker 2726 2728	no
+T45	DISO 2729 2738	valorable
+T46	NegSynMarker 2763 2765	no
+T47	Phrase 2766 2796	fiebre ni sensación distermica
+T48	DISO 2766 2772	fiebre
+T49	CoordItem 2773 2775	ni
+T50	DISO 2776 2796	sensación distermica
+T51	PROC 2799 2818	Biopsia de prostata
+T52	NegLexMarker 2819 2827	negativa
+T53	NegSynMarker 3198 3200	no
+T54	Phrase 3201 3225	polaquiruia , ni tenesmo
+T55	DISO 3201 3212	polaquiruia
+T56	CoordItem 3215 3217	ni
+T57	DISO 3218 3225	tenesmo
+T58	NegSynMarker 3227 3229	no
+T59	DISO 3230 3242	dolor lumbar
+T60	NegMorMarker 4381 4388	Afebril
+T61	NegSynMarker 4548 4550	no
+T62	DISO 4551 4562	obstructiva
+T63	UncertLexMarker 4951 4965	compatible con
+T64	DISO 4966 4974	cistitis
+T65	NegSynMarker 5056 5058	no
+T66	DISO 5059 5071	termometrada
+T67	UncertLexMarker 5709 5711	No
+T68	DISO 5712 5729	micción imperiosa
+T69	UncertLexMarker 5730 5735	clara
+T70	NegSynMarker 5822 5825	sin
+T71	DISO 5826 5866	clínica infecciosa organotópica asociada
+T72	UncertLexMarker 5934 5943	sin saber
+T73	Phrase 5944 5981	especificar si presenta expectoración
+T74	DISO 5968 5981	expectoración
+T75	NegSynMarker 6066 6069	sin
+T76	DISO 6070 6077	interes
+T77	NegLexMarker 6271 6280	Rertirada
+T78	OTHER 6281 6297	la sonda vesical
+T79	UncertLexMarker 6974 6984	se plantea
+T80	PROC 6985 7004	biopsia de próstata
+T81	NegSynMarker 7005 7007	NO
+T82	DISO 7008 7035	dolor lumbar , ni abdominal
+T83	Phrase 7008 7045	dolor lumbar , ni abdominal hasta hoy
+T84	CoordItem 7023 7025	ni
+T85	NegSynMarker 7101 7104	sin
+T86	DISO 7105 7112	mejoría
+T87	NegSynMarker 7115 7117	No
+T88	DISO 7118 7154	dolor torácico en resto de ocasiones
+T89	Phrase 7118 7204	dolor torácico en resto de ocasiones , disnea , palpitaciones ni otra clínica asociada
+T90	DISO 7157 7163	disnea
+T91	DISO 7166 7179	palpitaciones
+T92	CoordItem 7180 7182	ni
+T93	DISO 7183 7204	otra clínica asociada
+T94	NegSynMarker 7353 7355	no
+T95	DISO 7356 7363	disuria
+T96	NegSynMarker 7366 7368	no
+T97	DISO 7369 7388	goteo postmiccional
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T15 Arg2:T16
+R6	Scope Arg1:T18 Arg2:T20
+R7	Scope Arg1:T23 Arg2:T24
+R8	Scope Arg1:T28 Arg2:T27
+R9	DiscMarker Arg1:T26 Arg2:T28
+R10	Scope Arg1:T29 Arg2:T30
+R11	Scope Arg1:T31 Arg2:T32
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T44 Arg2:T45
+R14	Scope Arg1:T37 Arg2:T38
+R15	Scope Arg1:T46 Arg2:T47
+R16	Scope Arg1:T52 Arg2:T51
+R17	Scope Arg1:T58 Arg2:T59
+R18	Scope Arg1:T53 Arg2:T54
+R19	Scope Arg1:T61 Arg2:T62
+R20	Scope Arg1:T63 Arg2:T64
+R21	Scope Arg1:T65 Arg2:T66
+R22	Scope Arg1:T69 Arg2:T68
+R23	DiscMarker Arg1:T67 Arg2:T69
+R24	Scope Arg1:T72 Arg2:T73
+R25	Scope Arg1:T70 Arg2:T71
+R26	Scope Arg1:T75 Arg2:T76
+R27	Scope Arg1:T77 Arg2:T78
+R28	Scope Arg1:T79 Arg2:T80
+R29	Scope Arg1:T81 Arg2:T83
+R30	Scope Arg1:T85 Arg2:T86
+R31	Scope Arg1:T87 Arg2:T89
+R32	Scope Arg1:T96 Arg2:T97
+R33	Scope Arg1:T94 Arg2:T95

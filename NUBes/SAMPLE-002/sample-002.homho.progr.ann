@@ -1,0 +1,145 @@
+T1	NegMorMarker 920 927	afebril
+T2	NegSynMarker 1224 1226	no
+T3	Phrase 1227 1253	ponemos tratamiento alguno
+T4	PROC 1235 1246	tratamiento
+T5	PolItem 1247 1253	alguno
+T6	NegSynMarker 1274 1277	sin
+T7	DISO 1278 1289	incidencias
+T8	UncertLexMarker 1406 1409	sin
+T9	DISO 1410 1415	causa
+T10	UncertLexMarker 1416 1424	aparente
+T11	NegSynMarker 1912 1914	no
+T12	DISO 1915 1928	empeoramiento
+T13	NegMorMarker 2225 2237	asintomática
+T14	NegMorMarker 2240 2247	afebril
+T15	NegLexMarker 2250 2255	niega
+T16	DISO 2256 2261	dolor
+T17	NegLexMarker 2264 2269	niega
+T18	DISO 2270 2276	disnea
+T19	Phrase 2292 2419	única sintomatología cierta sensación distérmica en los pies ( calor a ratos ) en relación a disestesia por su isquemia crónica
+T20	DISO 2320 2419	sensación distérmica en los pies ( calor a ratos ) en relación a disestesia por su isquemia crónica
+T21	NegSynMarker 2426 2428	no
+T22	Phrase 2429 2457	precisa analgesia de rescate
+T23	SUBS 2437 2457	analgesia de rescate
+T24	NegLexMarker 2464 2468	cede
+T25	Phrase 2469 2484	espontáneamente
+T26	NegSynMarker 2555 2557	no
+T27	OTHER 2558 2588	está como para ingresar en HAD
+T28	NegMorMarker 2667 2679	asintomática
+T29	NegSynMarker 2733 2735	No
+T30	Phrase 2736 2759	precisa hemotransfusión
+T31	DISO 2744 2759	hemotransfusión
+T32	UncertLexMarker 2872 2875	sin
+T33	DISO 2876 2884	síntomas
+T34	UncertLexMarker 2885 2894	aparentes
+T35	NegMorMarker 3038 3045	afebril
+T36	NegSynMarker 3164 3167	sin
+T37	DISO 3168 3180	leucocitosis
+T38	NegSynMarker 3323 3325	No
+T39	Phrase 3326 3351	ha presentado incidencias
+T40	DISO 3340 3351	incidencias
+T41	NegMorMarker 3601 3613	asintomática
+T42	NegSynMarker 3616 3618	no
+T43	DISO 3619 3625	fiebre
+T44	Phrase 3904 3947	Dolor en EII de probable origen neuropático
+T45	UncertLexMarker 3920 3928	probable
+T46	DISO 3929 3947	origen neuropático
+T47	NegLexMarker 3952 3957	cedió
+T48	Phrase 3958 3993	al tratamiento con Fentanilo parche
+T49	NegSynMarker 4853 4856	sin
+T50	DISO 4857 4869	alteraciones
+T51	NegSynMarker 4966 4968	no
+T52	DISO 4969 4975	edemas
+T53	NegSynMarker 5553 5556	sin
+T54	Phrase 5557 5576	episodios de disnea
+T55	DISO 5570 5576	disnea
+T56	NegSynMarker 5581 5584	sin
+T57	Phrase 5585 5607	que precisara rescates
+T58	NegMorMarker 5696 5704	inseguro
+T59	NegSynMarker 5955 5958	sin
+T60	Phrase 5959 5964	ayuda
+T61	NegSynMarker 6195 6198	sin
+T62	Phrase 6199 6216	apoyos ni muletas
+T63	CoordItem 6206 6208	ni
+T64	NegLexMarker 6248 6259	se suspende
+T65	SUBS 6260 6293	la enoxaparina preventiva pautada
+T66	NegSynMarker 6317 6319	no
+T67	Phrase 6320 6383	tienen posibilidad de realizar analítica hasta dentro de 5 dias
+T68	PROC 6351 6383	analítica hasta dentro de 5 dias
+T69	NegSynMarker 6693 6695	no
+T70	Phrase 6696 6729	presenta ninguna crisis de disnea
+T71	PolItem 6705 6712	ninguna
+T72	DISO 6713 6729	crisis de disnea
+T73	NegSynMarker 7751 7753	no
+T74	Phrase 7754 7782	presenta episodios de disnea
+T75	DISO 7763 7782	episodios de disnea
+T76	UncertLexMarker 7963 7970	valorar
+T77	Phrase 7971 8024	su inestabilidad por si puede haber causa neurológica
+T78	NegMorMarker 7974 7987	inestabilidad
+T79	DISO 8007 8024	causa neurológica
+T80	NegLexMarker 8061 8068	retiran
+T81	OTHER 8069 8074	sonda
+T82	NegSynMarker 8560 8562	no
+T83	DISO 8563 8594	tolera en decúbito lateral izdo
+T84	NegSynMarker 8632 8634	no
+T85	Phrase 8635 8657	precisa ningún morfico
+T86	PolItem 8643 8649	ningún
+T87	SUBS 8650 8657	morfico
+T88	NegSynMarker 8795 8798	sin
+T89	Phrase 8799 8805	forzar
+T90	NegLexMarker 9789 9800	se suspende
+T91	SUBS 9801 9826	antibioterapia endovenosa
+T92	NegSynMarker 10074 10076	No
+T93	OTHER 10077 10084	ingiere
+T94	NegSynMarker 10513 10515	no
+T95	Phrase 10516 10539	precisa hemotransfusión
+T96	DISO 10524 10539	hemotransfusión
+T97	NegSynMarker 10571 10573	no
+T98	Phrase 10574 10606	ha vuelto a tener sintomatología
+T99	DISO 10592 10606	sintomatología
+T100	UncertLexMarker 10696 10704	Sospecha
+T101	DISO 10705 10726	origen en anemización
+T102	UncertLexMarker 10815 10818	ver
+T103	Phrase 10819 10852	si es candidata a hemotransfusión
+T104	OTHER 10825 10852	candidata a hemotransfusión
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	DiscMarker Arg1:T8 Arg2:T10
+R4	Scope Arg1:T10 Arg2:T9
+R5	Scope Arg1:T11 Arg2:T12
+R6	Scope Arg1:T15 Arg2:T16
+R7	DiscScope Arg1:T24 Arg2:T25
+R8	DiscScope Arg1:T24 Arg2:T19
+R9	Scope Arg1:T21 Arg2:T22
+R10	Scope Arg1:T17 Arg2:T18
+R11	Scope Arg1:T26 Arg2:T27
+R12	Scope Arg1:T29 Arg2:T30
+R13	Scope Arg1:T34 Arg2:T33
+R14	DiscMarker Arg1:T32 Arg2:T34
+R15	Scope Arg1:T36 Arg2:T37
+R16	Scope Arg1:T38 Arg2:T39
+R17	Scope Arg1:T42 Arg2:T43
+R18	DiscScope Arg1:T47 Arg2:T48
+R19	DiscScope Arg1:T47 Arg2:T44
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T49 Arg2:T50
+R22	Scope Arg1:T51 Arg2:T52
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T53 Arg2:T54
+R25	Scope Arg1:T61 Arg2:T62
+R26	Scope Arg1:T64 Arg2:T65
+R27	Scope Arg1:T59 Arg2:T60
+R28	Scope Arg1:T66 Arg2:T67
+R29	Scope Arg1:T69 Arg2:T70
+R30	Scope Arg1:T73 Arg2:T74
+R31	Scope Arg1:T76 Arg2:T77
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T82 Arg2:T83
+R34	Scope Arg1:T84 Arg2:T85
+R35	Scope Arg1:T88 Arg2:T89
+R36	Scope Arg1:T90 Arg2:T91
+R37	Scope Arg1:T92 Arg2:T93
+R38	Scope Arg1:T94 Arg2:T95
+R39	Scope Arg1:T97 Arg2:T98
+R40	Scope Arg1:T102 Arg2:T103
+R41	Scope Arg1:T100 Arg2:T101

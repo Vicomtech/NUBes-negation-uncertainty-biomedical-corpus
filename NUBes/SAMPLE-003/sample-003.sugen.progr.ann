@@ -1,0 +1,183 @@
+T1	NegSynMarker 473 475	no
+T2	DISO 476 486	prolongado
+T3	NegLexMarker 593 604	ausencia de
+T4	DISO 605 616	leucocitosi
+T5	NegMorMarker 1198 1210	asintomático
+T6	NegSynMarker 2005 2008	sin
+T7	DISO 2009 2036	alteraciones significativas
+T8	NegSynMarker 2218 2220	no
+T9	OTHER 2221 2241	necesita ser tratada
+T10	NegSynMarker 2323 2326	sin
+T11	Phrase 2327 2347	signos de I cardiaca
+T12	DISO 2337 2347	I cardiaca
+T13	NegSynMarker 3606 3608	no
+T14	Phrase 3609 3643	es posible realizar la papilotomía
+T15	PROC 3629 3643	la papilotomía
+T16	NegSynMarker 3651 3653	no
+T17	OTHER 3654 3681	se logra canalizar la misma
+T18	NegSynMarker 3876 3879	sin
+T19	DISO 3880 3899	repercusión clínica
+T20	NegSynMarker 3949 3952	sin
+T21	Phrase 3953 3974	signos de peritonismo
+T22	DISO 3963 3974	peritonismo
+T23	NegSynMarker 3977 3979	no
+T24	DISO 3980 4003	doloroso a ningún nivel
+T25	NegSynMarker 4011 4013	no
+T26	OTHER 4014 4054	buena progresión con tratamiento mñedico
+T27	NegSynMarker 4226 4229	sin
+T28	Phrase 4230 4244	objetivar foco
+T29	DISO 4240 4244	foco
+T30	NegLexMarker 4266 4270	cede
+T31	Phrase 4271 4306	incialmente la hemorragia digestiva
+T32	DISO 4283 4306	la hemorragia digestiva
+T33	NegSynMarker 4506 4509	sin
+T34	DISO 4510 4521	incidencias
+T35	UncertLexMarker 4662 4670	probable
+T36	DISO 4671 4694	relación a barro biliar
+T37	NegSynMarker 4978 4980	no
+T38	Phrase 4981 4998	precisa analgesia
+T39	SUBS 4989 4998	analgesia
+T40	NegMorMarker 5428 5440	asintomatico
+T41	NegSynMarker 5778 5781	sin
+T42	DISO 5782 5844	cambios radiológicos que sugieran necrosis y/o abscesificación
+T43	NegSynMarker 6148 6150	no
+T44	DISO 6151 6158	filiada
+T45	NegMorMarker 6741 6748	afebril
+T46	UncertLexMarker 6926 6937	sospecha de
+T47	DISO 6938 6965	clecistitis aguda litiásica
+T48	NegSynMarker 7013 7015	no
+T49	DISO 7016 7049	mejora con tratamiento cnservador
+T50	NegLexMarker 7435 7442	retirar
+T51	OTHER 7443 7451	el mismo
+T52	NegLexMarker 8354 8365	retirada de
+T53	OTHER 8366 8379	sonda uretral
+T54	NegSynMarker 8405 8407	no
+T55	Phrase 8408 8428	presenta incidencias
+T56	DISO 8417 8428	incidencias
+T57	NegSynMarker 8681 8684	sin
+T58	Phrase 8685 8712	apreciarse lesiones activas
+T59	DISO 8696 8712	lesiones activas
+T60	NegSynMarker 8758 8761	sin
+T61	DISO 8762 8786	complicaciones post-CPRE
+T62	NegSynMarker 9183 9186	sin
+T63	DISO 9187 9206	repercusión clínica
+T64	NegMorMarker 9225 9232	afebril
+T65	NegMorMarker 9499 9506	afebril
+T66	NegLexMarker 9622 9633	ausencia de
+T67	DISO 9634 9644	deposición
+T68	NegMorMarker 9675 9687	asintomático
+T69	NegMorMarker 9690 9697	afebril
+T70	NegSynMarker 9700 9703	sin
+T71	DISO 9704 9719	dolor abdominal
+T72	NegLexMarker 10064 10079	desaparición de
+T73	DISO 10080 10132	la condensanción observada en la rx tórax de control
+T74	Phrase 10080 10165	la condensanción observada en la rx tórax de control realizada el dia 30 de diciembre
+T75	NegSynMarker 10261 10263	No
+T76	Phrase 10264 10315	presenta complicaciones quirúrgicas postoperatorias
+T77	DISO 10273 10315	complicaciones quirúrgicas postoperatorias
+T78	UncertLexMarker 10413 10419	parece
+T79	Phrase 10420 10440	ser que trabaja ella
+T80	NegSynMarker 10479 10481	No
+T81	Phrase 10482 10511	presentó otras complicaciones
+T82	DISO 10491 10511	otras complicaciones
+T83	NegSynMarker 11151 11154	sin
+T84	DISO 11155 11169	complicaciones
+T85	NegLexMarker 11450 11461	ausencia de
+T86	OTHER 11462 11492	resolución completa del cuadro
+T87	NegSynMarker 11539 11541	no
+T88	DISO 11542 11548	fiebre
+T89	NegSynMarker 11976 11979	sin
+T90	Phrase 11980 12006	precisar insulina glargina
+T91	SUBS 11989 12006	insulina glargina
+T92	UncertLexMarker 12012 12020	probable
+T93	Phrase 12021 12119	que este buen control en nuestro centro haya sido debido a un mas estricto seguimiento de la dieta
+T94	DISO 12061 12119	haya sido debido a un mas estricto seguimiento de la dieta
+T95	UncertLexMarker 12538 12546	probable
+T96	DISO 12547 12597	diverticulitis de sigma perforada a retroperitoneo
+T97	Phrase 12659 12685	coprocultivos y serologías
+T98	PROC 12659 12672	coprocultivos
+T99	PROC 12675 12685	serologías
+T100	NegLexMarker 12698 12707	negativas
+T101	UncertLexMarker 13324 13335	sospecha de
+T102	DISO 13336 13347	dehiscencia
+T103	NegSynMarker 13659 13661	no
+T104	OTHER 13662 13680	se logra canalizar
+T105	UncertLexMarker 14248 14261	no claramente
+T106	DISO 14262 14269	filiado
+T107	NegSynMarker 14675 14677	no
+T108	Phrase 14678 14703	hay signos de peritonismo
+T109	DISO 14692 14703	peritonismo
+T110	NegMorMarker 15440 15447	afebril
+T111	UncertLexMarker 15486 15494	probable
+T112	PROC 15495 15508	neoadyuvancia
+T113	NegSynMarker 15748 15751	sin
+T114	Phrase 15752 15772	signos de resangrado
+T115	DISO 15762 15772	resangrado
+T116	NegSynMarker 15775 15778	sin
+T117	DISO 15779 15809	compliacciones postoperatorias
+T118	NegSynMarker 15954 15957	sin
+T119	DISO 15958 15970	alteraciones
+T120	NegSynMarker 16104 16106	no
+T121	OTHER 16107 16133	perfectamente identificada
+T122	NegSynMarker 16495 16498	sin
+T123	Phrase 16499 16514	dolor ni fiebre
+T124	DISO 16499 16504	dolor
+T125	CoordItem 16505 16507	ni
+T126	DISO 16508 16514	fiebre
+T127	Phrase 17039 17088	coprocultivo y estudio para clostridium difficile
+T128	PROC 17039 17051	coprocultivo
+T129	PROC 17054 17088	estudio para clostridium difficile
+T130	NegLexMarker 17101 17109	negativo
+T131	NegLexMarker 17311 17319	falta de
+T132	OTHER 17320 17365	resolución endoscópica del cuadro etiológicoa
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T23 Arg2:T24
+R11	Scope Arg1:T25 Arg2:T26
+R12	Scope Arg1:T27 Arg2:T28
+R13	Scope Arg1:T30 Arg2:T31
+R14	Scope Arg1:T35 Arg2:T36
+R15	Scope Arg1:T33 Arg2:T34
+R16	Scope Arg1:T37 Arg2:T38
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T43 Arg2:T44
+R19	Scope Arg1:T46 Arg2:T47
+R20	Scope Arg1:T48 Arg2:T49
+R21	Scope Arg1:T50 Arg2:T51
+R22	Scope Arg1:T52 Arg2:T53
+R23	Scope Arg1:T54 Arg2:T55
+R24	Scope Arg1:T57 Arg2:T58
+R25	Scope Arg1:T60 Arg2:T61
+R26	Scope Arg1:T62 Arg2:T63
+R27	Scope Arg1:T66 Arg2:T67
+R28	Scope Arg1:T70 Arg2:T71
+R29	Scope Arg1:T72 Arg2:T74
+R30	Scope Arg1:T75 Arg2:T76
+R31	Scope Arg1:T78 Arg2:T79
+R32	Scope Arg1:T80 Arg2:T81
+R33	Scope Arg1:T83 Arg2:T84
+R34	Scope Arg1:T85 Arg2:T86
+R35	Scope Arg1:T87 Arg2:T88
+R36	Scope Arg1:T89 Arg2:T90
+R37	Scope Arg1:T92 Arg2:T93
+R38	Scope Arg1:T95 Arg2:T96
+R39	Scope Arg1:T100 Arg2:T97
+R40	Scope Arg1:T101 Arg2:T102
+R41	Scope Arg1:T103 Arg2:T104
+R42	Scope Arg1:T105 Arg2:T106
+R43	Scope Arg1:T107 Arg2:T108
+R44	Scope Arg1:T111 Arg2:T112
+R45	Scope Arg1:T116 Arg2:T117
+R46	Scope Arg1:T113 Arg2:T114
+R47	Scope Arg1:T118 Arg2:T119
+R48	Scope Arg1:T120 Arg2:T121
+R49	Scope Arg1:T122 Arg2:T123
+R50	Scope Arg1:T130 Arg2:T127
+R51	Scope Arg1:T131 Arg2:T132

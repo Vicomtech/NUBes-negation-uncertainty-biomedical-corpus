@@ -1,0 +1,18 @@
+T1	NegLexMarker 223 233	Suspenderá
+T2	SUBS 234 240	Lyrica
+T3	Phrase 234 289	Lyrica y por el momento también Paracetamol y Metamizol
+T4	CoordItem 241 242	y
+T5	SUBS 266 277	Paracetamol
+T6	CoordItem 278 279	y
+T7	SUBS 280 289	Metamizol
+T8	NegSynMarker 902 904	No
+T9	Phrase 905 938	precisa de tratamiento especifico
+T10	PROC 916 938	tratamiento especifico
+T11	SUBS 2587 2602	Prednisona 5 mg
+T12	NegLexMarker 2659 2668	suspender
+T13	NegLexMarker 3214 3221	Retirar
+T14	OTHER 3222 3238	puntos de sutura
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T8 Arg2:T9
+R3	Scope Arg1:T12 Arg2:T11
+R4	Scope Arg1:T13 Arg2:T14

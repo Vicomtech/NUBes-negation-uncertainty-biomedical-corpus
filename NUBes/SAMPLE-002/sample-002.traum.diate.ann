@@ -1,0 +1,95 @@
+T1	UncertLexMarker 0 11	Orientación
+T2	DISO 26 149	Empeoramiento radiológico de la contusión hemorrágica de pared abdominal de la zona muscular subcostal del flanco izquierdo
+T3	UncertLexMarker 344 351	valorar
+T4	Phrase 352 397	si es necesariio realizar TAC abdominopélvico
+T5	PROC 378 397	TAC abdominopélvico
+T6	NegSynMarker 403 405	no
+T7	Phrase 406 435	disponer de una fase arterial
+T8	DISO 422 435	fase arterial
+T9	NegLexMarker 438 459	no se puede descartar
+T10	Phrase 460 495	de forma definitiva sangrado activo
+T11	DISO 480 495	sangrado activo
+T12	UncertLexMarker 498 509	Orientación
+T13	DISO 524 645	Traumatismo renal izquierdo con infarto segmetario , áreas de contusión y laceración renal y pequeño hematoma subcapsular
+T14	NegSynMarker 742 744	no
+T15	Phrase 745 782	presentan alteraciones significativas
+T16	DISO 755 782	alteraciones significativas
+T17	NegLexMarker 788 797	imposible
+T18	Phrase 798 808	de valorar
+T19	OTHER 801 808	valorar
+T20	UncertLexMarker 829 840	Orientación
+T21	NegSynMarker 855 858	Sin
+T22	Phrase 855 883	Sin hallazgos significativos
+T23	DISO 859 883	hallazgos significativos
+T24	NegSynMarker 1659 1661	No
+T25	Phrase 1662 1761	evidencia de contusiones hepáticas o esplénicas , ni lesiones en glándulas suprarrenales o páncreas
+T26	DISO 1675 1709	contusiones hepáticas o esplénicas
+T27	CoordItem 1712 1714	ni
+T28	DISO 1715 1761	lesiones en glándulas suprarrenales o páncreas
+T29	UncertLexMarker 1946 1958	sugestiva de
+T30	DISO 1959 1972	infarto renal
+T31	UncertLexMarker 1991 2012	No se puede descartar
+T32	Phrase 2013 2044	definitivamente sangrado activo
+T33	DISO 2029 2044	sangrado activo
+T34	NegSynMarker 2048 2050	no
+T35	Phrase 2051 2080	disponer de una fase arterial
+T36	DISO 2067 2080	fase arterial
+T37	UncertLexMarker 2136 2144	Probable
+T38	DISO 2145 2180	hematoma en músculo psoas izquierdo
+T39	NegLexMarker 2306 2312	impide
+T40	Phrase 2313 2346	la movilización y la colaboración
+T41	OTHER 2313 2328	la movilización
+T42	CoordItem 2329 2330	y
+T43	OTHER 2331 2346	la colaboración
+T44	UncertLexMarker 2373 2382	no parece
+T45	Phrase 2383 2397	estar afectado
+T46	DISO 2389 2397	afectado
+T47	NegSynMarker 2400 2402	no
+T48	Phrase 2403 2473	evidencian do asimismo extravasación de contraste en la fase excretora
+T49	DISO 2426 2473	extravasación de contraste en la fase excretora
+T50	NegSynMarker 2718 2720	No
+T51	Phrase 2721 2784	se observa extravasación de CIV en la fase de eliminación renal
+T52	DISO 2732 2752	extravasación de CIV
+T53	NegSynMarker 2817 2819	no
+T54	Phrase 2820 2858	identificamos hallazgos significativos
+T55	DISO 2834 2858	hallazgos significativos
+T56	UncertLexMarker 3048 3061	probablemente
+T57	Phrase 3062 3112	por descompresión de la hemorragia de origen renal
+T58	DISO 3066 3112	descompresión de la hemorragia de origen renal
+T59	UncertLexMarker 3187 3195	probable
+T60	DISO 3196 3217	relación con hematoma
+T61	NegSynMarker 3220 3222	No
+T62	Phrase 3223 3277	evidencia de afectación de estructuras del hilio renal
+T63	DISO 3236 3277	afectación de estructuras del hilio renal
+T64	NegLexMarker 3555 3566	ausencia de
+T65	DISO 3567 3573	realce
+T66	UncertLexMarker 3576 3588	sugestiva de
+T67	DISO 3589 3611	infarto subsegmentario
+T68	NegSynMarker 3656 3658	no
+T69	Phrase 3659 3681	alcanza el hilio renal
+T70	BODY 3667 3681	el hilio renal
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T9 Arg2:T10
+R4	Scope Arg1:T6 Arg2:T7
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T14 Arg2:T15
+R7	Scope Arg1:T17 Arg2:T18
+R8	Scope Arg1:T20 Arg2:T22
+R9	Scope Arg1:T21 Arg2:T23
+R10	Scope Arg1:T24 Arg2:T25
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T31 Arg2:T32
+R13	Scope Arg1:T37 Arg2:T38
+R14	Scope Arg1:T34 Arg2:T35
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T47 Arg2:T48
+R17	Scope Arg1:T44 Arg2:T45
+R18	Scope Arg1:T50 Arg2:T51
+R19	Scope Arg1:T53 Arg2:T54
+R20	Scope Arg1:T56 Arg2:T57
+R21	Scope Arg1:T59 Arg2:T60
+R22	Scope Arg1:T61 Arg2:T62
+R23	Scope Arg1:T68 Arg2:T69
+R24	Scope Arg1:T66 Arg2:T67
+R25	Scope Arg1:T64 Arg2:T65

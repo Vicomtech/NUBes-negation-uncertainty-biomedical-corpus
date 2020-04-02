@@ -1,0 +1,9 @@
+T1	NegSynMarker 147 149	no
+T2	OTHER 150 166	poder levantarse
+T3	NegLexMarker 169 174	Niega
+T4	Phrase 175 202	TCE o pérdida de conciencia
+T5	DISO 175 178	TCE
+T6	CoordItem 179 180	o
+T7	DISO 181 202	pérdida de conciencia
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4

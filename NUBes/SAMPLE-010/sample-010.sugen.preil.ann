@@ -1,0 +1,43 @@
+T1	NegSynMarker 269 271	No
+T2	Phrase 272 303	control del dolor con metamizol
+T3	DISO 272 289	control del dolor
+T4	NegSynMarker 357 359	No
+T5	DISO 360 380	fiebre teremometrada
+T6	NegSynMarker 456 459	sin
+T7	DISO 460 474	complicaciones
+T8	NegLexMarker 624 635	Ausencia de
+T9	SUBS 636 641	heces
+T10	Phrase 636 664	heces en bolsa de colostomía
+T11	NegSynMarker 667 669	No
+T12	DISO 670 692	deposiciones efectivas
+T13	Phrase 670 704	deposiciones efectivas ni ventoseo
+T14	CoordItem 693 695	ni
+T15	DISO 696 704	ventoseo
+T16	NegSynMarker 783 786	sin
+T17	DISO 787 794	mejoría
+T18	Phrase 787 882	mejoría a pesar de estar en tratamiento ATB con augmentine 1000/62,5 y con curas en ambulatorio
+T19	UncertLexMarker 1225 1233	Probable
+T20	Phrase 1234 1239	TVP ?
+T21	DISO 1234 1237	TVP
+T22	PolItem 1238 1239	?
+T23	NegSynMarker 1291 1294	sin
+T24	DISO 1295 1302	mejoría
+T25	NegSynMarker 1384 1387	sin
+T26	DISO 1388 1394	fiebre
+T27	Phrase 1388 1405	fiebre ni vomitos
+T28	CoordItem 1395 1397	ni
+T29	DISO 1398 1405	vomitos
+T30	NegSynMarker 1580 1582	No
+T31	Phrase 1583 1641	clínica de infeccion respiratoria , digestiva ni miccional
+T32	DISO 1594 1641	infeccion respiratoria , digestiva ni miccional
+T33	CoordItem 1629 1631	ni
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T8 Arg2:T10
+R5	Scope Arg1:T11 Arg2:T13
+R6	Scope Arg1:T16 Arg2:T18
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T23 Arg2:T24
+R9	Scope Arg1:T25 Arg2:T27
+R10	Scope Arg1:T30 Arg2:T31

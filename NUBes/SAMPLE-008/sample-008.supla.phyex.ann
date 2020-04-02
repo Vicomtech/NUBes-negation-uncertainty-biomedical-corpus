@@ -1,0 +1,26 @@
+T1	UncertLexMarker 292 306	compatible con
+T2	DISO 307 322	ca. basocelular
+T3	UncertLexMarker 367 381	compatible con
+T4	DISO 382 397	ca. basocelular
+T5	UncertLexMarker 773 786	sospechosa de
+T6	DISO 787 802	ca. basocelular
+T7	UncertLexMarker 1105 1119	compatible con
+T8	Phrase 1120 1187	ca. basocelular en sien izquierda de aproximadamente 1 cm. cuadrado
+T9	DISO 1120 1135	ca. basocelular
+T10	UncertLexMarker 1278 1293	compatibles con
+T11	Phrase 1294 1382	ca basocelular perlados en region malar izquerda , supraciliar izquierda , y dos nasales
+T12	DISO 1294 1317	ca basocelular perlados
+T13	UncertLexMarker 1655 1669	compatible con
+T14	DISO 1670 1684	ca basocelular
+T15	UncertLexMarker 1841 1856	compatibles con
+T16	DISO 1857 1873	ca basocelulares
+T17	UncertLexMarker 1973 1987	compatible con
+T18	DISO 1988 2003	ca. basocelular
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T15 Arg2:T16
+R8	Scope Arg1:T17 Arg2:T18

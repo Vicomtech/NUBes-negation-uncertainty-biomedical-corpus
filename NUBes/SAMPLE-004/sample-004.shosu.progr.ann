@@ -1,0 +1,222 @@
+T1	UncertLexMarker 483 491	probable
+T2	DISO 492 502	osteopenia
+T3	NegSynMarker 778 780	no
+T4	Phrase 781 819	refiere dolor a la movilización cadera
+T5	DISO 789 819	dolor a la movilización cadera
+T6	PROC 1030 1037	cultivo
+T7	NegLexMarker 1038 1046	negativo
+T8	NegSynMarker 1179 1181	no
+T9	Phrase 1182 1200	precisa de ortesis
+T10	OTHER 1193 1200	ortesis
+T11	PROC 1691 1698	cultivo
+T12	Phrase 1691 1735	cultivo y toxina para clostridium difficcile
+T13	CoordItem 1699 1700	y
+T14	PROC 1701 1735	toxina para clostridium difficcile
+T15	NegLexMarker 1736 1745	negativas
+T16	UncertLexMarker 1794 1802	probable
+T17	Phrase 1803 1847	existencia de enfermedad neoplásica avanzada
+T18	DISO 1817 1847	enfermedad neoplásica avanzada
+T19	NegLexMarker 2008 2019	retirada de
+T20	SUBS 2020 2035	anticoagulación
+T21	NegLexMarker 2717 2726	se retira
+T22	DISO 2727 2752	material de osteosintesis
+T23	NegSynMarker 3335 3337	no
+T24	Phrase 3338 3388	presenta dolor a la movilización de cadera derecha
+T25	DISO 3347 3388	dolor a la movilización de cadera derecha
+T26	UncertLexMarker 3491 3497	parece
+T27	DISO 3498 3507	irradiado
+T28	NegSynMarker 3586 3589	sin
+T29	DISO 3590 3595	dolor
+T30	PROC 3822 3824	Rx
+T31	NegLexMarker 3825 3834	negativas
+T32	Phrase 3835 3849	para fracturas
+T33	NegSynMarker 3964 3967	sin
+T34	OTHER 3968 3987	rescate de insulina
+T35	PROC 4190 4206	cultivo a s.coag
+T36	NegLexMarker 4207 4215	negativo
+T37	Phrase 4216 4244	en escaso numero de colonias
+T38	NegSynMarker 4249 4251	no
+T39	Phrase 4252 4310	signos de afectación profunda a nivel de herida quirúrgica
+T40	DISO 4262 4310	afectación profunda a nivel de herida quirúrgica
+T41	NegSynMarker 4368 4370	No
+T42	Phrase 4371 4425	se recomienda movilizaciones agresivas de dicho hombro
+T43	DISO 4385 4425	movilizaciones agresivas de dicho hombro
+T44	UncertLexMarker 4546 4554	probable
+T45	DISO 4555 4604	relación a la administración de amoxi-clavulanico
+T46	UncertLexMarker 4717 4731	compatible con
+T47	DISO 4732 4777	tendinitis postraumática manguito hombro izdo
+T48	UncertLexMarker 5349 5356	posible
+T49	DISO 5357 5379	relación a calcio oral
+T50	NegSynMarker 5518 5521	sin
+T51	Phrase 5522 5527	ayuda
+T52	NegSynMarker 5807 5810	sin
+T53	Phrase 5811 5843	ninguna dificultad a paso rápido
+T54	PolItem 5811 5818	ninguna
+T55	DISO 5819 5843	dificultad a paso rápido
+T56	NegSynMarker 5846 5849	sin
+T57	DISO 5850 5855	dolor
+T58	NegSynMarker 6104 6107	sin
+T59	Phrase 6108 6113	ayuda
+T60	NegSynMarker 6738 6740	no
+T61	Phrase 6741 6779	realizar pruebas invasivas gastro/colo
+T62	PROC 6750 6779	pruebas invasivas gastro/colo
+T63	UncertLexMarker 7004 7012	probable
+T64	DISO 7013 7056	relación a la administracion de haloperidol
+T65	NegSynMarker 7335 7338	sin
+T66	DISO 7339 7349	dificultad
+T67	UncertLexMarker 7595 7597	no
+T68	Phrase 7598 7609	se objetiva
+T69	UncertLexMarker 7610 7615	clara
+T70	DISO 7616 7625	patologia
+T71	NegSynMarker 7763 7766	sin
+T72	Phrase 7767 7772	ayuda
+T73	NegSynMarker 7903 7905	no
+T74	Phrase 7906 7923	manipulación fina
+T75	NegLexMarker 8074 8088	Se ha negado a
+T76	Phrase 8089 8118	realizar trabajo en escaleras
+T77	UncertLexMarker 8257 8265	probable
+T78	DISO 8266 8285	origen por ac.urico
+T79	NegSynMarker 8408 8410	no
+T80	OTHER 8411 8460	susbsidiaria de tratamiento oncologico especifico
+T81	DISO 8627 8635	relacion
+T82	UncertLexMarker 8636 8644	probable
+T83	DISO 8645 8705	a trombosis cerebral en territorio temporoparietal izquierdo
+T84	NegLexMarker 8814 8822	descarta
+T85	DISO 8823 8826	TVP
+T86	NegSynMarker 8942 8945	sin
+T87	Phrase 8946 8964	introducir lactosa
+T88	UncertLexMarker 8988 8999	sospecha de
+T89	DISO 9000 9030	enfermedad neoplásica avanzada
+T90	NegSynMarker 9033 9035	no
+T91	OTHER 9036 9063	confirmada histologicamente
+T92	PROC 9178 9187	citologia
+T93	NegLexMarker 9188 9196	negativa
+T94	UncertLexMarker 9273 9287	compatible con
+T95	DISO 9288 9325	dolor postraumático de hombro derecho
+T96	PROC 9328 9360	Cultivo exudado inguinal y nasal
+T97	NegLexMarker 9363 9371	negativo
+T98	Phrase 9372 9381	para SARM
+T99	Phrase 9719 9758	cultivos de control del dia 26/1 y 28/6
+T100	PROC 9719 9738	cultivos de control
+T101	NegLexMarker 9759 9768	negativos
+T102	Phrase 9769 9778	para SARM
+T103	UncertLexMarker 9933 9945	posiblemente
+T104	DISO 9946 9983	relacionado con su fractura de cadera
+T105	NegSynMarker 10594 10596	no
+T106	DISO 10597 10605	progresa
+T107	NegSynMarker 10619 10622	sin
+T108	PROC 10623 10638	drenaje pleural
+T109	NegSynMarker 10828 10830	No
+T110	Phrase 10831 10861	se ha realizado rehabilitación
+T111	PROC 10847 10861	rehabilitación
+T112	PROC 10949 10951	Rx
+T113	NegLexMarker 10952 10961	negativas
+T114	Phrase 10962 10976	para fracturas
+T115	NegSynMarker 11437 11440	sin
+T116	PROC 11441 11452	tratamiento
+T117	Phrase 11466 11497	el tratamiento antihipertensivo
+T118	SUBS 11481 11497	antihipertensivo
+T119	NegLexMarker 11504 11514	suspendido
+T120	NegSynMarker 11617 11620	sin
+T121	DISO 11621 11626	dolor
+T122	NegSynMarker 11788 11791	sin
+T123	Phrase 11792 11810	ninguna dificultad
+T124	PolItem 11792 11799	ninguna
+T125	DISO 11800 11810	dificultad
+T126	NegSynMarker 12599 12601	No
+T127	Phrase 12602 12636	evidencia de enfermedad neoplasica
+T128	DISO 12615 12636	enfermedad neoplasica
+T129	NegSynMarker 12941 12944	sin
+T130	Phrase 12945 13016	presentar ningún tipo de actividad en flexión dorsal en tobillo derecho
+T131	PolItem 12955 12961	ningún
+T132	DISO 12970 13016	actividad en flexión dorsal en tobillo derecho
+T133	PROC 13356 13371	cultivo control
+T134	Phrase 13356 13382	cultivo control 22/02/2019
+T135	NegLexMarker 13383 13391	negativo
+T136	NegSynMarker 13485 13488	sin
+T137	DISO 13489 13514	disnea en la deambulacion
+T138	NegSynMarker 13984 13986	No
+T139	DISO 13987 14025	dolor a la movilización de cadera izda
+T140	NegLexMarker 14028 14037	Se retira
+T141	OTHER 14038 14058	ortesis antiluxación
+T142	NegLexMarker 15159 15170	retirada de
+T143	SUBS 15171 15176	AINES
+T144	NegLexMarker 15186 15195	retiramos
+T145	Phrase 15196 15224	por insuficiencia renal leve
+T146	PROC 15539 15590	estudio de neoplasia oculta con gastro/colonoscopia
+T147	NegLexMarker 15591 15599	negativo
+T148	NegSynMarker 15768 15771	sin
+T149	Phrase 15772 15811	evidencia de signos de sangrado activos
+T150	DISO 15795 15811	sangrado activos
+T151	NegLexMarker 15899 15908	se retira
+T152	OTHER 15909 15927	antiequino derecho
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T7 Arg2:T6
+R4	Scope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T15 Arg2:T12
+R6	Scope Arg1:T16 Arg2:T17
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T21 Arg2:T22
+R9	Scope Arg1:T23 Arg2:T24
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T28 Arg2:T29
+R12	DiscScope Arg1:T31 Arg2:T32
+R13	DiscScope Arg1:T31 Arg2:T30
+R14	Scope Arg1:T33 Arg2:T34
+R15	DiscScope Arg1:T36 Arg2:T35
+R16	DiscScope Arg1:T36 Arg2:T37
+R17	Scope Arg1:T38 Arg2:T39
+R18	Scope Arg1:T41 Arg2:T42
+R19	Scope Arg1:T44 Arg2:T45
+R20	Scope Arg1:T46 Arg2:T47
+R21	Scope Arg1:T48 Arg2:T49
+R22	Scope Arg1:T50 Arg2:T51
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T52 Arg2:T53
+R25	Scope Arg1:T58 Arg2:T59
+R26	Scope Arg1:T60 Arg2:T61
+R27	Scope Arg1:T63 Arg2:T64
+R28	Scope Arg1:T65 Arg2:T66
+R29	DiscMarker Arg1:T67 Arg2:T69
+R30	DiscScope Arg1:T69 Arg2:T68
+R31	DiscScope Arg1:T69 Arg2:T70
+R32	Scope Arg1:T71 Arg2:T72
+R33	Scope Arg1:T73 Arg2:T74
+R34	Scope Arg1:T75 Arg2:T76
+R35	Scope Arg1:T77 Arg2:T78
+R36	Scope Arg1:T79 Arg2:T80
+R37	DiscScope Arg1:T82 Arg2:T83
+R38	DiscScope Arg1:T82 Arg2:T81
+R39	Scope Arg1:T84 Arg2:T85
+R40	Scope Arg1:T86 Arg2:T87
+R41	Scope Arg1:T88 Arg2:T89
+R42	Scope Arg1:T90 Arg2:T91
+R43	Scope Arg1:T93 Arg2:T92
+R44	Scope Arg1:T94 Arg2:T95
+R45	DiscScope Arg1:T97 Arg2:T98
+R46	DiscScope Arg1:T97 Arg2:T96
+R47	DiscScope Arg1:T101 Arg2:T102
+R48	DiscScope Arg1:T101 Arg2:T99
+R49	Scope Arg1:T103 Arg2:T104
+R50	Scope Arg1:T107 Arg2:T108
+R51	Scope Arg1:T105 Arg2:T106
+R52	Scope Arg1:T109 Arg2:T110
+R53	DiscScope Arg1:T113 Arg2:T114
+R54	DiscScope Arg1:T113 Arg2:T112
+R55	Scope Arg1:T115 Arg2:T116
+R56	Scope Arg1:T119 Arg2:T117
+R57	Scope Arg1:T120 Arg2:T121
+R58	Scope Arg1:T122 Arg2:T123
+R59	Scope Arg1:T126 Arg2:T127
+R60	Scope Arg1:T129 Arg2:T130
+R61	Scope Arg1:T135 Arg2:T134
+R62	Scope Arg1:T136 Arg2:T137
+R63	Scope Arg1:T138 Arg2:T139
+R64	Scope Arg1:T140 Arg2:T141
+R65	Scope Arg1:T142 Arg2:T143
+R66	DiscScope Arg1:T144 Arg2:T143
+R67	DiscScope Arg1:T144 Arg2:T145
+R68	Scope Arg1:T147 Arg2:T146
+R69	Scope Arg1:T148 Arg2:T149
+R70	Scope Arg1:T151 Arg2:T152

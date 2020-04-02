@@ -1,0 +1,37 @@
+T1	NegLexMarker 81 86	Niega
+T2	DISO 87 92	mareo
+T3	Phrase 87 116	mareo o pérdida de conciencia
+T4	CoordItem 93 94	o
+T5	DISO 95 116	pérdida de conciencia
+T6	NegSynMarker 202 204	no
+T7	Phrase 205 240	le ha dado problemas desde entonces
+T8	DISO 216 240	problemas desde entonces
+T9	NegSynMarker 1196 1198	No
+T10	DISO 1199 1202	TCE
+T11	Phrase 1199 1262	TCE ni cefalea ni dolor torácico ni abdominal ni cervico-dorsal
+T12	CoordItem 1203 1205	ni
+T13	DISO 1206 1213	cefalea
+T14	CoordItem 1214 1216	ni
+T15	DISO 1217 1262	dolor torácico ni abdominal ni cervico-dorsal
+T16	CoordItem 1232 1234	ni
+T17	CoordItem 1245 1247	ni
+T18	NegSynMarker 1402 1404	No
+T19	Phrase 1405 1443	dolor torácico ni clínica respiratoria
+T20	DISO 1405 1419	dolor torácico
+T21	CoordItem 1420 1422	ni
+T22	DISO 1423 1443	clínica respiratoria
+T23	NegSynMarker 1589 1591	No
+T24	DISO 1592 1615	alteración esfinteriana
+T25	NegSynMarker 1827 1829	No
+T26	DISO 1830 1854	alteracion de esfinteres
+T27	NegSynMarker 1857 1859	No
+T28	Phrase 1860 1902	refiere déficit motor ni sensitivo en EEII
+T29	DISO 1868 1902	déficit motor ni sensitivo en EEII
+T30	CoordItem 1882 1884	ni
+R1	Scope Arg1:T1 Arg2:T3
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T9 Arg2:T11
+R4	Scope Arg1:T18 Arg2:T19
+R5	Scope Arg1:T23 Arg2:T24
+R6	Scope Arg1:T25 Arg2:T26
+R7	Scope Arg1:T27 Arg2:T28

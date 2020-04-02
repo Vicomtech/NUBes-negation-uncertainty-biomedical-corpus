@@ -1,0 +1,47 @@
+T1	NegSynMarker 0 2	No
+T2	DISO 3 25	antecedentes de otitis
+T3	OTHER 114 140	Historia de cambio de peso
+T4	NegSynMarker 143 145	No
+T5	NegSynMarker 247 249	No
+T6	DISO 250 260	estornudos
+T7	NegSynMarker 263 265	No
+T8	DISO 266 279	prurito nasal
+T9	NegSynMarker 614 616	No
+T10	DISO 617 624	otorrea
+T11	NegSynMarker 669 671	NO
+T12	Phrase 672 691	amigalitis este año
+T13	DISO 672 682	amigalitis
+T14	NegSynMarker 694 696	No
+T15	OTHER 697 719	tolera bien dieta oral
+T16	NegSynMarker 901 903	No
+T17	DISO 904 911	otalgia
+T18	NegSynMarker 937 939	No
+T19	DISO 940 956	clinica alérgica
+T20	NegMorMarker 1284 1291	afebril
+T21	DISO 1507 1515	Insomnio
+T22	NegSynMarker 1518 1520	No
+T23	DISO 1620 1627	Siestas
+T24	NegSynMarker 1630 1632	No
+T25	NegSynMarker 1834 1836	no
+T26	OTHER 1837 1845	oye bien
+T27	NegSynMarker 1893 1896	sin
+T28	DISO 1897 1904	mejoría
+T29	DISO 2092 2119	Excesiva somnolencia diurna
+T30	NegSynMarker 2122 2124	no
+T31	NegSynMarker 2304 2306	No
+T32	DISO 2307 2331	traumatismo nasal previo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T24 Arg2:T23
+R11	Scope Arg1:T22 Arg2:T21
+R12	Scope Arg1:T25 Arg2:T26
+R13	Scope Arg1:T27 Arg2:T28
+R14	Scope Arg1:T30 Arg2:T29
+R15	Scope Arg1:T31 Arg2:T32

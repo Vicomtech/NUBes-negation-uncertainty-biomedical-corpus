@@ -1,0 +1,89 @@
+T1	NegSynMarker 123 126	sin
+T2	DISO 127 165	repercusión hemodinámica significativa
+T3	NegSynMarker 1203 1205	no
+T4	DISO 1206 1225	ruidos acompañantes
+T5	NegSynMarker 1294 1296	no
+T6	Phrase 1297 1308	palpo masas
+T7	DISO 1303 1308	masas
+T8	NegSynMarker 1311 1313	no
+T9	DISO 1314 1322	doloroso
+T10	NegSynMarker 1325 1327	no
+T11	Phrase 1328 1351	signos de abdomen agudo
+T12	DISO 1338 1351	abdomen agudo
+T13	NegSynMarker 1422 1424	no
+T14	DISO 1425 1431	edemas
+T15	NegSynMarker 1434 1436	no
+T16	Phrase 1437 1450	signos de tvp
+T17	DISO 1447 1450	tvp
+T18	NegSynMarker 1575 1577	No
+T19	Phrase 1578 1692	se objetiva sangrado intra ni extraaxial , signos de patología isquémica aguda ni de lesiones ocupantes de espacio
+T20	DISO 1590 1618	sangrado intra ni extraaxial
+T21	CoordItem 1605 1607	ni
+T22	DISO 1631 1656	patología isquémica aguda
+T23	CoordItem 1657 1659	ni
+T24	DISO 1663 1692	lesiones ocupantes de espacio
+T25	NegSynMarker 1837 1840	Sin
+T26	Phrase 1841 1869	evidencia de patología aguda
+T27	DISO 1854 1869	patología aguda
+T28	NegSynMarker 2631 2634	sin
+T29	OTHER 2635 2653	precisar demasiado
+T30	UncertLexMarker 2707 2720	probablemente
+T31	OTHER 2721 2749	en el tramo final de la vida
+T32	NegSynMarker 2858 2860	no
+T33	DISO 2861 2867	soplos
+T34	NegSynMarker 2868 2870	no
+T35	DISO 2871 2875	roce
+T36	NegSynMarker 3327 3329	no
+T37	Phrase 3330 3370	se objetivan alteraciones significativas
+T38	DISO 3343 3370	alteraciones significativas
+T39	UncertLexMarker 3478 3492	compatible con
+T40	OTHER 3493 3515	la edad de la paciente
+T41	NegSynMarker 3548 3551	sin
+T42	DISO 3552 3582	alteraciones isquemicas agudas
+T43	PROC 3768 3777	Sedimento
+T44	NegLexMarker 3780 3788	negativo
+T45	NegMorMarker 3821 3830	Arrítmica
+T46	NegMorMarker 4277 4286	Arrítmica
+T47	NegSynMarker 4464 4466	no
+T48	OTHER 4467 4517	hay mucho que hacer desde el punto de vista activo
+T49	Phrase 4635 4690	quería saber algo más o tenía alguna pregunta que hacer
+T50	NegSynMarker 4719 4721	no
+T51	NegSynMarker 4935 4937	no
+T52	Phrase 4938 4977	consideramos indicada la anticoaguación
+T53	OTHER 4951 4977	indicada la anticoaguación
+T54	NegSynMarker 5040 5042	no
+T55	DISO 5043 5045	IY
+T56	NegSynMarker 5115 5117	no
+T57	DISO 5118 5141	doloroso a la palpación
+T58	NegSynMarker 5144 5147	sin
+T59	Phrase 5148 5179	signos de irritación peritoneal
+T60	DISO 5158 5179	irritación peritoneal
+T61	UncertLexMarker 5614 5621	posible
+T62	DISO 5622 5641	relación a miositis
+T63	NegSynMarker 6034 6037	sin
+T64	DISO 6038 6049	repercusión
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T10 Arg2:T11
+R3	Scope Arg1:T15 Arg2:T16
+R4	Scope Arg1:T5 Arg2:T6
+R5	Scope Arg1:T8 Arg2:T9
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T3 Arg2:T4
+R8	Scope Arg1:T18 Arg2:T19
+R9	Scope Arg1:T25 Arg2:T26
+R10	Scope Arg1:T30 Arg2:T31
+R11	Scope Arg1:T28 Arg2:T29
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T32 Arg2:T33
+R14	Scope Arg1:T36 Arg2:T37
+R15	Scope Arg1:T39 Arg2:T40
+R16	Scope Arg1:T44 Arg2:T43
+R17	Scope Arg1:T41 Arg2:T42
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T50 Arg2:T49
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T58 Arg2:T59
+R22	Scope Arg1:T54 Arg2:T55
+R23	Scope Arg1:T56 Arg2:T57
+R24	Scope Arg1:T61 Arg2:T62
+R25	Scope Arg1:T63 Arg2:T64

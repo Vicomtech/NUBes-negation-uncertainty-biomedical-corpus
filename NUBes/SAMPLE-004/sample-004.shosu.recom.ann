@@ -1,0 +1,9 @@
+T1	SUBS 159 173	Lorazepam 1 mg
+T2	NegLexMarker 198 208	suspendido
+T3	SUBS 1253 1266	Distraneurine
+T4	NegLexMarker 1291 1301	suspendido
+T5	SUBS 2024 2034	Manidipino
+T6	NegLexMarker 2059 2069	suspendido
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T6 Arg2:T5

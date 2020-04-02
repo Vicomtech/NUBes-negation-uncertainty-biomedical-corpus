@@ -1,0 +1,75 @@
+T1	PROC 95 101	HLAB27
+T2	NegLexMarker 102 110	negativo
+T3	PROC 113 115	FR
+T4	NegLexMarker 116 124	negativo
+T5	NegSynMarker 141 143	no
+T6	DISO 144 175	de características neuropáticas
+T7	NegSynMarker 261 263	No
+T8	DISO 264 272	déficits
+T9	NegSynMarker 275 277	no
+T10	DISO 278 289	parestesias
+T11	NegSynMarker 590 592	No
+T12	Phrase 593 606	refiere dolor
+T13	DISO 601 606	dolor
+T14	UncertLexMarker 798 810	sugestiva de
+T15	DISO 811 824	reacción a CE
+T16	UncertLexMarker 997 1006	sin clara
+T17	DISO 1007 1014	mejoría
+T18	NegSynMarker 1222 1224	no
+T19	DISO 1225 1235	le molesta
+T20	NegSynMarker 1386 1388	No
+T21	DISO 1389 1409	dolor en sedestación
+T22	NegSynMarker 1594 1597	sin
+T23	DISO 1598 1605	mejoría
+T24	NegSynMarker 2349 2351	no
+T25	OTHER 2352 2387	resuelve con aines y rehabilitación
+T26	NegSynMarker 2390 2392	No
+T27	Phrase 2393 2437	lo refiere como similar al dolor previo a IQ
+T28	DISO 2409 2437	similar al dolor previo a IQ
+T29	NegSynMarker 3332 3334	no
+T30	DISO 3335 3344	psoriasis
+T31	NegSynMarker 3345 3347	no
+T32	DISO 3348 3357	lumbalgia
+T33	NegSynMarker 3385 3387	no
+T34	DISO 3388 3397	dolorosas
+T35	UncertLexMarker 3485 3493	probable
+T36	DISO 3494 3541	contacto con la emergencia de raíz S1 izquierda
+T37	NegSynMarker 4560 4562	No
+T38	Phrase 4563 4586	nota fallos ni bloqueos
+T39	DISO 4568 4574	fallos
+T40	CoordItem 4575 4577	ni
+T41	DISO 4578 4586	bloqueos
+T42	NegSynMarker 4690 4692	No
+T43	OTHER 4693 4731	lo relaciona con traumatismo ni herida
+T44	CoordItem 4722 4724	ni
+T45	NegSynMarker 4923 4925	No
+T46	DISO 4926 4943	EII en la familia
+T47	NegSynMarker 5390 5392	No
+T48	DISO 5393 5413	cambio de coloración
+T49	NegSynMarker 5427 5430	sin
+T50	DISO 5431 5452	pérdida de conciencia
+T51	NegSynMarker 5466 5468	no
+T52	OTHER 5469 5488	ha recuperado mucho
+R1	Scope Arg1:T4 Arg2:T3
+R2	Scope Arg1:T2 Arg2:T1
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T7 Arg2:T8
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T14 Arg2:T15
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T20 Arg2:T21
+R11	Scope Arg1:T22 Arg2:T23
+R12	Scope Arg1:T24 Arg2:T25
+R13	Scope Arg1:T26 Arg2:T27
+R14	Scope Arg1:T29 Arg2:T30
+R15	Scope Arg1:T31 Arg2:T32
+R16	Scope Arg1:T33 Arg2:T34
+R17	Scope Arg1:T35 Arg2:T36
+R18	Scope Arg1:T37 Arg2:T38
+R19	Scope Arg1:T42 Arg2:T43
+R20	Scope Arg1:T45 Arg2:T46
+R21	Scope Arg1:T47 Arg2:T48
+R22	Scope Arg1:T49 Arg2:T50
+R23	Scope Arg1:T51 Arg2:T52

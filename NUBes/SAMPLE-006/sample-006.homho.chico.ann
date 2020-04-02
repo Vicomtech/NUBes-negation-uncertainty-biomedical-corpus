@@ -1,0 +1,22 @@
+T1	NegLexMarker 72 83	retirada de
+T2	OTHER 84 97	infusor de QT
+T3	NegLexMarker 1061 1072	retirada de
+T4	OTHER 1073 1095	infusor quimioterápico
+T5	NegSynMarker 2237 2239	no
+T6	DISO 2240 2262	buen control del dolor
+T7	NegLexMarker 3662 3673	retirada de
+T8	OTHER 3674 3681	infusor
+T9	UncertLexMarker 3739 3746	posible
+T10	PROC 3747 3758	transfusión
+T11	NegLexMarker 4516 4527	retirada de
+T12	OTHER 4528 4550	Infusor Quimioterápico
+T13	NegLexMarker 5261 5272	retirada de
+T14	OTHER 5273 5297	infusor de quimioterapia
+T15	Phrase 5273 5326	infusor de quimioterapia según protocolo hospitalario
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T11 Arg2:T12
+R7	Scope Arg1:T13 Arg2:T15

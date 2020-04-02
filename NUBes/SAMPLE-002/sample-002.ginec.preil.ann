@@ -1,0 +1,22 @@
+T1	NegSynMarker 10 12	no
+T2	DISO 13 58	asociado a incontinencia urinaria de esfuerzo
+T3	UncertLexMarker 155 166	Sospecha de
+T4	DISO 167 185	polipo endometrial
+T5	UncertLexMarker 204 215	sospecha de
+T6	DISO 216 234	polipo endometrial
+T7	UncertLexMarker 370 378	sospecha
+T8	Phrase 379 389	ecografica
+T9	UncertLexMarker 390 392	de
+T10	DISO 393 411	polipo endometrial
+T11	UncertLexMarker 493 504	sospecha de
+T12	DISO 505 523	polipo endometrial
+T13	NegSynMarker 816 818	no
+T14	DISO 819 864	asociado a incontinencia urinaria de esfuerzo
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	DiscScope Arg1:T9 Arg2:T8
+R5	DiscMarker Arg1:T7 Arg2:T9
+R6	DiscScope Arg1:T9 Arg2:T10
+R7	Scope Arg1:T11 Arg2:T12
+R8	Scope Arg1:T13 Arg2:T14

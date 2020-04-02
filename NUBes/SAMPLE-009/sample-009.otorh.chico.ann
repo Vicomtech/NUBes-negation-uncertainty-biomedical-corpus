@@ -1,0 +1,9 @@
+T1	NegSynMarker 1777 1779	no
+T2	Phrase 1780 1800	cefalea ni focalidad
+T3	DISO 1780 1787	cefalea
+T4	CoordItem 1788 1790	ni
+T5	DISO 1791 1800	focalidad
+T6	NegSynMarker 1802 1804	no
+T7	DISO 1805 1827	antecedentes similares
+R1	Scope Arg1:T6 Arg2:T7
+R2	Scope Arg1:T1 Arg2:T2

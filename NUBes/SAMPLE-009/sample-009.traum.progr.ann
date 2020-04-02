@@ -1,0 +1,70 @@
+T1	NegSynMarker 203 205	No
+T2	Phrase 206 249	se efectua biopsia dirigida a foco lesional
+T3	PROC 217 249	biopsia dirigida a foco lesional
+T4	NegLexMarker 252 263	Se suspende
+T5	Phrase 264 290	tratamiento anticoagulante
+T6	SUBS 276 290	anticoagulante
+T7	PROC 401 412	el angiotac
+T8	NegLexMarker 417 425	negativo
+T9	Phrase 426 434	para TEP
+T10	NegSynMarker 1639 1642	sin
+T11	Phrase 1643 1663	signos de bronquitis
+T12	DISO 1653 1663	bronquitis
+T13	NegSynMarker 1750 1752	no
+T14	Phrase 1753 1803	hay crecimiento bacteriano en cultivos actualmente
+T15	OTHER 1757 1791	crecimiento bacteriano en cultivos
+T16	UncertLexMarker 2124 2133	sin clara
+T17	Phrase 2134 2177	evidencia de proceso especificoneoformativo
+T18	DISO 2147 2177	proceso especificoneoformativo
+T19	UncertLexMarker 2180 2189	sin claro
+T20	Phrase 2190 2276	aumento reactantes inflmatorios que nos hagna sospecha en proceso infeccioso articular
+T21	DISO 2190 2221	aumento reactantes inflmatorios
+T22	Phrase 2291 2338	estudio con TAC para descartar neoplasia oculta
+T23	PROC 2303 2306	TAC
+T24	NegLexMarker 2358 2366	negativo
+T25	NegMorMarker 3073 3087	desorientación
+T26	NegSynMarker 3171 3174	sin
+T27	Phrase 3175 3215	evidencia patologia tumoral concomitante
+T28	DISO 3185 3215	patologia tumoral concomitante
+T29	NegSynMarker 3316 3319	sin
+T30	Phrase 3320 3349	objetivarse atipias celulares
+T31	DISO 3332 3349	atipias celulares
+T32	NegSynMarker 4074 4077	sin
+T33	DISO 4078 4091	complcaciones
+T34	NegSynMarker 4141 4144	sin
+T35	DISO 4145 4157	foco clínico
+T36	UncertLexMarker 4182 4189	posible
+T37	DISO 4190 4219	relacion a infeccion urinaria
+T38	UncertLexMarker 4491 4500	probables
+T39	DISO 4501 4510	MTS oseas
+T40	NegSynMarker 4704 4706	No
+T41	Phrase 4707 4727	tiene dolor inguinal
+T42	DISO 4713 4727	dolor inguinal
+T43	NegSynMarker 4768 4771	sin
+T44	DISO 4772 4786	complicaciones
+T45	NegLexMarker 5464 5475	se suspende
+T46	OTHER 5476 5481	la IQ
+T47	NegSynMarker 5791 5794	sin
+T48	DISO 5795 5809	complciaciones
+T49	NegLexMarker 5812 5821	Se retira
+T50	OTHER 5822 5829	tracció
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	DiscScope Arg1:T8 Arg2:T7
+R4	DiscScope Arg1:T8 Arg2:T9
+R5	Scope Arg1:T10 Arg2:T11
+R6	Scope Arg1:T13 Arg2:T14
+R7	Scope Arg1:T19 Arg2:T20
+R8	Scope Arg1:T16 Arg2:T17
+R9	Scope Arg1:T24 Arg2:T22
+R10	Scope Arg1:T26 Arg2:T27
+R11	Scope Arg1:T29 Arg2:T30
+R12	Scope Arg1:T32 Arg2:T33
+R13	Scope Arg1:T34 Arg2:T35
+R14	Scope Arg1:T36 Arg2:T37
+R15	Scope Arg1:T38 Arg2:T39
+R16	Scope Arg1:T40 Arg2:T41
+R17	Scope Arg1:T43 Arg2:T44
+R18	Scope Arg1:T45 Arg2:T46
+R19	Scope Arg1:T47 Arg2:T48
+R20	Scope Arg1:T49 Arg2:T50

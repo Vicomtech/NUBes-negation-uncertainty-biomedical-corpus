@@ -1,0 +1,75 @@
+T1	NegSynMarker 95 97	No
+T2	DISO 98 152	reacciones inmediatas a la transfusión ni al contraste
+T3	CoordItem 137 139	ni
+T4	NegLexMarker 513 536	Ninguna de las lesiones
+T5	DISO 537 596	condiciona estenosis de canal central ni compresión medular
+T6	CoordItem 575 577	ni
+T7	NegSynMarker 928 931	sin
+T8	DISO 932 953	pérdida de conciencia
+T9	NegSynMarker 1314 1316	no
+T10	Phrase 1317 1344	se objetiva sangrado activo
+T11	DISO 1329 1344	sangrado activo
+T12	NegSynMarker 1745 1747	no
+T13	Phrase 1748 1765	palpo adenopatías
+T14	DISO 1754 1765	adenopatías
+T15	NegSynMarker 1768 1770	no
+T16	DISO 1771 1773	IY
+T17	NegSynMarker 1931 1933	no
+T18	Phrase 1934 1951	palpo adenopatías
+T19	DISO 1940 1951	adenopatías
+T20	NegSynMarker 2065 2067	no
+T21	DISO 2068 2097	dolor a la palpación profunda
+T22	NegSynMarker 2100 2102	no
+T23	DISO 2103 2108	masas
+T24	Phrase 2103 2120	masas ni megalias
+T25	CoordItem 2109 2111	ni
+T26	DISO 2112 2120	megalias
+T27	NegSynMarker 2150 2152	no
+T28	Phrase 2153 2209	evidencio edema ni alteración de la estructura anatómica
+T29	DISO 2163 2168	edema
+T30	CoordItem 2169 2171	ni
+T31	DISO 2172 2209	alteración de la estructura anatómica
+T32	NegSynMarker 2560 2563	sin
+T33	DISO 2564 2599	condicionar estenosis significativa
+T34	NegSynMarker 2736 2739	sin
+T35	Phrase 2740 2765	demostrarse fistulización
+T36	DISO 2752 2765	fistulización
+T37	NegLexMarker 3048 3060	se desestima
+T38	PROC 3061 3068	cirugía
+T39	Phrase 3061 3121	cirugía en este momento por elevado riesgo de complicaciones
+T40	UncertLexMarker 3358 3371	sospechosa de
+T41	DISO 3372 3397	lesión lítica metastásica
+T42	UncertLexMarker 3657 3669	sugestivo de
+T43	DISO 3670 3727	corresponder a hematoma en diferentes estadios evolutivos
+T44	UncertLexMarker 3744 3747	sin
+T45	DISO 3748 3755	déficit
+T46	UncertLexMarker 3756 3764	aparente
+T47	NegSynMarker 3951 3954	sin
+T48	DISO 3955 3972	derrame articular
+T49	NegSynMarker 4058 4060	no
+T50	OTHER 4061 4097	se visualizaban en el estudio previo
+T51	NegSynMarker 4150 4153	sin
+T52	DISO 4154 4172	invasión del canal
+T53	UncertLexMarker 4251 4266	compatibles con
+T54	DISO 4267 4289	afectación metastásica
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T7 Arg2:T8
+R4	Scope Arg1:T9 Arg2:T10
+R5	Scope Arg1:T12 Arg2:T13
+R6	Scope Arg1:T15 Arg2:T16
+R7	Scope Arg1:T27 Arg2:T28
+R8	Scope Arg1:T22 Arg2:T24
+R9	Scope Arg1:T20 Arg2:T21
+R10	Scope Arg1:T17 Arg2:T18
+R11	Scope Arg1:T32 Arg2:T33
+R12	Scope Arg1:T34 Arg2:T35
+R13	Scope Arg1:T37 Arg2:T39
+R14	Scope Arg1:T40 Arg2:T41
+R15	Scope Arg1:T42 Arg2:T43
+R16	DiscMarker Arg1:T44 Arg2:T46
+R17	Scope Arg1:T46 Arg2:T45
+R18	Scope Arg1:T47 Arg2:T48
+R19	Scope Arg1:T49 Arg2:T50
+R20	Scope Arg1:T51 Arg2:T52
+R21	Scope Arg1:T53 Arg2:T54

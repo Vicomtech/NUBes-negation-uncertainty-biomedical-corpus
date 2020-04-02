@@ -1,0 +1,31 @@
+T1	SUBS 127 142	Furosemida oral
+T2	NegLexMarker 143 153	suspendida
+T3	SUBS 1101 1107	parche
+T4	NegLexMarker 1108 1118	suspendido
+T5	SUBS 2007 2015	Diazepam
+T6	NegLexMarker 2029 2037	suspende
+T7	NegSynMarker 2625 2627	no
+T8	Phrase 2628 2675	tumbarse en los 30 mintuos siguientes a la toma
+T9	NegSynMarker 2902 2904	no
+T10	Phrase 2905 2943	tumbarse en los 30 minutos posteriores
+T11	SUBS 3399 3408	Metamizol
+T12	NegLexMarker 3422 3430	suspende
+T13	NegSynMarker 4428 4430	no
+T14	Phrase 4431 4458	emplear más de 1 comprimido
+T15	OTHER 4439 4458	más de 1 comprimido
+T16	SUBS 4521 4542	Metoprolol/felodipino
+T17	NegLexMarker 4556 4564	suspende
+T18	NegLexMarker 4802 4811	suspender
+T19	PROC 4812 4831	todo el tratamiento
+T20	SUBS 5727 5743	Durogesic matric
+T21	NegLexMarker 5757 5765	suspende
+R1	Scope Arg1:T2 Arg2:T1
+R2	Scope Arg1:T4 Arg2:T3
+R3	Scope Arg1:T6 Arg2:T5
+R4	Scope Arg1:T7 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+R6	Scope Arg1:T12 Arg2:T11
+R7	Scope Arg1:T13 Arg2:T14
+R8	Scope Arg1:T17 Arg2:T16
+R9	Scope Arg1:T18 Arg2:T19
+R10	Scope Arg1:T21 Arg2:T20

@@ -1,0 +1,15 @@
+T1	NegSynMarker 97 99	No
+T2	Phrase 100 175	se objetivan masas ni ulceraciones a nivel de la vía aerodigestiva superior
+T3	DISO 113 118	masas
+T4	CoordItem 119 121	ni
+T5	DISO 122 134	ulceraciones
+T6	NegSynMarker 326 328	No
+T7	DISO 329 337	rinorrea
+T8	NegSynMarker 360 362	no
+T9	Phrase 363 393	se palpan masas ni adenopatías
+T10	DISO 373 378	masas
+T11	CoordItem 379 381	ni
+T12	DISO 382 393	adenopatías
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T6 Arg2:T7
+R3	Scope Arg1:T8 Arg2:T9

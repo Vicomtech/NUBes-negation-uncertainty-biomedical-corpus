@@ -1,0 +1,6 @@
+T1	NegSynMarker 238 240	No
+T2	PROC 241 267	se abre la cavidad uterina
+T3	NegSynMarker 289 292	sin
+T4	DISO 293 315	afectacion endometrial
+R1	Scope Arg1:T3 Arg2:T4
+R2	Scope Arg1:T1 Arg2:T2
