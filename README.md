@@ -318,5 +318,5 @@ If you have any question or suggestion, do not hesitate to contact us at the fol
 
 * Naiara Perez: nperez@vicomtech.org
 * Salvador Lima: slima@vicomtech.org
-* Montserrat Cuadros: mcuadros@vicomtech.org
+* Montse Cuadros: mcuadros@vicomtech.org
 * German Rigau: german.rigau@ehu.eus
