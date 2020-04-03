@@ -5,7 +5,7 @@ This repository contains the NUBes corpus and other related material.
 
 # Table of Contents
 
-1. [NUBes and IULA++](#nubes-and-iula)
+1. [NUBes and IULA+](#nubes-and-iula)
     * [Size and Composition](#size-and-composition)
     * [Data Protection](#data-protection)
     * [Related Publications](#related-publications)
@@ -18,19 +18,19 @@ This repository contains the NUBes corpus and other related material.
 1. [Contact](#contact)
 
 
-## NUBes and IULA++
+## NUBes and IULA+
 
 The NUBes corpus (from "Negation and Uncertainty annotations in Biomedical texts in Spanish") consists of sentences
 obtained from anonymised health records and annotated with negation and uncertainty phenomena. As far as we know, it is
 currently the largest publicly available corpus for negation in Spanish and the first that also incorporates the 
 annotation of speculation cues, scopes, and events.
 
-IULA++ is a new version of the IULA-SCRC corpus (accessible [here](http://eines.iula.upf.edu/brat/\#/NegationOnCR_IULA)).
+IULA+ is a new version of the IULA-SCRC corpus (accessible [here](http://eines.iula.upf.edu/brat/\#/NegationOnCR_IULA)).
 More specifically, it consists of the same texts but annotated with NUBes' guidelines.
 
 A couple of interesting remarks:
 * The annotation guidelines can be consulted [here](./NUBes-guias-de-anotacion.pdf) (in Spanish).
-* NUBes and IULA++ are distributed in [BRAT standoff format](https://brat.nlplab.org/standoff.html).
+* NUBes and IULA+ are distributed in [BRAT standoff format](https://brat.nlplab.org/standoff.html).
   
 ### Size and Composition
 
@@ -42,12 +42,12 @@ A couple of interesting remarks:
   belong. So, for instance, the file [`sample-001.traum.chico.txt`](./NUBes/SAMPLE-001/sample-001.traum.chico.txt)
   contains sentences of the specialty "traumatology" and the section "chief complaint".
    
-You can consult the sizes of NUBes and IULA++ in the following table:
+You can consult the sizes of NUBes and IULA+ in the following table:
 <table>
     <thead>
     <th></th>
     <th>NUBes</th>
-    <th>IULA++</th>
+    <th>IULA+</th>
     </thead>
     <tbody>
     <tr>
@@ -262,7 +262,7 @@ you should obtain perfect results (because you will be evaluating the gold label
 
 ## Citation
 
-If you use NUBes, IULA++ or any of the provided material in your publications, please cite us appropriately:
+If you use NUBes, IULA+ or any of the provided material in your publications, please cite us appropriately:
 
 ```bibtex
 @inproceedings{lima2020nubes,
@@ -287,7 +287,7 @@ Or, since the proceedings are not published at this time, you may cite us at arX
 }
 ```
 
-If you use IULA++, please cite also the paper describing the original corpus, IULA-SCRC:
+If you use IULA+, please cite also the paper describing the original corpus, IULA-SCRC:
 
 ```bibtex
 @inproceedings{marimon2017annotation,
@@ -302,7 +302,7 @@ If you use IULA++, please cite also the paper describing the original corpus, IU
 
 ## License
 
-The resources [NUBes](./NUBes), [IULA++](./IULA++), [NUBes experiment splits](./LREC2020/data) and [NUBes annotation
+The resources [NUBes](./NUBes), [IULA+](./IULA+), [NUBes experiment splits](./LREC2020/data) and [NUBes annotation
 guidelines](./NUBes-guias-de-anotacion.pdf) are licensed under the Creative Commons Attribution-ShareAlike 3.0 Spain 
 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/es/ or send a letter to 
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
