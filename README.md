@@ -140,7 +140,7 @@ samples.
 ### Related Publications
 
 To know more about NUBes, read our article "NUBes: A Corpus of Negation and Uncertainty in Spanish Clinical Texts"
-(to appear in LREC2020).
+(to appear in LREC2020; [arXiv](https://arxiv.org/abs/2004.01092)).
 
 To know more about IULA-SCRC, read the article "Annotation of negation in the IULA Spanish Clinical Record
 Corpus" by Montserrat Marimon, Jorge Vivaldi and Núria Bel ([here](https://www.aclweb.org/anthology/W17-1807.pdf)).
@@ -272,6 +272,18 @@ If you use NUBes, IULA++ or any of the provided material in your publications, p
   pages={TBA},
   year = {2020},
   publisher = {European Language Resources Association (ELRA)}
+}
+```
+
+Or, since the proceedings are not published at this time, you may cite us at arXiv:
+```bibtex
+@misc{lima2020nubes,
+  author={Salvador Lima and Naiara Perez and Montse Cuadros and German Rigau},
+  title="{NUBES: A Corpus of Negation and Uncertainty in Spanish Clinical Texts}",
+  year={2020},
+  eprint={2004.01092},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
 }
 ```
 
