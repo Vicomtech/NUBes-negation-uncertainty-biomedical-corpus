@@ -3,6 +3,8 @@
 
 This repository contains the NUBes corpus and other related material.
 
+**WARNING:** Please note that the repository contains [Git LFS](https://git-lfs.github.com/) files
+
 # Table of Contents
 
 1. [NUBes and IULA+](#nubes-and-iula)
