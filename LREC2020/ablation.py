@@ -20,7 +20,7 @@
 ########################################################################################################################
 """Generate data files for the ablation study
 
-The data splits distributed with this code —"data/train.bmes", "data/dev.bmes" and "data/test.bmes"— contain the
+The data splits distributed with this code —"data/train.bio", "data/dev.bio" and "data/test.bio"— contain the
 complete set of features used in the experiments reported in the NUBes paper. This script generates the files to
 perform the ablation study described in the paper.
 """
