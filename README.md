@@ -3,7 +3,9 @@
 
 This repository contains the NUBes corpus and other related material.
 
-**WARNING:** Please note that the repository contains [Git LFS](https://git-lfs.github.com/) files
+**WARNING:** Please note that the repository contains [Git LFS](https://git-lfs.github.com/) files. Alternatively,
+the "large" files (located at [`./LREC2020/data`](./LREC2020/data)) can be downloaded directly from 
+https://vicomtech.box.com/v/NUBes-LREC2020-data as a ZIP archive.
 
 # Table of Contents
 
@@ -161,6 +163,9 @@ Negation and Uncertainty in Spanish Clinical Texts" (to appear in LREC2020).
 Here you will find the dataset splits —train, development and test— used in the experiments. Specifically, the files 
 provided contain the full set of features described in the paper. Use the script [`ablation.py`](./LREC2020/ablation.py), 
 explained below, to obtain the files to conduct the ablation study.
+
+**WARNING:** Please note that this dataset is stored with [Git LFS](https://git-lfs.github.com/). If you have any
+problem cloning these files, you can download them from https://vicomtech.box.com/v/NUBes-LREC2020-data as a ZIP archive.
 
 #### [`ablation.py`](./LREC2020/ablation.py)
 
