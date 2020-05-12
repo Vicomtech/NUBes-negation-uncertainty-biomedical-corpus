@@ -3,9 +3,8 @@
 
 This repository contains the NUBes corpus and other related material.
 
-**WARNING:** Please note that the repository contains [Git LFS](https://git-lfs.github.com/) files. Alternatively,
-the "large" files (located at [`./LREC2020/data`](./LREC2020/data)) can be downloaded directly from 
-https://vicomtech.box.com/v/NUBes-LREC2020-data as a ZIP archive.
+**WARNING:** Please note that the repository contains [Git LFS](https://git-lfs.github.com/) files. If you have any
+problem cloning these files, please [get in touch](#contact) and we will provide alternative ways to obtain the data.
 
 # Table of Contents
 
@@ -165,7 +164,7 @@ provided contain the full set of features described in the paper. Use the script
 explained below, to obtain the files to conduct the ablation study.
 
 **WARNING:** Please note that this dataset is stored with [Git LFS](https://git-lfs.github.com/). If you have any
-problem cloning these files, you can download them from https://vicomtech.box.com/v/NUBes-LREC2020-data as a ZIP archive.
+problem cloning these files, please [get in touch](#contact) and we will provide alternative ways to obtain the data.
 
 #### [`ablation.py`](./LREC2020/ablation.py)
 
