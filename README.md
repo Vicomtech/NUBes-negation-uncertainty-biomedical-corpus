@@ -153,7 +153,7 @@ Please see Section [Citation](#citation) to learn how to cite these works.
 ## LREC2020
 
 This directory contains material and scripts related to the experiments section in the paper "NUBes: A Corpus of 
-Negation and Uncertainty in Spanish Clinical Texts" [[pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.708.pdf)].
+Negation and Uncertainty in Spanish Clinical Texts" (see above).
 
 ### Dataset
 
