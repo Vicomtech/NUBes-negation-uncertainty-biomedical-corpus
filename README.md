@@ -271,7 +271,7 @@ you should obtain perfect results (because you will be evaluating the gold label
 If you use NUBes, IULA+ or any of the provided material in your publications, please cite us appropriately:
 
 ```bibtex
-@InProceedings{limalopez-EtAl:2020:LREC1,
+@inproceedings{lima2020nubes,
   author      = {Salvador Lima Lopez and Naiara Perez and Montse Cuadros and German Rigau},
   title       = "{NUBes: A Corpus of Negation and Uncertainty in Spanish Clinical Texts}",
   booktitle   = {Proceedings of The 12th Language Resources and Evaluation Conference (LREC2020)},
