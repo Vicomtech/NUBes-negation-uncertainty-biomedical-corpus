@@ -143,10 +143,10 @@ samples.
 ### Related Publications
 
 To know more about NUBes, read our article "NUBes: A Corpus of Negation and Uncertainty in Spanish Clinical Texts"
-(to appear in LREC2020; [arXiv](https://arxiv.org/abs/2004.01092)).
+[[pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.708.pdf)].
 
 To know more about IULA-SCRC, read the article "Annotation of negation in the IULA Spanish Clinical Record
-Corpus" by Montserrat Marimon, Jorge Vivaldi and Núria Bel ([here](https://www.aclweb.org/anthology/W17-1807.pdf)).
+Corpus" by Montserrat Marimon, Jorge Vivaldi and Núria Bel [[pdf](https://www.aclweb.org/anthology/W17-1807.pdf)].
 
 Please see Section [Citation](#citation) to learn how to cite these works.
 
@@ -271,38 +271,31 @@ you should obtain perfect results (because you will be evaluating the gold label
 If you use NUBes, IULA+ or any of the provided material in your publications, please cite us appropriately:
 
 ```bibtex
-@inproceedings{lima2020nubes,
-  author = {Salvador Lima and Naiara Perez and Montse Cuadros and German Rigau},
-  title = "{NUBes: A Corpus of Negation and Uncertainty in Spanish Clinical Texts}",
-  booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)},
-  pages={TBA},
-  year = {2020},
-  publisher = {European Language Resources Association (ELRA)}
+@InProceedings{limalopez-EtAl:2020:LREC1,
+  author      = {Salvador Lima Lopez and Naiara Perez and Montse Cuadros and German Rigau},
+  title       = "{NUBes: A Corpus of Negation and Uncertainty in Spanish Clinical Texts}",
+  booktitle   = {Proceedings of The 12th Language Resources and Evaluation Conference (LREC2020)},
+  month       = {May},
+  year        = {2020},
+  address     = {Marseille, France},
+  publisher   = {European Language Resources Association},
+  pages       = {5772--5781}
 }
-```
 
-Or, since the proceedings are not published at this time, you may cite us at arXiv:
-```bibtex
-@misc{lima2020nubes,
-  author={Salvador Lima and Naiara Perez and Montse Cuadros and German Rigau},
-  title="{NUBES: A Corpus of Negation and Uncertainty in Spanish Clinical Texts}",
-  year={2020},
-  eprint={2004.01092},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
-}
 ```
 
 If you use IULA+, please cite also the paper describing the original corpus, IULA-SCRC:
 
 ```bibtex
 @inproceedings{marimon2017annotation,
-  author={Montserrat Marimon and Jorge Vivaldi and N{\'u}ria Bel Rafecas},
-  title="{​Annotation of negation in the IULA Spanish Clinical Record Corpus}",
-  booktitle={Proceedings of the Workshop Computational Semantics Beyond Events and Roles (SemBEaR)},
-  pages={43--52},
-  year={2017},
-  publisher={Association for Computational Linguistics (ACL)}
+  author      = {Montserrat Marimon and Jorge Vivaldi and N{\'u}ria Bel Rafecas},
+  title       = "{Annotation of negation in the IULA Spanish Clinical Record Corpus}",
+  booktitle   = {Proceedings of the Workshop Computational Semantics Beyond Events and Roles (SemBEaR)},
+  month       = {Apr},
+  year        = {2017},
+  address     = {Valencia, Spain},
+  publisher   = {Association for Computational Linguistics},
+  pages       = {43--52}
 }
 ```
 
