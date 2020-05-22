@@ -153,7 +153,7 @@ Please see Section [Citation](#citation) to learn how to cite these works.
 ## LREC2020
 
 This directory contains material and scripts related to the experiments section in the paper "NUBes: A Corpus of 
-Negation and Uncertainty in Spanish Clinical Texts" (to appear in LREC2020).
+Negation and Uncertainty in Spanish Clinical Texts" [[pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.708.pdf)].
 
 ### Dataset
 
@@ -207,7 +207,7 @@ python3 ablation.py
 
 This is the NCRF++ configuration file we used for training the models described in the paper. This configuration file
 specifies the neural network's architecture and hyperparamters. Read about how to install NCRF++ and how to train models
-and use them from prediction at https://github.com/jiesutd/NCRFpp.
+and use them for decoding at https://github.com/jiesutd/NCRFpp.
 
 **NOTE**: you must change the I/O section in the file so that
 1. it points to your dataset files (parameters `train_dir`, `dev_dir` and `test_dir`)
